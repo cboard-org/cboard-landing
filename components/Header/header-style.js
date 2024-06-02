@@ -112,7 +112,7 @@ const headerStyles = makeStyles({ uniqId: 'header' })((theme, _params, classes) 
     '& a': {
       textDecoration: 'none',
       display: 'block',
-      fontSize: 16,
+      fontSize: 10,
       color: theme.palette.mode === 'dark' ? theme.palette.text.primary : theme.palette.primary.main,
       alignItems: 'center',
       transition: 'color 0.5s ease-out',
@@ -124,11 +124,11 @@ const headerStyles = makeStyles({ uniqId: 'header' })((theme, _params, classes) 
       margin: '0 auto',
       transition: 'all 0.3s ease-out',
       marginBottom: theme.spacing(),
-      height: 48,
+      height: 34,
       width: 216,
       [theme.breakpoints.up('sm')]: {
         width: 216,
-        height: 48,
+        height: 40
       }
     }
   },

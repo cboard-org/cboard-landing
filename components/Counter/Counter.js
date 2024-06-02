@@ -15,9 +15,12 @@ function Counter() {
 
   const [play, setPlay] = useState(false);
 
-  const countup = (val, isPlay) => (
+  const countup = (val, isPlay, dec = 0) => (
     <span>
-      {isPlay ? <CountUp end={val} /> : 0}
+      {isPlay ? <CountUp
+        end={val}
+        decimals={dec}
+        decimal="." /> : 0}
     </span>
   );
 
@@ -43,8 +46,8 @@ function Counter() {
                 <div className={classes.text}>
                   <Typography variant="h3" className={text.title}>
                     +
-                    {countup(200, play)}
-                    M
+                    {countup(35, play)}
+                    K
                   </Typography>
                   <Typography component="p" className={text.subtitle}>
                     <i className="ion-ios-cloud-download-outline" />
@@ -58,12 +61,11 @@ function Counter() {
                 <div className={classes.text}>
                   <Typography variant="h3" className={text.title}>
                     +
-                    {countup(480, play)}
-                    M
+                    {countup(4.3, play, 1)}
                   </Typography>
                   <Typography component="p" className={text.subtitle}>
-                    <i className="ion-ios-checkmark-circle-outline" />
-                    {t('mobile-landing.counter_transaction')}
+                    <i className="ion-ios-star-outline" />
+                    {t('mobile-landing.counter_ratting')}
                   </Typography>
                 </div>
               </div>
@@ -73,12 +75,12 @@ function Counter() {
                 <div className={classes.text}>
                   <Typography variant="h3" className={text.title}>
                     +
-                    {countup(180, play)}
-                    M
+                    {countup(480, play)}
+                    K
                   </Typography>
                   <Typography component="p" className={text.subtitle}>
-                    <i className="ion-ios-star-outline" />
-                    {t('mobile-landing.counter_ratting')}
+                    <i className="ion-ios-checkmark-circle-outline" />
+                    {t('mobile-landing.counter_transaction')}
                   </Typography>
                 </div>
               </div>

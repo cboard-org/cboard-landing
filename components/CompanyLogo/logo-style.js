@@ -19,8 +19,8 @@ const useStyles = makeStyles({ uniqId: 'logo' })(theme => ({
       justifyContent: 'flex-start',
     },
     '& img': {
-      height: 64,
-      margin: theme.spacing(4),
+      height: 44,
+      margin: theme.spacing(2),
       filter: 'grayscale(1) contrast(0.5) brightness(1.5)',
       opacity: theme.palette.mode === 'dark' ? 0.5 : 1,
       transition: 'all 0.3s ease-out',

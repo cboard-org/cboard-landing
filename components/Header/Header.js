@@ -9,7 +9,7 @@ import { useTheme } from '@mui/material/styles';
 import AnchorLink from 'react-anchor-link-smooth-scroll';
 import { useTranslation } from 'next-i18next';
 import Scrollspy from 'react-scrollspy';
-import logo from 'public/images/mobile-logo.png';
+import logo from 'public/images/mobile-logo.svg';
 import brand from 'public/text/brand';
 import linkRouter from 'public/text/link';
 import Link from '../Link';
@@ -145,7 +145,7 @@ function Header(props) {
               {!invert && !isMobile && (
                 <Fragment>
                   <IconButton aria-label="facebook" className={classes.socialBtn} size="small">
-                    <i className="ion-logo-twitter" />
+                    <i  className="ion-logo-twitter" />
                   </IconButton>
                   <IconButton aria-label="twitter" className={classes.socialBtn} size="small">
                     <i className="ion-logo-facebook" />

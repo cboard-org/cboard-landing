@@ -7,7 +7,7 @@ module.exports = {
     logoText: 'Luxiren Mobile',
     projectName: 'Mobile',
     url: 'luxireact.ux-maestro.com/mobile',
-    img: '/static/images/mobile-logo.png',
+    img: '/static/images/mobile-logo.svg',
     notifMsg: 'Donec sit amet nulla sed arcu pulvinar ultricies commodo id ligula.'
   }
 };
