@@ -1,7 +1,7 @@
 {
-	"name": "mobile-apps-theme",
-	"version": "2.4.0",
-	"description": "Luxi ReactJs Mobile Apss Theme",
+	"name": "cboard-landing",
+	"version": "0.0.1",
+	"description": "Landing Page for the Cboard project",
 	"keywords": [
 		"mobile",
 		"apps",
@@ -9,8 +9,8 @@
 		"software",
 		"apps"
 	],
-	"author": "Luxi Theme",
-	"license": "Envato",
+	"author": "Martin Bedouret",
+	"license": "GPL-3.0-only",
 	"main": "index.js",
 	"private": true,
 	"scripts": {

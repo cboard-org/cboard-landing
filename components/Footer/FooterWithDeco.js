@@ -24,12 +24,21 @@ function FooterWithDeco(props) {
           {t('mobile-landing.footer_text')}
         </Typography>
         <div className={classes.btnArea}>
-          <Link href="/">
-            <img src="/images/mobile/app-store.png" alt="app store" />
-          </Link>
-          <Link href="/">
-            <img src="/images/mobile/play-store.png" alt="play store" />
-          </Link>
+                  <Link href="/">
+                    <img src="/images/mobile/web-access.svg" alt="web app" />
+                  </Link>
+                  <Link href="/">
+                    <img src="/images/mobile/app-store.png" alt="app store" />
+                  </Link>
+                  <Link href="/">
+                    <img src="/images/mobile/play-store.png" alt="play store" />
+                  </Link>
+                  <Link href="/">
+                    <img src="/images/mobile/ms-store.png" alt="microsoft store" />
+                  </Link>
+                  <Link href="/">
+                    <img src="/images/mobile/amazon-store.png" alt="amazon store" />
+                  </Link>
         </div>
       </div>
       <Footer toggleDir={toggleDir} />

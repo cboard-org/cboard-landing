@@ -75,7 +75,7 @@ function Header(props) {
 
   return (
     <Fragment>
-      { isTablet && (<MobileMenu open={openDrawer} toggleDrawer={handleOpenDrawer} />) }
+      {isTablet && (<MobileMenu open={openDrawer} toggleDrawer={handleOpenDrawer} />)}
       <AppBar
         component="header"
         position="relative"
@@ -89,7 +89,7 @@ function Header(props) {
         <Container fixed={isDesktop}>
           <div className={classes.headerContent}>
             <nav className={cx(classes.navMenu, invert && classes.invert)}>
-              { isTablet && (
+              {isTablet && (
                 <IconButton
                   onClick={handleOpenDrawer}
                   className={cx('hamburger hamburger--spin', classes.mobileMenu, openDrawer && 'is-active')}
@@ -144,16 +144,25 @@ function Header(props) {
             <nav className={classes.navMenu}>
               {!invert && !isMobile && (
                 <Fragment>
-                  <IconButton aria-label="facebook" className={classes.socialBtn} size="small">
-                    <i  className="ion-logo-twitter" />
-                  </IconButton>
-                  <IconButton aria-label="twitter" className={classes.socialBtn} size="small">
+                  <IconButton
+                    component={Link} href="https://www.facebook.com/cboardAAC"
+                    aria-label="facebook"
+                    className={classes.socialBtn}
+                    size="small">
                     <i className="ion-logo-facebook" />
                   </IconButton>
-                  <IconButton aria-label="instagram" className={classes.socialBtn} size="small">
+                  <IconButton
+                    component={Link} href="https://www.instagram.com/cboardapp/"
+                    aria-label="instagram"
+                    className={classes.socialBtn}
+                    size="small">
                     <i className="ion-logo-instagram" />
                   </IconButton>
-                  <IconButton aria-label="linkedin" className={classes.socialBtn} size="small">
+                  <IconButton
+                    component={Link} href="https://www.linkedin.com/company/cboard/"
+                    aria-label="linkedin"
+                    className={classes.socialBtn}
+                    size="small">
                     <i className="ion-logo-linkedin" />
                   </IconButton>
                 </Fragment>

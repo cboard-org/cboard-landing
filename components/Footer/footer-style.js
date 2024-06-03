@@ -264,6 +264,7 @@ const footerStyles = makeStyles({ uniqId: 'footer' })((theme, _params, classes) 
     justifyContent: 'center',
     position: 'relative',
     display: 'flex',
+    flexWrap: 'wrap',
     [theme.breakpoints.down('sm')]: {
       justifyContent: 'space-around'
     },
