@@ -12,7 +12,7 @@ import Snackbar from '@mui/material/Snackbar';
 import { ValidatorForm, TextValidator } from 'react-material-ui-form-validator';
 import { useTranslation } from 'next-i18next';
 import brand from 'public/text/brand';
-import logo from 'public/images/mobile-logo.svg';
+import logo from 'public/images/cboard-logo.svg';
 import linkRouter from 'public/text/link';
 import Link from '../Link';
 import Checkbox from './Checkbox';

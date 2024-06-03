@@ -1,13 +1,13 @@
 module.exports = {
   mobile: {
-    name: 'Mobile Apps',
-    desc: 'Luxiren Mobile Apps - React Single Landing Page Template',
-    prefix: 'luxiren',
-    footerText: 'Luxiren Theme 2021',
-    logoText: 'Luxiren Mobile',
-    projectName: 'Mobile',
-    url: 'luxireact.ux-maestro.com/mobile',
-    img: '/static/images/mobile-logo.svg',
-    notifMsg: 'Donec sit amet nulla sed arcu pulvinar ultricies commodo id ligula.'
+    name: 'Cboard AAC',
+    desc: 'Cboard AAC - Communication for Everyone',
+    prefix: 'cboard',
+    footerText: 'Assistive Communication LLC 2024',
+    logoText: 'Cboard AAC',
+    projectName: 'Cboard',
+    url: 'cboard.io',
+    img: '/static/images/cboard-logo.svg',
+    notifMsg: 'Cboard is an AAC web app for children and adults with speech and language impairments, aiding communication with symbols and text-to-speech.'
   }
 };

@@ -12,7 +12,7 @@ import Typography from '@mui/material/Typography';
 import Link from '@mui/material/Link';
 import IconButton from '@mui/material/IconButton';
 import brand from 'public/text/brand';
-import logo from 'public/images/mobile-logo.svg';
+import logo from 'public/images/cboard-logo.svg';
 import useStyles from './footer-style';
 import SelectLang from '../LangSwitch/Select';
 
