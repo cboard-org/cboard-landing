@@ -7,13 +7,15 @@ const imgAPI = {
     '/images/avatars/mary.jpg',
     '/images/avatars/brooke.jpg',
     '/images/avatars/nancy.jpg',
-    '/images/avatars/pp_boy2.svg',
-    '/images/avatars/pp_boy3.svg',
+    '/images/avatars/justin.jpeg',
+    '/images/avatars/ophelia.jpeg',
     '/images/avatars/pp_boy4.svg',
     '/images/avatars/pp_boy5.svg'
   ],
   photo: [
-    'https://via.placeholder.com/675x900/e1ad92/ffffff',
+    '/images/mobile/pilot-timor.jpg',
+    '/images/mobile/phrase-improvement.png',
+    '/images/mobile/microsoft-banner.jpg',
     'https://via.placeholder.com/967x725/ea6d6d/ffffff',
     'https://via.placeholder.com/1280x849/ea6db7/ffffff',
     'https://via.placeholder.com/967x725/bb6dea/ffffff',

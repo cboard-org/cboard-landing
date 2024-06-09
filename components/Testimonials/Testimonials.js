@@ -53,16 +53,15 @@ const testiContent = [
     title: 'Speech Language Pathologist',
   },
   {
-    text: 'Vivamus sit amet interdum elit. Proin lacinia erat ac velit tempus auctor. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam nec ex aliquet, aliquam neque non.',
-    avatar: imgAPI.avatar[9],
-    name: 'John Doe',
-    title: 'Chief Digital Officer',
+    text: `I love this application. it's quite easy. and very useful to children and young adults with disabilities. I need this communication device because I have moderate to severe autism and I'm dating a girl named Chandler and she knows that I have four disabilities. I'm nonverbal.`,
+    avatar: imgAPI.avatar[7],
+    name: 'Guccigang Taylor Justin',
+    title: 'Person with autism',
   },
   {
-    text: 'Cras convallis lacus orci, tristique tincidunt magna consequat in. In vel pulvinar est, at euismod libero.',
+    text: `Clear layout and user friendly, perfect for partially or nonverbal episodes.`,
     avatar: imgAPI.avatar[8],
-    name: 'Jean Doe',
-    title: 'Chief Digital Officer',
+    name: 'Starling-Ophelia Rose'
   },
 ];
 

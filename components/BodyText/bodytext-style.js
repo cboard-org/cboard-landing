@@ -12,7 +12,7 @@ const decoStyle = {
   right: 40,
 };
 
-const featureStyles = makeStyles({ uniqId: 'feature' })((theme, _params, classes) => ({
+const bodytextStyles = makeStyles({ uniqId: 'feature' })((theme, _params, classes) => ({
   root: {},
   decoPrimary: {
     fill: theme.palette.mode === 'dark' ? theme.palette.primary.dark : theme.palette.primary.light,
@@ -209,4 +209,4 @@ const featureStyles = makeStyles({ uniqId: 'feature' })((theme, _params, classes
 }));
 
 // TODO jss-to-tss-react codemod: usages of this hook outside of this file will not be converted.
-export default featureStyles;
+export default bodytextStyles;

@@ -38,23 +38,23 @@ function NewsEvent() {
             <Grid item md={6}>
               <NewsCard
                 type="potrait"
-                img={imgAPI.photo[11]}
+                img={imgAPI.photo[2]}
                 caption="headline"
-                text="Sed imperdiet enim ligula, vitae viverra justo."
+                text="Revolutionizing Communication: Cboard Receives Microsoft AI for Accessibility Grant."
               />
             </Grid>
             <Grid item md={6}>
               <NewsCard
                 type={isMobile ? 'potrait' : 'landscape'}
-                img={imgAPI.photo[1]}
+                img={imgAPI.photo[0]}
                 caption="news"
-                text="Sed imperdiet enim ligula, vitae viverra justo."
+                text="Cboard pilot results - Timor Leste."
               />
               <NewsCard
                 type="landscape"
-                img={imgAPI.photo[2]}
+                img={imgAPI.photo[1]}
                 caption="news"
-                text="Sed imperdiet enim ligula, vitae viverra justo."
+                text="Cboard Breakthrough: Enhancing AAC Communication with AI-Powered Sentence Creation."
               />
             </Grid>
           </Grid>

@@ -165,6 +165,13 @@ function Header(props) {
                     size="small">
                     <i className="ion-logo-linkedin" />
                   </IconButton>
+                  <IconButton
+                    component={Link} href="https://www.youtube.com/channel/UCIdXJsQko7DVK-yApMQyV_Q"
+                    aria-label="youtube"
+                    className={classes.socialBtn}
+                    size="small">
+                    <i className="ion-logo-youtube" />
+                  </IconButton>
                 </Fragment>
               )}
               <Settings toggleDark={onToggleDark} toggleDir={onToggleDir} invert={invert} />
