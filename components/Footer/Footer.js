@@ -33,12 +33,12 @@ const footers = [
   },
   {
     title: 'Resources',
-    description: ['Resource', 'Resource name', 'Another resource', 'Final resource'],
+    description: ['Help', 'FAQ', 'Blog'],
     link: ['#resource', '#resource-name', '#another-resource', '#final-resource'],
   },
   {
     title: 'Legal',
-    description: ['Privacy policy', 'Terms of use', 'Terms Condition'],
+    description: ['Privacy policy', 'Terms of use'],
     link: ['/privacy', '/terms-of-use'],
   },
 ];

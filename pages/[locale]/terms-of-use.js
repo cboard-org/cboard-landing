@@ -10,14 +10,7 @@ import CssBaseline from '@mui/material/CssBaseline';
 import { getStaticPaths, makeStaticProps } from 'lib/getStatic';
 import brand from 'public/text/brand';
 import MainContainer from 'components/MainContainer';
-import Banner from 'components/Banner';
-import Counter from 'components/Counter';
-import Feature from 'components/Feature';
-import Showcase from 'components/Showcase';
-import Testimonials from 'components/Testimonials';
-import Faq from 'components/Faq';
-import CompanyLogo from 'components/CompanyLogo';
-import NewsEvent from 'components/NewsEvent';
+import BodyText from 'components/BodyText';
 import PageNav from 'components/PageNav';
 import Notification from 'components/Notification';
 
@@ -76,7 +69,7 @@ function Landing(props) {
     <Fragment>
       <Head>
         <title>
-          { brand.mobile.name + ' - Home Page' }
+          { brand.mobile.name + ' - Terms of Use' }
         </title>
       </Head>
       <CssBaseline />
@@ -87,8 +80,8 @@ function Landing(props) {
       >
         <Fragment>
           <main className={classes.containerWrap}>
-            <section id="counter">
-              <Counter />
+            <section id="bodytext">
+              <BodyText filePath={'/locales/en/terms-of-use.md'} />
             </section>
           </main>
           {!isTablet && (

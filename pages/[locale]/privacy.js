@@ -81,7 +81,7 @@ function Landing(props) {
         <Fragment>
           <main className={classes.containerWrap}>
             <section id="bodytext">
-              <BodyText />
+              <BodyText filePath={'/locales/en/privacy.md'} />
             </section>
           </main>
           {!isTablet && (
