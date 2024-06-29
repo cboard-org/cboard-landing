@@ -8,8 +8,6 @@ import Grid from '@mui/material/Grid';
 import useStyles from './bodytext-style';
 import { useText } from 'theme/common';
 
-//import { MarkdownComponents } from '../libs/helpers'
-
 function BodyText(props) {
   const { classes, cx } = useStyles();
   const { classes: text } = useText();

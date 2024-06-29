@@ -76,7 +76,7 @@ function Landing(props) {
     <Fragment>
       <Head>
         <title>
-          { brand.mobile.name + ' - Home Page' }
+          { brand.mobile.name + ' | Home Page' }
         </title>
       </Head>
       <CssBaseline />

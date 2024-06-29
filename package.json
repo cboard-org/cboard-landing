@@ -28,6 +28,7 @@
 		"@emotion/styled": "^11.10.5",
 		"@mui/icons-material": "^5.10.16",
 		"@mui/material": "^5.10.17",
+		"@wisp-cms/client": "^0.0.7",
 		"animate.css": "^3.7.2",
 		"babel-plugin-root-import": "^6.4.1",
 		"cross-env": "^7.0.3",

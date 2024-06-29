@@ -60,7 +60,7 @@ const useStyles = makeStyles({ uniqId: 'home' })(theme => ({
   }
 }));
 
-function Landing(props) {
+function Privacy(props) {
   const { classes } = useStyles();
   const { onToggleDark, onToggleDir } = props;
   const isTablet = useMediaQuery(theme => theme.breakpoints.down('lg'));
@@ -69,7 +69,7 @@ function Landing(props) {
     <Fragment>
       <Head>
         <title>
-          { brand.mobile.name + ' - Home Page' }
+          { brand.mobile.name + ' | Privacy' }
         </title>
       </Head>
       <CssBaseline />
@@ -96,7 +96,7 @@ function Landing(props) {
   );
 }
 
-Landing.propTypes = {
+Privacy.propTypes = {
   onToggleDark: PropTypes.func.isRequired,
   onToggleDir: PropTypes.func.isRequired,
 };
@@ -108,4 +108,4 @@ Landing.propTypes = {
 const getStaticProps = makeStaticProps(['common']);
 export { getStaticPaths, getStaticProps };
 
-export default Landing;
+export default Privacy;
