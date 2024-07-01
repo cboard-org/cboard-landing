@@ -6,7 +6,7 @@ categories:
   - cboard
   - unicef
   - montenegro
-image: /images/montenegro-2021.jpg
+image: /images/montenegro-2021.png
 author_staff_member: martin
 ---
 Podgorica, 1 December 2021 – Seid is a cheerful, calm six-year-old who goes to kindergarten and likes to listen to music. He was born with a speech impairment. Since he started using [Cboard](https://www.cboard.io/) application, he has been able to communicate using symbols, and this lets his parents and three siblings understand more easily, how he is feeling and what he wants.

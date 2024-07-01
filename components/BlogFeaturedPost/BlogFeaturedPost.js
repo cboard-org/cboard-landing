@@ -22,13 +22,13 @@ export default function BlogFeaturedPost(props) {
           <div className={classes.cardDetails}>
             <CardContent>
               <Typography component="h2" variant="h5">
-                {post.title}
+                {post.metadata.title}
               </Typography>
               <Typography variant="subtitle1" color="textSecondary">
-                {post.date}
+                {post.metadata.date.toDateString()}
               </Typography>
               <Typography variant="subtitle1" paragraph>
-                {post.description}
+                {post.metadata.description}
               </Typography>
               <Typography variant="subtitle1" color="primary">
                 Continue reading...
@@ -36,7 +36,7 @@ export default function BlogFeaturedPost(props) {
             </CardContent>
           </div>
           <Hidden xsDown>
-            <CardMedia className={classes.cardMedia} image={post.image} title={post.imageTitle} />
+            <CardMedia className={classes.cardMedia} image={post.metadata.image} title={post.metadata.title} />
           </Hidden>
         </Card>
       </CardActionArea>
