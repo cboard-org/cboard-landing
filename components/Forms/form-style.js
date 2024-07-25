@@ -33,6 +33,7 @@ const contactStyles = makeStyles({ uniqId: 'form' })((theme, _params, classes) =
     }
   },
   background: {
+    zIndex: 0,
     position: 'absolute',
     height: 700,
     top: -30,
@@ -93,13 +94,16 @@ const contactStyles = makeStyles({ uniqId: 'form' })((theme, _params, classes) =
   },
   innerWrap: {
     textAlign: 'left',
+    zIndex: 1
   },
   fullFromWrap: {
+    zIndex: 1,
     [theme.breakpoints.up('sm')]: {
       padding: theme.spacing(9, 0)
     }
   },
   formBox: {
+    zIndex: 1,
     borderRadius: 40,
     overflow: 'hidden',
     background: 'transparent',
@@ -109,6 +113,7 @@ const contactStyles = makeStyles({ uniqId: 'form' })((theme, _params, classes) =
     }
   },
   desc: {
+    zIndex: 1,
     fontSize: 20,
     textAlign: 'center',
     color: theme.palette.text.secondary,

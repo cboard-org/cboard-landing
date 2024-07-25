@@ -6,9 +6,9 @@
   "404_subtitle": "Anda bisa tinggal dan bersantai di sini, atau kembali ke awal.",
   "back": "Kembali ke Beranda",
   "error_without_status": "Terjadi kesalahan di server",
-  "contact_title": "Kutipan Proyek Gratis",
+  "contact_title": "Contact Us",
   "contact_title2": "Katakan Halo kepada Kami",
-  "contact_subtitle": "Apakah Anda memiliki pertanyaan? Apakah Anda siap untuk mengurangi biaya dan menciptakan pendapatan baru? Atau Anda hanya ingin menyapa? Kirimkan pesan kepada kami.",
+  "contact_subtitle": "Do you have any questions? Or you simply want to say hi? Drop us a message.",
   "form_name": "Siapa namamu? *",
   "form_email": "Apa itu email Anda? *",
   "form_phone": "Berapa nomor telepon Anda?",
@@ -24,7 +24,7 @@
   "pt": "Português",
   "id": "Bahasa Indonesia",
   "ar": "󠁥󠁮󠁧󠁿العربيّة",
-  "notif_msg": "Ini adalah contoh pesan yang biasa digunakan untuk informasi penting bagi pengunjung atau pengguna. Silakan klik tombol di samping untuk menutup pesan ini.",
+  "notif_msg": "We use cookies to make our site work. With your consent, we use cookies to improve user experience and analyze website traffic. By clicking “Accept”, you agree to our website's use of cookies.",
   "mobile-landing": {
     "header_language": "Bahasa",
     "header_theme": "Mode tema",
@@ -56,6 +56,38 @@
     "company_title": "Dipercaya oleh organisasi di seluruh dunia",
     "news_title": "Berita Terbaru",
     "news_desc": "Baca lebih lanjut tentang berita terbaru dan acara serta lokakarya kami",
-    "footer_text": "Tunggu apalagi? Unduh Sekarang!"
+    "footer_text": "Tunggu apalagi? Unduh Sekarang!",
+    "faqs": {
+      "faq1": "What is Cboard?",
+      "answer1": "Cboard is a free web application for children and adults with speech and language impairments, facilitating communication with pictures and text-to-speech. ",
+      "faq2": "Can I register myself using my social media accounts?",
+      "answer2": "Yes! On the login page, you will be given the option to sign up with your Google, Apple, or Facebook account if you wish to do so. You can also register with an e-mail address.",
+      "faq3": "What is the difference between a registered and a non-registered user?",
+      "answer3": "A registered user is able to personalize their boards, and the changes made will be saved to their account so that when they log back in, they can use their customized boards. A non-registered user won’t be able to save changes safely. We recommend registering just in case, so your changes are guaranteed to be saved.",
+      "faq4": "Which languages are supported by Cboard?",
+      "answer4": "Cboard comes with support for 46 languages. To select a different language go to SETTINGS – select LANGUAGE and those available will appear. Make a choice and a ‘tick’ will appear beside the language.",
+      "faq5": "How do I print my board set in Cboard?",
+      "answer5": "To print your board, press the printer logo on the left hand side of the black HOME bar, after having unlocked the HOME page. An Adobe Portable Document (.pdf) will be downloaded to your technology."
+    },
+    "testimonials": {
+      "text1": "I love that your app has a free dark mode. Others I have tried using for my autistic partner said we would have to pay to have dark mode, and they are photo-sensitive. Thank you for not exploiting the disabled!.",
+      "title1": "Partner of autistic person",
+      "text2": "I think this app is great! I tried to find other AAC apps, and there was not many like this one. In most AAC apps, they do not support typing. Also, they don't have an option to use children's voices. Good job for making a unique AAC app that works perfectly, at least for me!.",
+      "title2": "Mother of austistic child",
+      "text3": "Great for adults with HFA who sometimes have non-verbal episodes, lose their voice briefly because of allergies or a sore throat, and to explain important things in pictures. I also love that you can type alongside the pictures. This app is fun and very easy to use, and is a real lifesaver in a medical situation.",
+      "title3": "",
+      "text4": "It makes several necessary arrangements to be able to adapt to the model you want. I really liked the smart touch and settings. It's still free, with voice and constantly updated.",
+      "title4": "Dentist & Dental Office",
+      "text5": "Very useful for a free aac app. The icon library is extensive and its very easy to edit! It can be a bit slow especially when editing but its upside is the typing option which Im looking for in other applications like Symbotalk or Letmetalk.",
+      "title5": "Speech Language Pathologist",
+      "text6": "DOWNLOAD IT NOW!!! I have gone through so many app trying to find the right one for my disabled chiLd and this is IT!!!!! I can lock the screen, upload my own images, and even use my own voice?!? YES YES YES!!",
+      "title6": "Senior Graphic Designer",
+      "text7": "Fantastic app. It has every feature you would need for a robust aac system with voicing, customization, and a wide selection of symbols.",
+      "title7": "Speech Language Pathologist",
+      "text8": "I love this application. it's quite easy. and very useful to children and young adults with disabilities. I need this communication device because I have moderate to severe autism and I'm dating a girl named Chandler and she knows that I have four disabilities. I'm nonverbal.",
+      "title8": "Person with autism",
+      "text9": "Clear layout and user friendly, perfect for partially or nonverbal episodes.",
+      "title9": ""
+    }
   }
 }

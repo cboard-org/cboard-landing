@@ -6,9 +6,9 @@
   "404_subtitle": "Usted puede quedarse y refrescarse aquí, o volver al principio.",
   "back": "volver a casa",
   "error_without_status": "Se ha producido un error en el servidor",
-  "contact_title": "Presupuesto de proyecto gratuito",
+  "contact_title": "Contáctenos",
   "contact_title2": "Di Hola a nosotros",
-  "contact_subtitle": "¿Tienes alguna pregunta? ¿Estás listo para reducir costes y crear nuevos ingresos? ¿O simplemente quieres decirte hola? Danos un mensaje.",
+  "contact_subtitle": "¿Tienes alguna pregunta? ¿O simplemente quieres decir hola? Envíanos un mensaje.",
   "form_name": "¿Cuál es tu nombre? *",
   "form_email": "¿Qué es tu correo electrónico? *",
   "form_phone": "¿Cuál es tu número de teléfono?",
@@ -24,7 +24,7 @@
   "pt": "Português",
   "id": "Bahasa Indonesia",
   "ar": "󠁥󠁮󠁧󠁿العربيّة",
-  "notif_msg": "Este es un ejemplo de un mensaje que se utiliza comúnmente para información importante a los visitantes o usuarios. Por favor, haga clic en el botón al lado para cerrar este mensaje.",
+  "notif_msg": "Utilizamos cookies para que nuestro sitio funcione. Con su consentimiento, utilizamos cookies para mejorar la experiencia del usuario y analizar el tráfico de sitios web. Al hacer clic en \"Aceptar\", usted acepta el uso de cookies por parte de nuestro sitio web.",
   "mobile-landing": {
     "header_language": "idioma",
     "header_theme": "Modo de tema",
@@ -56,6 +56,38 @@
     "company_title": "Confiado por organizaciones de todo el mundo",
     "news_title": "Noticias más recientes",
     "news_desc": "Lee más sobre las últimas noticias y nuestros eventos y talleres",
-    "footer_text": "¿A qué estás esperando? ¡Descarga ahora!"
+    "footer_text": "¿A qué estás esperando? ¡Descarga ahora!",
+    "faqs": {
+      "faq1": "¿Qué es la tarjeta?",
+      "answer1": "Cboard es una aplicación web gratuita para niños y adultos con discapacidades en el habla y el idioma, facilitando la comunicación con imágenes y texto a habla. ",
+      "faq2": "¿Puedo registrarme usando mis cuentas de redes sociales?",
+      "answer2": "¡Sí! En la página de inicio de sesión, se te dará la opción de registrarte con tu Google, Apple, o cuenta de Facebook si lo desea. También puede registrarse con una dirección de correo electrónico.",
+      "faq3": "¿Cuál es la diferencia entre un usuario registrado y no registrado?",
+      "answer3": "Un usuario registrado puede personalizar sus tableros, y los cambios realizados se guardarán en su cuenta para que cuando se conecten, puedan utilizar sus tableros personalizados. Un usuario no registrado no podrá guardar los cambios de forma segura. Recomendamos registrarse por si acaso, así que sus cambios están garantizados para ser guardados.",
+      "faq4": "¿Qué idiomas son soportados por la tarjeta?",
+      "answer4": "El tablero viene con soporte para 46 idiomas. Para seleccionar un idioma diferente, vaya a SETTINGS – seleccione LANGUAGE y los disponibles aparecerán. Elegir y un \"tick\" aparecerá al lado del idioma.",
+      "faq5": "¿Cómo imprimo mi tablero en el Cboard?",
+      "answer5": "Para imprimir tu tablero, pulsa el logotipo de la impresora en el lado izquierdo de la barra negra HOME, después de haber desbloqueado la página HOME. Un documento portable de Adobe (.pdf) se descargará a su tecnología."
+    },
+    "testimonials": {
+      "text1": "Me encanta que tu aplicación tenga un modo oscuro gratuito. Otros que he intentado usar para mi compañero autistico han dicho que tendríamos que pagar para tener un modo oscuro, y son sensibles a la fotografía. ¡Gracias por no explotar a los discapacitados!.",
+      "title1": "Socio de persona autistica",
+      "text2": "¡Creo que esta aplicación es genial! He intentado encontrar otras aplicaciones AAC, y no había muchas como esta. En la mayoría de las aplicaciones AAC, no soportan tecleo. Además, no tienen la opción de usar las voces de los niños. ¡Buen trabajo para hacer una aplicación AAC única que funcione perfectamente, al menos para mí!.",
+      "title2": "Madre del niño austistico",
+      "text3": "Ideal para adultos con HFA que a veces tienen episodios no verbales, perder su voz brevemente debido a las alergias o a la garganta dolorosa, y para explicar cosas importantes en las fotos. También me encanta que pueda escribir junto a las fotos. Esta aplicación es divertida y muy fácil de usar, y es un verdadero salvavidas en una situación médica.",
+      "title3": "",
+      "text4": "Realiza varios arreglos necesarios para poder adaptarse al modelo que se desea. Me gustó mucho el toque inteligente y los ajustes, aún es gratis, con voz y constantemente actualizado.",
+      "title4": "Oficina dentista y dental",
+      "text5": "Muy útil para una aplicación aac libre. ¡La biblioteca de iconos es extensa y es muy fácil de editar! Puede ser un poco lento especialmente a la hora de editar, pero su ventaja es la opción de escribir que estoy buscando en otras aplicaciones como Symbotalk o Letmetalk.",
+      "title5": "Patólogo del lenguaje de voz",
+      "text6": "DOWNLOAD IT NOW!!! He pasado por tantas aplicaciones tratando de encontrar la correcta para mi chiLd desactivado y esto es IT! !!! Puedo bloquear la pantalla, subir mis propias imágenes e incluso usar mi propia voz?? SI SI SÍ!!",
+      "title6": "Diseñador gráfico superior",
+      "text7": "Fantástica aplicación. Tiene todas las características que necesita para un robusto sistema aac con voz, personalización y una amplia selección de símbolos.",
+      "title7": "Patólogo del lenguaje de voz",
+      "text8": "Me encanta esta aplicación. Es bastante fácil y muy útil para niños y adultos jóvenes con discapacidades. Necesito este dispositivo de comunicación porque tengo un autismo moderado a grave y estoy datando una chica llamada Chandler y ella sabe que tengo cuatro discapacidades. No soy verbal.",
+      "title8": "Persona con autismo",
+      "text9": "Diseño claro y fácil de usar, perfecto para episodios parciales o no verbales.",
+      "title9": ""
+    }
   }
 }

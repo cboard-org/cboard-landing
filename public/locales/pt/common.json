@@ -6,9 +6,9 @@
   "404_subtitle": "Pode ficar e relaxar aqui, ou voltar ao começo.",
   "back": "voltar para o início",
   "error_without_status": "Ocorreu um erro no servidor",
-  "contact_title": "Cotação de Projeto Livre",
+  "contact_title": "Entre em contato",
   "contact_title2": "Diga-nos Olá",
-  "contact_subtitle": "Você tem alguma dúvida? Você está pronto para reduzir os custos e criar novas receitas? Ou simplesmente quer dizer oi? Deixe uma mensagem para nós.",
+  "contact_subtitle": "Você tem alguma dúvida? Ou simplesmente quer dizer oi? Deixe uma mensagem para nós.",
   "form_name": "Qual é o seu nome? *",
   "form_email": "Qual é o seu e-mail? *",
   "form_phone": "Qual é seu número de telefone?",
@@ -24,7 +24,7 @@
   "pt": "├e&rs (Português)",
   "id": "££erew Bahasa Indonésia",
   "ar": "󠁥󠁮󠁧󠁿العربيّة",
-  "notif_msg": "Este é um exemplo de uma mensagem que é comumente usada para informações importantes para visitantes ou usuários. Por favor, clique no botão ao lado para fechar esta mensagem.",
+  "notif_msg": "Utilizamos cookies para fazer nosso site funcionar. Com seu consentimento, utilizamos cookies para melhorar a experiência do usuário e analisar o tráfego do site. Ao clicar em \"Aceitar\", você concorda com o uso de cookies no nosso site.",
   "mobile-landing": {
     "header_language": "Idioma",
     "header_theme": "Modo tema",
@@ -56,6 +56,38 @@
     "company_title": "Confiável por organizações em todo o mundo",
     "news_title": "Notícias mais recentes",
     "news_desc": "Leia mais sobre as últimas notícias e nossos eventos e workshops",
-    "footer_text": "O que você está esperando? Baixe agora!"
+    "footer_text": "O que você está esperando? Baixe agora!",
+    "faqs": {
+      "faq1": "O que é Quadro?",
+      "answer1": "Cboard é um aplicativo grátis da web para crianças e adultos com deficiências de fala e linguagem, facilitando a comunicação com imagens e com conversão de texto em fala. ",
+      "faq2": "Posso registrar usando as minhas contas de mídia social?",
+      "answer2": "Sim! Na página de login, você terá a opção de se inscrever com o Google, Se você deseja fazer isso, a Apple ou a conta do Facebook. Você também pode se registrar com um endereço de e-mail.",
+      "faq3": "Qual é a diferença entre um usuário registrado e um não registrado?",
+      "answer3": "Um usuário registrado pode personalizar seus painéis, e as alterações feitas serão salvas na sua conta, para que quando efetuarem o login possam usar seus quadros personalizados. Um usuário não registrado não será capaz de salvar as alterações com segurança. Recomendamos registrar-se para o caso, então as suas alterações terão a garantia de serem salvas.",
+      "faq4": "Quais idiomas são suportados pelo quadro?",
+      "answer4": "O quadro vem com suporte a 46 idiomas. Para selecionar um idioma diferente, vá para as CONFIGURAÇÕES – selecione o IDIOMA e os idiomas disponíveis aparecerão. Faça uma escolha e um \"tick\" aparecerá ao lado da linguagem.",
+      "faq5": "Como faço para imprimir meu quadro definido no Quadro?",
+      "answer5": "Para imprimir sua placa, pressione o logotipo da impressora no lado esquerdo da barra preta HOME, depois de ter desbloqueado a página HOME. Um documento portátil Adobe (.pdf) será baixado para sua tecnologia."
+    },
+    "testimonials": {
+      "text1": "Eu adoro que seu app tenha um modo escuro gratuito. Outros que tentei usar para o meu parceiro autista disseram que temos de pagar para ter o modo negro, e que são sensíveis a fotos. Obrigado por não explorar os deficientes!.",
+      "title1": "Parceiro de pessoa autista",
+      "text2": "Eu acho que este app é ótimo! Eu tentei encontrar outros aplicativos AAC, e não havia muitos assim. Na maioria dos aplicativos AAC, eles não suportam digitação. Além disso, eles não têm a opção de usar a voz das crianças. Bom trabalho para fazer um único aplicativo AAC que funciona perfeitamente, pelo menos para mim!",
+      "title2": "Mãe de criança austiística",
+      "text3": "Ótimo para adultos com HFA que, por vezes, têm episódios não verbais, perde sua voz rapidamente por causa de alergias ou dor de garganta, e para explicar coisas importantes nas fotos. Eu também amo que você possa digitar ao lado das fotos. Esse aplicativo é divertido e muito fácil de usar e é um verdadeiro salva-vidas em uma situação médica.",
+      "title3": "",
+      "text4": "Faz várias disposições necessárias para poder adaptar-se ao modelo que pretende. Eu gostei muito do toque inteligente e das configurações. Ainda é gratuito, com voz e constantemente atualizada.",
+      "title4": "Escritório Dentista e Dental",
+      "text5": "Muito útil para um app aac gratuito. A biblioteca de ícones é extensa e é muito fácil de editar! Ele pode ser um pouco lento, especialmente ao editar, mas seu lado superior é a opção de digitação que eu estou procurando em outras aplicações como Symbotalk ou Letmetalk.",
+      "title5": "Idioma da fala Pathologista",
+      "text6": "BAIXE E AGORA!!! Eu passei por tantos aplicativos tentando encontrar o app certo para o chefe das minhas pessoas com deficiência, e isso é a TI! !!! Eu posso trancar a tela, carregar minhas próprias imagens e até usar minha própria voz?!? SIM SIM Sim!!",
+      "title6": "Designer Gráfico Sênior",
+      "text7": "App fantástico. Ele tem todos os recursos que você precisaria para um sistema aac robusto com voz, personalização e uma ampla seleção de símbolos.",
+      "title7": "Idioma da fala Pathologista",
+      "text8": "Eu amo esta aplicação. É bem fácil e muito útil para crianças e jovens adultos com deficiência. Preciso deste dispositivo de comunicação porque tenho um autismo moderado a severo e conheço uma garota chamada Chandler e ela sabe que eu tenho quatro deficiências. Não sou verbal.",
+      "title8": "Pessoa com autismo",
+      "text9": "Limpar layout e amigável ao usuário, perfeito para episódios parcialmente ou não-verbais.",
+      "title9": ""
+    }
   }
 }

@@ -9,62 +9,6 @@ import imgAPI from 'public/images/imgAPI';
 import Title from '../Title';
 import useStyles from './testi-style';
 
-const testiContent = [
-  {
-    text: `I love that your app has a free dark mode. Others I have tried using for my autistic partner said we would have to pay to have dark mode, and they are photo-sensitive. Thank you for not exploiting the disabled!.`,
-    avatar: imgAPI.avatar[0],
-    name: 'Lilyana Lee',
-    title: 'Partner of autistic person',
-  },
-  {
-    text: `I think this app is great! I tried to find other AAC apps, and there was not many like this one. In most AAC apps, they do not support typing. Also, they don't have an option to use children's voices. Good job for making a unique AAC app that works perfectly, at least for me!.`,
-    avatar: imgAPI.avatar[1],
-    name: 'Sofia',
-    title: 'Mother of austistic child',
-  },
-  {
-    text: `Great for adults with HFA who sometimes have non-verbal episodes, lose their voice briefly because of allergies or a sore throat, and to explain important things in pictures. I also love that you can type alongside the pictures. This app is fun and very easy to use, and is a real lifesaver in a medical situation.`,
-    avatar: imgAPI.avatar[2],
-    name: 'Holly White',
-    title: '',
-  },
-  {
-    text: `It makes several necessary arrangements to be able to adapt to the model you want. I really liked the smart touch and settings. It's still free, with voice and constantly updated.`,
-    avatar: imgAPI.avatar[3],
-    name: 'Neila Machado',
-    title: 'Dentist & Dental Office',
-  },
-  {
-    text: `Very useful for a free aac app. The icon library is extensive and its very easy to edit! It can be a bit slow especially when editing but its upside is the typing option which Im looking for in other applications like Symbotalk or Letmetalk.`,
-    avatar: imgAPI.avatar[4],
-    name: 'Mary Bagalay',
-    title: 'Speech Language Pathologist',
-  },
-  {
-    text: `DOWNLOAD IT NOW!!! I have gone through so many app trying to find the right one for my disabled chiLd and this is IT!!!!! I can lock the screen, upload my own images, and even use my own voice?!? YES YES YES!!`,
-    avatar: imgAPI.avatar[5],
-    name: 'Brooke Willingham',
-    title: 'Senior Graphic Designer',
-  },
-  {
-    text: `Fantastic app. It has every feature you would need for a robust aac system with voicing, customization, and a wide selection of symbols.`,
-    avatar: imgAPI.avatar[6],
-    name: 'Nancy Ramirez',
-    title: 'Speech Language Pathologist',
-  },
-  {
-    text: `I love this application. it's quite easy. and very useful to children and young adults with disabilities. I need this communication device because I have moderate to severe autism and I'm dating a girl named Chandler and she knows that I have four disabilities. I'm nonverbal.`,
-    avatar: imgAPI.avatar[7],
-    name: 'Guccigang Taylor Justin',
-    title: 'Person with autism',
-  },
-  {
-    text: `Clear layout and user friendly, perfect for partially or nonverbal episodes.`,
-    avatar: imgAPI.avatar[8],
-    name: 'Starling-Ophelia Rose'
-  },
-];
-
 function Testimonials() {
   const { classes } = useStyles();
   const { t } = useTranslation('common');
@@ -111,6 +55,63 @@ function Testimonials() {
       }
     }]
   };
+
+  const testiContent = [
+    {
+      text: t('mobile-landing.testimonials.text1'),
+      avatar: imgAPI.avatar[0],
+      name: 'Lilyana Lee',
+      title: t('mobile-landing.testimonials.title1'),
+    },
+    {
+      text: t('mobile-landing.testimonials.text2'),
+      avatar: imgAPI.avatar[1],
+      name: 'Sofia',
+      title: t('mobile-landing.testimonials.title2'),
+    },
+    {
+      text: t('mobile-landing.testimonials.text3'),
+      avatar: imgAPI.avatar[2],
+      name: 'Holly White',
+      title: t('mobile-landing.testimonials.title3'),
+    },
+    {
+      text: t('mobile-landing.testimonials.text4'),
+      avatar: imgAPI.avatar[3],
+      name: 'Neila Machado',
+      title: t('mobile-landing.testimonials.title4'),
+    },
+    {
+      text: t('mobile-landing.testimonials.text5'),
+      avatar: imgAPI.avatar[4],
+      name: 'Mary Bagalay',
+      title: t('mobile-landing.testimonials.title5'),
+    },
+    {
+      text: t('mobile-landing.testimonials.text6'),
+      avatar: imgAPI.avatar[5],
+      name: 'Brooke Willingham',
+      title: t('mobile-landing.testimonials.title6'),
+    },
+    {
+      text: t('mobile-landing.testimonials.text7'),
+      avatar: imgAPI.avatar[6],
+      name: 'Nancy Ramirez',
+      title: t('mobile-landing.testimonials.title7'),
+    },
+    {
+      text: t('mobile-landing.testimonials.text8'),
+      avatar: imgAPI.avatar[7],
+      name: 'Guccigang Taylor Justin',
+      title: t('mobile-landing.testimonials.title8'),
+    },
+    {
+      text: t('mobile-landing.testimonials.text9'),
+      avatar: imgAPI.avatar[8],
+      name: 'Starling-Ophelia Rose',
+      title: t('mobile-landing.testimonials.title9'),
+    }
+  ];
 
   return (
     <div className={classes.root}>

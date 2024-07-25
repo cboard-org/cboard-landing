@@ -6,9 +6,9 @@
   "404_subtitle": "Sie können hier entweder bleiben und chillen, oder zu den Anfängen zurückkehren.",
   "back": "Zurück zur Startseite",
   "error_without_status": "Auf dem Server ist ein Fehler aufgetreten.",
-  "contact_title": "Kostenloses Projektangebot",
+  "contact_title": "Kontaktiere uns",
   "contact_title2": "Sagen Sie Hallo zu uns",
-  "contact_subtitle": "Haben Sie Fragen? Sind Sie bereit, Kosten zu senken und neue Einnahmen zu erzielen? Oder du willst einfach nur Hallo sagen? Schreiben Sie uns eine Nachricht.",
+  "contact_subtitle": "Hast du noch Fragen? Oder möchtest du einfach nur Hallo sagen? Schreib uns eine Nachricht.",
   "form_name": "Wie heißen Sie? *",
   "form_email": "Was ist Ihre E-Mail-Adresse? *",
   "form_phone": "Wie lautet Ihre Telefonnummer?",
@@ -24,7 +24,7 @@
   "pt": "Português",
   "id": "Bahasa Indonesien",
   "ar": "󠁥󠁮󠁧󠁿العربيّة",
-  "notif_msg": "Dies ist ein Beispiel für eine Nachricht, die häufig für wichtige Informationen für Besucher oder Benutzer verwendet wird. Bitte klicken Sie auf die Schaltfläche neben, um diese Nachricht zu schließen.",
+  "notif_msg": "Wir verwenden Cookies, um unsere Website funktionieren zu lassen.Mit Ihrer Zustimmung verwenden wir Cookies, um das Nutzerverhalten zu verbessern und den Website-Traffic zu analysieren. Wenn Sie auf „Akzeptieren“ klicken, stimmen Sie der Verwendung von Cookies durch unsere Website zu.",
   "mobile-landing": {
     "header_language": "Sprache",
     "header_theme": "Theme-Modus",
@@ -56,6 +56,38 @@
     "company_title": "Unternehmen weltweit vertrauen darauf",
     "news_title": "Aktuelles",
     "news_desc": "Lesen Sie mehr über die neuesten Nachrichten und unsere Veranstaltungen und Workshops",
-    "footer_text": "Worauf wartest du? Jetzt herunterladen!"
+    "footer_text": "Worauf wartest du? Jetzt herunterladen!",
+    "faqs": {
+      "faq1": "Was ist Cboard?",
+      "answer1": "Cboard ist eine kostenlose Webanwendung für Kinder und Erwachsene mit Sprach- und Sprachbeeinträchtigungen, die die Kommunikation mit Bildern und Text-zu-Sprache erleichtert. ",
+      "faq2": "Kann ich mich mit meinen Social Media Accounts registrieren?",
+      "answer2": "Ja! Auf der Anmeldeseite erhalten Sie die Möglichkeit, sich bei Ihrem Google anzumelden, Apple, oder Facebook-Konto, wenn Sie dies wünschen. Sie können sich auch mit einer E-Mail-Adresse registrieren.",
+      "faq3": "Was ist der Unterschied zwischen einem registrierten und einem nicht registrierten Benutzer?",
+      "answer3": "Ein registrierter Benutzer kann seine Boards personalisieren, und die vorgenommenen Änderungen werden auf ihrem Konto gespeichert, so dass sie bei ihrer Anmeldung ihre angepassten Boards verwenden können. Ein nicht registrierter Benutzer kann Änderungen nicht sicher speichern. Wir empfehlen eine Registrierung nur für den Fall, dass Ihre Änderungen gespeichert werden.",
+      "faq4": "Welche Sprachen werden von Cboard unterstützt?",
+      "answer4": "Cboard bietet Unterstützung für 46 Sprachen. Um eine andere Sprache auszuwählen, gehen Sie zu EINSTELLUNGEN – wählen Sie LANGUAGE und die verfügbaren Sprachen werden angezeigt. Entscheiden Sie sich und ein „Tick“ erscheint neben der Sprache.",
+      "faq5": "Wie kann ich mein Board in Cboard drucken?",
+      "answer5": "Um Ihr Board zu drucken, drücken Sie das Druckerlogo auf der linken Seite der schwarzen HOME-Leiste, nachdem Sie die HOME-Seite freigeschaltet haben. Ein Adobe Portable Document (.pdf) wird auf Ihre Technologie heruntergeladen."
+    },
+    "testimonials": {
+      "text1": "Ich liebe es, dass Ihre App einen kostenlosen Dunkelmodus hat. Andere habe ich für meinen autistischen Partner ausprobiert, dass wir für den dunklen Modus bezahlen müssten, und sie sind photosensibel. Vielen Dank für die Nichtausnutzung der Behinderten!.",
+      "title1": "Partner der Autisten",
+      "text2": "Ich denke, diese App ist großartig! Ich habe versucht, andere AAC Apps zu finden, und es gab nicht viele wie diese. In den meisten AAC-Apps unterstützen sie das Tippen nicht. Außerdem haben sie keine Möglichkeit, Kinderstimmen zu verwenden. Gute Arbeit, um eine einzigartige AAC-App zu erstellen, die perfekt funktioniert, zumindest für mich!.",
+      "title2": "Mutter des austistischen Kindes",
+      "text3": "Ideal für Erwachsene mit HFA, die manchmal nicht-verbale Episoden haben, Verlieren Sie kurz ihre Stimme wegen Allergien oder Halsschmerzen und erklären Sie wichtige Dinge in Bildern. Ich liebe es auch, dass Sie neben den Bildern tippen können. Diese App macht Spaß und ist sehr einfach zu bedienen und ist ein echter Lebensläufer in einer medizinischen Situation.",
+      "title3": "",
+      "text4": "Es werden mehrere notwendige Vorkehrungen getroffen, um sich dem gewünschten Modell anpassen zu können. Ich mochte die intelligente Berührung und Einstellungen. Es ist immer noch kostenlos, mit Stimme und ständig aktualisiert.",
+      "title4": "Zahnarztpraxis",
+      "text5": "Sehr nützlich für eine kostenlose Aac-App. Die Icon-Bibliothek ist umfangreich und sehr einfach zu bearbeiten! Es kann vor allem bei der Bearbeitung ein wenig langsam sein, aber es ist die Vorteilsoption für Schreiben, die Im Suche in anderen Anwendungen wie Symbotalk oder Letmetalk ist.",
+      "title5": "Pathologe",
+      "text6": "DOWNLOAD ES JETZT!!! Ich habe so viele Apps durchgemacht und versucht, die richtige für meinen deaktivierten ChiLd zu finden, und das ist IT! !!! Ich kann den Bildschirm sperren, meine eigenen Bilder hochladen und sogar meine eigene Stimme verwenden?!? JA JA!!",
+      "title6": "Senior Grafikdesigner",
+      "text7": "Fantastische App. Sie hat alle Funktionen, die Sie für ein robustes Aac-System mit Stimmung, Anpassung und einer großen Auswahl an Symbolen benötigen.",
+      "title7": "Pathologe",
+      "text8": "Ich liebe diese Anwendung, es ist ganz einfach und sehr nützlich für Kinder und junge Erwachsene mit Behinderungen. Ich brauche dieses Kommunikationsgerät, weil ich moderate bis schwere Autismus habe und bin ein Mädchen namens Chandler und sie weiß, dass ich vier Behinderungen habe. Ich bin nonverbal.",
+      "title8": "Person mit Autismus",
+      "text9": "Übersichtliches Layout und benutzerfreundlich, perfekt für teilweise oder nonverbale Episoden.",
+      "title9": ""
+    }
   }
 }
