@@ -109,7 +109,6 @@ function Header(props) {
                 ) : (
                   <AnchorLink href="/">
                     <img src={logo} alt="logo" />
-                    {!isTablet && brand.mobile.projectName}
                   </AnchorLink>
                 )}
               </div>

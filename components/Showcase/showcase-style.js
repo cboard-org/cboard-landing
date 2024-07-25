@@ -93,10 +93,10 @@ const showcaseStyles = makeStyles({ uniqId: 'showcase' })((theme, _params, class
     }
   },
   frame: {
-    padding: theme.spacing(1),
+    padding: theme.spacing(0),
     margin: '0 auto',
-    borderRadius: 20,
-    background: theme.palette.common.white,
+    borderRadius: 32,
+    background: theme.palette.common.black,
     '& img': {
       display: 'block',
       width: '100%'
