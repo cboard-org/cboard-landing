@@ -56,6 +56,18 @@
     "company_title": "Trusted by organizations worldwide",
     "news_title": "Latest News",
     "news_desc": "Read more about latest news and our events and workshops",
-    "footer_text": "What are you waiting for? Download Now!"
+    "footer_text": "What are you waiting for? Download Now!",
+    "faqs": {
+      "faq1": "What is Cboard?",
+      "answer1": "Cboard is a free web application for children and adults with speech and language impairments, facilitating communication with pictures and text-to-speech. ",
+      "faq2": "Can I register myself using my social media accounts?",
+      "answer2": "Yes! On the login page, you will be given the option to sign up with your Google, Apple, or Facebook account if you wish to do so. You can also register with an e-mail address.",
+      "faq3": "What is the difference between a registered and a non-registered user?",
+      "answer3": "A registered user is able to personalize their boards, and the changes made will be saved to their account so that when they log back in, they can use their customized boards. A non-registered user won’t be able to save changes safely. We recommend registering just in case, so your changes are guaranteed to be saved.",
+      "faq4": "Which languages are supported by Cboard?",
+      "answer4": "Cboard comes with support for 46 languages. To select a different language go to SETTINGS – select LANGUAGE and those available will appear. Make a choice and a ‘tick’ will appear beside the language.",
+      "faq5": "How do I print my board set in Cboard?",
+      "answer5": "To print your board, press the printer logo on the left hand side of the black HOME bar, after having unlocked the HOME page. An Adobe Portable Document (.pdf) will be downloaded to your technology."
+    }
   }
 }
