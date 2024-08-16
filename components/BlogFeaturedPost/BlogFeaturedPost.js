@@ -14,6 +14,8 @@ import useStyles from './blogFeaturedPost-style';
 export default function BlogFeaturedPost(props) {
   const { classes } = useStyles();
   const { post } = props;
+  const d = new Date(post.date);
+  const date = d.toDateString();
 
   return (
     <Grid item xs={12} md={6}>
@@ -22,13 +24,13 @@ export default function BlogFeaturedPost(props) {
           <div className={classes.cardDetails}>
             <CardContent>
               <Typography component="h2" variant="h5">
-                {post.metadata.title}
+                {post.title}
               </Typography>
               <Typography variant="subtitle1" color="textSecondary">
-                {post.metadata.date.toDateString()}
+                {date}
               </Typography>
               <Typography variant="subtitle1" paragraph>
-                {post.metadata.description}
+                {post.description}
               </Typography>
               <Typography variant="subtitle1" color="primary">
                 Continue reading...
@@ -36,7 +38,7 @@ export default function BlogFeaturedPost(props) {
             </CardContent>
           </div>
           <Hidden xsDown>
-            <CardMedia className={classes.cardMedia} image={post.metadata.image} title={post.metadata.title} />
+            <CardMedia className={classes.cardMedia} image={post.image} title={post.title} />
           </Hidden>
         </Card>
       </CardActionArea>

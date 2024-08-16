@@ -19,8 +19,8 @@ export default function BlogMain(props) {
       </Typography>
       <Divider />
       {announcements.map((post) => (
-        <ReactMarkdown className={classes.markdown} key={post.substring(0, 40)}>
-          {post}
+        <ReactMarkdown className={classes.markdown} key={post.content.substring(0, 40)}>
+          {post.content}
         </ReactMarkdown>
       ))}
     </Grid>
@@ -28,6 +28,6 @@ export default function BlogMain(props) {
 }
 
 BlogMain.propTypes = {
-  posts: PropTypes.array,
+  announcements: PropTypes.array,
   title: PropTypes.string,
 };

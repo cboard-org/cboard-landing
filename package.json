@@ -34,6 +34,7 @@
 		"cross-env": "^7.0.3",
 		"dandelion-animated-slider": "^1.0.0",
 		"framer-motion": "^11.2.9",
+		"gray-matter": "^4.0.3",
 		"grey-matter": "^0.0.0",
 		"i18next": "^22.4.6",
 		"loader-utils": "^3.2.1",

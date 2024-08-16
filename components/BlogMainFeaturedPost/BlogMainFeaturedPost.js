@@ -14,18 +14,18 @@ export default function BlogMainFeaturedPost(props) {
 
   return (
     <Paper className={classes.mainFeaturedPost}
-      style={{ backgroundImage: `url(${post.metadata.image})` }}>
+      style={{ backgroundImage: `url(${post.image})` }}>
       {/* Increase the priority of the hero background image */}
-      {<img style={{ display: 'none' }} src={post.metadata.image} alt={post.metadata.title} />}
+      {<img style={{ display: 'none' }} src={post.image} alt={post.title} />}
       <div className={classes.overlay} />
       <Grid container>
         <Grid item md={6}>
           <div className={classes.mainFeaturedPostContent}>
             <Typography component="h1" variant="h3" color="inherit" gutterBottom>
-              {post.metadata.title}
+              {post.title}
             </Typography>
             <Typography variant="h5" color="inherit" paragraph>
-              {post.metadata.description}
+              {post.description}
             </Typography>
             <Link variant="subtitle1" href="#">
             Continue reading…

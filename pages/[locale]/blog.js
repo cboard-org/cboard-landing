@@ -7,7 +7,7 @@ import CssBaseline from '@mui/material/CssBaseline';
 // Use this below for Server Side Render/Translation (SSR)
 // import { serverSideTranslations } from 'next-i18next/serverSideTranslations';
 // Use this below for Static Site Generation (SSG)
-import { getStaticPaths, makeStaticProps } from 'lib/getStatic';
+import { getStaticPaths, makeStaticPropsWithPosts } from 'lib/getStatic';
 import brand from 'public/text/brand';
 import MainContainer from 'components/MainContainer';
 import BlogPostsPreview from 'components/BlogPostsPreview';
@@ -63,7 +63,7 @@ const useStyles = makeStyles({ uniqId: 'home' })(theme => ({
 
 function Blog(props) {
     const { classes } = useStyles();
-    const { onToggleDark, onToggleDir } = props;
+    const { onToggleDark, onToggleDir } = props.i18;
     const isTablet = useMediaQuery(theme => theme.breakpoints.down('lg'));
 
     return (
@@ -82,7 +82,9 @@ function Blog(props) {
                 <Fragment>
                     <main className={classes.containerWrap}>
                         <section id="blogPreview">
-                            <BlogPostsPreview />
+                            <BlogPostsPreview 
+                            posts={props.posts}
+                            announcements={props.announcements} />
                             <BlogPostsPagination />
                         </section>
                     </main>
@@ -108,7 +110,7 @@ Blog.propTypes = {
 // export const getStaticProps = async ({ locale }) => ({ props: { ...await serverSideTranslations(locale, ['common']) } });
 
 // Use this below for Static Site Generation (SSG)
-const getStaticProps = makeStaticProps(['common']);
+const getStaticProps = makeStaticPropsWithPosts(['common']);
 export { getStaticPaths, getStaticProps };
 
 export default Blog;
