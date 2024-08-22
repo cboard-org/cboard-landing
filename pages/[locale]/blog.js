@@ -4,9 +4,6 @@ import Head from 'next/head';
 import useMediaQuery from '@mui/material/useMediaQuery';
 import { makeStyles } from 'tss-react/mui';
 import CssBaseline from '@mui/material/CssBaseline';
-// Use this below for Server Side Render/Translation (SSR)
-// import { serverSideTranslations } from 'next-i18next/serverSideTranslations';
-// Use this below for Static Site Generation (SSG)
 import { getStaticPaths, makeStaticPropsWithPosts } from 'lib/getStatic';
 import brand from 'public/text/brand';
 import MainContainer from 'components/MainContainer';
@@ -63,7 +60,7 @@ const useStyles = makeStyles({ uniqId: 'home' })(theme => ({
 
 function Blog(props) {
     const { classes } = useStyles();
-    const { onToggleDark, onToggleDir } = props.i18;
+    const { onToggleDark, onToggleDir, posts, announcements } = props;
     const isTablet = useMediaQuery(theme => theme.breakpoints.down('lg'));
 
     return (
@@ -82,9 +79,9 @@ function Blog(props) {
                 <Fragment>
                     <main className={classes.containerWrap}>
                         <section id="blogPreview">
-                            <BlogPostsPreview 
-                            posts={props.posts}
-                            announcements={props.announcements} />
+                            <BlogPostsPreview
+                                posts={posts}
+                                announcements={announcements} />
                             <BlogPostsPagination />
                         </section>
                     </main>
@@ -102,12 +99,11 @@ function Blog(props) {
 }
 
 Blog.propTypes = {
+    posts: PropTypes.array.isRequired,
+    announcements: PropTypes.array.isRequired,
     onToggleDark: PropTypes.func.isRequired,
     onToggleDir: PropTypes.func.isRequired,
 };
-
-// Use this below for Server Side Render/Translation (SSR)
-// export const getStaticProps = async ({ locale }) => ({ props: { ...await serverSideTranslations(locale, ['common']) } });
 
 // Use this below for Static Site Generation (SSG)
 const getStaticProps = makeStaticPropsWithPosts(['common']);

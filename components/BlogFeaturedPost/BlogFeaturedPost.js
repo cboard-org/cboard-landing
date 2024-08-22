@@ -1,5 +1,6 @@
 import React from 'react';
 import PropTypes from 'prop-types';
+import Link from 'next/link';
 import Typography from '@mui/material/Typography';
 import Grid from '@mui/material/Grid';
 import Card from '@mui/material/Card';
@@ -32,9 +33,14 @@ export default function BlogFeaturedPost(props) {
               <Typography variant="subtitle1" paragraph>
                 {post.description}
               </Typography>
-              <Typography variant="subtitle1" color="primary">
-                Continue reading...
-              </Typography>
+              <Link
+                as={`/en/blog/${post.slug}`}
+                href="/[locale]/blog/[slug]"
+              >
+                <Typography variant="subtitle1" color="primary">
+                  Continue reading...
+                </Typography>
+              </Link>
             </CardContent>
           </div>
           <Hidden xsDown>

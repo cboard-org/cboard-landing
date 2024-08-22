@@ -3,7 +3,8 @@ import PropTypes from 'prop-types';
 import Paper from '@mui/material/Paper';
 import Typography from '@mui/material/Typography';
 import Grid from '@mui/material/Grid';
-import Link from '@mui/material/Link';
+import LinkMui from '@mui/material/Link';
+import Link from 'next/link';
 
 
 import useStyles from './blogMainFeaturedPost-style';
@@ -27,8 +28,11 @@ export default function BlogMainFeaturedPost(props) {
             <Typography variant="h5" color="inherit" paragraph>
               {post.description}
             </Typography>
-            <Link variant="subtitle1" href="#">
-            Continue reading…
+            <Link
+              as={`/en/blog/${post.slug}`}
+              href="/[locale]/blog/[slug]"
+            >
+              Continue reading…
             </Link>
           </div>
         </Grid>
