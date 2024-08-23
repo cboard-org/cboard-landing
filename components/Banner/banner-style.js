@@ -53,6 +53,7 @@ const bannerStyles = makeStyles({ uniqId: 'banner' })(theme => ({
   },
   text: {
     height: 680,
+    marginTop: theme.spacing(2),
     display: 'flex',
     flexDirection: 'column',
     justifyContent: 'center',
@@ -64,7 +65,7 @@ const bannerStyles = makeStyles({ uniqId: 'banner' })(theme => ({
     },
     [theme.breakpoints.down('sm')]: {
       justifyContent: 'flex-start',
-      paddingTop: theme.spacing(20),
+      paddingTop: theme.spacing(15),
       height: 560
     },
     '& h3': {
@@ -78,7 +79,7 @@ const bannerStyles = makeStyles({ uniqId: 'banner' })(theme => ({
       },
       '& strong': {
         fontWeight: theme.typography.fontWeightBold,
-        color: theme.palette.mode === 'dark' ? theme.palette.primary.light : theme.palette.primary.main
+        color: theme.palette.mode === 'dark' ? theme.palette.primary.light : 'orangered'
       }
     },
     '& h5': {
