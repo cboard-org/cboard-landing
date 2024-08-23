@@ -2,8 +2,8 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import Paper from '@mui/material/Paper';
 import Typography from '@mui/material/Typography';
-import Button from '@mui/material/Button';
 import useStyles from './cards-style';
+import Link from 'next/link';
 
 export default function News(props) {
   const { classes, cx } = useStyles();
@@ -11,7 +11,8 @@ export default function News(props) {
     caption,
     text,
     img,
-    type
+    type,
+    slug
   } = props;
   const setOrientation = orientation => {
     if (orientation === 'landscape') {
@@ -29,7 +30,9 @@ export default function News(props) {
           <Typography variant="caption" className={classes.type}>{caption}</Typography>
           <Typography display="block" component="p">{text}</Typography>
         </div>
-        <Button size="small" className={classes.btn}>Read more</Button>
+        <div className={classes.btn}>
+          <Link href={'/blog/' + slug} >Read more</Link>
+        </div>
       </Paper>
     </div>
   );
@@ -40,4 +43,5 @@ News.propTypes = {
   text: PropTypes.string.isRequired,
   img: PropTypes.string.isRequired,
   type: PropTypes.string.isRequired,
+  slug: PropTypes.string.isRequired,
 };

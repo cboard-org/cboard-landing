@@ -12,10 +12,11 @@ import ParallaxLarge from '../Parallax/Large';
 import imgAPI from 'public/images/imgAPI';
 import useStyle from './news-event-style';
 
-function NewsEvent() {
+function NewsEvent(props) {
   const { classes } = useStyle();
   const { classes: text } = useText();
   const { t } = useTranslation('common');
+  const { posts } = props;
 
   const theme = useTheme();
   const isMobile = useMediaQuery(theme.breakpoints.down('sm'));
@@ -38,23 +39,26 @@ function NewsEvent() {
             <Grid item md={6}>
               <NewsCard
                 type="potrait"
-                img={imgAPI.photo[2]}
+                img={posts[0].image}
                 caption="headline"
-                text="Revolutionizing Communication: Cboard Receives Microsoft AI for Accessibility Grant."
+                text={posts[0].title}
+                slug={posts[0].slug}
               />
             </Grid>
             <Grid item md={6}>
               <NewsCard
                 type={isMobile ? 'potrait' : 'landscape'}
-                img={imgAPI.photo[0]}
+                img={posts[1].image}
                 caption="news"
-                text="Cboard pilot results - Timor Leste."
+                text={posts[1].title}
+                slug={posts[1].slug}
               />
               <NewsCard
                 type="landscape"
-                img={imgAPI.photo[1]}
+                img={posts[2].image}
                 caption="news"
-                text="Cboard Breakthrough: Enhancing AAC Communication with AI-Powered Sentence Creation."
+                text={posts[2].title}
+                slug={posts[2].slug}
               />
             </Grid>
           </Grid>

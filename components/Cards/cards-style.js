@@ -97,6 +97,7 @@ const cardsStyles = makeStyles({ uniqId: 'cards' })((theme, _params, classes) =>
   },
   btn: {
     marginTop: theme.spacing(1),
+    paddingLeft: theme.spacing(2),
     color: theme.palette.mode === 'dark' ? theme.palette.primary.light : theme.palette.primary.main,
     textTransform: 'none'
   }
