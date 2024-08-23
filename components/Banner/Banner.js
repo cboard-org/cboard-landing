@@ -11,6 +11,7 @@ import { useText } from 'theme/common';
 import particleSpray from './particle-spray';
 import useStyles from './banner-style';
 import { motion } from 'framer-motion';
+import { Button } from '@mui/material';
 
 function Banner() {
   const { classes, cx } = useStyles();
@@ -56,10 +57,14 @@ function Banner() {
                 <Typography variant="h5" className={text.subtitle}>
                   {t('mobile-landing.banner_desc')}
                 </Typography>
+                  <Button
+                    component={Link} href="https://app.cboard.io/"
+                    aria-label="cboard-app"
+                    variant="contained"
+                    className={classes.openCboard}
+                    size="large">Open Cboard 
+                  </Button> 
                 <div className={classes.btnArea}>
-                  <Link href="https://app.cboard.io/">
-                    <img src="/images/mobile/web-access.svg" alt="web app" />
-                  </Link>
                   <Link href="https://apps.apple.com/gb/app/aac-cboard-app/id6453683048">
                     <img src="/images/mobile/app-store.png" alt="app store" />
                   </Link>

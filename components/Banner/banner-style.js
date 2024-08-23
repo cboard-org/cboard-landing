@@ -30,6 +30,10 @@ const bannerStyles = makeStyles({ uniqId: 'banner' })(theme => ({
       top: 0,
     }
   },
+  openCboard: {
+    padding: theme.spacing(2),
+    width: '50%'
+  },
   decoInner: {
     position: 'absolute',
     top: 0,
@@ -52,6 +56,7 @@ const bannerStyles = makeStyles({ uniqId: 'banner' })(theme => ({
     display: 'flex',
     flexDirection: 'column',
     justifyContent: 'center',
+    alignItems: 'center',
     position: 'relative',
     zIndex: 10,
     [theme.breakpoints.up('sm')]: {
@@ -85,9 +90,13 @@ const bannerStyles = makeStyles({ uniqId: 'banner' })(theme => ({
     },
   },
   btnArea: {
+    marginTop: theme.spacing(4),
     textAlign: 'center',
     display: 'flex',
+    flexDirection: 'row',
     flexWrap: 'wrap',
+    alignItems: 'center',
+    justifyContent: 'center',
     [theme.breakpoints.down('sm')]: {
       justifyContent: 'space-around'
     },
