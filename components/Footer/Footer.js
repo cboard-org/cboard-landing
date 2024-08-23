@@ -34,7 +34,7 @@ const footers = [
   {
     title: 'Resources',
     description: ['Help', 'FAQ', 'Blog'],
-    link: ['#resource', '#resource-name', '#another-resource', '#final-resource'],
+    link: ['#resource', '#resource-name', '/blog', '#final-resource'],
   },
   {
     title: 'Legal',
