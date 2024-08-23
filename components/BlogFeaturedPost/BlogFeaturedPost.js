@@ -20,7 +20,7 @@ export default function BlogFeaturedPost(props) {
 
   return (
     <Grid item xs={12} md={6}>
-      <CardActionArea component="a" href="#">
+      <CardActionArea component="a" href={`/blog/${post.slug}`}>
         <Card className={classes.card}>
           <div className={classes.cardDetails}>
             <CardContent>
@@ -34,7 +34,7 @@ export default function BlogFeaturedPost(props) {
                 {post.description}
               </Typography>
               <Link
-                as={`/en/blog/${post.slug}`}
+                as={`/blog/${post.slug}`}
                 href="/[locale]/blog/[slug]"
               >
                 <Typography variant="subtitle1" color="primary">
