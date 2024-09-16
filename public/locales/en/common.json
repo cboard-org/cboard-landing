@@ -105,6 +105,24 @@
       "title5": "AI Specialist",
       "text7": "Shay is a Software developer from Israel. Started coding in 2012. Open-Source enthusiast. Co-founded Cboard with Martin Bedouret in 2017 with the intention of providing a free and open-source communication tool for adults and children with disabilities.",
       "title7": "Technical Advisor"
+    },
+    "timeline": {
+      "title1": "Open-Source repository created",
+      "text1": "Shay Cojocaru created the repository on GitHub and started to look for collaborators.",
+      "title2": "Unicef Innovation Fund investment",
+      "text2": "Cboard received an investment from the Unicef Innovation Fund to improve the app and make it more accessible.",
+      "title3": "Public launch",
+      "text3": "Cboard was launched to the public and received a lot of positive feedback from users.",
+      "title4": "European pilots",
+      "text4": "Cboard was used in European pilots to test the app in different languages and environments.",
+      "title5": "Team expansion",
+      "text5": "The team expanded to include more developers and designers to improve the app.",
+      "title6": "Microsoft AI for Accessibility grant",
+      "text6": "Cboard received a grant from Microsoft AI for Accessibility to improve the app with AI features.",
+      "title7": "New AI features",
+      "text7": "Cboard was updated with new AI features to improve the user experience.",
+      "title8": "New products launched",
+      "text8": "Cboard launched new products to help more people with disabilities communicate."
     }
   }
 }
