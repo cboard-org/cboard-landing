@@ -16,6 +16,7 @@ import EuroIcon from '@mui/icons-material/Euro';
 import GroupsIcon from '@mui/icons-material/Groups2';
 import AutoAwesomeIcon from '@mui/icons-material/AutoAwesome';
 import AppsIcon from '@mui/icons-material/Apps';
+import Title from 'components/Title';
 
 function CboardTimeline() {
   const { classes } = useStyles();
@@ -74,6 +75,11 @@ function CboardTimeline() {
 
   return (
     <div className={classes.root}>
+    <div>
+      <Title align="center">
+        {t('mobile-landing.timeline_title')}
+      </Title>
+    </div>
       <Timeline position="alternate">
         {timelineContent.map((item, index) => (
 

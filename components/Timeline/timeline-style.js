@@ -6,7 +6,7 @@ import decoDarkBottom from 'public/images/mobile/deco-dark-top.svg';
 const timelineStyles = makeStyles({ uniqId: 'te22sti' })((theme, _params, classes) => ({
   root: {
     background: theme.palette.mode === 'dark' ? darken(theme.palette.primary.light, 0.6) : lighten(theme.palette.primary.light, 0.8),
-    minHeight: 1400,
+    minHeight: 1500,
     paddingTop: theme.spacing(20)
   },
   carouselWrap: {
