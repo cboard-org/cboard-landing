@@ -4,22 +4,12 @@ import Head from 'next/head';
 import useMediaQuery from '@mui/material/useMediaQuery';
 import { makeStyles } from 'tss-react/mui';
 import CssBaseline from '@mui/material/CssBaseline';
-// Use this below for Server Side Render/Translation (SSR)
-// import { serverSideTranslations } from 'next-i18next/serverSideTranslations';
-// Use this below for Static Site Generation (SSG)
 import { getStaticPaths, makeStaticProps } from 'lib/getStatic';
 import brand from 'public/text/brand';
 import MainContainer from 'components/MainContainer';
-import Banner from 'components/Banner';
-import Counter from 'components/Counter';
-import Feature from 'components/Feature';
-import Showcase from 'components/Showcase';
-import Testimonials from 'components/Testimonials';
-import Faq from 'components/Faq';
-import CompanyLogo from 'components/CompanyLogo';
-import NewsEvent from 'components/NewsEvent';
 import PageNav from 'components/PageNav';
 import Notification from 'components/Notification';
+import Team from 'components/Team';
 
 const sectionMargin = margin => (margin * 20);
 const useStyles = makeStyles({ uniqId: 'home' })(theme => ({
@@ -67,7 +57,7 @@ const useStyles = makeStyles({ uniqId: 'home' })(theme => ({
   }
 }));
 
-function Team(props) {
+function TeamPage(props) {
   const { classes } = useStyles();
   const { onToggleDark, onToggleDir } = props;
   const isTablet = useMediaQuery(theme => theme.breakpoints.down('lg'));
@@ -76,7 +66,7 @@ function Team(props) {
     <Fragment>
       <Head>
         <title>
-          { brand.mobile.name + ' - Home Page' }
+          { brand.mobile.name + ' | Team' }
         </title>
       </Head>
       <CssBaseline />
@@ -87,8 +77,8 @@ function Team(props) {
       >
         <Fragment>
           <main className={classes.containerWrap}>
-            <section id="counter">
-              <Counter />
+            <section id="team">
+              <Team />
             </section>
           </main>
           {!isTablet && (
@@ -103,16 +93,12 @@ function Team(props) {
   );
 }
 
-Team.propTypes = {
+TeamPage.propTypes = {
   onToggleDark: PropTypes.func.isRequired,
   onToggleDir: PropTypes.func.isRequired,
 };
 
-// Use this below for Server Side Render/Translation (SSR)
-// export const getStaticProps = async ({ locale }) => ({ props: { ...await serverSideTranslations(locale, ['common']) } });
-
-// Use this below for Static Site Generation (SSG)
 const getStaticProps = makeStaticProps(['common']);
 export { getStaticPaths, getStaticProps };
 
-export default Team;
+export default TeamPage;

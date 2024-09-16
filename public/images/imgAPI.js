@@ -12,6 +12,15 @@ const imgAPI = {
     '/images/avatars/pp_boy4.svg',
     '/images/avatars/pp_boy5.svg'
   ],
+  team: [
+    '/images/team/martinbedouret.jpg',
+    '/images/team/katrina.jpeg',
+    '/images/team/tomivm.jpeg',
+    '/images/team/rodrisanchez.jpeg',
+    '/images/team/hectorcosta.jpg',
+    '/images/team/julieta.png',
+    '/images/team/shaycojocaru.jpg'
+  ],
   photo: [
     '/images/mobile/pilot-timor.jpg',
     '/images/mobile/phrase-improvement.png',

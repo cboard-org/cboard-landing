@@ -90,6 +90,21 @@
       "title8": "Person with autism",
       "text9": "Clear layout and user friendly, perfect for partially or nonverbal episodes.",
       "title9": ""
+    },
+    "team_title": "Meet the Team",
+    "team": {
+      "text1": "Martín Bedouret is an Electronic Engineer and works as a software developer and school teacher in Córdoba, Argentina. After being diagnosed with ALS in 2016, he began working on creating Cboard to provide a free and accessible AAC app for children and adults with speech and language impairments.",
+      "title1": "Co-founder and CEO",
+      "text2": "Katrina Cohen Cosentino has a degree in Sociology, and began working with Cboard in 2018 running user testing at different rehabilitation centers. She has experience in education project development and implementation.",
+      "title2": "Outreach Manager",
+      "text3": "Tomi is a software enthusiast and a great surfer 🏄. He enjoys to develop Assistive Technology to help people with disabilities. Tomi joined Cboard in 2021 and he has helped to improved the product and supported our open-source community.",
+      "title3": "Senior Developer",
+      "text4": "Rodri loves to develop great software for Cboard. He has a degree in computer science and loves the waves for surfing 🏄. Rodri has contributed with great ideas to Cboard since he joined the team in 2021. As a good programmer, he always focus on quality and excellence, so his contribution is amazing.",
+      "title4": "Senior Developer",
+      "text5": "Héctor is a brilliant biomedical engineer and a very focused specialist in artificial intelligence. He has a lot of experience working with Assistive Technology and augmentative and alternative communication as a founder of his own company back in 2016.",
+      "title5": "AI Specialist",
+      "text7": "Shay is a Software developer from Israel. Started coding in 2012. Open-Source enthusiast. Co-founded Cboard with Martin Bedouret in 2017 with the intention of providing a free and open-source communication tool for adults and children with disabilities.",
+      "title7": "Technical Advisor"
     }
   }
 }
