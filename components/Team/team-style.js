@@ -7,7 +7,8 @@ const teamStyles = makeStyles({ uniqId: 'testi' })((theme, _params, classes) => 
   root: {
     background: theme.palette.mode === 'dark' ? darken(theme.palette.primary.light, 0.6) : lighten(theme.palette.primary.light, 0.8),
     minHeight: 400,
-    paddingTop: theme.spacing(20)
+    paddingTop: theme.spacing(20),
+    marginBottom: theme.spacing(30),
   },
   carouselWrap: {
     position: 'relative',
@@ -52,6 +53,10 @@ const teamStyles = makeStyles({ uniqId: 'testi' })((theme, _params, classes) => 
       height: 140,
       marginBottom: theme.spacing(9),
       paddingTop: theme.spacing(8),
+      [theme.breakpoints.down('md')]: {
+        paddingTop: theme.spacing(2.5),
+        marginBottom: theme.spacing(3),
+      }
     },
     '& div[class*="slick-center"]': {
       [`& .${classes.avatar}`]: {

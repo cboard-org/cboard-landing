@@ -19,6 +19,7 @@
   "form_send": "Enviar mensaje",
   "accept": "Aceptar",
   "en": "Inglés",
+  "es": "Español",
   "de": "Deutsch",
   "zh": "简体中文",
   "pt": "Português",
@@ -34,6 +35,7 @@
     "header_showcase": "ejemplo",
     "header_testimonials": "testimonios",
     "header_faq": "Preguntas más frecuentes",
+    "header_blog": "blog",
     "header_contact": "contacto",
     "banner_title": "Comunicación para",
     "banner_titlestrong": "Todos",
@@ -88,6 +90,40 @@
       "title8": "Persona con autismo",
       "text9": "Diseño claro y fácil de usar, perfecto para episodios parciales o no verbales.",
       "title9": ""
+    },
+    "team_title": "Conoce al Equipo",
+    "team": {
+      "text1": "Martín Bedouret es Ingeniero Electrónico y trabaja como desarrollador de software y profesor escolar en Córdoba, Argentina. Después de ser diagnosticado con ELA en 2016, comenzó a trabajar en la creación de Cboard para proporcionar una aplicación AAC gratuita y accesible para niños y adultos con discapacidades de voz y lenguaje.",
+      "title1": "Co-fundador y CEO",
+      "text2": "Katrina Cohen Cosentino tiene una licenciatura en Sociología y comenzó a trabajar con Cboard en 2018 ejecutando pruebas de usuarios en diferentes centros de rehabilitación de la empresa. Tiene experiencia en el desarrollo e implementación de proyectos educativos.",
+      "title2": "Gerente de treach",
+      "text3": "Tomi es un entusiasta del software y un gran surfista 🏄. Le gusta desarrollar la tecnología de asistencia para ayudar a las personas con discapacidades. Tomi se unió a Cboard en 2021 y ha ayudado a mejorar el producto y ha apoyado a nuestra comunidad de código abierto.",
+      "title3": "Desarrollador Senior",
+      "text4": "A Rodri le encanta desarrollar un gran software para Cboard y es licenciado en Ciencias de la Computación y ama las olas para el surf 🏄. Rodri ha aportado grandes ideas a Cboard desde que se unió al equipo en 2021. Como buen programador, siempre se centra en la calidad y la excelencia, por lo que su contribución es sorprendente.",
+      "title4": "Desarrollador Senior",
+      "text5": "Héctor es un ingeniero biomédico brillante y un especialista muy enfocado en inteligencia artificial. Tiene mucha experiencia trabajando con Asesoramiento Tecnológico y comunicación adicional y alternativa como fundador de su propia empresa en 2016.",
+      "title5": "AI Specialist",
+      "text7": "Shay es un desarrollador de software de Israel. Comenzó a programar en 2012. Cboard cofundado con Martin Bedouret en 2017 con la intención de proporcionar una herramienta de comunicación gratuita y de código abierto para adultos y niños con discapacidad.",
+      "title7": "Asesor técnico"
+    },
+    "timeline_title": "Nuestra historia",
+    "timeline": {
+      "title1": "Repositorio de código abierto creado",
+      "text1": "Shay Cojocaru creó el repositorio en GitHub y comenzó a buscar colaboradores.",
+      "title2": "Inversión del Fondo de Innovación Unicef",
+      "text2": "Cboard recibió una inversión del Fondo de Innovación Unicef para mejorar la aplicación y hacerla más accesible.",
+      "title3": "Lanzamiento público",
+      "text3": "El tablero fue lanzado al público y recibió muchos comentarios positivos de los usuarios.",
+      "title4": "Pilotos europeos",
+      "text4": "Cboard fue utilizado en los pilotos europeos para probar la aplicación en diferentes idiomas y entornos.",
+      "title5": "Expansión del equipo",
+      "text5": "El equipo se expandió para incluir a más desarrolladores y diseñadores para mejorar la aplicación.",
+      "title6": "Microsoft AI para la concesión de accesibilidad",
+      "text6": "Cboard recibió una subvención de Microsoft AI para Accesibilidad para mejorar la aplicación con funciones de IA.",
+      "title7": "Nuevas características de IA",
+      "text7": "El tablero se actualizó con nuevas características de IA para mejorar la experiencia del usuario.",
+      "title8": "Nuevos productos lanzados",
+      "text8": "Cboard lanzó nuevos productos para ayudar a más personas con discapacidades a comunicarse."
     }
   }
 }

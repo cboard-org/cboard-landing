@@ -278,7 +278,7 @@ const footerStyles = makeStyles({ uniqId: 'footer' })((theme, _params, classes) 
       '& img': {
         width: 160,
         [theme.breakpoints.down('sm')]: {
-          width: '100%',
+          width: '60%',
         },
       }
     }
