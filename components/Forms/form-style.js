@@ -93,6 +93,7 @@ const contactStyles = makeStyles({ uniqId: 'form' })((theme, _params, classes) =
     left: 0
   },
   innerWrap: {
+    position: 'relative',
     textAlign: 'left',
     zIndex: 1
   },

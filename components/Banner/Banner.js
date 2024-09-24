@@ -57,13 +57,14 @@ function Banner() {
                 <Typography variant="h5" className={text.subtitle}>
                   {t('mobile-landing.banner_desc')}
                 </Typography>
-                  <Button
-                    component={Link} href="https://app.cboard.io/"
-                    aria-label="cboard-app"
-                    variant="contained"
-                    className={classes.openCboard}
-                    size="large">Open Cboard 
-                  </Button> 
+                <Button
+                  component={Link} href="https://app.cboard.io/"
+                  aria-label="cboard-app"
+                  variant="contained"
+                  className={classes.openCboard}
+                  size="large">
+                  {t('mobile-landing.cta_btn')}
+                </Button>
                 <div className={classes.btnArea}>
                   <Link href="https://apps.apple.com/gb/app/aac-cboard-app/id6453683048">
                     <img src="/images/mobile/app-store.png" alt="app store" />

@@ -31,6 +31,7 @@ const footerStyles = makeStyles({ uniqId: 'footer' })((theme, _params, classes) 
     },
   },
   footer: {
+    zIndex: 1,
     position: 'relative',
     marginTop: theme.spacing(8),
     paddingBottom: theme.spacing(12),
@@ -200,7 +201,7 @@ const footerStyles = makeStyles({ uniqId: 'footer' })((theme, _params, classes) 
       padding: theme.spacing(10, 3, 0),
     },
     '&:before': {
-      zIndex: 1,
+      zIndex: 0,
       content: '""',
       width: '100%',
       height: 500,
