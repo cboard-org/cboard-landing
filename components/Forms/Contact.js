@@ -51,11 +51,37 @@ function Contact() {
   };
 
   const handleSubmit = () => {
-    setNotif(true);
+    sendEmail();
   };
 
   const handleClose = () => {
     setNotif(false);
+  };
+
+  const sendEmail = async () => {
+    const body = {
+      message: values.message,
+      name: values.name,
+      email: values.email,
+      phone: values.phone,
+      company: values.company
+    };
+    try {
+      const res = await fetch('/api/email', {
+        method: 'POST',
+        body: JSON.stringify(body),
+      });
+      if (res.status === 200) {
+        setNotif(true);
+        console.log('Email Message Sent');
+      } else {
+        setNotif(false);
+        console.error('Email Message Failed');
+      }
+    } catch (error) {
+      setNotif(false);
+      console.error('Email Message Failed ' + error);
+    }
   };
 
   return (
