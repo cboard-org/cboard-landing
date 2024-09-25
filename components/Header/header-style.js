@@ -236,7 +236,7 @@ const headerStyles = makeStyles({ uniqId: 'header' })((theme, _params, classes) 
       }
     },
     '& svg': {
-      fill: theme.palette.common.white,
+      fill: theme.palette.common.oceanBlue,
       width: 30,
       height: 30,
       [theme.breakpoints.down('sm')]: {
