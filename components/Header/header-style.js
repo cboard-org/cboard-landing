@@ -1,6 +1,7 @@
 import { makeStyles } from 'tss-react/mui';
 import { alpha } from '@mui/material/styles';
 import flag from 'public/images/flag-logo.png';
+import { color } from 'framer-motion';
 
 const flagIcon = {
   width: 16,
@@ -218,7 +219,7 @@ const headerStyles = makeStyles({ uniqId: 'header' })((theme, _params, classes) 
     padding: theme.spacing(0.5),
     margin: '0 6px',
     '& i': {
-      color: theme.palette.common.white,
+      color: theme.palette.common.oceanBlue,
       fontSize: 22,
     }
   },
@@ -228,7 +229,7 @@ const headerStyles = makeStyles({ uniqId: 'header' })((theme, _params, classes) 
     margin: theme.spacing(0, 1),
     [`& .${classes.icon}`]: {
       transition: 'all 0.3s ease',
-      color: theme.palette.common.white,
+      color: theme.palette.common.oceanBlue,
       [`&.${classes.invert}`]: {
         '& svg': {
           fill: theme.palette.text.secondary
