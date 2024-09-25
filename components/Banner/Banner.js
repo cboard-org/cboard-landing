@@ -47,7 +47,7 @@ function Banner() {
           <Grid container>
             <Grid item md={7} xs={12}>
               <div className={classes.text}>
-                <Typography variant="h3" className={text.title}>
+                <Typography variant="h1" className={text.title}>
                   {t('mobile-landing.banner_title')}
                   &nbsp;
                   <strong>

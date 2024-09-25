@@ -68,7 +68,7 @@ const bannerStyles = makeStyles({ uniqId: 'banner' })(theme => ({
       paddingTop: theme.spacing(15),
       height: 560
     },
-    '& h3': {
+    '& h1': {
       marginTop: theme.spacing(12),
       [theme.breakpoints.down('lg')]: {
         marginTop: theme.spacing(3),
