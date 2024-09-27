@@ -144,7 +144,7 @@ function MyApp(props) {
             key={router.route}
           />
         </div>
-        <GoogleAnalytics gaId="G-375493798" />
+        <GoogleAnalytics gaId="G-Y3SQLJ3L0M" />
       </ThemeProvider>
     </CacheProvider>
   );
