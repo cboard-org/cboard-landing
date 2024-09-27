@@ -12,7 +12,7 @@ import particleSpray from './particle-spray';
 import useStyles from './banner-style';
 import { motion } from 'framer-motion';
 import { Button } from '@mui/material';
-import { sendGAEvent } from '@next/third-parties/google'
+import { sendGAEvent } from '@next/third-parties/google';
 
 function Banner() {
   const { classes, cx } = useStyles();
@@ -60,7 +60,7 @@ function Banner() {
                 </Typography>
                 <Button
                   component={Link} href="https://app.cboard.io/"
-                  onClick={() => sendGAEvent('event', 'open_web_app', 'cta')}
+                  onClick={() => sendGAEvent('event', 'open_web_app', 'banner')}
                   aria-label="cboard-app"
                   variant="contained"
                   className={classes.openCboard}
@@ -70,22 +70,22 @@ function Banner() {
                 <div className={classes.btnArea}>
                   <Link
                     href="https://apps.apple.com/gb/app/aac-cboard-app/id6453683048"
-                    onClick={() => sendGAEvent('event', 'open_ios_store', 'cta')}>
+                    onClick={() => sendGAEvent('event', 'open_ios_store', 'banner')}>
                     <img src="/images/mobile/app-store.png" alt="app store" />
                   </Link>
                   <Link
                     href="https://play.google.com/store/apps/details?id=com.unicef.cboard"
-                    onClick={() => sendGAEvent('event', 'open_android_store', 'cta')}>
+                    onClick={() => sendGAEvent('event', 'open_android_store', 'banner')}>
                     <img src="/images/mobile/play-store.png" alt="play store" />
                   </Link>
                   <Link
                     href="https://apps.microsoft.com/store/detail/XP9M5KQV699FLR"
-                    onClick={() => sendGAEvent('event', 'open_microsoft_store', 'cta')}>
+                    onClick={() => sendGAEvent('event', 'open_microsoft_store', 'banner')}>
                     <img src="/images/mobile/ms-store.png" alt="microsoft store" />
                   </Link>
                   <Link
                     href="https://www.amazon.com/-/en/dp/B0BWGZBQ7V/ref=sr_1_2?crid=3KHHTU961DJKE&keywords=cboard&qid=1684203554&s=mobile-apps&sprefix=%2Cmobile-apps%2C245&sr=1-2"
-                    onClick={() => sendGAEvent('event', 'open_amazon_store', 'cta')}>
+                    onClick={() => sendGAEvent('event', 'open_amazon_store', 'banner')}>
                     <img src="/images/mobile/amazon-store.png" alt="amazon store" />
                   </Link>
                 </div>
