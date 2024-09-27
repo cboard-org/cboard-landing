@@ -29,7 +29,7 @@ const footers = [
   {
     title: 'Company',
     description: ['Team', 'History', 'Contact us', 'Locations'],
-    link: ['/team', '/history', '/contact', '#locations'],
+    link: ['/team', '/history', '/contact', '/locations'],
   },
   {
     title: 'Resources',
