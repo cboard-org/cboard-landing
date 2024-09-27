@@ -12,6 +12,7 @@ import LoadingBar from 'react-top-loading-bar';
 import { appWithTranslation } from 'next-i18next';
 import lngDetector from '../lib/languageDetector';
 import appTheme from '../theme/appTheme';
+import { GoogleAnalytics } from "@next/third-parties/google";
 /* import css vendors */
 import 'dandelion-animated-slider/build/horizontal.css';
 import 'animate.css/animate.css';
@@ -143,6 +144,7 @@ function MyApp(props) {
             key={router.route}
           />
         </div>
+        <GoogleAnalytics gaId="G-375493798" />
       </ThemeProvider>
     </CacheProvider>
   );

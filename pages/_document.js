@@ -5,7 +5,6 @@ import { getInitColorSchemeScript } from '@mui/material/styles';
 import createEmotionCache from '../theme/createEmotionCache';
 import HeadComponent from '../components/head';
 import i18nextConfig from '../next-i18next.config';
-import { GoogleAnalytics } from "@next/third-parties/google";
 
 class MyDocument extends Document {
   render() {
@@ -39,7 +38,6 @@ class MyDocument extends Document {
           <Main />
           <NextScript />
         </body>
-        <GoogleAnalytics gaId="G-375493798" />
       </Html>
     );
   }
