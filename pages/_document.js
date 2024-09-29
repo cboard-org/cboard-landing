@@ -25,10 +25,12 @@ class MyDocument extends Document {
           >
             <img
               style={{
-                opacity: 0.5,
+                height: '120px',
+                width: '120px',
+                opacity: 0.9,
                 position: 'fixed',
-                top: 'calc(50% - 50px)',
-                left: 'calc(50% - 50px)'
+                top: 'calc(50% - 60px)',
+                left: 'calc(50% - 60px)'
               }}
               src="/images/loading.gif"
               alt="loading"
