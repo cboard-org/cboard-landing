@@ -42,7 +42,6 @@ function PageNav() {
   const [menuList] = useState([
     createData(1, navMenu[0], '#' + navMenu[0].replace(/ /g, '_')),
     createData(2, navMenu[1], '#' + navMenu[1].replace(/ /g, '_')),
-    createData(3, navMenu[2], '#' + navMenu[2].replace(/ /g, '_')),
   ]);
   return (
     <div className={cx(classes.pageNav, show && classes.show)}>

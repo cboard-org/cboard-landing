@@ -2,7 +2,8 @@ const link = {
   mobile: {
     home: '/',
     contact: '/contact',
-    blog: '/blog'
+    blog: '/blog',
+    pricing: '/pricing',
   }
 };
 

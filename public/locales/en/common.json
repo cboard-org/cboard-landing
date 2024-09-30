@@ -37,6 +37,7 @@
     "header_testimonials": "testimonials",
     "header_faq": "faq",
     "header_blog": "blog",
+    "header_pricing": "pricing",
     "header_contact": "contact",
     "banner_title": "Communication for",
     "banner_titlestrong": "Everyone",
@@ -60,7 +61,7 @@
     "news_title": "Latest News",
     "news_desc": "Read more about latest news and our events and workshops",
     "footer_text": "What are you waiting for? Download Now!",
-    "locations_title": "Our Locations", 
+    "locations_title": "Our Locations",
     "locations_desc": "We are a global company with collaborators worldwide. Our headquarters are located in the United States. We believe in a connected world through the technology. Our collaborators are from Argentina, Israel, Luxembourg, Spain, and Brazil.",
     "faqs": {
       "faq1": "What is Cboard?",
@@ -127,6 +128,32 @@
       "text7": "Cboard was updated with new AI features to improve the user experience.",
       "title8": "New products launched",
       "text8": "Cboard launched new products to help more people with disabilities communicate."
+    },
+    "pricing": {
+      "title": "Pricing",
+      "getStarted": "Get Started",  
+      "subscribe": "Subscribe",
+      "subtitle": "Choose the plan that works for you.",
+      "title1": "Free",
+      "billingPeriod1": "Forever",
+      "text1": "Not included features",
+      "title2": "Pro Monthly Plan",
+      "billingPeriod2": "Monthly",
+      "text2": "Included features",
+      "title3": "Pro Yearly Plan",
+      "billingPeriod3": "Yearly",
+      "text3": "Included features",
+      "feature1": "Online neural voices",
+      "feature2": "Copy public boards",
+      "feature3": "Publish boards",
+      "feature4": "Copy tiles",
+      "feature5": "Powerful usage analytics",
+      "feature6": "Share boards",
+      "feature7": "Ads free",
+      "feature8": "Export to open board format (OBF)",
+      "feature9": "Share phrases",
+      "feature10": "Private support channel",
+      "feature11": "Voice recording for tiles"
     }
   }
 }

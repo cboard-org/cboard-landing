@@ -1,5 +1,4 @@
 const menu = [
-  'feature',
   'showcase',
   'faq'
 ];

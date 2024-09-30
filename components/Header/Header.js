@@ -65,7 +65,6 @@ function Header(props) {
   const [menuList] = useState([
     createData(navMenu[0], '#' + navMenu[0]),
     createData(navMenu[1], '#' + navMenu[1]),
-    createData(navMenu[2], '#' + navMenu[2]),
   ]);
   const [openDrawer, setOpenDrawer] = useState(false);
   const handleOpenDrawer = () => {
@@ -134,6 +133,11 @@ function Header(props) {
                   <li>
                     <Button component={Link} href={linkRouter.mobile.blog}>
                       {t('mobile-landing.header_blog')}
+                    </Button>
+                  </li>
+                  <li>
+                    <Button component={Link} href={linkRouter.mobile.pricing}>
+                      {t('mobile-landing.header_pricing')}
                     </Button>
                   </li>
                   <li>
