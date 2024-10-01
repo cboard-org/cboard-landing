@@ -7,7 +7,13 @@ const pricingStyles = makeStyles({ uniqId: 'te22sti' })((theme, _params, classes
   root: {
     background: theme.palette.mode === 'dark' ? darken(theme.palette.primary.light, 0.6) : lighten(theme.palette.primary.light, 0.8),
     minHeight: 1500,
-    paddingTop: theme.spacing(20)
+    paddingTop: theme.spacing(20),
+    [theme.breakpoints.down('sm')]: {
+      paddingBottom: theme.spacing(23)
+    },
+    [theme.breakpoints.down('md')]: {
+      paddingBottom: theme.spacing(40)
+    }
   },
   titles: {
     fontWeight: 'bold',
@@ -19,10 +25,12 @@ const pricingStyles = makeStyles({ uniqId: 'te22sti' })((theme, _params, classes
   iconRed: {
     color: 'red',
   },
-  carouselWrap: {
-    position: 'relative',
-    zIndex: 1,
-    textAlign: 'center'
+  pricingWrap: {
+    marginBottom: 0,
+    [theme.breakpoints.down('sm')]: {
+      paddingBottom: theme.spacing(10),
+      marginBottom: theme.spacing(10)
+    }
   },
   item: {
     '&:focus': {

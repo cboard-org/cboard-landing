@@ -66,7 +66,7 @@ const bannerStyles = makeStyles({ uniqId: 'banner' })(theme => ({
     [theme.breakpoints.down('sm')]: {
       justifyContent: 'flex-start',
       paddingTop: theme.spacing(15),
-      height: 560
+      height: 'fit-content'
     },
     '& h1': {
       marginTop: theme.spacing(12),

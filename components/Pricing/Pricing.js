@@ -67,6 +67,7 @@ function Pricing() {
       </div>
       <Grid2
         container
+        className={classes.pricingWrap}
         spacing={0}
         alignItems="center"
         justifyContent="center"
