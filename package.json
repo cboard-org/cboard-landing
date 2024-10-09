@@ -18,7 +18,7 @@
 		"build": "next build",
 		"export": "next export",
 		"start": "next start -p 3006",
-		"now-build": "next build && next export -o dist"
+		"now-build": "next build"
 	},
 	"dependencies": {
 		"@babel/core": "^7.16.5",
