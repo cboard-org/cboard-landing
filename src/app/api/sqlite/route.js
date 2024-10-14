@@ -30,7 +30,7 @@ export async function GET(req, res) {
 
     return new Response(
       JSON.stringify(
-        { message: "Failed to get codes" },
+        { message: "Failed to get codes" + error.message },
         {
           headers: { "content-type": "application/json" },
           status: 500,
