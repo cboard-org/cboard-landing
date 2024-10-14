@@ -286,6 +286,26 @@ const contactStyles = makeStyles({ uniqId: 'form' })((theme, _params, classes) =
     position: 'relative',
     padding: theme.spacing(6)
   },
+  emailResponseMsg: {
+    display: 'flex',
+    alignItems: 'center',
+    justifyContent: 'center',
+    flexDirection: 'column'
+  },
+  emailSuccess: {
+    fontSize: 20,
+    color: theme.palette.success.main
+  },
+  emailSuccessIcon: {
+    color: theme.palette.success.main
+  },
+  emailError: {
+    fontSize: 20,
+    color: theme.palette.error.main
+  },
+  emailErrorIcon: {
+    color: theme.palette.error.main
+  },
 }));
 
 // TODO jss-to-tss-react codemod: usages of this hook outside of this file will not be converted.
