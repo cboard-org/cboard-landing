@@ -11,7 +11,7 @@ export async function GET(req, res) {
     // Open a new connection if there is none
     if (!db) {
       db = await open({
-        filename: "/src/app/api/sqlite/preview-codes.db",
+        filename: "./preview-codes.db",
         driver: sqlite3.Database,
       });
     }
