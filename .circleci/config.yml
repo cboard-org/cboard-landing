@@ -42,7 +42,7 @@ jobs:
       - run:
           name: Build Docker image
           command: |
-            docker build -t cboard/cboard-landing:$TAG -t cboard/cboard-landing:latest -f ./docker/Dockerfile .
+            docker build -t cboard/cboard-landing:$TAG -t cboard/cboard-landing:latest -f ./Dockerfile .
       - run:
           name: Push Docker image
           command: |
