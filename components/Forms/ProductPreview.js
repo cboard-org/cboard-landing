@@ -84,7 +84,7 @@ function ProductPreview() {
     }
 
     // Send the code to the email
-    body.link = 'https://cbuilder.cbboard.com/';
+    body.link = 'https://cbuilder.cboard.com/';
     body.name = values.name;
 
     try {
