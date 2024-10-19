@@ -6,7 +6,7 @@ export default async function handler(req, res) {
   const body = JSON.parse(req.body);
   const msg = {
     to: body.email,
-    from: body.email,
+    from: 'support@cboard.io',
     subject: 'Message From Cboard Portal',
     text: 'Hi ' + body.name + '!' +
       '\nThanks for your interest in participate in our product preview. ' + 

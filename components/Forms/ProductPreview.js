@@ -19,7 +19,6 @@ import Link from '../Link';
 import Checkbox from './Checkbox';
 import ParallaxDeco from '../Parallax/Large';
 import useStyles from './form-style';
-import link from 'public/text/link';
 
 function ProductPreview() {
   const { classes, cx } = useStyles();
@@ -57,70 +56,36 @@ function ProductPreview() {
     sendCodeEmail();
   };
 
-  const handleClose = () => {
-    setNotif(false);
-  };
-
   const sendCodeEmail = async () => {
     const body = {
-      name: values.name,
       email: values.email,
-      link: 'https://cbuilder.cboard.io',
+      source: 'Closing the gap 2024',
     };
     try {
-      // Get available codes from the database
-      const res = await fetch('/api/sqlite', {
-        method: 'GET'
-      });
-
-      if (res.status === 200) {
-        const data = await res.json();
-        if (data.length > 0) {
-          // check if email is already in the database
-          for (let i = 0; i < data.length; i++) {
-            if (data[i].email === values.email) {
-              console.error('Email already exists');
-              setErrorNotif(true);
-              return;
-            }
-          }
-          // get the first available code
-          for (let i = 0; i < data.length; i++) {
-            if (data[i].email === '') {
-              body.id = data[i].id;
-              body.code = data[i].code;
-              body.source = data[i].source;
-            }
-          }
-        } else {
-          console.error('No available codes');
-          return;
-        }
-      } else {
-        console.error('Failed to get codes');
-        return;
-      }
-    } catch (error) {
-      console.error('Failed to get codes ' + error.message);
-      return;
-    }
-    try {
-      const res = await fetch('/api/sqlite', {
-        method: 'PATCH',
+      const res = await fetch('/api/cbuilder', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json'
+        },
         body: JSON.stringify(body),
       });
       if (res.status === 200) {
-        console.log('Database Updated successfully');
+        const data = await res.json();
+        body.code = data.code; // get the code from the response
       } else {
-        setNotif(false);
-        console.error('Database Update Failed');
+        console.error('Error creating code');
+        setErrorNotif(true);
         return;
       }
     } catch (error) {
-      setNotif(false);
-      console.error('Database Update Failed ' + error.message);
+      console.error('Email Message Failed ' + error.message);
+      setErrorNotif(true);
       return;
     }
+
+    // Send the code to the email
+    body.link = 'https://cbuilder.cbboard.com/';
+    body.name = values.name;
 
     try {
       const res = await fetch('/api/email-code', {
@@ -131,11 +96,11 @@ function ProductPreview() {
         setNotif(true);
         console.log('Email Message Sent');
       } else {
-        setNotif(false);
+        setErrorNotif(true);
         console.error('Email Message Failed');
       }
     } catch (error) {
-      setNotif(false);
+      setErrorNotif(true);
       console.error('Email Message Failed ' + error.message);
     }
   };
