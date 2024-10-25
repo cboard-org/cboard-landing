@@ -19,7 +19,7 @@ The pilot, spanning from September to December 2023, employed the Psychosocial I
 
 This report provides a comprehensive review of the pilot's outcomes, including insights into participating schools, PIADS form results, and observations gathered during in-person visits.
 
-## **Report available for download: <a href="/files/CboardTimorLestePilot2023Report.pdf" download>Click to Download</a>**
+## **Report available for download: <a href="/public/documents/CboardTimorLestePilot2023Report.pdf" download>Click to Download</a>**
 
 
 For any questions regarding the pilot, please get in touch with us: [support@cboard.io](support@cboard.io)
