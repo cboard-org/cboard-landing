@@ -23,6 +23,8 @@
   "product_preview_email_success": "Email successfully sent. Thank you for your interest in Cbuilder. We have sent you an email with the access code.",
   "product_preview_email_error": "Your email address is already registered for this product preview. Please check your email inbox. ",
   "accept": "Accept",
+  "email_success": "Email successfully sent. Thank you for your interest in Cboard!. We have sent a message to the team and you will receive a response soon.",
+  "email_error": "There was an error trying to send your message. Please try again in a moment.",
   "en": "English",
   "es": "Spanish",
   "de": "Deutsch",
