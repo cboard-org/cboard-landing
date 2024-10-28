@@ -37,8 +37,10 @@ function Pricing() {
     {
       id: 3,
       title: t('mobile-landing.pricing.title3'),
+      subtitle: t('mobile-landing.pricing.subtitle3'),
       currencyCode: 'USD',
-      units: '79',
+      units: '38',
+      subprice: '79',
       billingPeriod: t('mobile-landing.pricing.billingPeriod3'),
       text: t('mobile-landing.pricing.text3'),
       icon: <PublicIcon />,
@@ -90,12 +92,22 @@ function Pricing() {
                   >
                     {product.title}
                   </Typography>
+                  {product.subtitle && (
+                  <Typography
+                    color="red"
+                    gutterBottom
+                    className={classes.subtitles}
+                  >
+                    {product.subtitle}
+                  </Typography>
+                  )}
                   <Box
                     sx={{
                       display: 'flex',
                       justifyContent: 'center',
                       alignItems: 'baseline',
-                      mb: 2
+                      mb: 2,
+                      
                     }}
                   >
                     <Typography
@@ -109,6 +121,15 @@ function Pricing() {
                       /{product.billingPeriod}
                     </Typography>
                   </Box>
+                    {product.subprice && (
+                    <Typography
+                    className={classes.subprice}
+                      component="h2"
+                      variant="h5"
+                    >
+                      {t('mobile-landing.pricing.standardPrice')} {product.currencyCode} {product.subprice}
+                    </Typography>
+                    )}
                   <Button
                     component={Link} href={product.id === 1 ? "https://app.cboard.io/" : "https://app.cboard.io/settings/subscribe"}
                     style={{ width: '90%' }}

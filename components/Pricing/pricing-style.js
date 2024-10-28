@@ -2,6 +2,7 @@ import { makeStyles } from 'tss-react/mui';
 import { lighten, darken } from '@mui/material/styles';
 import decoLightBottom from 'public/images/mobile/deco-light-top.svg';
 import decoDarkBottom from 'public/images/mobile/deco-dark-top.svg';
+import { t } from 'i18next';
 
 const pricingStyles = makeStyles({ uniqId: 'te22sti' })((theme, _params, classes) => ({
   root: {
@@ -18,6 +19,17 @@ const pricingStyles = makeStyles({ uniqId: 'te22sti' })((theme, _params, classes
   titles: {
     fontWeight: 'bold',
     fontSize: '1.2rem'
+  },
+  subtitle: {
+    fontSize: '0.8rem',
+    fontColor: 'red'
+  },
+  subprice: {
+    textDecoration: 'line-through',
+    fontSize: '1rem',
+    paddingBottom: 10,
+    paddingLeft: 40,
+    color: theme.palette.mode === 'dark' ? theme.palette.grey[300] : theme.palette.grey[600]
   },
   icon: {
     color: 'green',
