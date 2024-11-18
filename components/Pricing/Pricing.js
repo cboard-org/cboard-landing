@@ -37,10 +37,10 @@ function Pricing() {
     {
       id: 3,
       title: t('mobile-landing.pricing.title3'),
-      subtitle: t('mobile-landing.pricing.subtitle3'),
+      //subtitle: t('mobile-landing.pricing.subtitle3'),
       currencyCode: 'USD',
-      units: '38',
-      subprice: '79',
+      units: '79',
+      //subprice: '79',
       billingPeriod: t('mobile-landing.pricing.billingPeriod3'),
       text: t('mobile-landing.pricing.text3'),
       icon: <PublicIcon />,
