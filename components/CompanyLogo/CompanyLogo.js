@@ -7,7 +7,7 @@ import useStyles from './logo-style';
 
 const logos = [
   '/images/logos/microsoft.png',
-  '/images/logos/unicef.png',
+  //'/images/logos/unicef.png',
   '/images/logos/ceibal.png',
   '/images/logos/2ghether.png',
 ];
