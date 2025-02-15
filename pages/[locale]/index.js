@@ -3,6 +3,7 @@ import PropTypes from 'prop-types';
 import Head from 'next/head';
 import useMediaQuery from '@mui/material/useMediaQuery';
 import { makeStyles } from 'tss-react/mui';
+import { useTranslation } from 'next-i18next';
 import CssBaseline from '@mui/material/CssBaseline';
 import { getStaticPaths, makeStaticPropsWithPosts } from 'lib/getStatic';
 import brand from 'public/text/brand';
@@ -68,12 +69,13 @@ function Landing(props) {
   const { classes } = useStyles();
   const { onToggleDark, onToggleDir, posts } = props;
   const isTablet = useMediaQuery(theme => theme.breakpoints.down('lg'));
+  const { t } = useTranslation('common');
 
   return (
     <Fragment>
       <Head>
         <title>
-          { brand.mobile.name + ' | Home Page' }
+          { brand.mobile.name + ' | ' + t("title_home") }
         </title>
       </Head>
       <CssBaseline />
