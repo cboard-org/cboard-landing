@@ -2,6 +2,11 @@ const crowdinTranslations = require('@crowdin/crowdin-api-client').Translations;
 const crowdinProjectsGroups = require('@crowdin/crowdin-api-client').ProjectsGroups;
 const crowdinSourceFiles = require('@crowdin/crowdin-api-client').SourceFiles;
 const crowdinUploadStorage = require('@crowdin/crowdin-api-client').UploadStorage;
+const https = require('https');
+const fs = require('fs');
+const resolve = require('path').resolve;
+const DecompressZip = require('decompress-zip');
+const fse = require('fs-extra');
 
 const CROWDIN_TOKEN = process.env.CROWDIN_PERSONAL_TOKEN;
 const CROWDIN_PROJECT_ID = 262825;
@@ -10,26 +15,53 @@ const CROWDIN_PROJECT_ID = 262825;
 const credentials = {
   token: CROWDIN_TOKEN
 };
+
+// create an instance of the crowdin client
 const translationApi = new crowdinTranslations(credentials);
 const projectsGroupsApi = new crowdinProjectsGroups(credentials);
 const sourceFilesApi = new crowdinSourceFiles(credentials);
 const uploadStorageApi = new crowdinUploadStorage(credentials);
 
-const https = require('https');
-const fs = require('fs');
-const resolve = require('path').resolve;
-const DecompressZip = require('decompress-zip');
-const fse = require('fs-extra');
-const { t } = require('i18next');
+// languages to download
+const languages = [
+  {
+    source: 'ar-SA',
+    dest: 'ar'
+  },
+  {
+    source: 'de-DE',
+    dest: 'de'
+  },
+  {
+    source: 'en-US',
+    dest: 'en'
+  },
+  {
+    source: 'es-ES',
+    dest: 'es'
+  },
+  {
+    source: 'id-ID',
+    dest: 'id'
+  },
+  {
+    source: 'pt-BR',
+    dest: 'pt'
+  },
+  {
+    source: 'zh-CN',
+    dest: 'zh'
+  }
+];
 
 const zipFilePath = resolve('./alltx.zip');
 const extractPath = resolve('./downloads');
 const langPath = resolve('./public/locales');
+let fileId = 92;
 
-const uploadTranslations = async () => {
+const uploadSourceFiles = async () => {
   let projectId = undefined;
-  let storageId
-  let fileId = undefined;
+  let storageId = undefined;
 
   try {
     const projects = await projectsGroupsApi.listProjects();
@@ -77,9 +109,25 @@ const uploadTranslations = async () => {
   } catch (error) {
     console.error('Error uploading translations:', error.message);
   }
+};
 
-
-
+const pretranslateProject = async () => {
+  console.log('Trying to pretranslate project...');
+  const languageIds = languages.map(lang => lang.dest);
+  if (fileId === undefined) {
+    console.error('File not found!');
+    return;
+  }
+  const fileIds = [fileId];
+  try {
+    const result = await translationApi.applyPreTranslation(CROWDIN_PROJECT_ID, {
+      languageIds,
+      fileIds,
+    });
+    console.log('Pre-translation started:', result.data);
+  } catch (error) {
+    console.error('Error pretranslating:', error.message);
+  }
 };
 
 const downloadTranslations = async onComplete => {
@@ -117,37 +165,6 @@ const extractTranslations = () => {
   unzipper.on('error', function (err) {
     console.log('DecompressZip Caught an error:', err);
   });
-
-  const languages = [
-    {
-      source: 'ar-SA',
-      dest: 'ar'
-    },
-    {
-      source: 'de-DE',
-      dest: 'de'
-    },
-    {
-      source: 'en-US',
-      dest: 'en'
-    },
-    {
-      source: 'es-ES',
-      dest: 'es'
-    },
-    {
-      source: 'id-ID',
-      dest: 'id'
-    },
-    {
-      source: 'pt-BR',
-      dest: 'pt'
-    },
-    {
-      source: 'zh-CN',
-      dest: 'zh'
-    }
-  ];
 
   unzipper.on('extract', function (log) {
     console.log('DecompressZip finished extracting.');
@@ -192,5 +209,6 @@ const extractTranslations = () => {
     path: extractPath
   });
 };
-uploadTranslations();
+uploadSourceFiles();
+pretranslateProject();
 downloadTranslations(extractTranslations);
