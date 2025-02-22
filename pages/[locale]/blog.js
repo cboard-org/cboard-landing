@@ -3,6 +3,7 @@ import PropTypes from 'prop-types';
 import Head from 'next/head';
 import useMediaQuery from '@mui/material/useMediaQuery';
 import { makeStyles } from 'tss-react/mui';
+import { useTranslation } from 'next-i18next';
 import CssBaseline from '@mui/material/CssBaseline';
 import { getStaticPaths, makeStaticPropsWithPosts } from 'lib/getStatic';
 import brand from 'public/text/brand';
@@ -58,16 +59,17 @@ const useStyles = makeStyles({ uniqId: 'home' })(theme => ({
     }
 }));
 
-function Blog(props) {
+function BlogPage(props) {
     const { classes } = useStyles();
     const { onToggleDark, onToggleDir, posts, announcements } = props;
     const isTablet = useMediaQuery(theme => theme.breakpoints.down('lg'));
+      const { t } = useTranslation('common');
 
     return (
         <Fragment>
             <Head>
                 <title>
-                    {brand.mobile.name + ' | Blog'}
+                    {brand.mobile.name + ' | ' + t("title_blog")}
                 </title>
             </Head>
             <CssBaseline />
@@ -98,7 +100,7 @@ function Blog(props) {
     );
 }
 
-Blog.propTypes = {
+BlogPage.propTypes = {
     posts: PropTypes.array.isRequired,
     announcements: PropTypes.array.isRequired,
     onToggleDark: PropTypes.func.isRequired,
@@ -109,4 +111,4 @@ Blog.propTypes = {
 const getStaticProps = makeStaticPropsWithPosts(['common']);
 export { getStaticPaths, getStaticProps };
 
-export default Blog;
+export default BlogPage;

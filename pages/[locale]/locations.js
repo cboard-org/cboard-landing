@@ -3,6 +3,7 @@ import PropTypes from 'prop-types';
 import Head from 'next/head';
 import useMediaQuery from '@mui/material/useMediaQuery';
 import { makeStyles } from 'tss-react/mui';
+import { useTranslation } from 'next-i18next';
 import CssBaseline from '@mui/material/CssBaseline';
 import { getStaticPaths, makeStaticProps } from 'lib/getStatic';
 import brand from 'public/text/brand';
@@ -57,16 +58,17 @@ const useStyles = makeStyles({ uniqId: 'home' })(theme => ({
   }
 }));
 
-function TeamPage(props) {
+function LocationsPage(props) {
   const { classes } = useStyles();
   const { onToggleDark, onToggleDir } = props;
   const isTablet = useMediaQuery(theme => theme.breakpoints.down('lg'));
+    const { t } = useTranslation('common');
 
   return (
     <Fragment>
       <Head>
         <title>
-          { brand.mobile.name + ' | Locations' }
+          { brand.mobile.name + ' | ' + t("title_locations") }
         </title>
       </Head>
       <CssBaseline />
@@ -93,7 +95,7 @@ function TeamPage(props) {
   );
 }
 
-TeamPage.propTypes = {
+LocationsPage.propTypes = {
   onToggleDark: PropTypes.func.isRequired,
   onToggleDir: PropTypes.func.isRequired,
 };
@@ -101,4 +103,4 @@ TeamPage.propTypes = {
 const getStaticProps = makeStaticProps(['common']);
 export { getStaticPaths, getStaticProps };
 
-export default TeamPage;
+export default LocationsPage;

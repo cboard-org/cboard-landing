@@ -1,6 +1,7 @@
 import React, { Fragment } from 'react';
 import Head from 'next/head';
 import { makeStyles } from 'tss-react/mui';
+import { useTranslation } from 'next-i18next';
 import { getStaticPaths, makeStaticProps } from 'lib/getStatic';
 import brand from 'public/text/brand';
 import ContactFrm from 'components/Forms/Contact';
@@ -22,16 +23,17 @@ const useStyles = makeStyles({ uniqId: 'contactpage' })(theme => ({
   }
 }));
 
-function Contact(props) {
+function ContactPage(props) {
   const { classes } = useStyles();
   const { onToggleDark, onToggleDir } = props;
   const isTablet = useMediaQuery(theme => theme.breakpoints.down('lg'));
+    const { t } = useTranslation('common');
 
   return (
     <Fragment>
       <Head>
         <title>
-          {brand.mobile.name + ' - Contact'}
+          {brand.mobile.name + ' | ' + t('title_contact')}
         </title>
       </Head>
       <CssBaseline />
@@ -57,7 +59,7 @@ function Contact(props) {
   );
 }
 
-Contact.propTypes = {
+ContactPage.propTypes = {
   onToggleDark: PropTypes.func.isRequired,
   onToggleDir: PropTypes.func.isRequired,
 };
@@ -66,4 +68,4 @@ Contact.propTypes = {
 const getStaticProps = makeStaticProps(['common']);
 export { getStaticPaths, getStaticProps };
 
-export default Contact;
+export default ContactPage;

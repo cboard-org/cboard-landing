@@ -65,7 +65,7 @@ const useStyles = makeStyles({ uniqId: 'home' })(theme => ({
   }
 }));
 
-function Landing(props) {
+function HomePage(props) {
   const { classes } = useStyles();
   const { onToggleDark, onToggleDir, posts } = props;
   const isTablet = useMediaQuery(theme => theme.breakpoints.down('lg'));
@@ -123,7 +123,7 @@ function Landing(props) {
   );
 }
 
-Landing.propTypes = {
+HomePage.propTypes = {
   posts: PropTypes.array.isRequired,
   onToggleDark: PropTypes.func.isRequired,
   onToggleDir: PropTypes.func.isRequired,
@@ -136,4 +136,4 @@ Landing.propTypes = {
 const getStaticProps = makeStaticPropsWithPosts(['common']);
 export { getStaticPaths, getStaticProps };
 
-export default Landing;
+export default HomePage;

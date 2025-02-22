@@ -3,10 +3,8 @@ import PropTypes from 'prop-types';
 import Head from 'next/head';
 import useMediaQuery from '@mui/material/useMediaQuery';
 import { makeStyles } from 'tss-react/mui';
+import { useTranslation } from 'next-i18next';
 import CssBaseline from '@mui/material/CssBaseline';
-// Use this below for Server Side Render/Translation (SSR)
-// import { serverSideTranslations } from 'next-i18next/serverSideTranslations';
-// Use this below for Static Site Generation (SSG)
 import { getStaticPaths, makeStaticProps } from 'lib/getStatic';
 import brand from 'public/text/brand';
 import MainContainer from 'components/MainContainer';
@@ -60,16 +58,17 @@ const useStyles = makeStyles({ uniqId: 'home' })(theme => ({
   }
 }));
 
-function TermsOfUse(props) {
+function TermsPage(props) {
   const { classes } = useStyles();
   const { onToggleDark, onToggleDir } = props;
   const isTablet = useMediaQuery(theme => theme.breakpoints.down('lg'));
+    const { t } = useTranslation('common');
 
   return (
     <Fragment>
       <Head>
         <title>
-          { brand.mobile.name + ' | Terms of Use' }
+          { brand.mobile.name + ' | ' + t('title_terms') }
         </title>
       </Head>
       <CssBaseline />
@@ -96,7 +95,7 @@ function TermsOfUse(props) {
   );
 }
 
-TermsOfUse.propTypes = {
+TermsPage.propTypes = {
   onToggleDark: PropTypes.func.isRequired,
   onToggleDir: PropTypes.func.isRequired,
 };
@@ -108,4 +107,4 @@ TermsOfUse.propTypes = {
 const getStaticProps = makeStaticProps(['common']);
 export { getStaticPaths, getStaticProps };
 
-export default TermsOfUse;
+export default TermsPage;
