@@ -15,9 +15,6 @@ const credentials = {
 
 // create an instance of the crowdin client
 const translationApi = new crowdinTranslations(credentials);
-const projectsGroupsApi = new crowdinProjectsGroups(credentials);
-const sourceFilesApi = new crowdinSourceFiles(credentials);
-const uploadStorageApi = new crowdinUploadStorage(credentials);
 
 // languages to download
 const languages = [
@@ -135,6 +132,4 @@ const extractTranslations = () => {
     path: extractPath
   });
 };
-uploadSourceFiles();
-pretranslateProject();
 downloadTranslations(extractTranslations);
