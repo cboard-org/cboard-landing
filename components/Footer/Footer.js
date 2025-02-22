@@ -3,6 +3,7 @@ import PropTypes from 'prop-types';
 import Container from '@mui/material/Container';
 import Grid from '@mui/material/Grid';
 import { useTheme } from '@mui/material/styles';
+import { useTranslation } from 'next-i18next';
 import Accordion from '@mui/material/Accordion';
 import AccordionSummary from '@mui/material/AccordionSummary';
 import AccordionDetails from '@mui/material/AccordionDetails';
@@ -16,6 +17,9 @@ import logo from 'public/images/cboard-logo.svg';
 import useStyles from './footer-style';
 import SelectLang from '../LangSwitch/Select';
 
+
+const { t } = useTranslation('common');
+
 function Copyright() {
   return (
     <Typography variant="body2" display="block" align="center" color="textSecondary">
@@ -28,7 +32,7 @@ function Copyright() {
 const footers = [
   {
     title: 'Company',
-    description: ['Team', 'History', 'Contact us', 'Locations'],
+    description: [t('title_team'), t('title_history'), 'Contact us', 'Locations'],
     link: ['/team', '/history', '/contact', '/locations'],
   },
   {
