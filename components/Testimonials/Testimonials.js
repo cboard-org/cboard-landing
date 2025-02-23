@@ -58,58 +58,58 @@ function Testimonials() {
 
   const testiContent = [
     {
-      text: t('mobile-landing.testimonials.text1'),
+      text: t('testimonials.text1'),
       avatar: imgAPI.avatar[0],
       name: 'Lilyana Lee',
-      title: t('mobile-landing.testimonials.title1'),
+      title: t('testimonials.title1'),
     },
     {
-      text: t('mobile-landing.testimonials.text2'),
+      text: t('testimonials.text2'),
       avatar: imgAPI.avatar[1],
       name: 'Sofia',
-      title: t('mobile-landing.testimonials.title2'),
+      title: t('testimonials.title2'),
     },
     {
-      text: t('mobile-landing.testimonials.text3'),
+      text: t('testimonials.text3'),
       avatar: imgAPI.avatar[2],
       name: 'Holly White',
-      title: t('mobile-landing.testimonials.title3'),
+      title: t('testimonials.title3'),
     },
     {
-      text: t('mobile-landing.testimonials.text4'),
+      text: t('testimonials.text4'),
       avatar: imgAPI.avatar[3],
       name: 'Neila Machado',
-      title: t('mobile-landing.testimonials.title4'),
+      title: t('testimonials.title4'),
     },
     {
-      text: t('mobile-landing.testimonials.text5'),
+      text: t('testimonials.text5'),
       avatar: imgAPI.avatar[4],
       name: 'Mary Bagalay',
-      title: t('mobile-landing.testimonials.title5'),
+      title: t('testimonials.title5'),
     },
     {
-      text: t('mobile-landing.testimonials.text6'),
+      text: t('testimonials.text6'),
       avatar: imgAPI.avatar[5],
       name: 'Brooke Willingham',
-      title: t('mobile-landing.testimonials.title6'),
+      title: t('testimonials.title6'),
     },
     {
-      text: t('mobile-landing.testimonials.text7'),
+      text: t('testimonials.text7'),
       avatar: imgAPI.avatar[6],
       name: 'Nancy Ramirez',
-      title: t('mobile-landing.testimonials.title7'),
+      title: t('testimonials.title7'),
     },
     {
-      text: t('mobile-landing.testimonials.text8'),
+      text: t('testimonials.text8'),
       avatar: imgAPI.avatar[7],
       name: 'Guccigang Taylor Justin',
-      title: t('mobile-landing.testimonials.title8'),
+      title: t('testimonials.title8'),
     },
     {
-      text: t('mobile-landing.testimonials.text9'),
+      text: t('testimonials.text9'),
       avatar: imgAPI.avatar[8],
       name: 'Starling-Ophelia Rose',
-      title: t('mobile-landing.testimonials.title9'),
+      title: t('testimonials.title9'),
     }
   ];
 
@@ -124,7 +124,7 @@ function Testimonials() {
       >
         <div>
           <Title align="center">
-            {t('mobile-landing.testimonial_title')}
+            {t('testimonial_title')}
           </Title>
         </div>
       </ScrollAnimation>

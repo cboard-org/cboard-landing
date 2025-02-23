@@ -22,7 +22,7 @@ function FooterWithDeco(props) {
       <div className={classes.decoration} />
       <div className={classes.action}>
         <Typography variant="h4" className={text.subtitle}>
-          {t('mobile-landing.footer_text')}
+          {t('footer_text')}
         </Typography>
         <div className={classes.btnArea}>
           <Link

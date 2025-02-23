@@ -28,10 +28,10 @@ function NewsEvent(props) {
         <ParallaxLarge />
       </div>
       <Title align="center">
-        {t('mobile-landing.news_title')}
+        {t('news_title')}
       </Title>
       <Typography align="center" className={text.subtitle2}>
-        {t('mobile-landing.news_desc')}
+        {t('news_desc')}
       </Typography>
       <div className={classes.blogWrap}>
         <Container fixed>

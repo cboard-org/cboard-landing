@@ -64,7 +64,7 @@ function Showcase() {
         <use xlinkHref="/images/mobile/deco-wave-top.svg#main" />
       </svg>
       <Title dark align="center">
-        {t('mobile-landing.showcase_title')}
+        {t('showcase_title')}
       </Title>
       <div className={classes.carouselWrap}>
         <div className={classes.invertParallax}>

@@ -120,29 +120,29 @@ function Header(props) {
                       {invert ? (
                         // eslint-disable-next-line
                         <Button component={Link} href={'/' + item.url}>
-                          {t('mobile-landing.header_' + item.name)}
+                          {t('header_' + item.name)}
                         </Button>
                       ) : (
                         // eslint-disable-next-line
                         <Button component={LinkBtn} offset={item.offset || 0} href={item.url}>
-                          {t('mobile-landing.header_' + item.name)}
+                          {t('header_' + item.name)}
                         </Button>
                       )}
                     </li>
                   ))}
                   <li>
                     <Button component={Link} href={linkRouter.mobile.blog}>
-                      {t('mobile-landing.header_blog')}
+                      {t('header_blog')}
                     </Button>
                   </li>
                   <li>
                     <Button component={Link} href={linkRouter.mobile.pricing}>
-                      {t('mobile-landing.header_pricing')}
+                      {t('header_pricing')}
                     </Button>
                   </li>
                   <li>
                     <Button component={Link} href={linkRouter.mobile.contact}>
-                      {t('mobile-landing.header_contact')}
+                      {t('header_contact')}
                     </Button>
                   </li>
                 </Scrollspy>

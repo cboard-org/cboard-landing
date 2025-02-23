@@ -29,24 +29,24 @@ function Faq() {
 
   const faqData = [
     {
-      q: t('mobile-landing.faqs.faq1'),
-      a: t('mobile-landing.faqs.answer1')
+      q: t('faqs.faq1'),
+      a: t('faqs.answer1')
     },
     {
-      q: t('mobile-landing.faqs.faq2'),
-      a: t('mobile-landing.faqs.answer2')
+      q: t('faqs.faq2'),
+      a: t('faqs.answer2')
     },
     {
-      q: t('mobile-landing.faqs.faq3'),
-      a: t('mobile-landing.faqs.answer3')
+      q: t('faqs.faq3'),
+      a: t('faqs.answer3')
     },
     {
-      q: t('mobile-landing.faqs.faq4'),
-      a: t('mobile-landing.faqs.answer4')
+      q: t('faqs.faq4'),
+      a: t('faqs.answer4')
     },
     {
-      q: t('mobile-landing.faqs.faq5'),
-      a: t('mobile-landing.faqs.answer5')
+      q: t('faqs.faq5'),
+      a: t('faqs.answer5')
     },
   ];
   
@@ -61,7 +61,7 @@ function Faq() {
               </strong>
             </Title>
             <Typography className={cx(classes.text, text.subtitle2)} align={isMobile ? 'center' : 'left'} component="p">
-              {t('mobile-landing.faq_subtitle')}
+              {t('faq_subtitle')}
             </Typography>
             {!isMobile && (
               <div className={classes.illustration}>

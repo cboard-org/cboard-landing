@@ -58,40 +58,40 @@ function Team() {
 
   const testiContent = [
     {
-      text: t('mobile-landing.team.text1'),
+      text: t('team.text1'),
       avatar: imgAPI.team[0],
       name: 'Martín Bedouret',
-      title: t('mobile-landing.team.title1'),
+      title: t('team.title1'),
     },
     {
-      text: t('mobile-landing.team.text2'),
+      text: t('team.text2'),
       avatar: imgAPI.team[1],
       name: 'Katrina Cohen Cosentino',
-      title: t('mobile-landing.team.title2'),
+      title: t('team.title2'),
     },
     {
-      text: t('mobile-landing.team.text3'),
+      text: t('team.text3'),
       avatar: imgAPI.team[2],
       name: 'Tomi Van Morlegan',
-      title: t('mobile-landing.team.title3'),
+      title: t('team.title3'),
     },
     {
-      text: t('mobile-landing.team.text4'),
+      text: t('team.text4'),
       avatar: imgAPI.team[3],
       name: 'Rodrigo Sánchez',
-      title: t('mobile-landing.team.title4'),
+      title: t('team.title4'),
     },
     {
-      text: t('mobile-landing.team.text5'),
+      text: t('team.text5'),
       avatar: imgAPI.team[4],
       name: 'Héctor Costa',
-      title: t('mobile-landing.team.title5'),
+      title: t('team.title5'),
     },
     {
-      text: t('mobile-landing.team.text7'),
+      text: t('team.text7'),
       avatar: imgAPI.team[6],
       name: 'Shay Cojocaru',
-      title: t('mobile-landing.team.title7'),
+      title: t('team.title7'),
     }
   ];
 
@@ -106,7 +106,7 @@ function Team() {
       >
         <div>
           <Title align="center">
-            {t('mobile-landing.team_title')}
+            {t('team_title')}
           </Title>
         </div>
       </ScrollAnimation>

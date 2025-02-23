@@ -23,7 +23,7 @@ function CompanyLogo() {
         variant="h4"
         className={classes.title}
       >
-        {t('mobile-landing.company_title')}
+        {t('company_title')}
       </Typography>
       <ScrollAnimation
         animateOnce

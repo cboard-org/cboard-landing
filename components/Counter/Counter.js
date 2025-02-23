@@ -51,7 +51,7 @@ function Counter() {
                   </Typography>
                   <Typography component="p" className={text.subtitle}>
                     <i className="ion-ios-cloud-download-outline" />
-                    {t('mobile-landing.counter_downloads')}
+                    {t('counter_downloads')}
                   </Typography>
                 </div>
               </div>
@@ -65,7 +65,7 @@ function Counter() {
                   </Typography>
                   <Typography component="p" className={text.subtitle}>
                     <i className="ion-ios-star-outline" />
-                    {t('mobile-landing.counter_ratting')}
+                    {t('counter_ratting')}
                   </Typography>
                 </div>
               </div>
@@ -80,7 +80,7 @@ function Counter() {
                   </Typography>
                   <Typography component="p" className={text.subtitle}>
                     <i className="ion-ios-checkmark-circle-outline" />
-                    {t('mobile-landing.counter_transaction')}
+                    {t('counter_transaction')}
                   </Typography>
                 </div>
               </div>

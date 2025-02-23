@@ -77,7 +77,7 @@ function Feature() {
         onClose={handleClose}
       >
         <DialogTitle id="alert-dialog-slide-title">
-          {t('mobile-landing.feature_video')}
+          {t('feature_video')}
           <IconButton onClick={handleClose} className={classes.closeBtn} size="large">
             <CloseIcon className={classes.icon} />
           </IconButton>
@@ -93,7 +93,7 @@ function Feature() {
         </DialogContent>
       </Dialog>
       <Title align="center">
-        {t('mobile-landing.feature_title')}
+        {t('feature_title')}
       </Title>
       <Container fixed>
         <div className={cx(classes.item, classes.first)}>
@@ -111,9 +111,9 @@ function Feature() {
             </Grid>
             <Grid item md={6} xs={12}>
               <div className={classes.text}>
-                <TitleSecondary align={isMobile ? 'center' : 'left'} text={t('mobile-landing.feature_title1')} />
+                <TitleSecondary align={isMobile ? 'center' : 'left'} text={t('feature_title1')} />
                 <Typography display="block" component="p" className={text.subtitle2}>
-                  {t('mobile-landing.feature_desc1')}
+                  {t('feature_desc1')}
                 </Typography>
               </div>
             </Grid>
@@ -127,9 +127,9 @@ function Feature() {
             <Grid container>
               <Grid item md={6} xs={12}>
                 <div className={classes.text}>
-                  <TitleSecondary align={isMobile ? 'center' : 'left'} text={t('mobile-landing.feature_title2')} />
+                  <TitleSecondary align={isMobile ? 'center' : 'left'} text={t('feature_title2')} />
                   <Typography display="block" component="p" className={text.subtitle2}>
-                    {t('mobile-landing.feature_desc2')}
+                    {t('feature_desc2')}
                   </Typography>
                 </div>
               </Grid>
@@ -147,9 +147,9 @@ function Feature() {
             </Grid>
           </div>
           <div className={cx(classes.item, classes.last)}>
-            <TitleSecondary align="center" text={t('mobile-landing.feature_title3')} />
+            <TitleSecondary align="center" text={t('feature_title3')} />
             <Typography align="center" component="p" className={text.subtitle2}>
-              {t('mobile-landing.feature_desc3')}
+              {t('feature_desc3')}
             </Typography>
             <Container maxWidth="sm">
               <Grid container>
@@ -162,7 +162,7 @@ function Feature() {
                     <Paper className={classes.video}>
                       <img src={imgAPI.mobile[6]} alt="screen" />
                       <Typography variant="h6">
-                        {t('mobile-landing.feature_watch')}
+                        {t('feature_watch')}
                       </Typography>
                       <IconButton className={classes.button} onClick={handleClickOpen} size="large">
                         <i className="ion-ios-play-outline" />

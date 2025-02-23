@@ -18,53 +18,53 @@ function Pricing() {
   const pricingContent = [
     {
       id: 1,
-      title: t('mobile-landing.pricing.title1'),
+      title: t('pricing.title1'),
       currencyCode: 'USD',
       units: '0',
-      billingPeriod: t('mobile-landing.pricing.billingPeriod1'),
-      text: t('mobile-landing.pricing.text1'),
+      billingPeriod: t('pricing.billingPeriod1'),
+      text: t('pricing.text1'),
       icon: <GithubIcon />,
     },
     {
       id: 2,
-      title: t('mobile-landing.pricing.title2'),
+      title: t('pricing.title2'),
       currencyCode: 'USD',
       units: '8',
-      billingPeriod: t('mobile-landing.pricing.billingPeriod2'),
-      text: t('mobile-landing.pricing.text2'),
+      billingPeriod: t('pricing.billingPeriod2'),
+      text: t('pricing.text2'),
       icon: <PaidIcon />,
     },
     {
       id: 3,
-      title: t('mobile-landing.pricing.title3'),
-      //subtitle: t('mobile-landing.pricing.subtitle3'),
+      title: t('pricing.title3'),
+      //subtitle: t('pricing.subtitle3'),
       currencyCode: 'USD',
       units: '79',
       //subprice: '79',
-      billingPeriod: t('mobile-landing.pricing.billingPeriod3'),
-      text: t('mobile-landing.pricing.text3'),
+      billingPeriod: t('pricing.billingPeriod3'),
+      text: t('pricing.text3'),
       icon: <PublicIcon />,
     },
   ];
   const includedFeatures = [
-    t('mobile-landing.pricing.feature1'),
-    t('mobile-landing.pricing.feature2'),
-    t('mobile-landing.pricing.feature3'),
-    t('mobile-landing.pricing.feature4'),
-    t('mobile-landing.pricing.feature5'),
-    t('mobile-landing.pricing.feature6'),
-    t('mobile-landing.pricing.feature7'),
-    t('mobile-landing.pricing.feature8'),
-    t('mobile-landing.pricing.feature9'),
-    t('mobile-landing.pricing.feature10'),
-    t('mobile-landing.pricing.feature11'),
+    t('pricing.feature1'),
+    t('pricing.feature2'),
+    t('pricing.feature3'),
+    t('pricing.feature4'),
+    t('pricing.feature5'),
+    t('pricing.feature6'),
+    t('pricing.feature7'),
+    t('pricing.feature8'),
+    t('pricing.feature9'),
+    t('pricing.feature10'),
+    t('pricing.feature11'),
   ];
 
   return (
     <div className={classes.root}>
       <div>
         <Title align="center">
-          {t('mobile-landing.pricing.title')}
+          {t('pricing.title')}
         </Title>
       </div>
       <Grid2
@@ -127,7 +127,7 @@ function Pricing() {
                       component="h2"
                       variant="h5"
                     >
-                      {t('mobile-landing.pricing.standardPrice')} {product.currencyCode} {product.subprice}
+                      {t('pricing.standardPrice')} {product.currencyCode} {product.subprice}
                     </Typography>
                     )}
                   <Button
@@ -137,8 +137,8 @@ function Pricing() {
                     color={product.id === 1 ? "success" : "primary"}
                   >
                     {product.id === 1
-                      ? t('mobile-landing.pricing.getStarted')
-                      : t('mobile-landing.pricing.subscribe')}
+                      ? t('pricing.getStarted')
+                      : t('pricing.subscribe')}
                   </Button>
                   <Typography color="secondary">
                     <br />

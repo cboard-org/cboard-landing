@@ -24,51 +24,51 @@ function CboardTimeline() {
 
   const timelineContent = [
     {
-      title: t('mobile-landing.timeline.title1'),
+      title: t('timeline.title1'),
       year: '2016',
-      text: t('mobile-landing.timeline.text1'),
+      text: t('timeline.text1'),
       icon: <GithubIcon />,
     },
     {
-      title: t('mobile-landing.timeline.title2'),
+      title: t('timeline.title2'),
       year: '2017',
-      text: t('mobile-landing.timeline.text2'),
+      text: t('timeline.text2'),
       icon: <PaidIcon />,
     },
     {
-      title: t('mobile-landing.timeline.title3'),
+      title: t('timeline.title3'),
       year: '2018',
-      text: t('mobile-landing.timeline.text3'),
+      text: t('timeline.text3'),
       icon: <PublicIcon />,
     },
     {
-      title: t('mobile-landing.timeline.title4'),
+      title: t('timeline.title4'),
       year: '2019',
-      text: t('mobile-landing.timeline.text4'),
+      text: t('timeline.text4'),
       icon: <EuroIcon />,
     },
     {
-      title: t('mobile-landing.timeline.title5'),
+      title: t('timeline.title5'),
       year: '2021',
-      text: t('mobile-landing.timeline.text5'),
+      text: t('timeline.text5'),
       icon: <GroupsIcon />,
     },
     {
-      title: t('mobile-landing.timeline.title6'),
+      title: t('timeline.title6'),
       year: '2022',
-      text: t('mobile-landing.timeline.text6'),
+      text: t('timeline.text6'),
       icon: <PaidIcon />,
     },
     {
-      title: t('mobile-landing.timeline.title7'),
+      title: t('timeline.title7'),
       year: '2023',
-      text: t('mobile-landing.timeline.text7'),
+      text: t('timeline.text7'),
       icon: <AutoAwesomeIcon />,
     },
     {
-      title: t('mobile-landing.timeline.title8'),
+      title: t('timeline.title8'),
       year: '2024',
-      text: t('mobile-landing.timeline.text8'),
+      text: t('timeline.text8'),
       icon: <AppsIcon />,
     },
   ];
@@ -77,7 +77,7 @@ function CboardTimeline() {
     <div className={classes.root}>
     <div>
       <Title align="center">
-        {t('mobile-landing.timeline_title')}
+        {t('timeline_title')}
       </Title>
     </div>
       <Timeline position="alternate">

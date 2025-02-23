@@ -49,14 +49,14 @@ function Banner() {
             <Grid item md={7} xs={12}>
               <div className={classes.text}>
                 <Typography variant="h1" className={text.title}>
-                  {t('mobile-landing.banner_title')}
+                  {t('banner_title')}
                   &nbsp;
                   <strong>
-                    {t('mobile-landing.banner_titlestrong')}
+                    {t('banner_titlestrong')}
                   </strong>
                 </Typography>
                 <Typography variant="h5" className={text.subtitle}>
-                  {t('mobile-landing.banner_desc')}
+                  {t('banner_desc')}
                 </Typography>
                 <Button
                   component={Link} href="https://app.cboard.io/"
@@ -65,7 +65,7 @@ function Banner() {
                   variant="contained"
                   className={classes.openCboard}
                   size="large">
-                  {t('mobile-landing.cta_btn')}
+                  {t('cta_btn')}
                 </Button>
                 <div className={classes.btnArea}>
                   <Link

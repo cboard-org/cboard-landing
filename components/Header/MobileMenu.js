@@ -34,7 +34,7 @@ function MobileMenu(props) {
               style={{ animationDuration: index * 0.15 + 's' }}
             >
               <ListItemText
-                primary={t('mobile-landing.header_' + item)}
+                primary={t('header_' + item)}
                 className={classes.menuList}
               />
             </ListItem>
@@ -46,7 +46,7 @@ function MobileMenu(props) {
             style={{ animationDuration: navMenu.length * 0.15 + 's' }}
           >
             <ListItemText
-              primary={t('mobile-landing.header_pricing')}
+              primary={t('header_pricing')}
               className={classes.menuList}
             />
           </ListItem>
@@ -57,7 +57,7 @@ function MobileMenu(props) {
             style={{ animationDuration: navMenu.length * 0.15 + 's' }}
           >
             <ListItemText
-              primary={t('mobile-landing.header_blog')}
+              primary={t('header_blog')}
               className={classes.menuList}
             />
           </ListItem>
@@ -68,7 +68,7 @@ function MobileMenu(props) {
             style={{ animationDuration: navMenu.length * 0.15 + 's' }}
           >
             <ListItemText
-              primary={t('mobile-landing.header_contact')}
+              primary={t('header_contact')}
               className={classes.menuList}
             />
           </ListItem>

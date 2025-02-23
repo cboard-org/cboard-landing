@@ -12,12 +12,12 @@ function Locations() {
     <div className={classes.root}>
       <div>
         <Title align="center">
-          {t('mobile-landing.locations_title')}
+          {t('locations_title')}
         </Title>
       </div>
       <div className={classes.contentText}>
         <Typography variant='h5'>
-          {t('mobile-landing.locations_desc')}
+          {t('locations_desc')}
         </Typography>
         <div className={classes.mainImg}>
           <img src="/images/world-map.png" alt="Locations" />

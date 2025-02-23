@@ -88,14 +88,14 @@ function Settings(props) {
           aria-label="Mode-menu"
           subheader={(
             <ListSubheader component="div">
-              {t('mobile-landing.header_theme')}
+              {t('header_theme')}
             </ListSubheader>
           )}
         >
           <ListItem>
             <Typography component="div">
               <Grid component="label" container alignItems="center" spacing={1}>
-                <Grid item>{t('mobile-landing.header_light')}</Grid>
+                <Grid item>{t('header_light')}</Grid>
                 <Grid item>
                   <Switch
                     checked={isDark}
@@ -104,7 +104,7 @@ function Settings(props) {
                     inputProps={{ 'aria-label': 'checkbox' }}
                   />
                 </Grid>
-                <Grid item>{t('mobile-landing.header_dark')}</Grid>
+                <Grid item>{t('header_dark')}</Grid>
               </Grid>
             </Typography>
           </ListItem>
@@ -116,7 +116,7 @@ function Settings(props) {
           aria-label="Language-menu"
           subheader={(
             <ListSubheader component="div">
-              {t('mobile-landing.header_language')}
+              {t('header_language')}
             </ListSubheader>
           )}
         >
