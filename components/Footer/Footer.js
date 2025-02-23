@@ -37,18 +37,18 @@ function Footer(props) {
 
   const footers = [
     {
-      title: 'Company',
-      description: [t('title_team'), t('title_history'), 'Contact us', 'Locations'],
+      title: t('footer_company'),
+      description: [t('title_team'), t('title_history'), t('title_contact'), t('title_locations')],
       link: ['/team', '/history', '/contact', '/locations'],
     },
     {
-      title: 'Resources',
-      description: ['Help', 'FAQ', 'Blog', 'Pricing'],
+      title: t('footer_resources'),
+      description: [t('title_help'), t('title_faq'), t('title_blog'), t('title_pricing')],
       link: ['#resource', '#resource-name', '/blog', '/pricing'],
     },
     {
-      title: 'Legal',
-      description: ['Privacy policy', 'Terms of use'],
+      title: t('footer_legal'),
+      description: [t('title_privacy'), t('title_terms')],
       link: ['/privacy', '/terms-of-use'],
     },
   ];

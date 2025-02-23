@@ -42,6 +42,11 @@
   "title_team": "الفريق",
   "title_pricing": "التسعير",
   "title_terms": "شروط الخدمة",
+  "title_faq": "أسئلة متكررة",
+  "title_help": "مساعدة",
+  "footer_company": "الشركة",
+  "footer_resources": "الموارد",
+  "footer_legal": "قانوني",
   "mobile-landing": {
     "header_language": "اللغة",
     "header_theme": "وضع الموضوع",

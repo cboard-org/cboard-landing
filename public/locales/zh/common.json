@@ -42,6 +42,11 @@
   "title_team": "团队",
   "title_pricing": "定价",
   "title_terms": "服务条款",
+  "title_faq": "常见问题",
+  "title_help": "帮助",
+  "footer_company": "公司",
+  "footer_resources": "资源",
+  "footer_legal": "法律",
   "mobile-landing": {
     "header_language": "语言",
     "header_theme": "主题模式",

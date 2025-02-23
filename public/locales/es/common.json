@@ -42,6 +42,11 @@
   "title_team": "Equipo",
   "title_pricing": "Precios",
   "title_terms": "Términos de Servicio",
+  "title_faq": "FAQ",
+  "title_help": "Ayuda",
+  "footer_company": "Empresa",
+  "footer_resources": "Recursos",
+  "footer_legal": "Legal",
   "mobile-landing": {
     "header_language": "idioma",
     "header_theme": "Modo de tema",
