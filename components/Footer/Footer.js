@@ -18,8 +18,6 @@ import useStyles from './footer-style';
 import SelectLang from '../LangSwitch/Select';
 
 
-const { t } = useTranslation('common');
-
 function Copyright() {
   return (
     <Typography variant="body2" display="block" align="center" color="textSecondary">
@@ -29,31 +27,32 @@ function Copyright() {
   );
 }
 
-const footers = [
-  {
-    title: 'Company',
-    description: [t('title_team'), t('title_history'), 'Contact us', 'Locations'],
-    link: ['/team', '/history', '/contact', '/locations'],
-  },
-  {
-    title: 'Resources',
-    description: ['Help', 'FAQ', 'Blog', 'Pricing'],
-    link: ['#resource', '#resource-name', '/blog', '/pricing'],
-  },
-  {
-    title: 'Legal',
-    description: ['Privacy policy', 'Terms of use'],
-    link: ['/privacy', '/terms-of-use'],
-  },
-];
-
 function Footer(props) {
   const { classes, cx } = useStyles();
   const theme = useTheme();
   const { invert, toggleDir } = props;
   const isDesktop = useMediaQuery(theme.breakpoints.up('md'));
   const isMobile = useMediaQuery(theme.breakpoints.down('md'));
+  const { t } = useTranslation('common');
 
+  const footers = [
+    {
+      title: 'Company',
+      description: [t('title_team'), t('title_history'), 'Contact us', 'Locations'],
+      link: ['/team', '/history', '/contact', '/locations'],
+    },
+    {
+      title: 'Resources',
+      description: ['Help', 'FAQ', 'Blog', 'Pricing'],
+      link: ['#resource', '#resource-name', '/blog', '/pricing'],
+    },
+    {
+      title: 'Legal',
+      description: ['Privacy policy', 'Terms of use'],
+      link: ['/privacy', '/terms-of-use'],
+    },
+  ];
+  
   return (
     <Container
       maxWidth="lg"
