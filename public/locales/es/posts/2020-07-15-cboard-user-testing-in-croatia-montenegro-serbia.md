@@ -1,62 +1,59 @@
 ---
-title: Cboard user testing in Croatia, Montenegro and Serbia 
+title: Pruebas de usuario de Cboard en Croacia, Montenegro y Serbia
 date: 2020-07-15
-description: Piloting for success 
+description: Pilotando para el éxito
 categories:
-  - cboard
+  - tablero
   - unicef
-  - europe
+  - Europa
 image: /images/ecaro-pilot-3.png
 author_staff_member: katrina
 ---
-The UNICEF *Europe and Central Asia Regional office (ECARO)* has been piloting user testing to promote affordable assistive technology for Augmentative and Alternative Communication (AAC) in Croatia, Montenegro and Serbia.
+La oficina regional de UNICEF *Europa y Asia Central (ECARO)* ha iniciado las pruebas de usuarios para promover tecnología de asistencia asequible para la comunicación aumentativa y alternativa (AAC) en Croacia, Montenegro y Serbia.
 
-According to those conducting the testing, Cboard promotes interaction, helps overcome speech impairments, develop language and steers children towards an education and active social life right from their early years.
+Según los que realizan las pruebas, Cboard promueve la interacción, ayuda a superar los problemas del habla, desarrolla el lenguaje y dirige a los niños hacia una educación y una vida social activa desde sus primeros años.
 
-In the region where the testing is being conducted, it is estimated that *12,000 children between the ages of 0 to 6 are in need of AAC*, while another 840,000 could benefit. Cboard is free and open-source technology seeking to provide AAC to all those in need.
+En la región donde se realizan las pruebas, se estima que *12,000 niños entre las edades de 0 a 6 necesitan AAC*, mientras que otros 840,000 podrían beneficiarse. Cboard es una tecnología gratuita y de código abierto que busca proporcionar CAA a todos los necesitados.
 
-![Unicef ECARO pilot](/images/ecaro-pilot-1.jpg)
-*Professional supporting a child to use Cboard, Preschool Institution Zvezdara, Belgrade, 2019 / by Milana Jelovac*
+![Piloto Unicef ECARO](/images/ecaro-pilot-1.jpg) *Profesional que apoya a un niño a usar Cboard, Preescolar Institución Zvezdara, Belgrado, 2019 / por Milana Jelovac*
 
-## User testing plan
-User testing began in November 2019, involving 125 children between the ages of 3 and 12 in Croatia, Montenegro and Serbia. The work involved over 70 professionals including but not limited to pre-school teachers, speech and language therapists, occupational therapist, special educators, psychologists. 
+## Plan de pruebas de usuario
+Las pruebas de usuario comenzaron en noviembre de 2019, involucrando a 125 niños entre las edades de 3 y 12 en Croacia, Montenegro y Serbia. El trabajo involucró a más de 70 profesionales, incluidos, entre otros, maestros de preescolar, terapeutas del habla y del lenguaje, terapeutas ocupacionales, educadores especiales, psicólogos.
 
-Professionals developed a training package delivered as both face to face and online learning which is available for professionals from other countries to continue with testing. Cboard is being tested as an intervention tool to assist parents and professionals to apply as part of a routine-based intervention. This type of intervention seeks to promote communication in every-day situations and activities, preparing the child and parents for inclusion in society. 
+Los profesionales desarrollaron un paquete de capacitación entregado como aprendizaje presencial y en línea que está disponible para que los profesionales de otros países continúen con las pruebas. Cboard se está probando como una herramienta de intervención para ayudar a los padres y profesionales a postularse como parte de una intervención basada en la rutina. Este tipo de intervención busca promover la comunicación en situaciones y actividades cotidianas, preparando al niño y a los padres para su inclusión en la sociedad.
 
-## Initial testing results
-Initial response to the application with parents and professionals was positive. For over half the children and families involved in the testing, Cboard was the first digital communicator that they used. The biggest challenges encountered in the first stages of testing involved difficulties adapting to using new technology and AAC. Some of the parents and professionals were interviews about their experiences:
+## Resultados iniciales de la prueba
+La respuesta inicial a la solicitud con padres y profesionales fue positiva. Para más de la mitad de los niños y las familias que participaron en las pruebas, Cboard fue el primer comunicador digital que utilizaron. Los mayores desafíos encontrados en las primeras etapas de las pruebas involucraron dificultades para adaptarse al uso de nuevas tecnologías y AAC. Algunos de los padres y profesionales fueron entrevistas sobre sus experiencias:
 
-> “Our son accepted it better than we thought. Now he has the way to ask us, and communicate. Before when he wanted something, he would grab our hands and point to the item he wanted. A few days after he started using cboard, he would say “Mama daj” (in English: Mom give me). And press on the image of sandwich on the tablet. His  greatest motivation is food, so we started with food”
+> “Nuestro hijo lo aceptó mejor de lo que pensábamos. Ahora tiene la manera de preguntarnos y comunicarse. Antes, cuando quería algo, tomaba nuestras manos y señalaba el artículo que quería. Pocos días después de que comenzara a usar el tablero, diría "Mama daj" (en inglés: mamá dame). Y presione sobre la imagen del emparedado en la tableta. Su mayor motivación es la comida, así que comenzamos con la comida ".
 > 
-> *Nikolina Kuraica, mother of Nikola, 6-yrs-old, multiple communication impairments, Dubrovnik, Croatia.*
+> *Nikolina Kuraica, madre de Nikola, 6 años, discapacidades múltiples de comunicación, Dubrovnik, Croacia.*
 
 
-Parents have found ways to personalize Cboard to their home environment, by taking images of common items from their daily lives to photos of family members, and making it more familiar and easy to understand:
+Los padres han encontrado formas de personalizar Cboard a su entorno hogareño, tomando imágenes de elementos comunes de su vida diaria a fotos de miembros de la familia, y haciéndolo más familiar y fácil de entender:
 
-> "The child is making great progress and carrying the tablet everywhere. Her mother created pictures of her meals and family members.”
+> "El niño está progresando mucho y llevando la tableta a todas partes. Su madre creó fotos de sus comidas y miembros de su familia ".
 > 
-> *‘Slava Raškaj’ center in Split, Croatia.*
+> *Centro 'Slava Raškaj' en Split, Croacia.*
 
-Professionals involved in the testing reported that children seemed to respond particularly well to the text-to-speech function on the app, in which the name of the pictogram pressed in read aloud in the language set. This has led to reports of improved confidence and vocalization in children who are primarily non-verbal:
+Los profesionales involucrados en las pruebas informaron que los niños parecían responder particularmente bien a la función de texto a voz en la aplicación, en la que el nombre del pictograma se presionaba en voz alta en el conjunto de idiomas. Esto ha llevado a informes de una mayor confianza y vocalización en niños que son principalmente no verbales:
 
-> “Our child uttered a three-word sentence several times when requesting a desired item, until recently she used the isolated word occasionally”.
+> “Nuestra niña pronunció una oración de tres palabras varias veces cuando solicitó un elemento deseado, hasta hace poco ella usaba la palabra aislada ocasionalmente”.
 
-![Unicef ECARO pilot](/images/ecaro-pilot-2.png)
-*AAC Training for professionals, Zagreb, Croatia, October 2019*
+![Piloto Unicef ECARO](/images/ecaro-pilot-2.png) *Capacitación AAC para profesionales, Zagreb, Croacia, octubre de 2019*
 
-Natasa Sreckovic Milenkovic, a speech therapist for Srna, 3 year old girl in Belgrade, Serbia, observed the following:
+Natasa Sreckovic Milenkovic, terapeuta del habla de Srna, niña de 3 años en Belgrado, Serbia, observó lo siguiente:
 
-> “Srna was non-verbal and began to speak after we use app Cboard. We set icons for YES, BRAVO, MORE, and after using the Cboard, Srna began to spontaneously use those words in communication when she wanted something. Now, when she does something right, she taps herself and says "BRAVO" verbally. In communication, she has increased the number of words she utters, some as initial syllables, others as whole words, so she is now working on expanding her vocabulary on a tablet.”
+> “Srna no fue verbal y comenzó a hablar después de usar la aplicación Cboard. Establecimos iconos para SÍ, BRAVO, MÁS, y después de usar el Tablero, Srna comenzó a usar esas palabras espontáneamente en la comunicación cuando quería algo. Ahora, cuando hace algo bien, se golpea y dice "BRAVO" verbalmente. En comunicación, ha aumentado la cantidad de palabras que pronuncia, algunas como sílabas iniciales, otras como palabras completas, por lo que ahora está trabajando para ampliar su vocabulario en una tableta ".
 
-## Measuring Cboard success
-In order to measure in the impact of Cboard, the **PIADS** (Psychosocial Impact of Assistive Devices) scale is being used to measure progress in adaptability, competence and self-esteem.
+## Medir el éxito de Cboard
+Para medir el impacto de Cboard, se está utilizando la escala **PIADS** (Impacto psicosocial de dispositivos de asistencia) para medir el progreso en adaptabilidad, competencia y autoestima.
 
-Initial results from PIADS test points show a positive tren, with progress in all three domains. In practice, this means that ‘frustrations are now less expressed and they are now a calmer and happier child. Cboard makes out lives easier and enables the child to communicate’, as observed by a pre-school teacher in CVIT Mediterana, Split, Croatia.
+Los resultados iniciales de los puntos de prueba de PIADS muestran una tendencia positiva, con progreso en los tres dominios. En la práctica, esto significa que 'las frustraciones ahora se expresan menos y ahora son un niño más tranquilo y feliz. Cboard hace que la vida sea más fácil y permite que el niño se comunique ", como observó un maestro de preescolar en CVIT Mediterana, Split, Croacia.
 
-![Unicef ECARO pilot](/images/ecaro-pilot-3.png)
-*A child using Cboard, Preschool Institution Zvezdara, Belgrade, 2019 / by Milana Jelovac*
+![Piloto Unicef ECARO](/images/ecaro-pilot-3.png) *Un niño que usa Cboard, Preescolar Institución Zvezdara, Belgrado, 2019 / por Milana Jelovac*
 
-## Next Step
-Testing continues through COVID-19 while children use the app from their homes, assisted by parents. Professionals are providing support through virtual platforms including Whatsapp and Viber. Additionally, a new native version of Cboard is in development with new features incorporating comments and feedback received during the pilots.
+## Próximo paso
+Las pruebas continúan a través de COVID-19 mientras los niños usan la aplicación desde sus hogares, con la asistencia de los padres. Los profesionales brindan soporte a través de plataformas virtuales que incluyen Whatsapp y Viber. Además, se está desarrollando una nueva versión nativa de Cboard con nuevas características que incorporan comentarios recibidos durante las pruebas piloto.
 
-A special thank you to all those who were and continue to be involved in the testing, and **big thank you to Aleksandra Jovic, BP Panwar** and the UNICEF country office representatives **Melani Markovic, Maja Kovacevic and Jelena Zajeganovic.**
+Un agradecimiento especial a todos los que fueron y continúan estando involucrados en la prueba y **Muchas gracias a Aleksandra Jovic, BP Panwar** y los representantes de las oficinas regionales de UNICEF **Melani Markovic, Maja Kovacevic y Jelena Zajeganovic.**

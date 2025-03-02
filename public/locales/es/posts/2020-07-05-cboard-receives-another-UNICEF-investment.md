@@ -1,21 +1,21 @@
 ---
-title: Cboard Receives a Second UNICEF Investment 
+title: Cboard recibe una segunda inversión de UNICEF
 date: 2020-07-05
-description: UNICEF Cryptocurrency Fund announces its largest investment of startups in developing and emerging economies
+description: UNICEF Cryptocurrency Fund anuncia su mayor inversión de startups en economías en desarrollo y emergentes
 categories:
-  - cboard
+  - Cboard
   - unicef
 image: /images/ethereum.jpg
 author_staff_member: katrina
 ---
-Cboard is very please to announce another investment from UNICEF to continue developing the application. Cboard is a free online web app aiding communication through text-to-speech, created through Cireha rehabilitation center in Córdoba, Argentina. With support from UNICEF, we were able to conduct initial user testing in Buenos Aires, Argentina, prior to the official launch in September 2018. During this testing were were able to get feedback from users and professional speech therapist to edit the app and make it more accessible for users. 
+Cboard se alegra en anunciar otra inversión de UNICEF para continuar desarrollando la aplicación. Cboard es una aplicación web gratuita en línea que ayuda a la comunicación a través de texto a voz, creada a través del centro de rehabilitación Cireha en Córdoba, Argentina. Con el apoyo de UNICEF, pudimos realizar pruebas de usuario iniciales en Buenos Aires, Argentina, antes del lanzamiento oficial en septiembre de 2018. Durante esta prueba, pudimos obtener comentarios de los usuarios y del logopeda profesional para editar la aplicación y hacerla más accesible para los usuarios.
 
-![CIREHA-Center](/images/cireha12.jpg)
+![Centro CIREHA](/images/cireha12.jpg)
 
-On June 19 UNICEF announced eight technology companies in developing and emerging economies would be receiving an investment from the UNICEF Cryptocurrent Fund (CryptoFund). Those receiving investments had all previously received up to $100,000 from UNICEF’s Innovation Fund to create or continue developing open-source technology. 
+El 19 de junio, UNICEF anunció que ocho compañías de tecnología en economías emergentes y en desarrollo recibirían una inversión del Fondo Cryptocurrent de UNICEF (CryptoFund). Todos los que recibieron inversiones habían recibido previamente hasta $ 100,000 del Fondo de Innovación de UNICEF para crear o continuar desarrollando tecnología de código abierto.
 
-> Cireha (Argentina) is scaling the reach of its accessible app in three countries to help more children with speech impairments communicate using symbols.
+> Cireha (Argentina) está ampliando el alcance de su aplicación accesible en tres países para ayudar a más niños con impedimentos del habla a comunicarse mediante símbolos.
 
-We are have been conducting user testing in Serbia, Montenegro and Croatia to get more feedback. We will be posting the details of the testing in our next blog post! 
+Hemos estado realizando pruebas de usuario en Serbia, Montenegro y Croacia para obtener más comentarios. ¡Publicaremos los detalles de las pruebas en nuestra próxima publicación de blog!
 
-Link to the UNICEF announcement: [HERE](https://www.unicef.org/press-releases/unicef-cryptocurrency-fund-announces-its-largest-investment-startups-developing-and)
+Enlace al anuncio de UNICEF: [AQUÍ](https://www.unicef.org/press-releases/unicef-cryptocurrency-fund-announces-its-largest-investment-startups-developing-and)

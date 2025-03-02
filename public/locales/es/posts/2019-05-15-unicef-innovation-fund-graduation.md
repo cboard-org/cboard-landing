@@ -1,65 +1,64 @@
 ---
-title: UNICEF Innovation Fund graduation 
+title: Graduación del Fondo de Innovación de UNICEF
 date: 2019-05-15
-description: Cboard graduates! A long and fantastic trip 
+description: '¡Graduados de Cboard! Un viaje largo y fantástico.'
 categories:
-  - cboard
+  - tablero
   - unicef
-  - accessibility
+  - accesibilidad
 image: /images/aacgathering.jpg
-author_staff_member: martin
+author_staff_member: martín
 ---
-We are proud to say we have complete the process that finishes our 15 months of investment with the Unicef innovation fund.
+Nos enorgullece decir que hemos completado el proceso que finaliza nuestros 15 meses de inversión con el fondo de innovación de Unicef.
 
 ![UNICEF-Innovation_Primary-Logo](/images/UNICEF-Innovation_Primary-Logo.png)
 
-## Biggest key achievements 
-Over the past 15 months, our team was able to run three iterations of development and field testing of a cloud-based application that can help users to communicate.
+## Los mayores logros clave
+En los últimos 15 meses, nuestro equipo pudo ejecutar tres iteraciones de desarrollo y pruebas de campo de una aplicación basada en la nube que puede ayudar a los usuarios a comunicarse.
 
-At the beginning we move most of our development activities to a third party company from Argentina was a great success. That allowed the core team to focus on the definition of the features and to leverage the interaction with the patients and speech therapists.
+Al principio, trasladar la mayoría de nuestras actividades de desarrollo a una tercera empresa argentina fue un gran éxito. Eso permitió al equipo central centrarse en la definición de las características y aprovechar la interacción con los pacientes y los logopedas.
 
-The application does contain more than double of users than the number we estimate a year ago!
+¡La aplicación contiene más del doble de usuarios que el número que estimamos hace un año!
 
-We still have to build a strong and stable team, and we are putting a lot of effort to have a VALIDATED business model that is able to generate revenue.
+Todavía tenemos que construir un equipo fuerte y estable, y estamos haciendo un gran esfuerzo para tener un modelo de negocio VALIDADO que sea capaz de generar ingresos.
 
-At the same time, we are working to consolidate a marketing strategy in order to reach markets from different countries, especially on those where current solutions are not available. 
+Al mismo tiempo, estamos trabajando para consolidar una estrategia de marketing para llegar a mercados de diferentes países, especialmente en aquellos donde las soluciones actuales no están disponibles.
 
-![Cboard Team working with Jellow communicator team ](/images/aacgathering3.jpg)
+![Cboard Team trabajando con el equipo comunicador Jellow ](/images/aacgathering3.jpg)
 
-## Prototyping
-The app started being developed in React JS as a simple UI application without having login or cloud capability. We emailed developers asking for help with the project, responses were nice! Some gave tips, some tweeted.
+## Prototipos
+La aplicación comenzó a desarrollarse en React JS como una simple aplicación de IU sin tener capacidad de inicio de sesión o en la nube. Enviamos un correo electrónico a los desarrolladores pidiendo ayuda con el proyecto, ¡las respuestas fueron agradables! Algunos dieron consejos, algunos tuitearon.
 
-Quickly we decided to start the design of an API big project in order to provide Cboard cloud capability allowing users to log in, save and create content. Things growth and having the main architecture and infrastructure in place we ready for the good times!
+Rápidamente decidimos comenzar el diseño de un gran proyecto API para proporcionar la capacidad de nube de Cboard que permite a los usuarios iniciar sesión, guardar y crear contenido. ¡Crecimiento de las cosas y tener la arquitectura e infraestructura principal en su lugar, estamos listos para los buenos tiempos!
 
-## User/Field testing.
-Among the other patients, Cboard seemed like a good fit for a few of the older patients. One, in particular, stood out as a great candidate, a 22-year-old with cerebral palsy, and previous to the testing had no experience with assistive augmentative communication (AAC). She has limited use of her hands and arms but was able to use Cboard on a tablet. She was able to navigate, express her needs (was able to clearly express she was hungry and wanted to eat cake), as well as quickly understood how to go back, what the categories meant, and even expressed she enjoyed using Cboard. What was noted from her testing was that it would have been helpful for her if the ‘back’ button was larger, and the ‘family’ folder was confusing in that she did not understand the pictograms used to represent family members.
+## Pruebas de usuario / campo.
+Entre los otros pacientes, Cboard parecía una buena opción para algunos de los pacientes mayores. Uno, en particular, se destacó como un gran candidato, un joven de 22 años con parálisis cerebral, y antes de la prueba no tenía experiencia con la comunicación asistiva aumentativa (AAC). Ella tiene un uso limitado de sus manos y brazos, pero pudo usar Cboard en una tableta. Pudo navegar, expresar sus necesidades (fue capaz de expresar claramente que tenía hambre y quería comer pastel), así como rápidamente entendió cómo regresar, qué significaban las categorías, e incluso expresó que disfrutaba usando Cboard. Lo que se observó en sus pruebas fue que habría sido útil para ella si el botón 'atrás' fuera más grande, y la carpeta 'familia' era confusa porque no entendía los pictogramas utilizados para representar a los miembros de la familia.
 
-## Open Source.
-Open source is the reason why Cboard exists. 
+## Fuente abierta.
+El código abierto es la razón por la cual existe Cboard.
 
-All team members know each other because they joined the open source community at some point.
+Todos los miembros del equipo se conocen porque se unieron a la comunidad de código abierto en algún momento.
 
-Quickly after the GitHub project was created, people who have different ideas and background started to contribute in different areas of expertise. Programmers, designers, translators and even patients and parents were able to find a place to collaborate and open source was the key.
+Poco después de que se creó el proyecto GitHub, las personas que tienen diferentes ideas y antecedentes comenzaron a contribuir en diferentes áreas de especialización. Los programadores, diseñadores, traductores e incluso pacientes y padres pudieron encontrar un lugar para colaborar y el código abierto fue la clave.
 
-![Team working with Unicef innovation fund](/images/aacgathering2.jpg)
+![Equipo trabajando con el fondo de innovación de Unicef](/images/aacgathering2.jpg)
 
-Although open source is the main reason for Cboard to exist, it supposed some challenges to face. The lack of a stable team that is committed to the project goals is a pain point in every aspect of the project. We tried to mitigate it by hiring a software development company and we got good results, but it was difficult to get added value when we wanted to develop features that are open to suggestions and improvements.
+Aunque el código abierto es la razón principal de la existencia de Cboard, supuso algunos desafíos que enfrentar. La falta de un equipo estable que esté comprometido con los objetivos del proyecto es un punto doloroso en todos los aspectos del proyecto. Intentamos mitigarlo mediante la contratación de una empresa de desarrollo de software y obtuvimos buenos resultados, pero fue difícil obtener valor agregado cuando queríamos desarrollar funciones que estuvieran abiertas a sugerencias y mejoras.
 
-Also, the quality was a major challenge. Cboard is a complex application at this point, even it looks simple and clean. We support logged in users and not logged in users, offline and online modes, custom boards, audio, multiple devices and many more. And every piece must work as intended without affecting others, and that is not easy, especially when your developers are collaborators from the open source community. Quality is not a matter of just good attitude, quality is also practice. And we’re still dealing with it.
+Además, la calidad fue un gran desafío. Cboard es una aplicación compleja en este momento, incluso parece simple y limpia. Admitimos usuarios conectados y no conectados, modos fuera de línea y en línea, tableros personalizados, audio, múltiples dispositivos y muchos más. Y cada pieza debe funcionar según lo previsto sin afectar a los demás, y eso no es fácil, especialmente cuando sus desarrolladores son colaboradores de la comunidad de código abierto. La calidad no es solo una buena actitud, la calidad también es práctica. Y todavía estamos lidiando con eso.
 
-We have still to consolidate the team. We are looking not just translators or programmers, we are looking for commitment. By having that, the role is in second place for the Cboard team.
+Todavía tenemos que consolidar el equipo. Estamos buscando no solo traductores o programadores, estamos buscando compromiso. Al tener eso, el papel ocupa el segundo lugar para el equipo de Cboard.
 
-We think our project as a place in common for those who are communication difficulties and the ones who want to help them. 
+Creemos que nuestro proyecto es un lugar en común para quienes tienen dificultades de comunicación y quienes desean ayudarlos.
 
-## Next set of goals. 
-Future is exciting for Cboard. From our point of view,all the work we have been doing is just the foundation for the good stuff that is coming. Machin e learning, AI, brain-computer interfaces are not just good stories of black mirror episodes, they are among us and they will be part of Cboard in the future. No way to escape of the new paradigms of technology and we want to be part of that not just because it's a technology trend but mainly because we strongly believe that they can help people with difficulties.
-We like to imagine people using the app with their brains and Cboard talking natural language just like people would do if they wouldn't have any kind of impediment.
+## Siguiente conjunto de objetivos.
+El futuro es emocionante para Cboard. Desde nuestro punto de vista, todo el trabajo que hemos estado haciendo es solo la base de lo bueno que viene. El aprendizaje automático, la IA y las interfaces cerebro-computadora no son solo buenas historias de episodios de espejo negro, sino que están entre nosotros y formarán parte de Cboard en el futuro. No hay forma de escapar de los nuevos paradigmas de la tecnología y queremos ser parte de eso no solo porque es una tendencia tecnológica, sino principalmente porque creemos firmemente que pueden ayudar a las personas con dificultades. Nos gusta imaginar que las personas usen la aplicación con sus cerebros y que Cboard hable lenguaje natural como lo haría la gente si no tuvieran ningún tipo de impedimento.
 
-## UNICEF Innovation Fund.
-To talk about Cboard is to talk about UNICEF Innovation Fund. We are quite sure that the project would have been just a nice and cool repository on GitHub and not much more than that without the support of the UNICEF team. They gave professionalism and soundness to the ideas that we had. 
+## Fondo de Innovación de UNICEF.
+Hablar de Cboard es hablar del Fondo de Innovación de UNICEF. Estamos bastante seguros de que el proyecto habría sido solo un depósito agradable y genial en GitHub y no mucho más que eso sin el apoyo del equipo de UNICEF. Le dieron profesionalidad y solidez a las ideas que teníamos.
 
-At the same time, they made us think, they did it a lot. Did we think about the business model, importance of user testing, persona definition, marketing strategy and customer segments before joining the fund?. The answer is NO. 
+Al mismo tiempo, nos hicieron pensar, lo hicieron mucho. ¿Pensamos en el modelo de negocio, la importancia de las pruebas de usuario, la definición de personalidad, la estrategia de marketing y los segmentos de clientes antes de unirse al fondo? La respuesta es no.
 
-They did the same thing a good teacher does: make you think about things that you had never taken into account and show you how much important they are.
+Hicieron lo mismo que hace un buen maestro: hacerte pensar en cosas que nunca habías tenido en cuenta y mostrarte lo importantes que son.
 
-We really will miss their support and advice from now on. 
+Realmente extrañaremos su apoyo y asesoramiento de ahora en adelante. 

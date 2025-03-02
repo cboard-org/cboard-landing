@@ -1,159 +1,159 @@
-TERMS OF SERVICE 
+TÉRMINOS DE SERVICIA
 
-Last updated April 19, 2023 
+Última actualización 19 de abril de 2023
 
-### AGREEMENT TO OUR LEGAL TERMS
+### AGRESO A NUESTROS TÉRMINOS LEGALES
 
-We are COMUNICACION AUMENTATIVA CHILE SpA ("Company," "we," "us," "our"), a company registered in Chile at AV. MANQUEHUE SUR 520, Las Condes, Santiago, Región Metropolitana 7570180.
+Somos COMUNICACION AUMENTATIVA CHILE SpA ("Company", "nosotros", "nuestro"), empresa registrada en Chile en AV. MANQUEHUE SUR 520, Las Condes, Santiago, Región Metropolitana 7570180.
 
-We operate the website cboard.io (the "Site"), the mobile application Cboard AAC (the "App"), as well as any other related products and services that refer or link to these legal terms (the "Legal Terms") (collectively, the "Services").
+Operamos el cboard del sitio web. o (el "Sitio"), la aplicación móvil Cboard AAC (la "App"), así como cualquier otro producto y servicios relacionados que se refieran o vinculen a estos términos legales (los "Términos legales") (colectivamente, los "Servicios").
 
-You can contact us by phone at +543517574240, email at support@cboard.io, or by mail to AV. MANQUEHUE SUR 520, Las Condes, Santiago, Región Metropolitana 7570180, Chile.
+Puede ponerse en contacto con nosotros por teléfono al +543517574240, por correo electrónico a support@cboard.io, o por correo electrónico a AV. MANQUEHUE SUR 520, Las Condes, Santiago, Región Metropolitana 7570180, Chile.
 
-These Legal Terms constitute a legally binding agreement made between you, whether personally or on behalf of an entity ("you"), and COMUNICACION AUMENTATIVA CHILE SpA, concerning your access to and use of the Services. You agree that by accessing the Services, you have read, understood, and agreed to be bound by all of these Legal Terms. IF YOU DO NOT AGREE WITH ALL OF THESE LEGAL TERMS, THEN YOU ARE EXPRESSLY PROHIBITED FROM USING THE SERVICES AND YOU MUST DISCONTINUE USE IMMEDIATELY.
+Estas Condiciones Legales constituyen un acuerdo legalmente vinculante entre usted, ya sea personal o en nombre de una entidad ("usted"), y COMUNICACION AUMENTATIVA CHILE SpA, concerniente al acceso y uso de los Servicios. Usted acepta que al acceder a los Servicios, usted ha leído, entendido y acordado estar obligado por todas estas Condiciones Legales. SI NO AGUNAS CON TODOS LOS TERMOS LÉGALES, A continuación, USTED SE REALIZA EXPRESAMENTE POR EL USO DE LOS SERVICIOS Y DEBE USAR IMMEDIATAMENTE USO.
 
-We will provide you with prior notice of any scheduled changes to the Services you are using. The modified Legal Terms will become effective upon posting or notifying you by support@cboard.io , as stated in the email message. By continuing to use the Services after the effective date of any changes, you agree to be bound by the modified terms.
+Le avisaremos con antelación de cualquier cambio programado en los Servicios que esté utilizando. Las Condiciones Legales modificadas entrarán en vigor una vez publicado o notificado por support@cboard.io , como se indica en el mensaje de correo electrónico. Al continuar utilizando los Servicios después de la fecha de entrada en vigor de cualquier cambio, usted acepta estar obligado por las condiciones modificadas.
 
-All users who are minors in the jurisdiction in which they reside (generally under the age of 18) must have the permission of, and be directly supervised by, their parent or guardian to use the Services. If you are a minor, you must have your parent or guardian read and agree to these Legal Terms prior to you using the Services.
+Todos los usuarios menores de edad en la jurisdicción en la que residen (generalmente menores de 18 años) deben tener el permiso de, y ser supervisado directamente por su padre o tutor para el uso de los Servicios. Si usted es un menor de edad, debe leer a su padre o tutor y aceptar estas Condiciones jurídicas antes de que utilice los Servicios.
 
-We recommend that you print a copy of these Legal Terms for your records.
+Le recomendamos que imprima una copia de estas Condiciones Legales para sus registros.
 
-### TABLE OF CONTENTS
+### TABLA DE CONTENTES
 
-#### 1\. OUR SERVICES
+#### 1\. NUESTROS SERVICIOS
 
-#### 2\. INTELLECTUAL PROPERTY RIGHTS
+#### 2\. DERECHOS DE PROPERTÍA INTELECTUALES
 
-#### 3\. USER REPRESENTATIONS
+#### 3\. REPRESENTACIÓN DEL USUARIO
 
-#### 4\. USER REGISTRATION
+#### 4\. REGISTRACIÓN DEL USUARIO
 
-#### 5\. PRODUCTS
+#### 5\. RODUCTOS
 
-#### 6\. PURCHASES AND PAYMENT
+#### 6\. COMPRAS Y PAYMENTE
 
-#### 7\. REFUNDS POLICY
+#### 7\. REFUNCIONES POLICY
 
-#### 8\. SOFTWARE
+#### 8\. DESARROLLO
 
-#### 9\. PROHIBITED ACTIVITIES
+#### 9\. ACTIVIDADES PROHIBIDAS
 
-#### 10\. USER GENERATED CONTRIBUTIONS
+#### 10\. CONTRIBUCIONES GENERADAS DEL USUARIO
 
-#### 11\. CONTRIBUTION LICENSE
+#### 11\. LICENCIA DE CONTRIBUCIÓN
 
-#### 12\. MOBILE APPLICATION LICENSE 
+#### 12\. LICENCIA DE APLICACIÓN MOBILA
 
 #### 13\. ADVERTISERS
 
-#### 14\. SERVICES MANAGEMENT
+#### 14\. MÁS DE SERVICIOS
 
-#### 15\. PRIVACY POLICY
+#### 15\. POLICIÓN DE PRIVACIA
 
-#### 16\. TERM AND TERMINATION
+#### 16\. TÉRMINO Y TERMINACIÓN
 
-#### 17\. MODIFICATIONS AND INTERRUPTIONS
+#### 17\. MODIFICACIONES E INTERRUPCIONES
 
-#### 18\. GOVERNING LAW
+#### 18\. LEY DE REGISTRO
 
-#### 19\. DISPUTE RESOLUTION
+#### 19\. RESOLUCIÓN DE DISPUTA
 
-#### 20\. CORRECTIONS
+#### 20\. CORECCIONES
 
-#### 21\. DISCLAIMER
+#### 21\. DECLARACIÓN
 
-#### 22\. LIMITATIONS OF LIABILITY
+#### 22\. LIMITACIONES DE LIABILIDAD
 
-#### 23\. INDEMNIFICATION
+#### 23\. INDEMNIFICACIÓN
 
-#### 24\. USER DATA
+#### 24\. DATOS DE USUARIO
 
-#### 25\. ELECTRONIC COMMUNICATIONS, TRANSACTIONS, AND SIGNATURES
+#### 25\. COMUNICACIONES ELECTRÓNICOS, TRANSACCIONES Y FUNCIONES
 
-#### 26\. CALIFORNIA USERS AND RESIDENTS
+#### 26\. USUARIOS Y RESIDENTOS DE CALIFORNIA
 
-#### 27\. MISCELLANEOUS
+#### 27\. FALLANEO
 
-#### 28\. CONTACT US
+#### 28\. CONTACTOS
 
-### 1\. OUR SERVICES
+### 1\. NUESTROS SERVICIOS
 
-The information provided when using the Services is not intended for distribution to or use by any person or entity in any jurisdiction or country where such distribution or use would be contrary to law or regulation or which would subject us to any registration requirement within such jurisdiction or country. Accordingly, those persons who choose to access the Services from other locations do so on their own initiative and are solely responsible for compliance with local laws, if and to the extent local laws are applicable.
+La información proporcionada al utilizar los Servicios no está destinada a ser distribuida o utilizada por ninguna persona o entidad en ninguna jurisdicción o país en el que dicha distribución o uso sea contraria a la ley o a la normativa o que nos someta a cualquier requisito de registro dentro de dicha jurisdicción o país. En consecuencia, aquellas personas que opten por acceder a los Servicios desde otros lugares lo hacen por iniciativa propia y son las únicas responsables del cumplimiento de las leyes locales, si y en la medida en que las leyes locales son aplicables.
 
 \_\_\_\_\_\_\_\_\_\_
 
-### 2\. INTELLECTUAL PROPERTY RIGHTS
+### 2\. DERECHOS DE PROPERTÍA INTELECTUALES
 
-#### Our intellectual property
+#### Nuestra propiedad intelectual
 
-We are the owner or the licensee of all intellectual property rights in our Services, including all source code, databases, functionality, software, website designs, audio, video, text, photographs, and graphics in the Services (collectively, the "Content"), as well as the trademarks, service marks, and logos contained therein (the "Marks").
+Somos el propietario o licenciatario de todos los derechos de propiedad intelectual de nuestros Servicios, incluyendo todo el código fuente, bases de datos, funcionalidad, software, diseños de sitios web, audio, vídeo, texto, fotografías y gráficos en los Servicios (colectivamente, el "Contenido"), así como las marcas, marcas de servicio y logotipos contenidos en los Servicios (las "Marcas").
 
-Our Content and Marks are protected by copyright and trademark laws (and various other intellectual property rights and unfair competition laws) and treaties in the United States and around the world.
+Nuestros Contenidos y Marcas están protegidos por las leyes de copyright y marca registrada (y otros derechos de propiedad intelectual y leyes de competencia desleal) y tratados en los Estados Unidos y en todo el mundo.
 
-The Content and Marks are provided in or through the Services "AS IS" for your personal, non-commercial use only.
+El Contenido y las Marcas se proporcionan en o a través de los Servicios "TAL CUAL" para su uso personal y no comercial.
 
-#### Your use of our Services
+#### Su uso de nuestros servicios
 
-Subject to your compliance with these Legal Terms, including the "PROHIBITED ACTIVITIES" section below, we grant you a non-exclusive, non-transferable, revocable license to:
+Sujeto a su cumplimiento de estas Condiciones Legales, incluyendo la sección "ACTIVIDADES PROHIBIDAS", le concedemos una licencia no exclusiva, no transferible y revocable a:
 
-*   access the Services; and
-*   download or print a copy of any portion of the Content to which you have properly gained access.
+- acceder a los Servicios; y
+- descargar o imprimir una copia de cualquier parte del Contenido al que haya obtenido el acceso apropiado.
 
-solely for your personal, non-commercial use.
+únicamente para su uso personal y no comercial.
 
-Except as set out in this section or elsewhere in our Legal Terms, no part of the Services and no Content or Marks may be copied, reproduced, aggregated, republished, uploaded, posted, publicly displayed, encoded, translated, transmitted, distributed, sold, licensed, or otherwise exploited for any commercial purpose whatsoever, without our express prior written permission.
+Excepto como se indica en esta sección o en cualquier otra parte de nuestros Términos Legales, ninguna parte de los Servicios ni ningún Contenido o Marcas pueden ser copiados, reproducidos, agregados, republicados, subidos, publicados, públicamente mostrado, codificado, traducido, transmitido, distribuido, vendido, licenciado o explotado para cualquier propósito comercial, sin nuestro permiso expreso por escrito.
 
-If you wish to make any use of the Services, Content, or Marks other than as set out in this section or elsewhere in our Legal Terms, please address your request to: support@cboard.io. If we ever grant you the permission to post, reproduce, or publicly display any part of our Services or Content, you must identify us as the owners or licensors of the Services, Content, or Marks and ensure that any copyright or proprietary notice appears or is visible on posting, reproducing, or displaying our Content.
+Si desea hacer algún uso de los Servicios, Contenido, o Marcas distintas de las establecidas en esta sección o en cualquier otra parte de nuestros Términos Legales, por favor dirija su solicitud a: support@cboard.io. Si alguna vez le damos permiso para publicar, reproducir o mostrar públicamente cualquier parte de nuestros Servicios o Contenidos, debe identificarnos como los propietarios o licenciadores de los Servicios, Contenido, o Marca y asegúrese de que cualquier aviso de copyright o propietario aparezca o sea visible en publicar, reproducir o mostrar nuestro Contenido.
 
-We reserve all rights not expressly granted to you in and to the Services, Content, and Marks.
+Nos reservamos todos los derechos no otorgados expresamente a usted en y a los Servicios, Contenidos y Marcas.
 
-Any breach of these Intellectual Property Rights will constitute a material breach of our Legal Terms and your right to use our Services will terminate immediately.
+Cualquier violación de estos Derechos de Propiedad Intelectual constituirá una violación material de nuestras Condiciones Legales, y su derecho a utilizar nuestros Servicios terminará inmediatamente.
 
-Your submissions and contributions
+Sus envíos y contribuciones
 
-Please review this section and the "PROHIBITED ACTIVITIES" section carefully prior to using our Services to understand the (a) rights you give us and (b) obligations you have when you post or upload any content through the Services.
+Por favor, revise esta sección y la sección "ACTIVIDADES COMPROBIDAS" cuidadosamente antes de utilizar nuestros Servicios para comprender los (a) derechos que nos otorga y (b) obligaciones que tiene cuando publica o sube contenido a través de los Servicios.
 
-Submissions: By directly sending us any question, comment, suggestion, idea, feedback, or other information about the Services ("Submissions"), you agree to assign to us all intellectual property rights in such Submission. You agree that we shall own this Submission and be entitled to its unrestricted use and dissemination for any lawful purpose, commercial or otherwise, without acknowledgment or compensation to you.
+Envíos: Enviándonos directamente cualquier pregunta, comentario, sugerencia, idea, retroalimentación, o cualquier otra información sobre los Servicios ("Presentaciones"), usted acepta asignarnos todos los derechos de propiedad intelectual en dicho Envío. Usted acepta que seremos dueños de este Envío y que tendremos derecho a su uso y diseminación sin restricciones para cualquier propósito legal, comercial o no, sin reconocimiento ni compensación a usted.
 
-Contributions: The Services may invite you to chat, contribute to, or participate in blogs, message boards, online forums, and other functionality during which you may create, submit, post, display, transmit, publish, distribute, or broadcast content and materials to us or through the Services, including but not limited to text, writings, video, audio, photographs, music, graphics, comments, reviews, rating suggestions, personal information, or other material ("Contributions"). Any Submission that is publicly posted shall also be treated as a Contribution.
+Contribuciones: Los Servicios pueden invitarle a chatear, contribuir o participar en blogs, tableros de mensajes, foros en línea, y otras funciones durante las cuales puedes crear, enviar, publicar, publicar, publicar, distribuir, o difundirnos contenido y materiales a nosotros o a través de los Servicios, incluyendo, pero no limitado a texto, escrituras, vídeo, audio, fotografías, música, gráficos, comentarios, reseñas, sugerencias de calificación, información personal u otro material ("Contribuciones"). Cualquier Envío que se publique también será tratado como una Contribución.
 
-You understand that Contributions may be viewable by other users of the Services.
+Usted entiende que otras contribuciones pueden ser visibles por otros usuarios de los Servicios.
 
-When you post Contributions, you grant us a license (including use of your name, trademarks, and logos): By posting any Contributions, you grant us an unrestricted, unlimited, irrevocable, perpetual, non-exclusive, transferable, royalty free, fully-paid, worldwide right, and license to: use, copy, reproduce, distribute, sell, resell, publish, broadcast, retitle, store, publicly perform, publicly display, reformat, translate, excerpt (in whole or in part), and exploit your Contributions (including, without limitation, your image, name, and voice) for any purpose, commercial, advertising, or otherwise, to prepare derivative works of, or incorporate into other works, your Contributions, and to sublicense the licenses granted in this section. Our use and distribution may occur in any media formats and through any media channels.
+Cuando publicas Contribuciones, nos concedes una licencia (incluyendo el uso de tu nombre, marcas, y logos): Al publicar cualquier contribución, nos concedes un irrevocable, ilimitado e ilimitado autora, no exclusiva, transferible, libre de alitismo, totalmente pagada, derecho mundial y licencia para: usar, copiar, reproducir, distribuir, vender, revender, publicar, transmitir, retirarse, almacenar, ejecución pública, visualización pública, reformato, traducción, extracto (en su totalidad o en parte), y explotar sus contribuciones (incluyendo, sin limitación, su imagen, nombre y voz) para cualquier propósito, Comercial, publicitario o de otro tipo, para preparar trabajos derivados de, o incorporar en otras obras, sus Contribuciones, y para sublicenciar las licencias concedidas en esta sección. Nuestro uso y distribución puede ocurrir en cualquier formato de medios y a través de cualquier canal de medios.
 
-This license includes our use of your name, company name, and franchise name, as applicable, and any of the trademarks, service marks, trade names, logos, and personal and commercial images you provide.
+Esta licencia incluye nuestro uso de su nombre, nombre de empresa y nombre de franquicia, según corresponda, y cualquiera de las marcas comerciales, marcas de servicio, nombres comerciales, logotipos, e imágenes personales y comerciales que usted proporcione.
 
-You are responsible for what you post or upload: By sending us Submissions and/or posting Contributions through any part of the Services or making Contributions accessible through the Services by linking your account through the Services to any of your social networking accounts, you:
+Usted es responsable de lo que publica o carga: Enviándonos Envíos y/o publicando Contribuciones a través de cualquier parte de los Servicios o haciendo que las Contribuciones sean accesibles a través de los Servicios, vinculando su cuenta a través de los Servicios a cualquiera de sus cuentas de redes sociales, tú:
 
-confirm that you have read and agree with our "PROHIBITED ACTIVITIES" and will not post, send, publish, upload, or transmit through the Services any Submission nor post any Contribution that is illegal, harassing, hateful, harmful, defamatory, obscene, bullying, abusive, discriminatory, threatening to any person or group, sexually explicit, false, inaccurate, deceitful, or misleading;
+confirmar que ha leído y está de acuerdo con nuestras "ACTIVIDADES PROHIBIDAS" y no publicará, enviará, publicará, subir, o transmitir a través de los Servicios cualquier Envío ni publicar ninguna Contribución que sea ilegal, acosar, odioso, dañino, difamatorio, obsceno, abusivo, discriminatorio, amenazador para cualquier persona o grupo, sexualmente explícito, falso, inexacto, engañoso o engañoso;
 
-to the extent permissible by applicable law, waive any and all moral rights to any such Submission and/or Contribution;
+en la medida permitida por la ley aplicable, renuncia a todos y cada uno de los derechos morales de cualquier Envío y/o Contribución;
 
-warrant that any such Submission and/or Contributions are original to you or that you have the necessary rights and licenses to submit such Submissions and/or Contributions and that you have full authority to grant us the above mentioned rights in relation to your Submissions and/or Contributions; and warrant and represent that your Submissions and/or Contributions do not constitute confidential information.
+garantiza que cualquiera de dichos Envíos y/o Contribuciones son originales para usted o que usted tiene los derechos y licencias necesarios para enviar dichos Envíos y/o Contribuciones y que usted tiene plena autoridad para concedernos los derechos arriba mencionados en relación con sus Envíos y/o Contribuciones; y garantiza y declara que sus Envíos y/o Contribuciones no constituyen información confidencial.
 
-You are solely responsible for your Submissions and/or Contributions and you expressly agree to reimburse us for any and all losses that we may suffer because of
+Usted es el único responsable de sus Envíos y/o Contribuciones y usted acepta expresamente reembolsarnos por todas y cada una de las pérdidas que podamos sufrir por culpa de
 
-your breach of (a) this section, (b) any third party’s intellectual property rights, or (c) applicable law.
+su incumplimiento de (a) esta sección, (b) los derechos de propiedad intelectual de terceros o (c) la legislación aplicable.
 
-We may remove or edit your Content: Although we have no obligation to monitor any Contributions, we shall have the right to remove or edit any Contributions at any time without notice if in our reasonable opinion we consider such Contributions harmful or in breach of these Legal Terms. If we remove or edit any such Contributions, we may also suspend or disable your account and report you to the authorities.
+Podemos eliminar o editar su Contenido: aunque no tenemos obligación de controlar cualquier contribución, tendremos derecho a eliminar o editar cualquier Contribución en cualquier momento sin previo aviso, si en nuestra opinión razonable consideramos que dichas Contribuciones son perjudiciales o incumpliendo estas Condiciones Legales. Si eliminamos o editamos cualquiera de estas Contribuciones, también podemos suspender o desactivar su cuenta e informar a las autoridades.
 
-3\. USER REPRESENTATIONS
+3\. REPRESENTACIÓN DEL USUARIO
 
-By using the Services, you represent and warrant that: (1) all registration information you submit will be true, accurate, current, and complete; (2) you will maintain the accuracy of such information and promptly update such registration information as necessary; (3) you have the legal capacity and you agree to comply with these Legal Terms; (4) you are not a minor in the jurisdiction in which you reside, or if a minor, you have received parental permission to use the Services; (5) you will not access the Services through automated or non-human means, whether through a bot, script or otherwise; (6) you will not use the Services for any illegal or unauthorized purpose; and (7) your use of the Services will not violate any applicable law or regulation.
+Al utilizar los Servicios, usted declara y garantiza que: (1) toda la información de registro que envíe será verdadera, exacta, actual y completa; (2) mantendrá la exactitud de dicha información y actualizará rápidamente dicha información de registro según sea necesario; (3) usted tiene la capacidad legal y acepta cumplir con estas Condiciones Legales; (4) usted no es menor en la jurisdicción en la que reside, o si es un menor, usted ha recibido el permiso de los padres para usar los Servicios; (5) no accederá a los Servicios a través de medios automatizados o no humanos, ya sea a través de un bot, guión o de otro tipo; (6) no usará los Servicios con fines ilegales o no autorizados; y (7) su uso de los Servicios no violará ninguna ley o regulación aplicable.
 
-If you provide any information that is untrue, inaccurate, not current, or incomplete, we have the right to suspend or terminate your account and refuse any and all current or future use of the Services (or any portion thereof).
+Si proporciona cualquier información que sea falsa, inexacta, no actual o incompleta, tenemos derecho a suspender o cancelar su cuenta y rechazar cualquier uso actual o futuro de los Servicios (o cualquier porción de ellos).
 
-### 4\. USER REGISTRATION
+### 4\. REGISTRACIÓN DEL USUARIO
 
-You may be required to register to use the Services. You agree to keep your password confidential and will be responsible for all use of your account and password. We reserve the right to remove, reclaim, or change a username you select if we determine, in our sole discretion, that such username is inappropriate, obscene, or otherwise objectionable.
+Es posible que tenga que registrarse para utilizar los Servicios. Usted acepta mantener su contraseña confidencial y será responsable de todo uso de su cuenta y contraseña. Nos reservamos el derecho de eliminar, reclamar o cambiar un nombre de usuario que seleccione si determinamos, a nuestra sola discreción, que tal nombre de usuario es inapropiado, oscuro o censurable.
 
-5\. PRODUCTS
+5\. RODUCTOS
 
-All products are subject to availability. We reserve the right to discontinue any products at any time for any reason. Prices for all products are subject to change.
+Todos los productos están sujetos a disponibilidad. Nos reservamos el derecho de suspender cualquier producto en cualquier momento por cualquier razón. Los precios de todos los productos están sujetos a cambios.
 
-6\. PURCHASES AND PAYMENT
+6\. COMPRAS Y PAYMENTE
 
-We accept the following forms of payment:
+Aceptamos las siguientes formas de pago:
 
 \- Visa
 
@@ -161,214 +161,214 @@ We accept the following forms of payment:
 
 \- gpay
 
-You agree to provide current, complete, and accurate purchase and account information for all purchases made via the Services. You further agree to promptly update account and payment information, including email address, payment method, and payment card expiration date, so that we can complete your transactions and contact you as needed. Sales tax will be added to the price of purchases as deemed required by us. We may change prices at any time. All payments shall be in US dollars.
+Usted acepta proporcionar información de compra y cuenta actualizada, completa y precisa para todas las compras realizadas a través de los Servicios. Además, usted acepta actualizar rápidamente la cuenta e información de pago, incluyendo la dirección de correo electrónico, el método de pago, y fecha de caducidad de la tarjeta de pago, para que podamos completar sus transacciones y contactar con usted según sea necesario. El impuesto sobre las ventas se añadirá al precio de las compras según se considere requerido por nosotros. Podemos cambiar los precios en cualquier momento. Todos los pagos serán en dólares estadounidenses.
 
-You agree to pay all charges at the prices then in effect for your purchases and any applicable shipping fees, and you authorize us to charge your chosen payment provider for any such amounts upon placing your order. If your order is subject to recurring charges, then you consent to our charging your payment method on a recurring basis without requiring your prior approval for each recurring charge, until such time as you cancel the applicable order. We reserve the right to correct any errors or mistakes in pricing, even if we have already requested or received payment.
+Usted acepta pagar todos los cargos a los precios y luego en efecto por sus compras y los gastos de envío aplicables, y usted nos autoriza a cobrar a su proveedor de pagos elegido por cualquier cantidad al realizar su pedido. Si su pedido está sujeto a cargos recurrentes, entonces usted da su consentimiento para cobrar su método de pago de forma recurrente sin requerir su aprobación previa por cada cargo recurriente, hasta que cancele el pedido correspondiente. Nos reservamos el derecho de corregir cualquier error o error en los precios, incluso si ya hemos solicitado o recibido el pago.
 
-We reserve the right to refuse any order placed through the Services. We may, in our sole discretion, limit or cancel quantities purchased per person, per household, or per order. These restrictions may include orders placed by or under the same customer account, the same payment method, and/or orders that use the same billing or shipping address. We reserve the right to limit or prohibit orders that, in our sole judgment, appear to be placed by dealers, resellers, or distributors.
+Nos reservamos el derecho de rechazar cualquier pedido realizado a través de los Servicios. Podemos, a nuestra entera discreción, limitar o cancelar cantidades compradas por persona, por hogar o por pedido. Estas restricciones pueden incluir pedidos realizados por o bajo la misma cuenta de cliente, el mismo método de pago y/o pedidos que utilizan la misma dirección de facturación o de envío. Nos reservamos el derecho de limitar o prohibir órdenes que, en nuestro único criterio, parecen ser realizadas por distribuidores, revendedores o distribuidores.
 
-7\. REFUNDS POLICY
+7\. REFUNCIONES POLICY
 
-All sales are final and no refund will be issued.
+Todas las ventas son finales y no se emitirá ningún reembolso.
 
-8\. SOFTWARE
+8\. DESARROLLO
 
-We may include software for use in connection with our Services. If such software is accompanied by an end user license agreement ("EULA"), the terms of the EULA will govern your use of the software. If such software is not accompanied by a EULA, then we grant to you a non-exclusive, revocable, personal, and non-transferable license to use such software solely in connection with our services and in accordance with these Legal Terms. Any software and any related documentation is provided "AS IS" without warranty of any kind, either express or implied, including, without limitation, the implied warranties of merchantability, fitness for a particular purpose, or non-infringement. You accept any and all risk arising out of use or performance of any software. You may not reproduce or redistribute any software except in accordance with the EULA or these Legal Terms.
+Podemos incluir software para su uso en conexión con nuestros Servicios. Si dicho software va acompañado de un contrato de licencia de usuario final ("EULA"), los términos del EULA regirán su uso del software. Si dicho software no va acompañado de un EULA, entonces le concedemos un personal no exclusivo, revocable, y licencia no transferible para el uso de dicho software únicamente en relación con nuestros servicios y de acuerdo con las presentes Condiciones Legales. Cualquier software y documentación relacionada se proporciona "TAL CUAL" sin garantía de ningún tipo, ya sea expresa o implícita, incluyendo, sin limitación, las garantías implícitas de comerciabilidad, aptitud para un propósito particular o no infracción. Usted acepta cualquier riesgo derivado del uso o rendimiento de cualquier software. Usted no puede reproducir o redistribuir ningún software excepto de acuerdo con el EULA o estas Condiciones Legales.
 
-9\. PROHIBITED ACTIVITIES
+9\. ACTIVIDADES PROHIBIDAS
 
-You may not access or use the Services for any purpose other than that for which we make the Services available. The Services may not be used in connection with any commercial endeavors except those that are specifically endorsed or approved by us.
+Usted no podrá acceder o utilizar los Servicios para ningún otro fin que no sea el para el que ponemos a disposición los Servicios. Los Servicios no pueden ser utilizados en relación con ninguna empresa comercial, excepto aquellos que sean específicamente avalados o aprobados por nosotros.
 
-As a user of the Services, you agree not to:
+Como usuario de los Servicios, usted está de acuerdo con:
 
-Systematically retrieve data or other content from the Services to create or compile, directly or indirectly, a collection, compilation, database, or directory without written permission from us.
+Recuperar sistemáticamente datos u otro contenido de los Servicios para crear o compilar, directa o indirectamente, una colección, compilación, base de datos o directorio sin el permiso escrito de nosotros.
 
-Trick, defraud, or mislead us and other users, especially in any attempt to learn sensitive account information such as user passwords.
+Truco, desfraude o engañarnos a nosotros y a otros usuarios, especialmente en cualquier intento de obtener información sensible de la cuenta como contraseñas de usuario.
 
-Circumvent, disable, or otherwise interfere with security-related features of the Services, including features that prevent or restrict the use or copying of any Content or enforce limitations on the use of the Services and/or the Content contained therein.
+Circumbimiento, incapacidad, o de cualquier otra forma interferir con las características relacionadas con la seguridad de los Servicios, incluyendo características que impiden o restringen el uso o la copia de cualquier Contenido o aplican limitaciones en el uso de los Servicios y/o el Contenido contenido en ellos.
 
-Disparage, tarnish, or otherwise harm, in our opinion, us and/or the Services. Use any information obtained from the Services in order to harass, abuse, or harm another person.
+Disparación, manchas o cualquier otro daño, en nuestra opinión, nosotros y/o los Servicios. Utilice cualquier información obtenida de los Servicios para acosar, abusar o dañar a otra persona.
 
-Make improper use of our support services or submit false reports of abuse or misconduct.
+Hacer un uso inadecuado de nuestros servicios de apoyo o presentar informes falsos de abuso o mala conducta.
 
-Use the Services in a manner inconsistent with any applicable laws or regulations.
+Utilice los Servicios de una manera incoherente con cualquier ley o reglamento aplicable.
 
-Engage in unauthorized framing of or linking to the Services.
+Introducir en el marco no autorizado de o enlace a los Servicios.
 
-Upload or transmit (or attempt to upload or to transmit) viruses, Trojan horses, or other material, including excessive use of capital letters and spamming (continuous posting of repetitive text), that interferes with any party’s uninterrupted use and enjoyment of the Services or modifies, impairs, disrupts, alters, or interferes with the use, features, functions, operation, or maintenance of the Services.
+Sube o transmite (o intenta subir o transmitir virus, troyanos, u otro material incluyendo el uso excesivo de letras mayúsculas y spamming (publicación continua de texto repetitivo), que interfiere con el uso ininterrumpido y disfrute de los Servicios o modificaciones, deficiencias, interrumpe, altere o interfiera con el uso, funciones, funciones, funcionamiento o mantenimiento de los Servicios.
 
-Engage in any automated use of the system, such as using scripts to send comments or messages, or using any data mining, robots, or similar data gathering and extraction tools.
+Incorporar cualquier uso automatizado del sistema, como el uso de scripts para enviar comentarios o mensajes, o usando cualquier herramienta de extracción y extracción de datos, robots o de extracción de datos.
 
-Delete the copyright or other proprietary rights notice from any Content. Attempt to impersonate another user or person or use the username of another user.
+Elimine el aviso de derechos de autor u otros derechos de propiedad de cualquier Contenido. Intento de suplantar a otro usuario o persona o utilizar el nombre de usuario de otro usuario.
 
-Upload or transmit (or attempt to upload or to transmit) any material that acts as a passive or active information collection or transmission mechanism, including without limitation, clear graphics interchange formats ("gifs"), 1×1 pixels, web bugs, cookies, or other similar devices (sometimes referred to as "spyware" or "passive collection mechanisms" or "pcms").
+Cargar o transmitir (o intentar subir o transmitir) cualquier material que actúe como mecanismo de recogida o transmisión de información pasiva o activa, incluyendo sin limitaciones, claros formatos de intercambio de gráficos ("gifs"), 1×1 píxeles, fallos web, cookies u otros dispositivos similares (a veces denominados "spyware" o "mecanismos pasivos de colección" o "pcms").
 
-Interfere with, disrupt, or create an undue burden on the Services or the networks or services connected to the Services.
+Interferir o interrumpir o crear una carga indebida sobre los Servicios o las redes o servicios conectados a los Servicios.
 
-Harass, annoy, intimidate, or threaten any of our employees or agents engaged in providing any portion of the Services to you.
+Acosa, molesta, intimida o amenaza a cualquiera de nuestros empleados o agentes involucrados en proveerle cualquier porción de los Servicios.
 
-Attempt to bypass any measures of the Services designed to prevent or restrict access to the Services, or any portion of the Services.
+Intento de eludir cualquier medida de los Servicios diseñada para prevenir o restringir el acceso a los Servicios, o cualquier parte de los Servicios.
 
-Copy or adapt the Services' software, including but not limited to Flash, PHP, HTML, JavaScript, or other code.
+Copie o adapte el software de los Servicios, incluyendo pero no limitado a Flash, PHP, HTML, JavaScript u otro código.
 
-Except as permitted by applicable law, decipher, decompile, disassemble, or reverse engineer any of the software comprising or in any way making up a part of the Services.
+Excepto según lo permitido por la ley aplicable, descifrar, descompilar, desastroso, o ingeniería inversa de cualquiera de los programas que comprenden o de cualquier forma forman parte de los Servicios.
 
-Except as may be the result of standard search engine or Internet browser usage, use, launch, develop, or distribute any automated system, including without limitation, any spider, robot, cheat utility, scraper, or offline reader that accesses the Services, or use or launch any unauthorized script or other software.
+Excepto como puede ser el resultado del uso estándar del motor de búsqueda o del navegador de Internet, el uso, el lanzamiento, el desarrollo o la distribución de cualquier sistema automatizado, incluido, sin limitación, cualquier araña, robot, utilidad, rasguño, o lector offline que acceda a los Servicios, o que utilice o lance cualquier script no autorizado u otro software.
 
-Use a buying agent or purchasing agent to make purchases on the Services. Make any unauthorized use of the Services, including collecting usernames and/or email addresses of users by electronic or other means for the purpose of sending unsolicited email, or creating user accounts by automated means or under false pretenses.
+Utilice un agente de compra o un agente de compra para realizar compras en los Servicios. Hacer cualquier uso no autorizado de los Servicios, incluyendo la recogida de nombres de usuario y/o direcciones de correo electrónico de usuarios por medios electrónicos o de otro tipo con el propósito de enviar correo electrónico no solicitado, o crear cuentas de usuario por medios automatizados o con falsos pretextos.
 
-Use the Services as part of any effort to compete with us or otherwise use the Services and/or the Content for any revenue-generating endeavor or commercial enterprise.
+Utilizar los Servicios como parte de cualquier esfuerzo por competir con nosotros o utilizar de otro modo los Servicios y/o el Contenido para cualquier empresa generadora de ingresos o negocio comercial.
 
-Use the Services to advertise or offer to sell goods and services. Sell or otherwise transfer your profile.
+Utilizar los Servicios para anunciar u ofrecer la venta de bienes y servicios. Venda o transfiera su perfil.
 
-10\. USER GENERATED CONTRIBUTIONS
+10\. CONTRIBUCIONES GENERADAS DEL USUARIO
 
-The Services may invite you to chat, contribute to, or participate in blogs, message boards, online forums, and other functionality, and may provide you with the opportunity to create, submit, post, display, transmit, perform, publish, distribute, or broadcast content and materials to us or on the Services, including but not limited to text, writings, video, audio, photographs, graphics, comments, suggestions, or personal information or other material (collectively, "Contributions"). Contributions may be viewable by other users of the Services and through third-party websites. As such, any Contributions you transmit may be treated as non-confidential and non proprietary. When you create or make available any Contributions, you thereby represent and warrant that:
+Los Servicios pueden invitarlo a chatear, contribuir o participar en blogs, tableros de mensajes, foros en línea y otras funcionalidades, y puede darle la oportunidad de crear, enviar, publicar, publicar, mostrar, transmitir, ejecutar, publicar, distribuir, o difundir contenido y materiales a nosotros o a través de los Servicios, incluyendo, pero sin limitarse a texto, escrituras, vídeo, audio, fotografías, gráficos, comentarios, sugerencias o información personal u otro material (colectivamente, "Contribuciones"). Otros usuarios de los Servicios y a través de sitios web de terceros pueden ver las contribuciones. Como tal, cualquier Contribución que usted transmita puede ser tratada como no confidencial y no privada. Cuando usted crea o pone a disposición cualquier contribución, usted así representa y garantiza que:
 
-The creation, distribution, transmission, public display, or performance, and the accessing, downloading, or copying of your Contributions do not and will not infringe the proprietary rights, including but not limited to the copyright, patent, trademark, trade secret, or moral rights of any third party.
+La creación, distribución, transmisión, visualización pública o performance, y el acceso, la descarga o copia de sus contribuciones no infringe ni infringirá los derechos de propiedad. incluyendo, entre otros, los derechos de autor, patente, marca registrada, secreto comercial o derechos morales de terceros.
 
-You are the creator and owner of or have the necessary licenses, rights, consents, releases, and permissions to use and to authorize us, the Services, and other users of the Services to use your Contributions in any manner contemplated by the Services and these Legal Terms.
+Usted es el creador y propietario de o tiene las licencias necesarias, derechos, consentimientos, versiones y permisos para usar y autorizarnos, los Servicios y otros usuarios de los Servicios para utilizar sus Contribuciones de cualquier forma contemplada por los Servicios y las presentes Condiciones Legales.
 
-You have the written consent, release, and/or permission of each and every identifiable individual person in your Contributions to use the name or likeness of each and every such identifiable individual person to enable inclusion and use of your Contributions in any manner contemplated by the Services and these Legal Terms.
+Tiene el consentimiento por escrito, publicación, y/o permiso de todas y cada una de las personas individuales identificables en sus Contribuciones para utilizar el nombre o la semejanza de cada una de esas personas identificables individualmente para permitir la inclusión y el uso de sus Contribuciones de cualquier manera contemplada por los Servicios y estas Condiciones Legales.
 
-Your Contributions are not false, inaccurate, or misleading.
+Sus contribuciones no son falsas, inexactas o engañosas.
 
-Your Contributions are not unsolicited or unauthorized advertising, promotional materials, pyramid schemes, chain letters, spam, mass mailings, or other forms of solicitation.
+Sus contribuciones no son anuncios no solicitados o no autorizados, materiales promocionales, esquemas de pirámide, cartas en cadena, spam, correos electrónicos masivos u otras formas de solicitud.
 
-Your Contributions are not obscene, lewd, lascivious, filthy, violent, harassing, libelous, slanderous, or otherwise objectionable (as determined by us). Your Contributions do not ridicule, mock, disparage, intimidate, or abuse anyone.
+Sus contribuciones no son obscenas, lewd, lasciviosas, sucias, violentas, acosadas, calumniosas, calumniosas o de cualquier otra forma censurables (como lo determinamos nosotros). Sus contribuciones no ridiculizan, mock, disparan, intimidan o abusan de nadie.
 
-Your Contributions are not used to harass or threaten (in the legal sense of those terms) any other person and to promote violence against a specific person or class of people.
+Sus contribuciones no se utilizan para acosar o amenazar (en el sentido legal de esos términos) a ninguna otra persona y para promover la violencia contra una persona o clase específica de personas.
 
-Your Contributions do not violate any applicable law, regulation, or rule. Your Contributions do not violate the privacy or publicity rights of any third party.
+Sus contribuciones no violan ninguna ley, regulación o regla aplicable. Sus contribuciones no violan la privacidad ni los derechos de publicidad de terceros.
 
-Your Contributions do not violate any applicable law concerning child pornography, or otherwise intended to protect the health or well-being of minors.
+Sus contribuciones no violan ninguna ley aplicable relativa a la pornografía infantil, o de otro modo pretenden proteger la salud o el bienestar de los menores.
 
-Your Contributions do not include any offensive comments that are connected to race, national origin, gender, sexual preference, or physical handicap. Your Contributions do not otherwise violate, or link to material that violates, any provision of these Legal Terms, or any applicable law or regulation.
+Sus contribuciones no incluyen ningún comentario ofensivo relacionado con la raza, el origen nacional, el género, la preferencia sexual o el handicap físico. Sus Contribuciones no violan de otra forma ni enlazan con material que viole, cualquier disposición de estas Condiciones Legales, o cualquier ley o reglamento aplicable.
 
-Any use of the Services in violation of the foregoing violates these Legal Terms and may result in, among other things, termination or suspension of your rights to use the Services.
+Cualquier uso de los Servicios en violación de la legalidad viola estas Condiciones Legales y puede resultar, entre otras cosas, la cancelación o suspensión de sus derechos de uso de los Servicios.
 
-11\. CONTRIBUTION LICENSE
+11\. LICENCIA DE CONTRIBUCIÓN
 
-By posting your Contributions to any part of the Services, you automatically grant, and you represent and warrant that you have the right to grant, to us an unrestricted, unlimited, irrevocable, perpetual, non-exclusive, transferable, royalty-free, fully-paid, worldwide right, and license to host, use, copy, reproduce, disclose, sell, resell, publish, broadcast, retitle, archive, store, cache, publicly perform, publicly display, reformat, translate, transmit, excerpt (in whole or in part), and distribute such Contributions (including, without limitation, your image and voice) for any purpose, commercial, advertising, or otherwise, and to prepare derivative works of, or incorporate into other works, such Contributions, and grant and authorize sublicenses of the foregoing. The use and distribution may occur in any media formats and through any media channels.
+Al publicar sus contribuciones a cualquier parte de los Servicios, usted automáticamente concede, y usted declara y garantiza que tiene el derecho de concedernos, a nosotros un irrestricto, ilimitado, irrevocable, autora, no exclusiva, transferible, libre de realidades, totalmente pagada, derecho mundial y licencia para albergar, usar, copiar, reproducir, revelar, vender, revender, publicar, difundir, retirar, archivar, almacenar, caché, ejecución pública, visualización pública, reformateo, traducción, transmisión, extracto (en su totalidad o en parte), y distribuye tales contribuciones (incluyendo, sin limitación, tu imagen y voz) para cualquier propósito, Comercial, publicitario o de otro tipo, y para preparar obras derivadas de, o incorporar en otras obras, tales Contribuciones, y conceder y autorizar sublicencias de la preparación. El uso y la distribución pueden producirse en cualquier formato multimedia y a través de cualquier canal de medios.
 
-This license will apply to any form, media, or technology now known or hereafter developed, and includes our use of your name, company name, and franchise name, as applicable, and any of the trademarks, service marks, trade names, logos, and personal and commercial images you provide. You waive all moral rights in your Contributions, and you warrant that moral rights have not otherwise been asserted in your Contributions.
+Esta licencia se aplicará a cualquier forma, soporte, o tecnología ahora conocida o desarrollada, e incluye nuestro uso de su nombre, nombre de empresa, y el nombre de la franquicia, según corresponda, y cualquiera de las marcas comerciales, marcas de servicio, nombres comerciales, logotipos e imágenes personales y comerciales que usted proporcione. Usted renuncia a todos los derechos morales en sus Contribuciones, y garantiza que los derechos morales no han sido verificados en sus Contribuciones.
 
-We do not assert any ownership over your Contributions. You retain full ownership of all of your Contributions and any intellectual property rights or other proprietary rights associated with your Contributions. We are not liable for any statements or representations in your Contributions provided by you in any area on the Services. You are solely responsible for your Contributions to the Services and you expressly agree to exonerate us from any and all responsibility and to refrain from any legal action against us regarding your Contributions.
+No establecemos ninguna propiedad sobre sus contribuciones. Usted conserva la plena propiedad de todas sus Contribuciones y de cualquier derecho de propiedad intelectual u otros derechos de propiedad asociados con sus Contribuciones. No nos hacemos responsables de ninguna declaración o representación en sus Contribuciones proporcionadas por usted en ningún área de los Servicios. Usted es el único responsable de sus Contribuciones a los Servicios y usted acepta expresamente exonerarnos de cualquier responsabilidad y de cualquier acción legal contra nosotros en relación con sus Contribuciones.
 
-We have the right, in our sole and absolute discretion, (1) to edit, redact, or otherwise change any Contributions; (2) to re-categorize any Contributions to place them in more appropriate locations on the Services; and (3) to pre-screen or delete any Contributions at any time and for any reason, without notice. We have no obligation to monitor your Contributions.
+Tenemos el derecho, a nuestra sola y absoluta discreción, (1) de editar, redactar o cambiar de otra forma cualquier Contribución; (2) reclasificar cualquier contribución para colocarlos en lugares más apropiados en los Servicios; y (3) previsualizar o eliminar cualquier Contribución en cualquier momento y por cualquier razón, sin previo aviso. No tenemos ninguna obligación de controlar sus contribuciones.
 
-12\. MOBILE APPLICATION LICENSE
+12\. LICENCIA DE APLICACIÓN MOBILA
 
-Use License
+Licencia de uso
 
-If you access the Services via the App, then we grant you a revocable, non-exclusive, non-transferable, limited right to install and use the App on wireless electronic devices owned or controlled by you, and to access and use the App on such devices strictly in accordance with the terms and conditions of this mobile application license contained in these Legal Terms. You shall not: (1) except as permitted by applicable law, decompile, reverse engineer, disassemble, attempt to derive the source code of, or decrypt the App; (2) make any modification, adaptation, improvement, enhancement, translation, or derivative work from the App; (3) violate any applicable laws, rules, or regulations in connection with your access or use of the App; (4) remove, alter, or obscure any proprietary notice (including any notice of copyright or trademark) posted by us or the licensors of the App; (5) use the App for any revenue generating endeavor, commercial enterprise, or other purpose for which it is not designed or intended; (6) make the App available over a network or other environment permitting access or use by multiple devices or users at the same time; (7) use the App for creating a product, service, or software that is, directly or indirectly, competitive with or in any way a substitute for the App; (8) use the App to send automated queries to any website or to send any unsolicited commercial email; or (9) use any proprietary information or any of our interfaces or our other intellectual property in the design, development, manufacture, licensing, or distribution of any applications, accessories, or devices for use with the App.
+Si accede a los Servicios a través de la App, entonces le concedemos un revocable, no exclusivo, intransferible, derecho limitado a instalar y usar la aplicación en dispositivos electrónicos inalámbricos de tu propiedad o controlados por ti y para acceder y utilizar la aplicación en dichos dispositivos estrictamente de acuerdo con los términos y condiciones de esta licencia de aplicación móvil contenidos en estas Condiciones Legales. Usted no: (1) excepto según lo permitido por la ley aplicable, descompile, ingeniero inverso, desastre, intentará derivar el código fuente de, o descifrar la aplicación; (2) realizar cualquier modificación, adaptación, mejora, mejora, traducción o trabajo derivado de la App; (3) violar las leyes, normas o reglamentos aplicables en relación con su acceso o uso de la App; (4) eliminar, alterar u ocultar cualquier aviso propietario (incluyendo cualquier aviso de copyright o marca registrada) publicado por nosotros o por los licenciantes de la App; (5) usa la aplicación para cualquier empresa generadora de ingresos, comercio u otro propósito para el que no esté diseñado o intencionado; (6) hacer que la aplicación esté disponible a través de una red u otro entorno que permita el acceso o uso por varios dispositivos o usuarios al mismo tiempo; (7) usa la aplicación para crear un producto, servicio o software que es, directa o indirectamente, competitiva con o de cualquier forma un sustituto de la App; (8) utiliza la aplicación para enviar consultas automatizadas a cualquier sitio web o para enviar cualquier correo electrónico comercial no solicitado; o (9) usar cualquier información propietaria o cualquiera de nuestras interfaces o nuestra otra propiedad intelectual en el diseño, desarrollar, desarrollar, licenciar o distribuir cualquier aplicación, accesorios o dispositivos para su uso con la aplicación.
 
-Apple and Android Devices
+Dispositivos Apple y Android
 
-The following terms apply when you use the App obtained from either the Apple Store or Google Play (each an "App Distributor") to access the Services: (1) the license
+Las siguientes condiciones se aplican cuando utiliza la aplicación obtenida de Apple Store o Google Play (cada una de ellas un "distribuidor de aplicaciones") para acceder a los Servicios: (1) la licencia
 
-granted to you for our App is limited to a non-transferable license to use the application on a device that utilizes the Apple iOS or Android operating systems, as applicable, and in accordance with the usage rules set forth in the applicable App Distributor’s terms of service; (2) we are responsible for providing any maintenance and support services with respect to the App as specified in the terms and conditions of this mobile application license contained in these Legal Terms or as otherwise required under applicable law, and you acknowledge that each App Distributor has no obligation whatsoever to furnish any maintenance and support services with respect to the App; (3) in the event of any failure of the App to conform to any applicable warranty, you may notify the applicable App Distributor, and the App Distributor, in accordance with its terms and policies, may refund the purchase price, if any, paid for the App, and to the maximum extent permitted by applicable law, the App Distributor will have no other warranty obligation whatsoever with respect to the App; (4) you represent and warrant that (i) you are not located in a country that is subject to a US government embargo, or that has been designated by the US government as a "terrorist supporting" country and (ii) you are not listed on any US government list of prohibited or restricted parties; (5) you must comply with applicable third-party terms of agreement when using the App, e.g., if you have a VoIP application, then you must not be in violation of their wireless data service agreement when using the App; and (6) you acknowledge and agree that the App Distributors are third-party beneficiaries of the terms and conditions in this mobile application license contained in these Legal Terms, and that each App Distributor will have the right (and will be deemed to have accepted the right) to enforce the terms and conditions in this mobile application license contained in these Legal Terms against you as a third-party beneficiary thereof.
+concedido para nuestra aplicación está limitado a una licencia no transferible para usar la aplicación en un dispositivo que utiliza los sistemas operativos Apple iOS o Android, según corresponda, y de acuerdo con las normas de uso establecidas en las condiciones de servicio aplicables del distribuidor de aplicación; (2) somos responsables de proporcionar cualquier servicio de mantenimiento y soporte con respecto a la aplicación, según se especifica en los términos y condiciones de esta licencia de aplicación móvil contenida en estas Condiciones Legales o según lo requerido por la ley aplicable, y reconoces que cada Distribuidor de Aplicaciones no tiene obligación alguna de proporcionar ningún servicio de mantenimiento y soporte con respecto a la App; (3) en caso de que la aplicación no se ajuste a cualquier garantía aplicable, puedes notificar al distribuidor de la aplicación aplicable, y al distribuidor de la aplicación, de acuerdo con sus términos y políticas puede reembolsar el precio de compra, si existe, pagado por la aplicación, y en la medida máxima permitida por la ley aplicable, el distribuidor de la aplicación no tendrá ninguna otra obligación de garantía con respecto a la aplicación; (4) usted representa y garantiza que (i) usted no se encuentra en un país que está sujeto a un embargo del gobierno de Estados Unidos, o que ha sido designado por el gobierno de los Estados Unidos como un país de "apoyo terrorista" y (ii) usted no aparece en ninguna lista del gobierno de los Estados Unidos de partidos prohibidos o restringidos; (5) usted debe cumplir con las condiciones de acuerdo aplicables de terceros cuando utilice la aplicación, e. ., si tiene una aplicación VoIP, entonces no debe infringir su acuerdo de servicio de datos inalámbricos al usar la App; y (6) usted reconoce y acepta que los Distribuidores de la Aplicación son beneficiarios de terceros de los términos y condiciones de esta licencia de aplicación móvil contenida en estas Condiciones Legales, y que cada Distribuidor de Aplicaciones tendrá el derecho (y se considerará que ha aceptado el derecho) de hacer cumplir los términos y condiciones de esta licencia de aplicación móvil contenida en estas Condiciones Legales contra usted como beneficiario de terceros de las mismas.
 
 13\. ADVERTISERS
 
-We allow advertisers to display their advertisements and other information in certain areas of the Services, such as sidebar advertisements or banner advertisements. We simply provide the space to place such advertisements, and we have no other relationship with advertisers.
+Permitimos que los anunciantes muestren sus anuncios y otra información en ciertas áreas de los Servicios, como anuncios lateral o anuncios de banners. Sencillamente proporcionamos el espacio para colocar tales anuncios, y no tenemos ninguna otra relación con los anunciantes.
 
-14\. SERVICES MANAGEMENT
+14\. MÁS DE SERVICIOS
 
-We reserve the right, but not the obligation, to: (1) monitor the Services for violations of these Legal Terms; (2) take appropriate legal action against anyone who, in our sole discretion, violates the law or these Legal Terms, including without limitation, reporting such user to law enforcement authorities; (3) in our sole discretion and without limitation, refuse, restrict access to, limit the availability of, or disable (to the extent technologically feasible) any of your Contributions or any portion thereof; (4) in our sole discretion and without limitation, notice, or liability, to remove from the Services or otherwise disable all files and content that are excessive in size or are in any way burdensome to our systems; and (5) otherwise manage the Services in a manner designed to protect our rights and property and to facilitate the proper functioning of the Services.
+Nos reservamos el derecho, pero no la obligación, de: (1) controlar los Servicios por violaciones de estos Términos Legales; (2) emprender acciones legales contra cualquier persona que, a nuestra entera discreción, viole la ley o estas Condiciones Legales, incluyendo sin limitaciones, reportar a este usuario a las autoridades del cumplimiento de la ley; (3) a nuestra entera discreción y sin limitaciones, rehúsan, restringen el acceso a, limitan la disponibilidad de, o deshabilitar (en la medida en que sea tecnológicamente factible) cualquiera de sus contribuciones o cualquier porción de ellas; (4) a nuestra entera discreción y sin limitación, aviso, o responsabilidad, para eliminar de los Servicios o deshabilitar todos los archivos y contenido que son de tamaño excesivo o que de alguna manera son cargados para nuestros sistemas; y (5) de otro modo gestionar los Servicios de una manera diseñada para proteger nuestros derechos y propiedad y para facilitar el correcto funcionamiento de los Servicios.
 
-15\. PRIVACY POLICY
+15\. POLICIÓN DE PRIVACIA
 
-We care about data privacy and security. Please review our Privacy Policy: https://www.cboard.io/privacy/. By using the Services, you agree to be bound by our Privacy Policy, which is incorporated into these Legal Terms. Please be advised the Services are hosted in Argentina. If you access the Services from any other region of the world with laws or other requirements governing personal data collection, use, or disclosure that differ from applicable laws in Argentina, then through your continued use of the Services, you are transferring your data to Argentina, and you expressly consent to have your data transferred to and processed in Argentina.
+Nos preocupamos por la privacidad y seguridad de los datos. Revise nuestra Política de Privacidad: https://www.cboard.io/privacy/. Al utilizar los Servicios, usted acepta estar obligado por nuestra Política de Privacidad, la cual está incorporada en estas Condiciones Legales. Tenga en cuenta que los Servicios están alojados en Argentina. Si accede a los Servicios desde cualquier otra región del mundo con leyes u otros requisitos que rigen la recopilación de datos personales, uso o divulgación que difiere de las leyes aplicables en Argentina. a través de su uso continuado de los Servicios, usted está transfiriendo sus datos a Argentina, y usted da su consentimiento expreso para que sus datos sean transferidos y tratados en Argentina.
 
-16\. TERM AND TERMINATION
+16\. TÉRMINO Y TERMINACIÓN
 
-These Legal Terms shall remain in full force and effect while you use the Services. WITHOUT LIMITING ANY OTHER PROVISION OF THESE LEGAL TERMS, WE RESERVE THE RIGHT TO, IN OUR SOLE DISCRETION AND WITHOUT NOTICE OR LIABILITY, DENY ACCESS TO AND USE OF THE SERVICES (INCLUDING BLOCKING CERTAIN IP ADDRESSES), TO ANY PERSON FOR ANY REASON OR FOR NO REASON, INCLUDING WITHOUT LIMITATION FOR BREACH OF ANY REPRESENTATION, WARRANTY, OR COVENANT CONTAINED IN THESE LEGAL
+Estas Condiciones Legales permanecerán en plena vigencia y efecto mientras utilice los Servicios. SIN LIMITAR CUALQUIER OTRA PROVISIÓN DE ESTOS TÉRMINOS LEGALES, RESERVAMOS EL DERECHO A, EN NUESTRA DISCRECIÓN SOLE Y SIN NOTICE O LIABILIDAD, DENY ACCEDE A Y USO DE LOS SERVICES (INCLUDING BLOCKING CERTAIN IP ADRESESES), A CUALQUIER PERSONA PARA CUALQUIER EQUIPO O PARA NINGUNA EMPRESA, INCLUDANDO SIN LIMITACIÓN POR RESPONSABLE DE CUALQUIER REPRESENTACIÓN, GARANTIA O CONTAINADA EN ESTAS LEGALES
 
-TERMS OR OF ANY APPLICABLE LAW OR REGULATION. WE MAY TERMINATE YOUR USE OR PARTICIPATION IN THE SERVICES OR DELETE YOUR ACCOUNT AND ANY CONTENT OR INFORMATION THAT YOU POSTED AT ANY TIME, WITHOUT WARNING, IN OUR SOLE DISCRETION.
+TÉRMINOS O DE CUALQUIER LEY O REGULACIÓN. MÁS TERMINAR SU USO O PARTICIPACIÓN EN LOS SERVICIOS O DELIMITAR SU CUENTA Y CUALQUIER CONTENTO O INFORMACIÓN QUE USTED POSTADO EN CUALQUIER MOMENTO, WITHOUT WARNING, EN NUESTRA DISCRECIÓN SOL.
 
-If we terminate or suspend your account for any reason, you are prohibited from registering and creating a new account under your name, a fake or borrowed name, or the name of any third party, even if you may be acting on behalf of the third party. In addition to terminating or suspending your account, we reserve the right to take appropriate legal action, including without limitation pursuing civil, criminal, and injunctive redress.
+Si terminamos o suspendemos su cuenta por cualquier motivo, se le prohíbe registrar y crear una nueva cuenta bajo su nombre, un nombre falso o prestado, o el nombre de cualquier tercero, incluso si usted puede estar actuando en nombre de terceros. Además de cancelar o suspender su cuenta, nos reservamos el derecho de tomar las acciones legales apropiadas incluyendo, sin limitaciones, la persecución de recursos civiles, penales y judiciales.
 
-17\. MODIFICATIONS AND INTERRUPTIONS
+17\. MODIFICACIONES E INTERRUPCIONES
 
-We reserve the right to change, modify, or remove the contents of the Services at any time or for any reason at our sole discretion without notice. However, we have no obligation to update any information on our Services. We will not be liable to you or any third party for any modification, price change, suspension, or discontinuance of the Services.
+Nos reservamos el derecho a cambiar, modificar, o eliminar los contenidos de los Servicios en cualquier momento o por cualquier razón a nuestra entera discreción, sin previo aviso. Sin embargo, no tenemos la obligación de actualizar ninguna información sobre nuestros Servicios. No seremos responsables ante usted ni ante ningún tercero por cualquier modificación, cambio de precios, suspensión o interrupción de los Servicios.
 
-We cannot guarantee the Services will be available at all times. We may experience hardware, software, or other problems or need to perform maintenance related to the Services, resulting in interruptions, delays, or errors. We reserve the right to change, revise, update, suspend, discontinue, or otherwise modify the Services at any time or for any reason without notice to you. You agree that we have no liability whatsoever for any loss, damage, or inconvenience caused by your inability to access or use the Services during any downtime or discontinuance of the Services. Nothing in these Legal Terms will be construed to obligate us to maintain and support the Services or to supply any corrections, updates, or releases in connection therewith.
+No podemos garantizar que los Servicios estén disponibles en todo momento. Podemos experimentar hardware, software u otros problemas o necesidad de realizar mantenimiento relacionado con los Servicios, lo que resulta en interrupciones, retrasos o errores. Nos reservamos el derecho a cambiar, revisar, actualizar, suspender, interrumpir, o modificar de otro modo los Servicios en cualquier momento o por cualquier razón sin previo aviso. Usted acepta que no tenemos ninguna responsabilidad por ninguna pérdida, daño, o inconvenientes causados por su incapacidad para acceder o utilizar los Servicios durante cualquier tiempo de inactividad o interrupción de los Servicios. Nada de lo establecido en estas Condiciones Legales será interpretado para obligarnos a mantener y apoyar los Servicios o a proporcionar correcciones, actualizaciones, o lanzamientos relacionados con ellas.
 
-18\. GOVERNING LAW
+18\. LEY DE REGISTRO
 
-These Legal Terms shall be governed by and defined following the laws of Argentina. COMUNICACION AUMENTATIVA CHILE SpA and yourself irrevocably consent that the courts of Argentina shall have exclusive jurisdiction to resolve any dispute which may arise in connection with these Legal Terms.
+Estos Términos y Condiciones Legales serán regidos por y definidos según las leyes de Argentina. COMUNICACION AUMENTATIVA CHILE SpA y usted reconoce que los tribunales de Argentina tendrán jurisdicción exclusiva para resolver cualquier disputa que pueda surgir en relación con estas Condiciones Legales.
 
-19\. DISPUTE RESOLUTION
+19\. RESOLUCIÓN DE DISPUTA
 
-Informal Negotiations
+Negociaciones informales
 
-To expedite resolution and control the cost of any dispute, controversy, or claim related to these Legal Terms (each a "Dispute" and collectively, the "Disputes") brought by either you or us (individually, a "Party" and collectively, the "Parties"), the Parties agree to first attempt to negotiate any Dispute (except those Disputes expressly provided below) informally for at least \_\_\_\_\_\_\_\_\_\_ days before initiating arbitration. Such informal negotiations commence upon written notice from one Party to the other Party.
+Acelerar la resolución y controlar el costo de cualquier disputa, controversia o reclamación relacionada con estos Términos Legales (cada uno de ellos un "Dispute" y colectivamente, las "Disputas") traídas por usted o por nosotros (individualmente, una "Party" y colectivamente, las "Partes"), las Partes acuerdan primero intentar negociar cualquier disputa (excepto las disputas expresamente indicadas a continuación) informalmente durante al menos \_\_\_\_\_\_\_\_\_\_\_\_ días antes de iniciar el arbitraje. Semejantes negociaciones informales empiezan con la notificación escrita de una parte a la otra parte.
 
-Binding Arbitration
+Enlazar arbitraje
 
-Any dispute arising out of or in connection with these Legal Terms, including any question regarding its existence, validity, or termination, shall be referred to and finally resolved by the International Commercial Arbitration Court under the European Arbitration Chamber (Belgium, Brussels, Avenue Louise, 146) according to the Rules of this ICAC, which, as a result of referring to it, is considered as the part of this clause. The number of arbitrators shall be \_\_\_\_\_\_\_\_\_\_. The seat, or legal place, or arbitration shall be \_\_\_\_\_\_\_\_\_\_. The language of the proceedings shall be \_\_\_\_\_\_\_\_\_\_. The governing law of these Legal Terms shall be substantive law of \_\_\_\_\_\_\_\_\_\_.
+Cualquier disputa que surja de o en relación con estos Términos Legales, incluyendo cualquier pregunta relativa a su existencia, validez o rescisión, será remitido y finalmente resuelto por la Corte Internacional de Arbitraje Comercial bajo la Cámara Europea de Arbitraje (Bélgica, Bruselas, Avenida Louise, 146) de acuerdo con el Reglamento de este CICA, el cual, como resultado de referirse a ella, se considera parte de esta cláusula. El número de arbitradores debe ser \_\_\_\_\_\_\_\_\_\_\_\_. El asiento, o lugar legal, o arbitraje debe ser \_\_\_\_\_\_\_\_\_\_\_\_. El idioma del proceso debe ser \_\_\_\_\_\_\_\_\_\_\_\_\_. La ley que rige estas Condiciones Legales será ley sustantiva de \_\_\_\_\_\_\_\_\_\_\_\_.
 
-Restrictions
+Restricciones
 
-The Parties agree that any arbitration shall be limited to the Dispute between the Parties individually. To the full extent permitted by law, (a) no arbitration shall be joined with any other proceeding; (b) there is no right or authority for any Dispute to be arbitrated on a class-action basis or to utilize class action procedures; and (c)
+Las Partes acuerdan que cualquier arbitraje se limitará a la disputa entre las Partes por separado. En la medida permitida por la ley, (a) ningún arbitraje se unirá a ningún otro procedimiento; (b) no existe ningún derecho o autoridad para que cualquier disputa sea arbitrada sobre una base de acción de clase o para utilizar acciones de clase; y (c)
 
-there is no right or authority for any Dispute to be brought in a purported representative capacity on behalf of the general public or any other persons.
+no existe ningún derecho o autoridad para que cualquier disputa sea presentada en una supuesta capacidad representativa en nombre del público en general o de cualquier otra persona.
 
-Exceptions to Informal Negotiations and Arbitration
+Excepciones a las Negociaciones y Arbitraje Informales
 
-The Parties agree that the following Disputes are not subject to the above provisions concerning informal negotiations binding arbitration: (a) any Disputes seeking to enforce or protect, or concerning the validity of, any of the intellectual property rights of a Party; (b) any Dispute related to, or arising from, allegations of theft, piracy, invasion of privacy, or unauthorized use; and (c) any claim for injunctive relief. If this provision is found to be illegal or unenforceable, then neither Party will elect to arbitrate any Dispute falling within that portion of this provision found to be illegal or unenforceable and such Dispute shall be decided by a court of competent jurisdiction within the courts listed for jurisdiction above, and the Parties agree to submit to the personal jurisdiction of that court.
+Las Partes acuerdan que las siguientes disputas no están sujetas a las disposiciones anteriores relativas al arbitraje vinculante de las negociaciones informales: (a) cualquier disputa que busque hacer cumplir o proteger, o concerniente a la validez de cualquiera de los derechos de propiedad intelectual de una Parte; (b) cualquier disputa relacionada con, o que surja de, alegaciones de robo, piratería, invasión de la intimidad o uso no autorizado; y (c) cualquier reclamación por alivio indebido. Si se descubre que esta disposición es ilegal o no aplicable, entonces ninguna de las Partes elegirá calificar cualquier disputa dentro de esa parte de esta provisión que se considere ilegal o no exigible, y dicha disputa será decidida por un tribunal de jurisdicción competente dentro de los tribunales listados para la jurisdicción anterior, y las Partes acuerdan someterse a la jurisdicción personal de la Corte.
 
-20\. CORRECTIONS
+20\. CORECCIONES
 
-There may be information on the Services that contains typographical errors, inaccuracies, or omissions, including descriptions, pricing, availability, and various other information. We reserve the right to correct any errors, inaccuracies, or omissions and to change or update the information on the Services at any time, without prior notice.
+Puede haber información sobre los Servicios que contenga errores tipográficos, imprecisiones o omisiones, incluyendo descripciones, precios, disponibilidad y otra información. Nos reservamos el derecho de corregir cualquier error, inexactitud, o omisiones y cambiar o actualizar la información de los Servicios en cualquier momento, sin previo aviso.
 
-21\. DISCLAIMER
+21\. DECLARACIÓN
 
-THE SERVICES ARE PROVIDED ON AN AS-IS AND AS-AVAILABLE BASIS. YOU AGREE THAT YOUR USE OF THE SERVICES WILL BE AT YOUR SOLE RISK. TO THE FULLEST EXTENT PERMITTED BY LAW, WE DISCLAIM ALL WARRANTIES, EXPRESS OR IMPLIED, IN CONNECTION WITH THE SERVICES AND YOUR USE THEREOF, INCLUDING, WITHOUT LIMITATION, THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON INFRINGEMENT. WE MAKE NO WARRANTIES OR REPRESENTATIONS ABOUT THE ACCURACY OR COMPLETENESS OF THE SERVICES' CONTENT OR THE CONTENT OF ANY WEBSITES OR MOBILE APPLICATIONS LINKED TO THE SERVICES AND WE WILL ASSUME NO LIABILITY OR RESPONSIBILITY FOR ANY (1) ERRORS, MISTAKES, OR INACCURACIES OF CONTENT AND MATERIALS, (2) PERSONAL INJURY OR PROPERTY DAMAGE, OF ANY NATURE WHATSOEVER, RESULTING FROM YOUR ACCESS TO AND USE OF THE SERVICES, (3) ANY UNAUTHORIZED ACCESS TO OR USE OF OUR SECURE SERVERS AND/OR ANY AND ALL PERSONAL INFORMATION AND/OR FINANCIAL INFORMATION STORED THEREIN, (4) ANY INTERRUPTION OR CESSATION OF TRANSMISSION TO OR FROM THE SERVICES, (5) ANY BUGS, VIRUSES, TROJAN HORSES, OR THE LIKE WHICH MAY BE TRANSMITTED TO OR THROUGH THE SERVICES BY ANY THIRD PARTY, AND/OR (6) ANY ERRORS OR OMISSIONS IN ANY CONTENT AND MATERIALS OR FOR ANY LOSS OR DAMAGE OF ANY KIND INCURRED AS A RESULT OF THE USE OF ANY CONTENT POSTED, TRANSMITTED, OR OTHERWISE MADE AVAILABLE VIA THE SERVICES. WE DO NOT WARRANT, ENDORSE, GUARANTEE, OR ASSUME RESPONSIBILITY FOR ANY PRODUCT OR SERVICE ADVERTISED OR OFFERED BY A THIRD PARTY THROUGH THE SERVICES, ANY HYPERLINKED WEBSITE, OR ANY WEBSITE OR MOBILE APPLICATION FEATURED IN ANY BANNER OR OTHER ADVERTISING, AND WE WILL NOT BE A PARTY TO OR IN ANY WAY BE RESPONSIBLE FOR MONITORING ANY TRANSACTION BETWEEN YOU AND ANY THIRD-PARTY PROVIDERS OF PRODUCTS OR SERVICES. AS WITH THE PURCHASE OF A PRODUCT OR SERVICE THROUGH ANY MEDIUM OR IN ANY ENVIRONMENT, YOU SHOULD USE YOUR BEST JUDGMENT AND EXERCISE CAUTION WHERE APPROPRIATE.
+LOS SERVICIOS ESTÁN COMPRADOS EN UN AS-IS Y AS-DISPONIBLES BASIES. USTED QUE SU USO DE LOS SERVICIOS SERÁ A SU RIESGO. HASTA EL MEJOR EXTENTE PERMITIDO POR LA LEY, NOSOTROS DISCLAMOS TODAS LAS GARANTÍAS, EXPRESOS O IMPLICADOS, EN CONECCIÓN CON LOS SERVICIOS Y SU USO INCLUDING, SIN LIMITACIÓN, LAS GARANTÍAS IMPLIADAS DE COMERCIALIDAD, ADECUACIÓN PARA UN PROPÓSITO PARTICULAR Y NO INFINGEMENTO. NINGUNA GARANTÍA O REPRESENTACIÓN, ABÚN LA EXACTITUD O COMPLETENCIA DEL CONTENTO DE LOS SERVICIOS O EL CONTENTO DE CUALQUIER WEBSITES O LAS APLICACIONES MOBILES LINKADAS A LOS SERVICIOS Y NOSOTROS SIEMOS NINGUNA LIABILIDAD O RESPONSABILIDAD PARA (1) ERRORES, MISIONES O INACTURACIAS DE MATERIALES Y MATERIALES, (2) INJURA PERSONAL O PROPERTÍA DE DOMINO, DE CUALQUIER NOMBRE, RESULTANDO DE SU ACCESO A Y USO DE LOS SERVICIOS, (3) CUALQUIER ACCESO NO AUTORIADO AL USO DE NUESTROS SERVIDORES DE SEGURIDAD Y/O CUALQUIER Y TODA LA INFORMACIÓN PERSONAL Y/O LA INFORMACIÓN FINANCIAL ESTORADA, (4) CUALQUIER INTERRUPCIÓN O CESSACIÓN DE TRANSMISIÓN A O DE LOS SERVICIOS, (5) CUALQUIER BORRO, VIRUS, HORAS DE TROJAN, O LA LIKE QUE SE TRANSMITA A O A TRAVÉS DE LOS SERVICIOS POR CUALQUIER TERCERO, Y/O (6) CUALQUIER ERRORES U OMISIONES EN CUALQUIER CONTENTO Y MATERIALES O POR CUALQUIER PERSONA O DAÑO DE CUALQUIER TIPO INCURRADO COMO RESULTO DEL USO DE CUALQUIER PÓSITO CONTENTE, TRANSMITIDO, U OTRA MADERA DISPONIBLE VIA LOS SERVICIOS. NOSOTROS NO HACEMOS GUARRANDAS, GUARANTEE, O ASUME RESPONSIBILIDAD PARA CUALQUIER PRODUCTO O SERVICIO AVERTIFICADOS O OFERTADOS POR UN TERCERO A TRAVÉS DE LOS SERVICIOS, CUALQUIER HYPERLINKED WEBSITA, O CUALQUIER WEBSITE O APLICACIÓN MOBIL FUNCIONADA EN CUALQUIER NECESARIO U OTROS AVERTISING, Y NO SEREMOS PARTIDO A NI EN CUALQUIER POR QUE SE RESPONIBLE PARA MONITORIAR CUALQUIER TRANSACCIÓN SE SEA USTED Y CUALQUIER PROVEEDOR DE PRODUCTOS O SERVICIOS. COMO CON LA COMPRA DE UN PRODUCTO O SERVICIO A TRAVÉS DE CUALQUIER MEDIUM O EN CUALQUIER MEDIMIENTO, USTED DEBE UTILIZAR SU MEJOR CAUCIÓN DE JUDGENTE Y EXERCISE QUE APROPRIAR.
 
-22\. LIMITATIONS OF LIABILITY
+22\. LIMITACIONES DE LIABILIDAD
 
-IN NO EVENT WILL WE OR OUR DIRECTORS, EMPLOYEES, OR AGENTS BE LIABLE TO YOU OR ANY THIRD PARTY FOR ANY DIRECT, INDIRECT, CONSEQUENTIAL, EXEMPLARY, INCIDENTAL, SPECIAL, OR PUNITIVE DAMAGES, INCLUDING LOST PROFIT, LOST REVENUE, LOSS OF DATA, OR OTHER DAMAGES ARISING FROM YOUR USE OF THE SERVICES, EVEN IF WE HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. NOTWITHSTANDING ANYTHING TO THE CONTRARY CONTAINED HEREIN,
+EN NINGÚN EVENTO NOSOTROS O NUESTROS DERECTORES, EMPLOYES O AGENTES SEAN LIBLES A USTED O NINGÚN TERCERO POR CUALQUIER DERECTO, INDIRECTO, CONSEQUENTIAL, EXEMPLARY, INCIDENTAL, SPECIAL, O PUNITIVOS DAMAGOS, INCLUYENDO PÉRDIDA DE PÉRDIDA, PÉRDIDA DE DATOS, U OTROS DAÑOS QUE SURJAN DE SU USO DE LOS SERVICIOS, EVEN SI TENEMOS SIDO ADVISADO DE LA POSSIBILITY DE LOS DAÑOS. NOTWITHSTANDING ANY TO THE CONTRARY CONTAINED HEREIN,
 
-OUR LIABILITY TO YOU FOR ANY CAUSE WHATSOEVER AND REGARDLESS OF THE FORM OF THE ACTION, WILL AT ALL TIMES BE LIMITED TO THE AMOUNT PAID, IF ANY, BY YOU TO US. CERTAIN US STATE LAWS AND INTERNATIONAL LAWS DO NOT ALLOW LIMITATIONS ON IMPLIED WARRANTIES OR THE EXCLUSION OR LIMITATION OF CERTAIN DAMAGES. IF THESE LAWS APPLY TO YOU, SOME OR ALL OF THE ABOVE DISCLAIMERS OR LIMITATIONS MAY NOT APPLY TO YOU, AND YOU MAY HAVE ADDITIONAL RIGHTS.
+NUESTRA LIABILIDAD A USTED PARA CUALQUIER CADOR Y REGARDIDA DE LA FORMA DE LA ACCIÓN, WILL EN TODOS LOS TIMOS SE LIMITAN A LA PÁGINA DE AÑO, SI CUALQUIER TIPO, POR USTED A NOSOTROS. CERTAIN US ESTATE LEWS AND INTERNATIONAL LEWS NO PERMITEN LIMITACIONES SOBRE LAS GARANTÍAS IMPLICADAS O LA EXCLUSIÓN O LIMITACIÓN DE LOS DAÑOS DE CERTA. SI ESTAS LEYES SE APLICAN A USTED, ALGUNOS O TODOS DE LOS DISCLADORES ABOVOS O LIMITACIONES NO SE APLICARÁN A Usted, Y USTED TIENE DERECHOS ADICIONALES.
 
-23\. INDEMNIFICATION
+23\. INDEMNIFICACIÓN
 
-You agree to defend, indemnify, and hold us harmless, including our subsidiaries, affiliates, and all of our respective officers, agents, partners, and employees, from and against any loss, damage, liability, claim, or demand, including reasonable attorneys’ fees and expenses, made by any third party due to or arising out of: (1) your Contributions; (2) use of the Services; (3) breach of these Legal Terms; (4) any breach of your representations and warranties set forth in these Legal Terms; (5) your violation of the rights of a third party, including but not limited to intellectual property rights; or (6) any overt harmful act toward any other user of the Services with whom you connected via the Services. Notwithstanding the foregoing, we reserve the right, at your expense, to assume the exclusive defense and control of any matter for which you are required to indemnify us, and you agree to cooperate, at your expense, with our defense of such claims. We will use reasonable efforts to notify you of any such claim, action, or proceeding which is subject to this indemnification upon becoming aware of it.
+Aceptas defendernos y mantenernos inofensivos, incluyendo nuestras filiales, afiliados, y todos nuestros respectivos funcionarios, agentes, socios y empleados, de y contra cualquier pérdida, daños, responsabilidad, reclamación o demanda, incluyendo honorarios y gastos razonables de los abogados, hechos por cualquier tercero debido o que surja de: (1) sus Contribuciones; (2) uso de los Servicios; (3) incumplimiento de estas Condiciones Legales; (4) cualquier incumplimiento de sus declaraciones y garantías expuestas en estas Condiciones Legales; (5) su violación de los derechos de un tercero, incluyendo pero no limitado a los derechos de propiedad intelectual; o (6) cualquier acto nocivo frente a cualquier otro usuario de los Servicios con los que usted haya conectado a través de los Servicios. No obstante lo anterior, nos reservamos el derecho, a su costa, para asumir la defensa y el control exclusivos de cualquier asunto por el que usted esté obligado a afirmarnos, y usted acuerda cooperar, a su costa, con nuestra defensa de tales reclamos. Utilizaremos esfuerzos razonables para notificarle de cualquier reclamo, acción, acción o procediendo que está sujeta a esta dispensación al darse cuenta de ella.
 
-24\. USER DATA
+24\. DATOS DE USUARIO
 
-We will maintain certain data that you transmit to the Services for the purpose of managing the performance of the Services, as well as data relating to your use of the Services. Although we perform regular routine backups of data, you are solely responsible for all data that you transmit or that relates to any activity you have undertaken using the Services. You agree that we shall have no liability to you for any loss or corruption of any such data, and you hereby waive any right of action against us arising from any such loss or corruption of such data.
+Mantendremos ciertos datos que usted transmita a los Servicios con el fin de gestionar el funcionamiento de los Servicios, así como los datos relativos al uso de los Servicios. Aunque realizamos copias de seguridad de datos rutinarias regulares, usted es el único responsable de todos los datos que usted transmita o que estén relacionados con cualquier actividad que haya emprendido utilizando los Servicios. Usted acepta que no tendremos ninguna responsabilidad hacia usted por cualquier pérdida o corrupción de dichos datos, y usted renuncia aquí a cualquier derecho de acción contra nosotros que surja de tal pérdida o corrupción de dichos datos.
 
-25\. ELECTRONIC COMMUNICATIONS, TRANSACTIONS, AND SIGNATURES
+25\. COMUNICACIONES ELECTRÓNICOS, TRANSACCIONES Y FUNCIONES
 
-Visiting the Services, sending us emails, and completing online forms constitute electronic communications. You consent to receive electronic communications, and you agree that all agreements, notices, disclosures, and other communications we provide to you electronically, via email and on the Services, satisfy any legal requirement that such communication be in writing. YOU HEREBY AGREE TO THE USE OF ELECTRONIC SIGNATURES, CONTRACTS, ORDERS, AND OTHER RECORDS, AND TO ELECTRONIC DELIVERY OF NOTICES, POLICIES, AND RECORDS OF TRANSACTIONS INITIATED OR COMPLETED BY US OR VIA THE SERVICES. You hereby waive any rights or requirements under any statutes, regulations, rules, ordinances, or other laws in any jurisdiction which require an original signature or delivery or retention of non-electronic records, or to payments or the granting of credits by any means other than electronic means.
+La visita a los Servicios, el envío de correos electrónicos y la cumplimentación de formularios en línea constituyen comunicaciones electrónicas. Usted da su consentimiento para recibir comunicaciones electrónicas, y acepta que todos los acuerdos, avisos, revelaciones, y otras comunicaciones que le proporcionamos electrónicamente, a través del correo electrónico y de los Servicios, satisfacen cualquier requisito legal que dicha comunicación sea por escrito. USTED AGRAN AL USO DE NGNATURAS ELECTRONIAS, CONTRACTOS, ORDERS, Y OTROS RECORDS, Y DELIMENTE ELECTRÓNICA DE NOTICIAS, POLICIAS, Y RECORDAS DE TRANSACCIONES INITIZADAS O COMPLETADAS POR NOS O VIA LOS SERVICIOS. Por la presente, renuncia a cualquier derecho o requerimiento según estatutos, reglamentos, reglas, ordenanzas, u otras leyes en cualquier jurisdicción que requieran una firma original o entrega o retención de registros no electrónicos, o a los pagos o a la concesión de créditos por cualquier otro medio que no sea electrónico.
 
-26\. CALIFORNIA USERS AND RESIDENTS
+26\. USUARIOS Y RESIDENTOS DE CALIFORNIA
 
-If any complaint with us is not satisfactorily resolved, you can contact the Complaint Assistance Unit of the Division of Consumer Services of the California Department of Consumer Affairs in writing at 1625 North Market Blvd., Suite N 112, Sacramento, California 95834 or by telephone at (800) 952-5210 or (916) 445-1254.
+Si alguna queja con nosotros no se resuelve satisfactoriamente, puede ponerse en contacto con la Unidad de Asistencia para reclamaciones de la División de Servicios al Consumidor del Departamento de Asuntos del Consumidor de California por escrito en 1625 North Market Blvd. Suite N 112, Sacramento, California 95834 o por teléfono al (800) 952-5210 o al (916) 445-1254.
 
-27\. MISCELLANEOUS
+27\. FALLANEO
 
-These Legal Terms and any policies or operating rules posted by us on the Services or in respect to the Services constitute the entire agreement and understanding between you and us. Our failure to exercise or enforce any right or provision of these Legal Terms shall not operate as a waiver of such right or provision. These Legal Terms operate to the fullest extent permissible by law. We may assign any or all of our rights and obligations to others at any time. We shall not be responsible or liable
+Estos Términos Legales y cualquier política o normativa operativa publicada por nosotros en los Servicios o en relación con los Servicios constituyen el acuerdo y entendimiento completo entre usted y nosotros. Nuestro incumplimiento de ejercer o hacer cumplir cualquier derecho o disposición de estas Condiciones Legales no funcionará como una renuncia a tal derecho o disposición. Estas Condiciones Legales operan en la mayor medida permitida por la ley. Podremos ceder cualquiera o todos nuestros derechos y obligaciones a otros en cualquier momento. No seremos responsables ni responsables
 
-for any loss, damage, delay, or failure to act caused by any cause beyond our reasonable control. If any provision or part of a provision of these Legal Terms is determined to be unlawful, void, or unenforceable, that provision or part of the provision is deemed severable from these Legal Terms and does not affect the validity and enforceability of any remaining provisions. There is no joint venture, partnership, employment or agency relationship created between you and us as a result of these Legal Terms or use of the Services. You agree that these Legal Terms will not be construed against us by virtue of having drafted them. You hereby waive any and all defenses you may have based on the electronic form of these Legal Terms and the lack of signing by the parties hereto to execute these Legal Terms.
+por cualquier pérdida, daño, demora o falta de acción causada por cualquier causa fuera de nuestro control razonable. Si se determina que alguna disposición o parte de una disposición de estos Términos Legales es ilegal, nula o no aplicable, que la disposición o parte de la disposición se considera separable de estas Condiciones Legales y no afecta a la validez ni la aplicabilidad de ninguna disposición restante. No hay joint venture, asociación, o relación de agencia creada entre usted y nosotros como resultado de estas Condiciones Legales o el uso de los Servicios. Usted acepta que estas Condiciones Legales no se interpretarán en contra de nosotros en virtud de haberlas redactado. Por la presente renuncia a todas y cada una de las defensas que pueda tener basadas en la forma electrónica de estas Condiciones Legales y en la falta de firma por parte de las partes para ejecutar las presentes Condiciones Legales.
 
-28\. CONTACT US
+28\. CONTACTOS
 
-In order to resolve a complaint regarding the Services or to receive further information regarding use of the Services, please contact us at:
+Para resolver una queja relativa a los Servicios o para recibir más información sobre el uso de los Servicios, póngase en contacto con nosotros en:
 
-COMUNICACION AUMENTATIVA CHILE SpA
+COMUNICACION AUMENTATIVA QUE ESPA
 
 AV. MANQUEHUE SUR 520
 
 Las Condes
 
-Santiago, Región Metropolitana 7570180
+Santiago, Región Metropolitana 7570180
 
 Chile
 
-Phone: +543517574240
+Teléfono: +543517574240
 
-support@cboard.io
+soporte@cboard.io

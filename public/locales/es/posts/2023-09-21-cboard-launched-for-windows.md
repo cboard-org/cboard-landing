@@ -1,44 +1,45 @@
 ---
-title: 'Cboard Launches Windows App for Seamless AAC Communication'
+title: 'Cboard lanza la aplicación Windows para comunicación AAC sin problemas'
 date: 2023-09-21
-description: 'Empowering Communication for Windows Users'
+description: 'Potenciando la comunicación para los usuarios de Windows'
 categories:
-  - cboard
+  - Cboard
   - Windows
   - Microsoft Store
 image: /images/windows-apps.jpg
 author_staff_member: martin
 ---
-Communication is a fundamental aspect of human interaction, and for individuals with communication disabilities, finding the right tools to express themselves can be a significant challenge. Augmentative and Alternative Communication (AAC) software has long been a lifeline for many, enabling them to communicate effectively. In a recent development, Cboard, a popular AAC application, [**has just launched its app in the Microsoft Store for Windows devices**](https://apps.microsoft.com/store/detail/cboard-aac-app/XP9M5KQV699FLR). This exciting release opens up new avenues for users, allowing them to access Cboard directly from their Windows devices without the need for a web browser, and even in offline mode.
 
-**Cboard: A Brief Overview**
+La comunicación es un aspecto fundamental de la interacción humana, y para las personas con discapacidades de comunicación, encontrar las herramientas adecuadas para expresarse puede ser un reto significativo. El software de Comunicación Aummentativa y Alternativa (AAC) ha sido durante mucho tiempo un salvavidas para muchos, lo que les ha permitido comunicarse eficazmente. En un desarrollo reciente, Cboard, una aplicación AAC popular, [**acaba de lanzar su aplicación en la tienda Microsoft Store para dispositivos Windows**](https://apps.microsoft.com/store/detail/cboard-aac-app/XP9M5KQV699FLR). Esta emocionante versión abre nuevas novedades para los usuarios. permitiéndoles acceder directamente a Cboard desde sus dispositivos Windows sin necesidad de un navegador web, e incluso en modo offline.
 
-Cboard is a widely recognized AAC application known for its user-friendly interface and customizable features. It has been a valuable tool for individuals with communication disabilities, as well as educators, therapists, and caregivers, who seek to empower non-verbal or minimally verbal individuals to express themselves.
+**Cboard: Una breve vista general**
 
-**The Launch of Cboard on Windows**
+Cboard es una aplicación AAC ampliamente reconocida conocida por su interfaz fácil de usar y características personalizables. Ha sido una herramienta valiosa para las personas con discapacidades de comunicación, así como educadores, terapeutas, y cuidadores, que buscan empoderar a individuos no verbales o mínimamente verbales para expresarse.
 
-The introduction of the Cboard app in the Microsoft Store for Windows devices is a significant step forward in providing enhanced accessibility and convenience to users. Here's what this launch means for the AAC community:
+**El lanzamiento de Cboard en Windows**
 
-**1. Seamless Access:** With Cboard now available in the Microsoft Store, Windows users can easily download and install the application directly onto their devices. This eliminates the need to access Cboard through a web browser, streamlining the user experience and ensuring quick and easy access.
+La introducción de la aplicación Cboard en la Tienda Microsoft para los dispositivos Windows supone un importante paso adelante para proporcionar una mayor accesibilidad y comodidad a los usuarios. Esto es lo que significa este lanzamiento para la comunidad AAC:
 
-**2. Offline Mode:** One of the standout features of the Cboard Windows app is its offline functionality. Users no longer need a continuous internet connection to utilize the application. This is particularly beneficial for individuals who may not always have access to the internet, ensuring that communication remains accessible at all times.
+**1. Acceso personal:** Con Cboard ahora disponible en la tienda de Microsoft, los usuarios de Windows pueden descargar e instalar la aplicación directamente en sus dispositivos. Esto elimina la necesidad de acceder a Cboard a través de un navegador web, mejorando la experiencia del usuario y garantizando un acceso rápido y fácil.
 
-**3. Enhanced User Experience:** The Cboard Windows app is optimized for the Windows platform, delivering a seamless and responsive experience. Whether you're using a touchscreen device or a traditional keyboard and mouse setup, Cboard on Windows offers a user-friendly and intuitive interface.
+**2. Modo sin conexión:** Una de las características destacadas de la aplicación Cboard Windows es su funcionalidad sin conexión. Los usuarios ya no necesitan una conexión continua a Internet para utilizar la aplicación. Esto es especialmente beneficioso para las personas que no siempre tienen acceso a Internet, garantizando que la comunicación siga siendo accesible en todo momento.
 
-**4. Customization:** Cboard's customization options remain intact in the Windows app. Users can personalize their communication boards, symbol sets, and layouts to cater to individual preferences and communication needs.
+**3. Experiencia de usuario mejorada:** La aplicación Cboard Windows está optimizada para la plataforma Windows, ofreciendo una experiencia perfecta y receptiva. Ya sea que esté utilizando un dispositivo de pantalla táctil o una configuración tradicional del teclado y el ratón, Cboard en Windows ofrece una interfaz sencilla e intuitiva.
 
-**5. Accessibility Features:** Cboard has always been committed to accessibility, and the Windows app is no exception. It offers various accessibility features, such as keyboard shortcuts, high contrast modes, and compatibility with assistive technologies, making it more inclusive for all users.
+**4. Personalización:** Las opciones de personalización de Cboard permanecen intactas en la aplicación Windows. Los usuarios pueden personalizar sus tableros de comunicación, conjuntos de símbolos y diseños para satisfacer las preferencias individuales y las necesidades de comunicación.
 
-**Benefits for All Stakeholders**
+**5. Características de accesibilidad:** Cboard siempre se ha comprometido con la accesibilidad, y la aplicación de Windows no es una excepción. Ofrece varias características de accesibilidad, como atajos de teclado, modos de alto contraste y compatibilidad con tecnologías de asistencia, haciéndola más inclusiva para todos los usuarios.
 
-The launch of the Cboard Windows app has far-reaching benefits for a variety of stakeholders:
+**Beneficios para todos los usuarios**
 
-**- Individuals with Communication Disabilities:** This development empowers individuals with communication disabilities by providing them with a more accessible, offline-ready communication tool.
+El lanzamiento de la aplicación Cboard Windows tiene amplios beneficios para una variedad de partes interesadas:
 
-**- Educators and Therapists:** Teachers, therapists, and caregivers will find it easier to integrate Cboard into their teaching and therapy sessions, allowing for more efficient communication support.
+**- Individuos con Discapacidades de Comunicación:** Este desarrollo potencia a las personas con discapacidades de comunicación al proporcionarles una herramienta de comunicación más accesible y lista sin conexión.
 
-**- Parents and Caregivers:** Families and caregivers can now use Cboard with their loved ones more conveniently, both online and offline, fostering better communication and understanding.
+**- Educadores y Terapistas:** Profesores, Terapistas, y a los cuidadores les resultará más fácil integrar Cboard en sus sesiones de enseñanza y terapia, permitiendo un apoyo de comunicación más eficiente.
 
-**- Accessibility Advocates:** The introduction of the Cboard Windows app represents a significant step toward greater accessibility in the AAC software landscape.
+**- Padres y Cuidadores:** Familias y cuidadores ahora pueden usar Cboard con sus seres queridos más convenientemente, tanto en línea como offline, fomentando una mejor comunicación y comprensión.
 
-In conclusion, the launch of the Cboard app on the Microsoft Store for Windows devices is a game-changer for the AAC community. It not only simplifies access to this essential communication tool but also ensures that communication remains possible in offline scenarios. With its user-friendly interface, customization options, and commitment to accessibility, Cboard continues to be at the forefront of AAC technology, empowering individuals to communicate effectively and connect with the world around them.
+**- Consejos de accesibilidad:** La introducción de la aplicación Cboard Windows representa un paso significativo hacia una mayor accesibilidad en el panorama del software AAC.
+
+En conclusión, el lanzamiento de la aplicación Cboard en la tienda Microsoft para Windows es un cambio de juego para la comunidad AAC. No solo simplifica el acceso a esta herramienta esencial de comunicación, sino que también garantiza que la comunicación siga siendo posible en los escenarios sin conexión. Con su interfaz amigable, opciones de personalización y compromiso con la accesibilidad, Cboard sigue estando a la vanguardia de la tecnología AAC, capacitar a las personas para que se comuniquen eficazmente y se conecten con el mundo que les rodea.

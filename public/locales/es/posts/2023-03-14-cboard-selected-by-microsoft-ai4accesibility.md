@@ -1,42 +1,43 @@
 ---
-title: 'Revolutionizing Communication: Cboard Receives Microsoft AI for Accessibility Grant' 
+title: 'Revolucionando la comunicación: Cboard recibe la subvención Microsoft AI para la accesibilidad'
 date: 2023-05-14
-description:  The Microsoft AI for Accessibility program has selected Cboard.
+description: El programa Microsoft AI for Accessibility ha seleccionado Cboard.
 categories:
-  - cboard
+  - Cboard
   - Microsoft
-  - Grants
+  - Subvenciones
 image: /images/microsoft-banner.jpg
-author_staff_member: martin
+author_staff_member: martín
 ---
-On May 14, 2023, In a heartwarming announcement, the Microsoft AI for Accessibility program has selected Cboard, a groundbreaking AAC (Augmentative and Alternative Communication) web app, for its prestigious grant. This recognition serves as a testament to the power of technology in breaking down communication barriers for individuals living with speech and language impairments. With its innovative approach, Cboard is set to transform the lives of countless children and adults, fostering connection, understanding, and empowerment.
 
-**Unveiling Cboard: Bridging the Communication Gap**
+El 14 de mayo de 2023, En un contundente anuncio, el programa de Microsoft AI para la accesibilidad ha seleccionado Cboard, una innovadora aplicación web AAC (Augmentativa y Alternativa), por su prestigiosa subvención. Este reconocimiento sirve como testimonio del poder de la tecnología para derribar las barreras de comunicación para las personas que viven con problemas de habla y lengua. Con su enfoque innovador, Cboard está destinado a transformar la vida de innumerables niños y adultos, fomentando la conexión, la comprensión y el empoderamiento.
 
-Communication is a fundamental human right, enabling us to express ourselves, share ideas, and connect with others. However, for individuals with speech and language impairments, this basic right can often become a significant challenge. Cboard, an AAC web app, steps in as a beacon of hope by offering a unique blend of symbols and text-to-speech capabilities.
+**Cboard, disminuyendo la brecha de comunicación**
 
-AAC systems are designed to aid communication for individuals who have difficulty speaking or cannot speak at all. Cboard stands out by providing a user-friendly and customizable platform that empowers users to express themselves effectively. Whether it's children just beginning their communication journey or adults seeking enhanced ways to interact, Cboard caters to diverse age groups, making communication accessible to all.
+La comunicación es un derecho humano fundamental, que nos permite expresarnos, compartir ideas y conectar con otros. Sin embargo, para las personas con discapacidades lingüísticas, este derecho básico puede convertirse a menudo en un desafío significativo. Cboard, una aplicación web AAC, entra como un faro de esperanza al ofrecer una mezcla única de símbolos y capacidades de texto a voz.
 
-**Microsoft AI for Accessibility: A Beacon of Support**
+Los sistemas AAC están diseñados para ayudar a las personas que tienen dificultades para hablar o no pueden hablar. Cboard destaca por proporcionar una plataforma fácil de usar y personalizable que permite a los usuarios expresarse con eficacia. Tanto si se trata de niños que comienzan su viaje de comunicación como de adultos que buscan formas mejoradas de interactuar, El tablero cubre diversos grupos de edad, haciendo que la comunicación sea accesible para todos.
 
-The Microsoft AI for Accessibility program is a pioneering initiative that leverages the potential of artificial intelligence to empower individuals with disabilities. Its mission revolves around providing innovators with the resources and support needed to create technological solutions that bridge accessibility gaps. By selecting Cboard for this grant, Microsoft is acknowledging the app's potential to revolutionize communication for people with speech and language impairments.
+**Microsoft AI para accesibilidad: Un faro de soporte**
 
-**Key Features of Cboard:**
+El programa Microsoft AI for Accessibility es una iniciativa pionera que aprovecha el potencial de la inteligencia artificial para capacitar a las personas con discapacidades. Su misión se centra en proporcionar a los innovadores los recursos y el apoyo necesarios para crear soluciones tecnológicas que reduzcan las brechas de accesibilidad. Al seleccionar Cboard para esta subvención, Microsoft está reconociendo el potencial de la aplicación para revolucionar la comunicación para personas con discapacidades de voz y idioma.
 
-1. **Symbol-based Communication:** Cboard employs a rich library of symbols that users can select to form sentences, ideas, and thoughts. This visual approach transcends language barriers and offers an intuitive way to communicate.
+**Características clave de Cboard:**
 
-2. **Text-to-Speech Integration:** The app's integration of text-to-speech technology converts the selected symbols and text into spoken words. This real-time feature enhances interaction and makes communication more dynamic.
+1. **Comunicación basada en símbolos:** Cboard emplea una rica biblioteca de símbolos que los usuarios pueden seleccionar para formar oraciones, ideas y pensamientos. Este enfoque visual trasciende las barreras lingüísticas y ofrece una manera intuitiva de comunicarse.
 
-3. **Customization:** Cboard understands that every individual is unique. With its customization features, users can tailor the app's interface to suit their preferences, ensuring a personalized experience.
+2. **Integración de texto a voz:** La integración de la tecnología de texto a voz de la aplicación convierte los símbolos y texto seleccionados en palabras habladas. Esta característica en tiempo real mejora la interacción y hace que la comunicación sea más dinámica.
 
-4. **Accessibility:** The app's web-based nature ensures that it can be accessed from various devices, making it a versatile tool that can be integrated into various aspects of daily life.
+3. **Personalización:** Cboard entiende que cada individuo es único. Con sus características de personalización, los usuarios pueden adaptar la interfaz de la aplicación a sus preferencias, garantizando una experiencia personalizada.
 
-**Impact Beyond Words: Transforming Lives**
+4. **Accesibilidad:** La naturaleza basada en la web de la aplicación asegura que se puede acceder desde varios dispositivos, hacerla una herramienta versátil que se puede integrar en diversos aspectos de la vida cotidiana.
 
-The impact of Cboard stretches far beyond its technological capabilities. It's about providing individuals who have struggled to communicate with a newfound sense of agency and independence. For parents, caregivers, and educators, Cboard opens doors to better understand and connect with their loved ones or students. This shift in communication dynamics fosters inclusivity, empathy, and a stronger sense of community.
+**Impacto más allá de las palabras: Transformación de las vidas**
 
-**A Bright Future Ahead**
+El impacto de Cboard va mucho más allá de sus capacidades tecnológicas. Se trata de proporcionar a las personas que han luchado por comunicarse con un nuevo sentido de independencia. Para padres, cuidadores y educadores, Cboard abre las puertas para comprender mejor y conectar con sus seres queridos o estudiantes. Este cambio en la dinámica de la comunicación fomenta la inclusión, la empatía y un sentido más fuerte de la comunidad.
 
-Cboard's selection for the Microsoft AI for Accessibility grant illuminates a path toward a more inclusive and compassionate world. As technology continues to evolve, opportunities to make a positive impact multiply. With initiatives like Cboard and the Microsoft AI for Accessibility program, we can look forward to a future where communication is a universal right, regardless of one's abilities.
+**Un futuro brillante por delante**
 
-In celebrating Cboard's achievement, we're reminded that innovation guided by empathy can spark transformative change. As we continue to support projects like Cboard, we lay the groundwork for a society where technology's true potential is harnessed to uplift and empower all individuals, fostering a world of limitless possibilities.
+La selección de Cboard para la concesión de Microsoft AI para Accesibilidad ilumina un camino hacia un mundo más inclusivo y compasivo. A medida que la tecnología continúa evolucionando, las oportunidades de hacer un impacto positivo se multiplican. Con iniciativas como Cboard y el programa Microsoft AI para la accesibilidad, podemos mirar hacia un futuro en el que la comunicación sea un derecho universal, independientemente de nuestras capacidades.
+
+Al celebrar el logro del Cboard, recordamos que la innovación guiada por la empatía puede desencadenar un cambio transformativo. Mientras seguimos apoyando proyectos como Cboard, sentamos las bases para una sociedad en la que el verdadero potencial de la tecnología se apueste por elevar y empoderar a todos los individuos, fomentando un mundo de posibilidades ilimitadas.

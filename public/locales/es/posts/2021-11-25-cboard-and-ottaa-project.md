@@ -1,25 +1,25 @@
 ---
-title: 'Cboard and OTTAA Project collaboration announcement!' 
+title: '¡Anuncio de colaboración del Proyecto Cboard y OTTAA!'
 date: 2021-11-25
-description:  Cboard has joined forces with Ottaa Project to continue working on improving communication of people with disabilities 
+description: El tablero ha unido fuerzas con el Proyecto Ottaa para continuar trabajando en la mejora de la comunicación de las personas con discapacidad
 categories:
-  - cboard
+  - tablero
   - unicef
   - Ottaa Project
 image: /images/ottaateam.jpg
 author_staff_member: katrina
 ---
-[Cboard](https://www.cboard.io/) and [OTTAA project](https://www.ottaaproject.com/), both portfolio companies of the [UNICEF Innovation Fund](https://www.unicef.org/innovation/stories/giving-every-child-voice-aac-technology), have been working together for the past few months to amplify impact. 
+[Cboard](https://www.cboard.io/) y [OTTAA proyecto](https://www.ottaaproject.com/), ambas empresas de cartera del [Fondo de Innovación UNICEF](https://www.unicef.org/innovation/stories/giving-every-child-voice-aac-technology), han estado trabajando juntos durante los últimos meses para ampliar el impacto.
 
-The OTTAA project, like Cboard, is a tool for people with speech and language impairments that allows users to communicate using pictograms. The Ottaa project tool features include predictive AAC, social networks integration, geolocation settings that automatically get related pictograms when nearing a certain place, and is of course fully customizable. 
+El proyecto OTTAA, como Cboard, es una herramienta para personas con discapacidades lingüísticas y de habla que permite a los usuarios comunicarse usando pictogramas. Las características de la herramienta del proyecto Ottaa incluyen la predictiva AAC, integración de redes sociales, configuración de geolocalización que automáticamente obtienen pictogramas relacionados cuando se acerca a un lugar determinado, y por supuesto es totalmente personalizable.
 
-How does this relate to Cboard, you may ask. Well, the OTTAA project has an interdisciplinary team of developers, engineers, and speech therapists and they have significant experience working with AAC software and hardware development, and have expertise in Android app development. Furthermore, they are also based in Córdoba, Argentina (which is also where most of the Cboard team is based). We had worked together in the past and taking this next step in collaboration was a very easy decision. 
+¿Cómo se relaciona esto con Cboard, usted puede preguntar. Bueno, el proyecto OTTAA cuenta con un equipo interdisciplinario de desarrolladores, ingenieros, y terapeutas de voz y tienen una experiencia significativa trabajando con software AAC y desarrollo de hardware, y tienen experiencia en el desarrollo de aplicaciones Android. Además, también tienen su sede en Córdoba, Argentina (que es también donde tiene su sede la mayor parte del equipo de Cboard). Habíamos trabajado juntos en el pasado y dar este próximo paso en colaboración fue una decisión muy fácil.
 
-This is why Cboard has joined forces with them to continue working on improving with their support. Cboard will continue to function as is, while we work behind the scenes with the OTTAA Project team to improve the platform based on a combination of their expertise and user feedback. This collaboration is aimed at collaborating on business solutions and on scaling market share and impact to ultimately help as many people as possible with our AAC solutions. 
+Por eso Cboard ha unido fuerzas con ellos para seguir trabajando en la mejora con su apoyo. El tablero seguirá funcionando como está, mientras trabajamos detrás de las escenas con el equipo del Proyecto OTTAA para mejorar la plataforma basada en una combinación de su experiencia y comentarios de los usuarios. Esta colaboración tiene como objetivo colaborar en soluciones de negocio y en la escalada de cuota de mercado e impacto para ayudar en última instancia al mayor número posible de personas con nuestras soluciones AAC.
 
-We look forward to continuing to work together!
+Esperamos seguir trabajando juntos.
 
-![Joined Forces](/images/joined-forces.png)
+![Fuerzas Unidas](/images/joined-forces.png)
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Amazing to see this from <a href="https://twitter.com/OTTAAProject?ref_src=twsrc%5Etfw">@OTTAAProject</a> and <a href="https://twitter.com/cboard_io?ref_src=twsrc%5Etfw">@cboard_io</a> in their journey to develop <a href="https://twitter.com/hashtag/accessibility?src=hash&amp;ref_src=twsrc%5Etfw">#accessibility</a> devices for people with motor impairment to control a tablets / computers.<br><br>Plus they are some of the first <a href="https://twitter.com/oshwassociation?ref_src=twsrc%5Etfw">@oshwassociation</a> <a href="https://twitter.com/hashtag/OpenHardware?src=hash&amp;ref_src=twsrc%5Etfw">#OpenHardware</a> projects in <a href="https://twitter.com/hashtag/Chile?src=hash&amp;ref_src=twsrc%5Etfw">#Chile</a>!<a href="https://t.co/TWwE5D12Hv">https://t.co/TWwE5D12Hv</a></p>&mdash; Justin W. Flory 🇺🇳 #open (@jwf_foss) <a href="https://twitter.com/jwf_foss/status/1433355620619636736?ref_src=twsrc%5Etfw">September 2, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Increíble para ver esto de <a href="https://twitter.com/OTTAAProject?ref_src=twsrc%5Etfw">@OTTAAProject</a> y <a href="https://twitter.com/cboard_io?ref_src=twsrc%5Etfw">@cboard_io</a> en su viaje para desarrollar <a href="https://twitter.com/hashtag/accessibility?src=hash&amp;ref_src=twsrc%5Etfw">#accesibilidad</a> dispositivos para personas con discapacidad motriz para controlar tabletas / computadoras.<br><br>Además, son algunos de los primeros <a href="https://twitter.com/oshwassociation?ref_src=twsrc%5Etfw">@oshwassociation</a> <a href="https://twitter.com/hashtag/OpenHardware?src=hash&amp;ref_src=twsrc%5Etfw">#OpenHardware</a> proyectos en <a href="https://twitter.com/hashtag/Chile?src=hash&amp;ref_src=twsrc%5Etfw">#Chile</a>!<a href="https://t.co/TWwE5D12Hv">https://t. o/TWwE5D12Hv</a></p>&mdash; Justin W. Flory 🇺🇳 #open (@jwf_foss) <a href="https://twitter.com/jwf_foss/status/1433355620619636736?ref_src=twsrc%5Etfw">2 de septiembre de 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 

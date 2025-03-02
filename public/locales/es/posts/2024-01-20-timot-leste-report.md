@@ -1,25 +1,25 @@
 ---
-title: 'Cboard pilot results - Timor Leste'
+title: Resultados del piloto de Cboard - Timor Leste
 date: 2024-01-20
-description: 'Final outcomes of the pilot in Timor Leste are available to download'
+description: Los resultados finales del proyecto piloto en Timor Oriental están disponibles para su descarga
 categories:
-  - cboard
+  - Tablero
   - Microsoft
-  - Unicef
-  - Timor Leste
+  - UNICEF
+  - Timor Oriental
 image: /images/pilot-timor-01.jpg
-author_staff_member: katrina
+author_staff_member: Katrina
 ---
- Cboard recently concluded a four-month pilot in Timor Leste, in collaboration with UNICEF Timor Leste and Microsoft. 
 
-The pilot, spanning from September to December 2023, employed the Psychosocial Impact of Assistive Devices Scale (PIADS) methodology to assess its impact. Participants completed PIADS forms in September before using Cboard and again after 2-3 months of active engagement. A mid-pilot in-person evaluation occurred in October, featuring observations within the participating schools. The pilot involved three schools, one in Dili and two in the municipality of Baucau, with PicSeePal generously donating 60 devices to support the schools in Baucau lacking tablets and internet access. 
+Cboard concluyó recientemente un proyecto piloto de cuatro meses de duración en Timor Leste, en colaboración con el UNICEF Timor-Leste y Microsoft.
 
-![Timor Leste](/images/pilot-timor-02.jpg)
-*Image from one of the schools in Timor Leste using Cboard*
+El proyecto piloto, que abarcó de septiembre a diciembre de 2023, empleó la metodología de la Escala de Impacto Psicosocial de los Dispositivos de Asistencia (PIADS) para evaluar su impacto. Los participantes completaron los formularios PIADS en septiembre antes de usar Cboard y nuevamente después de 2-3 meses de participación activa. En octubre se llevó a cabo una evaluación presencial a mitad del programa piloto, con observaciones dentro de las escuelas participantes. En el proyecto piloto participaron tres escuelas, una en Dili y dos en el municipio de Baucau, y PicSeePal donó generosamente 60 dispositivos para apoyar a las escuelas de Baucau que carecen de tabletas y acceso a Internet.
 
-This report provides a comprehensive review of the pilot's outcomes, including insights into participating schools, PIADS form results, and observations gathered during in-person visits.
+! [Timor Oriental] (/images/pilot-timor-02.jpg)
+_Imagen de una de las escuelas de Timor Oriental usando Cboard_
 
-## **Report available for download:** [Download](https://www.cboard.io/documents/CboardTimorLestePilot2023Report.pdf)
+Este informe proporciona una revisión exhaustiva de los resultados del programa piloto, incluida la información sobre las escuelas participantes, los resultados del formulario PIADS y las observaciones recopiladas durante las visitas en persona.
 
+## \*\*Informe disponible para descargar: \*\* [Descargar](https://www.cboard.io/documents/CboardTimorLestePilot2023Report.pdf)
 
-For any questions regarding the pilot, please get in touch with us: [support@cboard.io](support@cboard.io)
+Para cualquier pregunta relacionada con el piloto, póngase en contacto con nosotros: [support@cboard.io](support@cboard.io)

@@ -1,151 +1,150 @@
-Cboard Privacy Policy
----------------------
+## Política de privacidad de Cboard
 
-This privacy policy has been compiled to better serve those who are concerned with how their 'Personally Identifiable Information' (PII) is being used online. PII, as described in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website at [http://www.cboard.io/](http://www.cboard.io/).
+Esta política de privacidad ha sido compilada para servir mejor a aquellos que están preocupados por cómo se está utilizando en línea su "Información Personal Identificable" (PII) . PII, tal y como se describe en la ley de privacidad de los Estados Unidos y seguridad de la información, es información que puede ser utilizada por sí sola o con otra información para identificar, contacta o localiza a una sola persona, o para identificar a un individuo en contexto. Por favor lea nuestra política de privacidad cuidadosamente para comprender claramente cómo recogemos, usamos, proteger o manejar tu Información Personal Identificable de acuerdo con nuestro sitio web en [http://www.cboard.io/](http://www. board.io/).
 
-### What personal information do we collect from the people that visit our blog, website or app?
+### ¿Qué información personal recopilamos de las personas que visitan nuestro blog, sitio web o aplicación?
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your name, email address, age or other details to help you with your experience.
+Al ordenar o registrarse en nuestro sitio, según corresponda, se le puede pedir que ingrese su nombre, dirección de correo electrónico, edad u otros detalles para ayudarle con su experiencia.
 
-Also, we automatically collect your public IP address to determine your approximated geographic location.
+También recogemos automáticamente su dirección IP pública para determinar su ubicación geográfica aproximada.
 
-### When do we collect information?
+### ¿Cuándo recopilamos información?
 
-We collect information from you when you register on our site or enter information on our site. Also, we automatically collect your public IP address to determine your approximated geographic location.
+Recogemos información de usted cuando se registra en nuestro sitio o cuando introduce información en nuestro sitio. También recogemos automáticamente su dirección IP pública para determinar su ubicación geográfica aproximada.
 
-### How do we use your information?
+### ¿Cómo utilizamos su información?
 
-We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
+Podemos utilizar la información que recopilamos de usted al registrarse, realizar una compra, suscribirse a nuestro boletín de noticias, responder a una encuesta o comunicación de marketing, navegar por el sitio web, o utilizar otras características del sitio de las siguientes maneras:
 
-1.  To personalize your experience and to allow us to deliver the type of content and product offerings in which you are most interested.
-2.  To improve our website in order to better serve you.
-3.  To send periodic emails regarding your order or other products and services.
-4.  To determine your general geographic location, to provide localized content.
+1. Personalizar su experiencia y permitirnos ofrecer el tipo de contenido y ofertas de productos que le interesan.
+2. Para mejorar nuestro sitio web con el fin de servirle mejor.
+3. Enviar correos electrónicos periódicos sobre su pedido u otros productos y servicios.
+4. Para determinar tu ubicación geográfica general, para proporcionar contenido localizado.
 
-### How do we protect your information?
+### ¿Cómo protegemos su información?
 
-We do not use vulnerability scanning and/or scanning to PCI standards.
+No usamos escaneo de vulnerabilidades y/o escaneo a estándares PCI.
 
-We only provide articles and information. We never ask for credit card numbers.
+Sólo proporcionamos artículos e información. Nunca pedimos números de tarjeta de crédito.
 
-We use regular Malware Scanning.
+Utilizamos el escaneo regular de malware.
 
-Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. In addition, all sensitive/credit information you supply is encrypted via Secure Socket Layer (SSL) technology.
+Su información personal está contenida en redes seguras y sólo es accesible por un número limitado de personas que tienen derechos especiales de acceso a dichos sistemas. y son requeridos para mantener la información confidencial. Además, toda la información sensible/crediticia que usted proporciona es cifrada a través de la tecnología Secure Socket Layer (SSL).
 
-We implement a variety of security measures when a user enters, submits, or accesses their information to maintain the safety of your personal information.
+Implementamos una variedad de medidas de seguridad cuando un usuario ingresa, envía o accede a su información para mantener la seguridad de su información personal.
 
-All transactions are processed through a gateway provider and are not stored or processed on our servers.
+Todas las transacciones se procesan a través de un proveedor de pasarela y no se almacenan o procesan en nuestros servidores.
 
-### How can you request to delete your personal information?
+### ¿Cómo puede solicitar la eliminación de sus datos personales?
 
-If you want to delete your personal information, please get in touch with us through email at support@cboard.io and we will promptly delete it.
+Si desea eliminar su información personal, póngase en contacto con nosotros por correo electrónico a support@cboard.io y la eliminaremos rápidamente.
 
-### Do we use 'cookies'?
+### ¿Utilizamos "cookies"?
 
-Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
+Sí. Las cookies son pequeños archivos que un sitio o su proveedor de servicios transfiere al disco duro de su ordenador a través de su navegador web (si lo permite) que permite a los sistemas del sitio o del proveedor de servicios reconocer su navegador y capturar y recordar cierta información. Por ejemplo, utilizamos cookies para ayudarnos a recordar y procesar los artículos en su carrito de compras. También se utilizan para ayudarnos a entender sus preferencias basadas en la actividad anterior o actual del sitio que nos permite ofrecerle mejores servicios. También utilizamos cookies para ayudarnos a compilar datos agregados sobre el tráfico del sitio y la interacción del sitio de manera que podamos ofrecer mejores experiencias y herramientas en el futuro.
 
-We use cookies to:
+Utilizamos cookies para:
 
-1.  Understand and save user's preferences for future visits.
+1. Mantenga y guarde las preferencias del usuario para futuras visitas.
 
-You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser settings. Since browser is a little different, look at your browser's Help Menu to learn the correct way to modify your cookies.
+Usted puede elegir que su ordenador le avise cada vez que se envía una cookie, o puede optar por desactivar todas las cookies. Lo hace a través de la configuración de su navegador. Dado que el navegador es un poco diferente, mire el menú de ayuda de su navegador para aprender la forma correcta de modificar sus cookies.
 
-If users disable cookies in their browser:
+Si los usuarios deshabilitan las cookies en su navegador:
 
-If you turn cookies off, Some of the features that make your site experience more efficient may not function properly.
+Si desactiva las cookies, es posible que algunas de las características que hacen que su experiencia de sitio sea más eficiente no funcionen correctamente.
 
-### Third-party disclosure
+### Divulgación de terceros
 
-We will not share, rent, sell or otherwise disclose any personal information that we collect about you, except in any of the following situations or otherwise described in this Privacy Policy:
+No compartiremos, alquilaremos, venderemos ni divulgaremos de otro modo ninguna información personal que recopilemos sobre usted, excepto en cualquiera de las siguientes situaciones o de cualquier otra forma descrita en esta Política de Privacidad:
 
-*   We disclose your public IP with a secure service provider that helps us determine your location in order to customize our service and provide localized content. We do not authorize them to use or disclose your personal information except in connection with providing their services (which includes maintaining and improving their services).
+- Descubrimos su IP pública con un proveedor de servicios seguro que nos ayuda a determinar su ubicación para personalizar nuestro servicio y proporcionar contenido localizado. No les autorizamos a utilizar o divulgar su información personal excepto en relación con la prestación de sus servicios (lo que incluye el mantenimiento y la mejora de sus servicios).
 
-### Third-party links
+### Enlaces de terceros
 
-We do not include or offer third-party products or services on our website.
+No incluimos ni ofrecemos productos o servicios de terceros en nuestro sitio web.
 
 ### Google
 
-Google's advertising requirements can be summed up by Google's Advertising Principles. They are put in place to provide a positive experience for users. https://support.google.com/adwordspolicy/answer/1316548?hl=en
+Los requisitos de publicidad de Google se pueden resumir con los principios publicitarios de Google. Se establecen para proporcionar una experiencia positiva a los usuarios. https://support.google.com/adwordspolicy/answer/1316548?hl=es
 
-We use Google AdSense Advertising on our website.
+Utilizamos Google AdSense Advertising en nuestro sitio web.
 
-Google, as a third-party vendor, uses cookies to serve ads on our site. Google's use of the DART cookie enables it to serve ads to our users based on previous visits to our site and other sites on the Internet. Users may opt-out of the use of the DART cookie by visiting the Google Ad and Content Network privacy policy.
+Google, como vendedor de terceros, utiliza cookies para publicar anuncios en nuestro sitio. El uso por parte de Google de la cookie de DART le permite publicar anuncios a nuestros usuarios basándose en visitas previas a nuestro sitio web y a otros sitios en Internet. Los usuarios pueden rechazar el uso de la cookie de DART visitando la política de privacidad de Google Ad y Content Network.
 
-We have implemented the following:
+Hemos aplicado lo siguiente:
 
-• Demographics and Interests Reporting
+• Informar demográficos e intereses
 
-We, along with third-party vendors such as Google use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together to compile data regarding user interactions with ad impressions and other ad service functions as they relate to our website.
+Nosotros, junto con proveedores externos como Google, utilizamos cookies de primera persona (como las cookies de Google Analytics) y cookies de terceros (como la cookie de DoubleClick) u otros identificadores de terceros juntos para recopilar datos relativos a las interacciones de los usuarios con impresiones publicitarias y otras funciones de servicio publicitario relacionadas con nuestro sitio web.
 
-Opting out:
+Desactivando:
 
-Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the Network Advertising Initiative Opt Out page or by using the Google Analytics Opt Out Browser add on.
+Los usuarios pueden establecer preferencias sobre la forma en que Google te anuncia a través de la página Configuración de anuncios de Google. Alternativamente, puede optar por la exclusión visitando la página de exclusión de la iniciativa de anuncios en red o utilizando el navegador de exclusión de Google Analytics .
 
-### California Online Privacy Protection Act
+### Ley de protección de la privacidad en línea de California
 
-CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law's reach stretches well beyond California to require any person or company in the United States (and conceivably the world) that operates websites collecting Personally Identifiable Information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals or companies with whom it is being shared. - See more at: http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf
+CalOPPA es la primera ley estatal del país que requiere sitios web comerciales y servicios en línea para publicar una política de privacidad. El alcance de la ley se extiende mucho más allá de California para exigir a cualquier persona o compañía en los Estados Unidos (y posiblemente en el mundo) que opere sitios web que recopilan Información Personal Identificable de los consumidores de California que publiquen una clara política de privacidad en su sitio web en la que se indique exactamente la información que se está recopilando y aquellos individuos o compañías con los que se está compartiendo la misma. - Ver más en: http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf
 
-According to CalOPPA, we agree to the following:
+Según CalOPPA, estamos de acuerdo con lo siguiente:
 
-Users can visit our site anonymously.
+Los usuarios pueden visitar nuestro sitio de forma anónima.
 
-Once this privacy policy is created, we will add a link to it on our home page or as a minimum, on the first significant page after entering our website.
+Una vez creada esta política de privacidad, añadiremos un enlace a la misma en nuestra página de inicio o como mínimo, en la primera página significativa después de entrar en nuestro sitio web.
 
-Our Privacy Policy link includes the word 'Privacy' and can easily be found on the page specified above.
+Nuestro enlace Política de Privacidad incluye la palabra "Privacidad" y se puede encontrar fácilmente en la página especificada anteriormente.
 
-You will be notified of any Privacy Policy changes:
+Se le notificará cualquier cambio en la Política de Privacidad:
 
-1.  On our Privacy Policy Page
+1. En nuestra página de política de privacidad
 
-Can change your personal information:
+Puede cambiar su información personal:
 
-1.  By logging in to your account
+1. Iniciando sesión en tu cuenta
 
-### How does our site handle Do Not Track signals?
+### ¿Cómo maneja nuestro sitio las señales Do Not Track?
 
-We honor Do Not Track signals and Do Not Track, plant cookies, or use advertising when a Do Not Track (DNT) browser mechanism is in place.
+Honramos las señales Do Not Track y Do Not Track, las cookies de plantación, o usar publicidad cuando un mecanismo de navegador Do Not Track (DNT) está en su lugar.
 
-### Does our site allow third-party behavioral tracking?
+### ¿Nuestro sitio permite el seguimiento de conductas por parte de terceros?
 
-It's also important to note that we do not allow third-party behavioral tracking
+También es importante señalar que no permitimos rastreo de comportamiento de terceros
 
-### COPPA (Children Online Privacy Protection Act)
+### COPPA (Ley de protección de la privacidad de los niños en línea)
 
-When it comes to the collection of personal information from children under the age of 13 years old, the Children's Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, United States' consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children's privacy and safety online.
+Cuando se trata de la recogida de datos personales de menores de 13 años de edad La Ley de protección de la privacidad en línea del niño (COPPA) pone a los padres en el control. La Comisión Federal de Comercio, la agencia de protección del consumidor de los Estados Unidos, aplica la regla COPPA, que explica qué deben hacer los operadores de sitios web y servicios en línea para proteger la privacidad y la seguridad de los niños en línea.
 
-### Fair Information Practices
+### Prácticas de información justa
 
-The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information.
+Los Principios de Información Justa forman la columna vertebral de la ley de privacidad en los Estados Unidos y los conceptos que incluyen han desempeñado un papel importante en el desarrollo de leyes de protección de datos en todo el mundo. Mantener los Principios de Práctica de Información Justa y cómo deben ser implementados es fundamental para cumplir con las diversas leyes de privacidad que protegen la información personal.
 
-In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:
+Para estar en consonancia con las prácticas de información justa, tomaremos la siguiente acción de respuesta, en caso de que se produzca una violación de datos:
 
-We will notify you via email within 7 business days
+Le notificaremos por correo electrónico dentro de 7 días hábiles
 
-We also agree to the Individual Redress Principle which requires that individuals have the right to legally pursue enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or government agencies to investigate and/or prosecute non-compliance by data processors.
+También estamos de acuerdo con el principio de Redress Individual que exige que las personas tengan derecho a aplicar legalmente derechos contra los coleccionistas de datos y procesadores que no cumplan la ley. Este principio exige no sólo que las personas tengan derechos exigibles contra los usuarios de datos. pero también que los individuos recurren a tribunales o agencias gubernamentales para investigar y/o perseguir el incumplimiento por parte de los procesadores de datos.
 
-### CAN SPAM Act
+### Acta CAN SPAM
 
-The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.
+La Ley CAN-SPAM es una ley que establece las reglas para el correo electrónico comercial, establece requisitos para los mensajes comerciales, otorga a los destinatarios el derecho a que se les detenga el envío de correos electrónicos, y expresa duras sanciones por violaciones.
 
-We collect your email address in order to:
+Recogemos tu dirección de correo electrónico para:
 
-1.  Send information, respond to inquiries, and/or other requests or questions
+1. Enviar información, responder a preguntas, u otras solicitudes o preguntas
 
-To be in accordance with CANSPAM, we agree to the following:
+Para estar de acuerdo con CANSPAM, estamos de acuerdo con lo siguiente:
 
-If at any time you would like to unsubscribe from receiving future emails, you can email us at support@cboard.io and we will promptly remove you from ALL correspondence.
+Si en cualquier momento desea darse de baja de recibir correos electrónicos, puede enviarnos un correo electrónico a support@cboard. o y te eliminaremos rápidamente de TODAS las correspondencias.
 
-### Contacting Us
+### Contactándonos
 
-If there are any questions regarding this privacy policy, you may contact us using the information below.
+Si hay alguna pregunta con respecto a esta política de privacidad, puede ponerse en contacto con nosotros utilizando la siguiente información.
 
-Cboard
+Tablero
 
-Av. Pedro Laplace 5400
+Av. Laplace de Pedro 5400
 
 cordoba, cordoba 5000
 
 Argentina
 
-support@cboard.io
+soporte@cboard.io

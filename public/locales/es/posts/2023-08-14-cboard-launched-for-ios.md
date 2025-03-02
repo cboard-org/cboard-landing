@@ -1,47 +1,47 @@
 ---
-title: 'CBoard AAC App Launches on iOS'
+title: 'Aplicación CBoard AAC se lanza en iOS'
 date: 2023-08-14
-description: 'Empowering Communication for iPhone and iPad Users'
+description: 'Potenciar la comunicación para usuarios de iPhone y iPad'
 categories:
-  - cboard
+  - tablero
   - iOS
-  - Apple Store
+  - Tienda de Apple
 image: /images/apple_ios_app_store.jpg
-author_staff_member: martin
+author_staff_member: martín
 ---
-In a significant milestone for the world of Augmentative and Alternative Communication (AAC), CBoard, the acclaimed AAC application software, has just expanded its reach by launching its long-awaited app for iOS devices. This announcement is a game-changer for individuals with communication difficulties, as it brings the power of CBoard to iPhone and iPad users, making communication more accessible and inclusive than ever before.
 
-### **What is CBoard?**
+En un importante hito para el mundo de la Comunicación Aumentativa y Alternativa (AAC), CBoard, el aclamado software de aplicación AAC, acaba de expandir su alcance lanzando su tan esperada aplicación para dispositivos iOS. Este anuncio es un cambio de juego para las personas con dificultades de comunicación, ya que trae el poder de CBoard a los usuarios de iPhone y iPad, haciendo la comunicación más accesible e inclusiva que nunca antes.
 
-CBoard is an innovative AAC app designed to assist individuals with speech and language challenges in expressing themselves effectively. Developed with a deep understanding of the needs of users, CBoard empowers those with communication difficulties by providing a customizable platform to communicate with text and symbols. With its user-friendly interface and robust features, CBoard is a powerful tool that can benefit people of all ages and abilities.
+### **¿Qué es la tarjeta?**
 
-![Cboard on iPad](/images/app/water-ipad-english.png)
-*Cboard on iPad*
+CBoard es una innovadora aplicación AAC diseñada para ayudar a las personas con problemas lingüísticos y de habla a expresarse eficazmente. Desarrollado con una profunda comprensión de las necesidades de los usuarios, CBoard permite a aquellos con dificultades de comunicación proporcionando una plataforma personalizable para comunicarse con texto y símbolos. Con su interfaz fácil de usar y características robustas, CBoard es una potente herramienta que puede beneficiar a personas de todas las edades y capacidades.
 
-### **CBoard on iOS: A Game-Changer**
+![Tablero en iPad](/images/app/water-ipad-english.png) *Cablón en iPad*
 
-The launch of the CBoard AAC app on iOS devices, specifically for iPhone and iPad, marks a significant advancement in the field of AAC. Here are some of the key features and benefits that make this release noteworthy:
+### **CBoard on iOS: Un Game-Changer**
 
-1. Accessibility for iOS Users: Until now, CBoard was primarily accessible to Android users, but the iOS launch now opens the door for millions of iPhone and iPad users to utilize this invaluable communication tool.
+El lanzamiento de la aplicación CBoard AAC en dispositivos iOS, específicamente para iPhone e iPad, marca un avance significativo en el ámbito de la AAC. Aquí están algunas de las características y beneficios clave que hacen que esta versión sea digna de nota:
 
-2. User-Friendly Interface: The iOS version of CBoard retains the user-friendly interface that has made it so popular on Android. It ensures that individuals with varying degrees of technical proficiency can easily use the app to communicate effectively.
+1. Accesibilidad para usuarios de iOS: Hasta ahora, CBoard era principalmente accesible para usuarios Android, pero el lanzamiento de iOS ahora abre la puerta a millones de usuarios de iPhone y iPad para utilizar esta inestimable herramienta de comunicación.
 
-3. Customization Options: CBoard allows users to customize their communication boards to suit their specific needs. With the iOS release, users can personalize their boards with symbols, pictures, or text, making communication more relevant and meaningful.
+2. Interfaz amigable con el usuario: La versión iOS de CBoard conserva la interfaz fácil de usar que la ha hecho tan popular en Android. Garantiza que las personas con diferentes grados de habilidad técnica puedan usar fácilmente la aplicación para comunicarse eficazmente.
 
-4. Natural Communication: CBoard enables users to communicate naturally by offering features like word prediction and speech synthesis. This helps users express themselves more fluently and confidently.
+3. Opciones de personalización: CBoard permite a los usuarios personalizar sus tableros de comunicación para satisfacer sus necesidades específicas. Con la versión de iOS, los usuarios pueden personalizar sus tableros con símbolos, imágenes o texto, haciendo que la comunicación sea más relevante y significativa.
 
-5. Multilingual Support: The app supports multiple languages, catering to users from diverse linguistic backgrounds. This feature ensures that individuals around the world can benefit from CBoard's capabilities.
+4. Comunicación natural: CBoard permite a los usuarios comunicarse de forma natural ofreciendo características como predicción de palabras y síntesis de voz. Esto ayuda a los usuarios a expresarse con mayor fluidez y confianza.
 
-6. Offline Accessibility: CBoard offers offline access, allowing users to communicate even in areas with limited or no internet connectivity. This feature is crucial for users who may rely on AAC in various environments.
+5. Soporte multilingüe: La aplicación soporta múltiples idiomas, adaptando a usuarios de diversos orígenes lingüísticos. Esta característica asegura que las personas de todo el mundo puedan beneficiarse de las capacidades de la Junta Directiva.
 
-### **Availability on the Apple Store**
+6. Accesibilidad sin conexión: CBoard ofrece acceso sin conexión, permitiendo a los usuarios comunicarse incluso en zonas con conectividad a Internet limitada o sin conexión. Esta característica es crucial para los usuarios que pueden confiar en AAC en diversos entornos.
 
-The CBoard AAC app for iOS is now available on the Apple Store, making it easily accessible to anyone with an iPhone or iPad. The app can be downloaded for free, providing users with an essential communication tool that can significantly enhance their quality of life.
+### **Disponibilidad en la Apple Store**
 
-### **Conclusion**
+La aplicación CBoard AAC para iOS ya está disponible en Apple Store, lo que hace que sea fácilmente accesible para cualquier persona con un iPhone o iPad. La aplicación se puede descargar gratuitamente, proporcionando a los usuarios una herramienta de comunicación esencial que puede mejorar significativamente su calidad de vida.
 
-The launch of the CBoard AAC app on iOS devices is a monumental step forward in making communication more inclusive and accessible for individuals with speech and language difficulties. With its user-friendly interface, customization options, and multilingual support, CBoard empowers users to communicate naturally and effectively.
+### **Conclusión**
 
-By bringing CBoard to the iOS platform, the developers have opened up new possibilities for individuals who rely on AAC to express themselves. The app's availability on the Apple Store ensures that it is within easy reach of millions of iPhone and iPad users, making it a game-changer in the world of Augmentative and Alternative Communication.
+El lanzamiento de la aplicación CBoard AAC en los dispositivos iOS es un paso importante hacia adelante para hacer que la comunicación sea más inclusiva y accesible para personas con dificultades de habla y lenguaje. Con su interfaz amigable, opciones de personalización y soporte multilingüe, CBoard permite a los usuarios comunicarse de forma natural y eficaz.
 
-As we celebrate this milestone, it's important to remember that technology like CBoard has the potential to transform lives, enabling individuals to connect, share their thoughts, and participate more fully in their communities. With CBoard now on iOS, the future of communication is brighter and more inclusive than ever before.
+Al llevar CBoard a la plataforma iOS, los desarrolladores han abierto nuevas posibilidades para que las personas que confían en AAC se expresen. La disponibilidad de la aplicación en la tienda Apple garantiza que está al alcance de millones de usuarios de iPhone y iPad. convirtiéndola en un cambio de juego en el mundo de la comunicación Augmentativa y Alternativa.
+
+Mientras celebramos este hito, es importante recordar que la tecnología como CBoard tiene el potencial de transformar vidas, permitiendo que las personas se conecten, compartan sus pensamientos y participen más plenamente en sus comunidades. Con CBoard ahora en iOS, el futuro de la comunicación es más brillante y más inclusivo que nunca.
