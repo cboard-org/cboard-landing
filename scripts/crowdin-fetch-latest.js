@@ -48,6 +48,7 @@ const languages = [
   }
 ];
 
+// paths
 const zipFilePath = resolve('./alltx.zip');
 const extractPath = resolve('./downloads');
 const langPath = resolve('./public/locales');
@@ -76,7 +77,12 @@ const downloadTranslations = async onComplete => {
 
 const deleteTemporaryDownloadFile = () => {
   console.log('Deleting temp file.');
-  fs.unlinkSync(zipFilePath);
+  try {
+    fs.unlinkSync(zipFilePath);
+    console.log(`Deleted ${zipFilePath}`);
+  } catch (err) {
+    console.error(`Error while deleting ${zipFilePath} ` + err.message);
+  }
 };
 
 const extractTranslations = () => {
@@ -92,34 +98,28 @@ const extractTranslations = () => {
   unzipper.on('extract', function (log) {
     console.log('DecompressZip finished extracting.');
     //copy and rename files
-    languages.forEach(lang => {
-      fs.copyFileSync(
-        `${extractPath}\\website\\new\\${lang.source}\\common.json`,
-        `${langPath}\\${lang.dest}\\common.json`
-      );
+    languages.forEach((lang, index) => {
+      // copy source folder to destination
+      try {
+        fs.cpSync(
+          `${extractPath}\\website\\${lang.source}`,
+          `${langPath}\\${lang.dest}\\`,
+          { recursive: true }
+        );
+      } catch (err) {
+        console.log('An error occured while copying the folder.')
+        return console.error(err)
+      }
+      console.log('Language: ' + lang.dest + ' - Copy completed!')
+      if (index === languages.length - 1) {
+        try {
+          fs.rm(`${extractPath}`, { recursive: true });
+          console.log(`Download folder was deleted.`);
+        } catch (err) {
+          console.error(`Error while deleting ${extractPath}`);
+        }
+      }
     });
-    console.log(`${extractPath}`);
-    // languages.forEach((lang, index) => {
-    //   // copy source folder to destination
-    //   try {
-    //     fs.cpSync(
-    //       `${extractPath}\\website\\i18n\\${lang.source}`,
-    //       `${langPath}\\${lang.dest}\\`
-    //     );
-    //   } catch (err) {
-    //     console.log('An error occured while copying the folder.')
-    //     return console.error(err)
-    //   }
-    console.log('Copy completed!')
-    //   if (index === languages.length - 1) {
-    try {
-      fs.rmdirSync(`${extractPath}`, { recursive: true });
-      console.log(`Download folder was deleted.`);
-    } catch (err) {
-      console.error(`Error while deleting ${extractPath}`);
-    }
-    //   }
-    // });
 
     deleteTemporaryDownloadFile();
   });

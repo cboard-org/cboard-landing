@@ -1,10 +1,23 @@
 const crowdinProjectsGroups = require('@crowdin/crowdin-api-client').ProjectsGroups;
 const crowdinSourceFiles = require('@crowdin/crowdin-api-client').SourceFiles;
 const crowdinUploadStorage = require('@crowdin/crowdin-api-client').UploadStorage;
+const fs = require('fs');
+const path = require('path');
+const resolve = require('path').resolve;
 
+const CROWDIN_TOKEN = process.env.CROWDIN_PERSONAL_TOKEN;
+const CROWDIN_PROJECT_ID = 262825;
+
+// initialization of crowdin client
+const credentials = {
+  token: CROWDIN_TOKEN
+};
+const zipFilePath = resolve('./alltx.zip');
+const extractPath = resolve('./downloads');
+const langPath = resolve('./public/locales/en');
+let fileId = 92;
 
 // create an instance of the crowdin client
-const translationApi = new crowdinTranslations(credentials);
 const projectsGroupsApi = new crowdinProjectsGroups(credentials);
 const sourceFilesApi = new crowdinSourceFiles(credentials);
 const uploadStorageApi = new crowdinUploadStorage(credentials);
@@ -79,3 +92,5 @@ const pretranslateProject = async () => {
     console.error('Error pretranslating:', error.message);
   }
 };
+
+uploadSourceFiles();
