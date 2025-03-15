@@ -44,7 +44,7 @@ function Banner() {
             </div>
           </div>
         </div>
-        <Container fixed={isDesktop}>
+        <Container className={classes.container} fixed={isDesktop}>
           <Grid container>
             <Grid item md={7} xs={12}>
               <div className={classes.text}>

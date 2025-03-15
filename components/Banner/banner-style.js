@@ -51,6 +51,15 @@ const bannerStyles = makeStyles({ uniqId: 'banner' })(theme => ({
       display: 'block'
     }
   },
+  container: {
+    width: '100%',
+    [theme.breakpoints.up('sm')]: {
+    minWidth: '593px'
+    },
+    [theme.breakpoints.up('md')]: {
+    minWidth: '978px'
+    },
+  },
   text: {
     height: 680,
     marginTop: theme.spacing(2),

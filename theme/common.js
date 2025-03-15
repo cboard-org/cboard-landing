@@ -27,10 +27,10 @@ export const useFloat = makeStyles({ uniqId: 'float' })({
 export const useText = makeStyles({ uniqId: 'text' })(theme => ({
   title: {
     fontWeight: theme.typography.fontWeightBold,
-    fontSize: 48,
+    fontSize: 45,
     lineHeight: '72px',
     [theme.breakpoints.down('lg')]: {
-      fontSize: 38,
+      fontSize: 36,
       lineHeight: '60px'
     },
     [theme.breakpoints.down('sm')]: {
