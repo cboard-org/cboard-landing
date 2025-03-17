@@ -91,10 +91,11 @@ function generateSiteMap(posts) {
       <!-- Add the dynamic URLs -->
       ${posts
       .map((post) => {
+        const date = new Date(post.date).toISOString();
         return `
           <url>
             <loc>${`${URL}/blog/${post.slug}`}</loc>
-            <lastmod>${post.date}</lastmod>
+            <lastmod>${date}</lastmod>
             <changefreq>weekly</changefreq>
             <priority>0.5</priority>
           </url>
