@@ -44,7 +44,7 @@ function BlankPage(props) {
     <Fragment>
       <Head>
         <title>
-          { brand.mobile.name + ' - Blank page' }
+          { brand.cboard.name + ' - Blank page' }
         </title>
       </Head>
       <CssBaseline />

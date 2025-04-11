@@ -22,7 +22,7 @@ function Copyright() {
   return (
     <Typography variant="body2" display="block" align="center" color="textSecondary">
       &copy;&nbsp;
-      {brand.mobile.footerText}
+      {brand.cboard.footerText}
     </Typography>
   );
 }
@@ -64,7 +64,7 @@ function Footer(props) {
           <div className={classes.logo}>
             <img src={logo} alt="logo" />
             <Typography variant="h6" color="textPrimary">
-              {brand.mobile.projectName}
+              {brand.cboard.projectName}
             </Typography>
           </div>
           <Copyright />

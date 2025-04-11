@@ -68,7 +68,7 @@ function PricingPage(props) {
     <Fragment>
       <Head>
         <title>
-          { brand.mobile.name + ' | ' + t("title_pricing") }
+          { brand.cboard.name + ' | ' + t("title_pricing") }
         </title>
       </Head>
       <CssBaseline />

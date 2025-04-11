@@ -68,7 +68,7 @@ function LocationsPage(props) {
     <Fragment>
       <Head>
         <title>
-          { brand.mobile.name + ' | ' + t("title_locations") }
+          { brand.cboard.name + ' | ' + t("title_locations") }
         </title>
       </Head>
       <CssBaseline />

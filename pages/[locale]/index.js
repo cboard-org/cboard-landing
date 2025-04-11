@@ -75,7 +75,7 @@ function HomePage(props) {
     <Fragment>
       <Head>
         <title>
-          { brand.mobile.name + ' | ' + t("title_home") }
+          { brand.cboard.name + ' | ' + t("title_home") }
         </title>
       </Head>
       <CssBaseline />

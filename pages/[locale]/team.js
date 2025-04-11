@@ -68,7 +68,7 @@ function TeamPage(props) {
     <Fragment>
       <Head>
         <title>
-          { brand.mobile.name + ' | ' + t("title_team") }
+          { brand.cboard.name + ' | ' + t("title_team") }
         </title>
       </Head>
       <CssBaseline />

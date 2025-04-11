@@ -68,7 +68,7 @@ function HistoryPage(props) {
     <Fragment>
       <Head>
         <title>
-          { brand.mobile.name + ' | ' + t('title_history') }
+          { brand.cboard.name + ' | ' + t('title_history') }
         </title>
       </Head>
       <CssBaseline />

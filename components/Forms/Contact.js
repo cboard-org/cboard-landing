@@ -107,7 +107,7 @@ function Contact() {
           <Link href={linkRouter.mobile.home}>
             <img src={logo} alt="logo" />
             <Typography component="span">
-              {brand.mobile.projectName}
+              {brand.cboard.projectName}
             </Typography>
           </Link>
         </div>

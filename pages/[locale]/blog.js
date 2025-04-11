@@ -69,7 +69,7 @@ function BlogPage(props) {
         <Fragment>
             <Head>
                 <title>
-                    {brand.mobile.name + ' | ' + t("title_blog")}
+                    {brand.cboard.name + ' | ' + t("title_blog")}
                 </title>
             </Head>
             <CssBaseline />

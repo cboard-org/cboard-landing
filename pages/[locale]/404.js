@@ -28,7 +28,7 @@ function ErrorPage(props) {
       <Fragment>
         <Head>
           <title>
-            { brand.mobile.name + ' - ' + errorCode }
+            { brand.cboard.name + ' - ' + errorCode }
           </title>
         </Head>
         <div className={classes.dedicatedPage}>

@@ -31,7 +31,7 @@ function CbuilderPreview(props) {
     <Fragment>
       <Head>
         <title>
-          {brand.mobile.name + ' - Cbuilder Preview'}
+          {brand.cboard.name + ' - Cbuilder Preview'}
         </title>
       </Head>
       <CssBaseline />

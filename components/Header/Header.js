@@ -102,7 +102,7 @@ function Header(props) {
                 {invert ? (
                   <Link href={linkRouter.mobile.home}>
                     <img src={logo} alt="logo" />
-                    {!isTablet && brand.mobile.projectName}
+                    {!isTablet && brand.cboard.projectName}
                   </Link>
                 ) : (
                   <Link href="/">
