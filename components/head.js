@@ -7,10 +7,26 @@ const HeadComponent = () => (
   <Head>
     <meta charSet="utf-8" />
     {/* Use minimum-scale=1 to enable GPU rasterization */}
-    <meta
-      name="description"
-      content={brand.cboard.desc}
-    />
+    {/* Web Site Meta Tags */}
+    <meta property="og:url" content={brand.cboard.url} />
+    <meta property="og:title" content={brand.cboard.name} />
+    <meta property="og:description" content={brand.cboard.desc} />
+    <meta property="og:image" content={brand.cboard.img} />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta property="author" content="cboard" />
+    <meta property="og:site_name" content={brand.cboard.name} />
+    <meta property="og:locale" content="en_US" />
+    <meta property="og:type" content="website" />
+
+    <meta name="description" content={brand.cboard.desc} />
+    <meta name="title" content={brand.cboard.name} />
+    <meta name="dc.title" content={brand.cboard.name} />
+    <meta name="robots" content="max-image-preview:large" />
+    <meta name="robots" content="index,follow,noodp" />
+    <link rel="canonical" href={brand.cboard.fullUrl} />
+    <link rel="next" href={brand.cboard.fullUrl} />
+
     {/* Favicon */}
     <link rel="icon" href="/favicons/favicon.ico" />
     <link rel="apple-touch-icon" sizes="57x57" href="/favicons/apple-icon-57x57.png" />
@@ -34,29 +50,19 @@ const HeadComponent = () => (
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600,700" rel="stylesheet" />
     <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons" />
     <link href="https://unpkg.com/ionicons@3.0.0/dist/css/ionicons.min.css" rel="stylesheet" />
-    {/*  Facebook */}
-    <meta property="author" content="cboard" />
-    <meta property="og:site_name" content="www.cboard.io" />
-    <meta property="og:locale" content="en_US" />
-    <meta property="og:type" content="website" />
     {/*  Twitter */}
     <meta property="twitter:site" content="www.cboard.io" />
     <meta property="twitter:domain" content="www.cboard.io" />
     <meta property="twitter:creator" content="cboard" />
     <meta property="twitter:card" content="summary" />
     <meta property="twitter:image:src" content="/images/cboard-logo.svg" />
-    <meta property="og:url" content={brand.cboard.url} />
-    <meta property="og:title" content={brand.cboard.desc} />
-    <meta
-      property="og:description"
-      content={brand.cboard.desc}
-    />
+    <meta name="twitter:title" content={brand.cboard.name} />
+    <meta name="twitter:description" content={brand.cboard.desc} />
     <meta name="twitter:site" content={brand.cboard.url} />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:image" content={brand.cboard.img} />
-    <meta property="og:image" content={brand.cboard.img} />
-    <meta property="og:image:width" content="1200" />
-    <meta property="og:image:height" content="630" />
+    <meta name="twitter:url" content={brand.cboard.fullUrl} />
+
   </Head>
 );
 
