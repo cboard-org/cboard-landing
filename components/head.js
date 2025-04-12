@@ -12,8 +12,6 @@ const HeadComponent = () => (
     <meta property="og:title" content={brand.cboard.name} />
     <meta property="og:description" content={brand.cboard.desc} />
     <meta property="og:image" content={brand.cboard.img} />
-    <meta property="og:image:width" content="1200" />
-    <meta property="og:image:height" content="630" />
     <meta property="author" content="cboard" />
     <meta property="og:site_name" content={brand.cboard.name} />
     <meta property="og:locale" content="en_US" />
