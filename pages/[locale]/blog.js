@@ -3,6 +3,7 @@ import PropTypes from 'prop-types';
 import Head from 'next/head';
 import useMediaQuery from '@mui/material/useMediaQuery';
 import { makeStyles } from 'tss-react/mui';
+import { lighten, darken } from '@mui/material/styles';
 import { useTranslation } from 'next-i18next';
 import CssBaseline from '@mui/material/CssBaseline';
 import { getStaticPaths, makeStaticPropsWithPosts } from 'lib/getStatic';
@@ -15,12 +16,6 @@ import Notification from 'components/Notification';
 
 const sectionMargin = margin => (margin * 20);
 const useStyles = makeStyles({ uniqId: 'home' })(theme => ({
-    mainWrap: {
-        position: 'relative',
-        width: '100%',
-        overflow: 'hidden',
-        background: theme.palette.background.paper,
-    },
     spaceBottom: {
         marginBottom: theme.spacing(20),
         [theme.breakpoints.down('lg')]: {
@@ -52,6 +47,7 @@ const useStyles = makeStyles({ uniqId: 'home' })(theme => ({
         }
     },
     containerWrap: {
+        backgroundColor: theme.palette.mode === 'dark' ? darken(theme.palette.primary.light, 0.65) : lighten(theme.palette.primary.light, 0.8),
         marginTop: -40,
         '& > section': {
             position: 'relative'
@@ -63,7 +59,7 @@ function BlogPage(props) {
     const { classes } = useStyles();
     const { onToggleDark, onToggleDir, posts, announcements } = props;
     const isTablet = useMediaQuery(theme => theme.breakpoints.down('lg'));
-      const { t } = useTranslation('common');
+    const { t } = useTranslation('common');
 
     return (
         <Fragment>
