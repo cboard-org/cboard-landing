@@ -3,7 +3,7 @@ import PropTypes from 'prop-types';
 import Head from 'next/head';
 import { notFound } from "next/navigation";
 import { makeStyles } from 'tss-react/mui';
-import { alpha, lighten, darken } from '@mui/material/styles';
+import { lighten, darken } from '@mui/material/styles';
 import Container from '@mui/material/Container';
 import CssBaseline from '@mui/material/CssBaseline';
 import { makeStaticPropsSinglePost } from 'lib/getStatic';
