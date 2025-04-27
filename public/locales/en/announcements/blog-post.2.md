@@ -1,17 +1,12 @@
-# Another blog post
+# New Collaboration: User Testing with the Esteban Bullrich Foundation!
 
-#### March 23, 2020 by [Matt](/)
+#### April 23, 2025 by [Martin](https://www.linkedin.com/in/martinbedouret/)
 
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.
-Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
+We are proud to announce that Cboard has signed a collaboration agreement with the Esteban Bullrich Foundation to conduct user testing of **FluidMind** during May and June 2025.
 
-Curabitur blandit tempus porttitor. **Nullam quis risus eget urna mollis** ornare vel eu leo.
-Nullam id dolor id nibh ultricies vehicula ut id elit.
+This partnership represents a key step in bringing FluidMind — our AI-driven communication solution — closer to the people who need it most. Thanks to the collaboration with the Esteban Bullrich Foundation, individuals living with speech and motor impairments will have the opportunity to test the alpha version of FluidMind, helping us refine and enhance the tool based on real-world feedback.
 
-Etiam porta sem malesuada magna mollis euismod. Cras mattis consectetur purus sit amet fermentum.
-Aenean lacinia bibendum nulla sed consectetur.
+We are grateful to the Esteban Bullrich Foundation for joining us in this journey, and we look forward to learning from the participants' experiences as we continue building a more accessible and empowering future.
 
-Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.
-Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit.
-Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
+Stay tuned for more updates as we move forward together!
+
