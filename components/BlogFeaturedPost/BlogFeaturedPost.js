@@ -8,19 +8,21 @@ import CardActionArea from '@mui/material/CardActionArea';
 import CardContent from '@mui/material/CardContent';
 import CardMedia from '@mui/material/CardMedia';
 import Hidden from '@mui/material/Hidden';
+import { useTranslation } from 'react-i18next'; // Import useTranslation
 
 import useStyles from './blogFeaturedPost-style';
-
 
 export default function BlogFeaturedPost(props) {
   const { classes } = useStyles();
   const { post } = props;
   const d = new Date(post.date);
   const date = d.toDateString();
+  const { i18n } = useTranslation(); // Use i18next's useTranslation hook
+  const locale = i18n.language; // Get the current locale
 
   return (
     <Grid item xs={12} md={6}>
-      <CardActionArea component="a" href={`/blog/${post.slug}`}>
+      <CardActionArea component="a" href={`/${locale}/blog/${post.slug}`}>
         <Card className={classes.card}>
           <div className={classes.cardDetails}>
             <CardContent>
@@ -34,7 +36,7 @@ export default function BlogFeaturedPost(props) {
                 {post.description}
               </Typography>
               <Link
-                as={`/blog/${post.slug}`}
+                as={`/${locale}/blog/${post.slug}`}
                 href="/[locale]/blog/[slug]"
               >
                 <Typography variant="subtitle1" color="primary">

@@ -5,13 +5,15 @@ import Typography from '@mui/material/Typography';
 import Grid from '@mui/material/Grid';
 import LinkMui from '@mui/material/Link';
 import Link from 'next/link';
-
+import { useTranslation } from 'react-i18next'; // Import useTranslation
 
 import useStyles from './blogMainFeaturedPost-style';
 
 export default function BlogMainFeaturedPost(props) {
   const { classes } = useStyles();
   const { post } = props;
+  const { i18n } = useTranslation(); // Use i18next's useTranslation hook
+  const locale = i18n.language; // Get the current locale
 
   return (
     <Paper className={classes.mainFeaturedPost}
@@ -29,7 +31,7 @@ export default function BlogMainFeaturedPost(props) {
               {post.description}
             </Typography>
             <Link
-              as={`/en/blog/${post.slug}`}
+              as={`/${locale}/blog/${post.slug}`}
               href="/[locale]/blog/[slug]"
             >
               Continue reading…

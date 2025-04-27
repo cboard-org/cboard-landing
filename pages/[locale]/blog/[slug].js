@@ -3,6 +3,7 @@ import PropTypes from 'prop-types';
 import Head from 'next/head';
 import { notFound } from "next/navigation";
 import { makeStyles } from 'tss-react/mui';
+import { alpha, lighten, darken } from '@mui/material/styles';
 import Container from '@mui/material/Container';
 import CssBaseline from '@mui/material/CssBaseline';
 import { makeStaticPropsSinglePost } from 'lib/getStatic';
@@ -11,16 +12,14 @@ import MainContainer from 'components/MainContainer';
 import i18nextConfig from '../../../next-i18next.config';
 import BlogPostBody from 'components/BlogPostBody';
 import BlogPostHero from 'components/BlogPostHero';
+import BlogPostFooter from 'components/BlogPostFooter/BlogPostFooter';
 
 const useStyles = makeStyles({ uniqId: 'home' })(theme => ({
-    mainWrap: {
-        position: 'relative',
-        width: '100%',
-        overflow: 'hidden',
-        background: theme.palette.background.paper,
-    },
     containerWrap: {
+        backgroundColor: theme.palette.mode === 'dark' ? darken(theme.palette.primary.light, 0.65) : lighten(theme.palette.primary.light, 0.8),
+        zIndex: 1,
         marginTop: -40,
+        paddingBottom: theme.spacing(44),
         '& > section': {
             position: 'relative'
         }
@@ -41,7 +40,25 @@ const useStyles = makeStyles({ uniqId: 'home' })(theme => ({
     body: {
         [theme.breakpoints.up('md')]: {
             paddingTop: 0,
-            paddingBottom: theme.spacing(47),
+            paddingBottom: theme.spacing(4),
+            paddingLeft: theme.spacing(4),
+            paddingRight: theme.spacing(4),
+            marginRight: theme.spacing(4),
+            marginLeft: theme.spacing(4),
+        },
+        [theme.breakpoints.down('md')]: {
+            paddingTop: 0,
+            paddingBottom: theme.spacing(4),
+            margin: theme.spacing(1),
+            width: "100%"
+        }
+    },
+    footer: {
+        position: 'relative',
+        zIndex: 1,
+        [theme.breakpoints.up('md')]: {
+            paddingTop: 0,
+            paddingBottom: 0,
             paddingLeft: theme.spacing(4),
             paddingRight: theme.spacing(4),
             marginRight: theme.spacing(4),
@@ -90,6 +107,9 @@ function Post(props) {
                             <Container maxWidth="lg">
                                 <div className={classes.body}>
                                     <BlogPostBody content={post.content} />
+                                </div>
+                                <div className={classes.footer}>
+                                    <BlogPostFooter post={post} />
                                 </div>
                             </Container>
                         </section>
