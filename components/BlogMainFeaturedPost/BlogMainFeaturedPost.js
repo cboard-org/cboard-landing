@@ -12,6 +12,7 @@ export default function BlogMainFeaturedPost(props) {
   const { classes } = useStyles();
   const { post } = props;
   const { i18n } = useTranslation(); // Use i18next's useTranslation hook
+      const { t } = useTranslation('common');
   const locale = i18n.language; // Get the current locale
 
   return (
@@ -31,10 +32,11 @@ export default function BlogMainFeaturedPost(props) {
                 {post.description}
               </Typography>
               <Link
+                className={classes.link}
                 as={`/${locale}/blog/${post.slug}`}
                 href="/[locale]/blog/[slug]"
               >
-                Continue reading…
+               {t('continue_reading')}
               </Link>
             </div>
           </Grid>

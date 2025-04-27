@@ -28,6 +28,14 @@ const blogMainFeaturedPostStyles = makeStyles({ uniqId: 'feature' })((theme, _pa
             paddingRight: 0,
         },
     },
+    link: {
+        textDecoration: 'none',
+        color: theme.palette.common.white,
+        fontWeight: theme.typography.fontWeightMedium,
+        '&:hover': {
+            textDecoration: 'underline',
+        },
+    },
 }));
 
 export default blogMainFeaturedPostStyles;

@@ -17,6 +17,7 @@ export default function BlogFeaturedPost(props) {
   const { post } = props;
   const d = new Date(post.date);
   const date = d.toDateString();
+  const { t } = useTranslation('common');
   const { i18n } = useTranslation(); // Use i18next's useTranslation hook
   const locale = i18n.language; // Get the current locale
 
@@ -40,7 +41,7 @@ export default function BlogFeaturedPost(props) {
                 href="/[locale]/blog/[slug]"
               >
                 <Typography variant="subtitle1" color="primary">
-                  Continue reading...
+                  {t('continue_reading')}
                 </Typography>
               </Link>
             </CardContent>

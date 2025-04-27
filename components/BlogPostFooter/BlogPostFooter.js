@@ -10,7 +10,7 @@ import { useTranslation } from 'react-i18next';
 export default function BlogPostFooter(props) {
   const { classes } = useStyles();
   const { post } = props;
-    const { t } = useTranslation('common');
+  const { t } = useTranslation('common');
 
   return (
     <div className={classes.footer}>
