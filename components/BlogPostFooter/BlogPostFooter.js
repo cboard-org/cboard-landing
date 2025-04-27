@@ -1,18 +1,19 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import Paper from '@mui/material/Paper';
 import Typography from '@mui/material/Typography';
 import Grid from '@mui/material/Grid2';
 import { Avatar } from '@mui/material';
 
 import useStyles from './blogPostFooter-style';
+import { useTranslation } from 'react-i18next';
 
 export default function BlogPostFooter(props) {
   const { classes } = useStyles();
   const { post } = props;
+    const { t } = useTranslation('common');
 
   return (
-    <Paper className={classes.footer}>
+    <div className={classes.footer}>
       <Grid
         container
         direction="row"
@@ -22,7 +23,7 @@ export default function BlogPostFooter(props) {
         }}
         spacing={8}>
         <Grid item>
-          <Typography variant="h6">Author:</Typography>
+          <Typography variant="h6">{t('author')}:</Typography>
         </Grid>
         <Grid item container
           direction={"column"}
@@ -40,7 +41,7 @@ export default function BlogPostFooter(props) {
           </Grid>
         </Grid>
       </Grid>
-    </Paper>
+    </div>
   );
 }
 
