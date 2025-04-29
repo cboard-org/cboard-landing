@@ -129,7 +129,7 @@ Post.propTypes = {
 export const getStaticPaths = () => {
 
     function getPathsWithPosts() {
-        const posts = getAllPosts(['slug']);
+        const posts = getAllPosts();
         var paramsArray = [];
         i18nextConfig.i18n.locales.forEach((lng) => {
             posts.forEach((post) => {
