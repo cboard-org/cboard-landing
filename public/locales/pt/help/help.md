@@ -207,7 +207,7 @@ Para compartilhar uma frase, apenas pela primeira vez, desbloqueie a tela, vá p
 
 ![Configurações de compartilhamento da frase](https://user-images.githubusercontent.com/21298844/128038972-a2848d47-2675-4e2d-9a15-6f93186f29d6.png)
 
-Assemble a phrase. Then press the share icon that appears on the right of the output phrase bar. Select the social network where you want to share the phrase. One dialog would be open with the phrase in a text field. Press the submit button to share it. If you want to copy the phrase on your clipboard, press the share button and then 'copy to clipboard' option. One Notification would be shown on your screen with a succes message.
+Monte uma frase. Em seguida, pressione o ícone de compartilhamento que aparece à direita da barra de frase de saída. Selecione a rede social onde deseja compartilhar a frase. Uma caixa de diálogo seria aberta com a frase em um campo de texto. Pressione o botão enviar para compartilhá-lo. Se você quiser copiar a frase na área de transferência, pressione o botão de compartilhamento e depois a opção 'copiar para a área de transferência'. Uma notificação seria mostrada na tela com uma mensagem de sucesso.
 
 ![Botão compartilhamento da frase](https://user-images.githubusercontent.com/21298844/128044322-d61491c6-7168-4615-8117-244dc872091e.png)
 
@@ -340,7 +340,7 @@ Sim! Você pode redimensionar Blocos ou Botões nas CONFIGURAÇÕES! Na categori
 
 ### <a name='BigScrollButtons'></a>Rolagem de tela através de botões grandes
 
-It is also possible to scroll up and down a board using a couple of big buttons that can be added from the settings section. This is especially useful for eye-tracker device users, as the buttons allow to scroll the board without needing to slide the screen. To enable this feature, go to the settings section and look for the "enable big scroll buttons " switch. Toggle the switch and save the settings. See figure below:
+Também é possível rolar para cima e para baixo em um quadro usando alguns botões grandes que podem ser adicionados na seção de configurações. Isso é especialmente útil para usuários de dispositivos rastreadores oculares, pois os botões permitem rolar o quadro sem a necessidade de deslizar a tela. Para habilitar esse recurso, vá para a seção de configurações e procure a opção "ativar botões de rolagem grandes". Alterne o interruptor e salve as configurações. Veja a figura abaixo:
 
 ![Ativar botões de rolagem grande](/images/help/bigScrollSettings.png "Big scroll buttons settings")
 

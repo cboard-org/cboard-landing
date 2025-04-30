@@ -1,49 +1,49 @@
 ---
-title: 'Cboard Breakthrough: Enhancing AAC Communication with AI-Powered Sentence Creation'
+title: 'Avance de Cboard: comunicación CAA con la creación de frases impulsada por IA'
 date: 2023-10-30
-description: 'Empowering Communication using artificial intelligence'
+description: 'Potenciar la comunicación usando inteligencia artificial'
 categories:
-  - cboard
+  - Cboard
   - ai
-  - phrase improvement
+  - mejora de frases
 image: /images/ai-cboard.jpg
 author_staff_member: martin
 ---
-Communication is a fundamental human right, and for individuals with communication disabilities, finding effective tools to express themselves is of paramount importance. Augmentative and Alternative Communication (AAC) software has long been a beacon of hope for many, and in an exciting development, [**Cboard, a leading AAC application**](https://www.cboard.io/), has unveiled a groundbreaking feature. Using the power of Artificial Intelligence (AI), this new feature enhances sentence creation, making it easier than ever to build meaningful phrases from pictograms.
 
-## Cboard: A Revolution in AAC Communication
+La comunicación es un derecho humano fundamental, y para las personas con discapacidades de comunicación, encontrar herramientas eficaces para expresarse es de vital importancia. El software de Comunicación Aummentativa y Alternativa (AAC) ha sido durante mucho tiempo un faro de esperanza para muchos, y en un desarrollo emocionante. [**Cboard, una aplicación AAC líder**](https://www.cboard.io/), ha desvelado una característica innovadora. Usando el poder de la Inteligencia Artificial (AI), esta nueva característica mejora la creación de oraciones, haciendo más fácil que nunca construir frases significativas a partir de pictogramas.
 
-Cboard has established itself as a prominent player in the AAC software landscape, known for its intuitive interface and customizable features. It has been a lifeline for countless individuals with communication disabilities, as well as their caregivers, educators, and therapists, enabling them to communicate effectively using pictograms.
+## Cboard: una revolución en la comunicación CAA
 
-## The Power of AI in AAC Communication
+Cboard se ha establecido como un actor destacado en el panorama del software AAC, conocido por su interfaz intuitiva y características personalizables. Ha sido un salvavidas para innumerables personas con discapacidad en la comunicación, así como para sus cuidadores, educadores, y terapeutas, permitiéndoles comunicarse eficazmente usando pictogramas.
 
-The integration of AI into Cboard's platform represents a monumental leap forward in improving the communication experience for users. Here's what this innovative feature means for the AAC community:
+## El poder de la IA en la comunicación AAC
 
-**1. Enhanced Sentence Creation:** The AI-powered feature is designed to assist users in constructing sentences using pictograms. By analyzing user inputs and the context of their message, the AI suggest a phrase, according to pictograms and word combinations, making it easier for individuals to form coherent and meaningful sentences.
+La integración de IA en la plataforma de Cboard representa un paso adelante en la mejora de la experiencia de comunicación para los usuarios. Esto es lo que esta innovadora característica significa para la comunidad AAC:
 
-**2. Improved Predictive Text:** Cboard's AI learns from the user's communication patterns, offering increasingly accurate predictive text suggestions over time. This personalization ensures that the tool becomes more tailored to the user's specific needs and communication style.
+**1. Creación de oraciones mejorada:** la función impulsada por IA está diseñada para ayudar a los usuarios a construir oraciones utilizando pictogramas. Analizando las entradas del usuario y el contexto de su mensaje, la IA sugiere una frase, según pictogramas y combinaciones de palabras, haciendo más fácil a los individuos formar frases coherentes y significativas.
 
-![Improve Phrase feature](/images/app/phrase-improvement.png)
-*Phrase improvement feature*
+**2. Texto predictivo mejorado:** La IA aprende de los patrones de comunicación del usuario, ofreciendo sugerencias de texto predictivo cada vez más precisas con el tiempo. Esta personalización asegura que la herramienta se adapte mejor a las necesidades específicas y al estilo de comunicación del usuario.
 
-**3. Greater Speed and Efficiency:** With AI assistance, users can construct sentences more quickly and efficiently, reducing the time it takes to convey their thoughts and feelings.
+!\[Mejorar función de fraseo\](/images/app/phrase improvement.png) *Función de mejora de frases*
 
-**4. Language Expansion:** The AI feature is designed to grow alongside the user's language development. It can introduce new vocabulary and sentence structures, facilitating language growth and ensuring that individuals can express themselves in increasingly complex ways.
+**3. Mayor velocidad y eficiencia:** Con ayuda de IA, los usuarios pueden construir frases más rápida y eficientemente, reducir el tiempo que se tarda en transmitir sus pensamientos y sentimientos.
 
-**5. Customization:** Cboard continues to offer a high level of customization, allowing users and their caregivers to fine-tune the AI's suggestions to suit individual preferences and communication needs.
+**4. Expansión del idioma:** La función de IA está diseñada para crecer junto con el desarrollo del idioma del usuario. Puede introducir nuevas estructuras vocabulares y oratorias, facilitando el crecimiento del idioma y garantizando que las personas puedan expresarse de formas cada vez más complejas.
 
-## Benefits for the AAC Community
+**5. Personalización:** Cboard sigue ofreciendo un alto nivel de personalización, que permite a los usuarios y a sus cuidadores afinar las sugerencias de la AI para satisfacer las preferencias individuales y las necesidades de comunicación.
 
-The introduction of AI into Cboard's platform is a game-changer for various stakeholders:
+## Beneficios para la comunidad AAC
 
-**- Individuals with Communication Disabilities:** This feature empowers individuals with communication disabilities by providing them with a more efficient and supportive tool for constructing sentences, enabling them to express themselves more clearly and meaningfully.
+La introducción de IA en la plataforma es un cambio de juego para varios interesados:
 
-![Kid using Cboard](/images/kindergaten02.png)
+**- Personas con discapacidades de comunicación:** esta función empodera a las personas con discapacidades de comunicación brindándoles una herramienta más eficiente y de apoyo para construir oraciones, permitiéndoles expresarse de manera más clara y significativa.
 
-**- Educators and Therapists:** Teachers and therapists will find it easier to integrate Cboard into their educational and therapeutic sessions. The AI-enhanced sentence creation feature ensures more effective communication support.
+![Niño usando Cboard](/images/kindergaten02.png)
 
-**- Parents and Caregivers:** Families and caregivers can now use Cboard more effectively with their loved ones, fostering better communication, understanding, and connection.
+**- Educadores y Terapistas:** Profesores y profesionales encontrarán más fácil integrar Cboard en sus sesiones educativas y terapéuticas. La función de creación de oraciones mejoradas por la IA garantiza un apoyo de comunicación más efectivo.
 
-**- AAC Technology Advancement:** Cboard's introduction of AI to assist in sentence creation is a significant step forward in the evolution of AAC technology. It showcases the potential of AI to empower individuals with disabilities.
+**- Padres y Cuidadores:** Familias y cuidadores ahora pueden usar Cboard más eficazmente con sus seres queridos, lo que fomenta una mejor comunicación, comprensión y conexión.
 
-In conclusion, Cboard's innovative AI-powered feature for sentence creation is a groundbreaking development that significantly improves the AAC experience. By making it easier to construct meaningful phrases from pictograms, Cboard continues to lead the way in creating accessible and effective communication tools for individuals with communication disabilities. This feature not only empowers users but also exemplifies the incredible potential of AI in enhancing communication and connectivity for all.
+**- Avance de la Tecnología AAC:** La introducción de IA por parte de Cboard para ayudar en la creación de oraciones es un paso adelante significativo en la evolución de la tecnología AAC. Muestra el potencial de la IA para capacitar a las personas con discapacidades.
+
+En conclusión, la innovadora función impulsada por IA para la creación de sentencias es un desarrollo innovador que mejora significativamente la experiencia AAC. Facilitando la construcción de frases significativas a partir de pictogramas, Cboard sigue liderando la creación de herramientas de comunicación accesibles y eficaces para las personas con discapacidades de comunicación. Esta característica no sólo permite a los usuarios, sino que también exemplifica el increíble potencial de la IA en la mejora de la comunicación y la conectividad para todos.

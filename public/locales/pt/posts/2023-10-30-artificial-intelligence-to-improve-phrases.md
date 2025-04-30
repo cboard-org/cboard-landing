@@ -36,11 +36,11 @@ A integração da IA na plataforma do conselho representa um salto monumental em
 
 A introdução da IA na plataforma do board muda o jogo para vários interessados:
 
-**- Individuals with Communication Disabilities:** This feature empowers individuals with communication disabilities by providing them with a more efficient and supportive tool for constructing sentences, enabling them to express themselves more clearly and meaningfully.
+**- Indivíduos com deficiências de comunicação:** Esse recurso capacita indivíduos com deficiências de comunicação, fornecendo-lhes uma ferramenta mais eficiente e de apoio para a construção de frases, permitindo que eles se expressem de forma mais clara e significativa.
 
 ![Criança usando Armário](/images/kindergaten02.png)
 
-**- Educators and Therapists:** Teachers and therapists will find it easier to integrate Cboard into their educational and therapeutic sessions. O recurso de criação de frases aprimoradas da IA garante um suporte de comunicação mais eficaz.
+**- Educadores e terapeutas:** Professores e terapeutas acharão mais fácil integrar o Cboard em suas sessões educacionais e terapêuticas. O recurso de criação de frases aprimoradas da IA garante um suporte de comunicação mais eficaz.
 
 **- Pais e Caregivers:** Famílias e cuidadores agora podem usar o Quadro de forma mais eficaz com seus entes queridos, promovendo uma melhor comunicação, compreensão e conexão.
 

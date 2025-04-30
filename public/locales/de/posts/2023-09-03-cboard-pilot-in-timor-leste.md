@@ -11,7 +11,7 @@ image: /images/timor-leste-2.JPG
 author_staff_member: katrina
 ---
 
-Cboard will be conducting a pilot in Timor Leste, with the support of the UNICEF local office.This endeavor is made possible through the **generous support of the Microsoft AI for Accessibility grant**, which aligns with Cboard's commitment to enhancing accessibility and inclusivity. Ziel des Piloten ist es, zwischen 50 und 70 Studenten zu erreichen, an drei verschiedenen Schulen in den Städten Dili und Bacau, um die Verwendung der Cboard App. Das vorrangige Ziel dieses Piloten ist es, die praktische Nutzung der Cboard App innerhalb dieser Bildungseinsätze zu bewerten. Der Pilot soll sich in vier Monaten von September bis Dezember 2023 entfalten.
+Cboard wird mit Unterstützung des UNICEF-Büros vor Ort ein Pilotprojekt in Timor-Leste durchführen. Möglich wird dieses Unterfangen durch die **großzügige Unterstützung des Microsoft AI for Accessibility Grant**, die im Einklang mit dem Engagement von Cboard für die Verbesserung von Barrierefreiheit und Inklusion steht. Ziel des Piloten ist es, zwischen 50 und 70 Studenten zu erreichen, an drei verschiedenen Schulen in den Städten Dili und Bacau, um die Verwendung der Cboard App. Das vorrangige Ziel dieses Piloten ist es, die praktische Nutzung der Cboard App innerhalb dieser Bildungseinsätze zu bewerten. Der Pilot soll sich in vier Monaten von September bis Dezember 2023 entfalten.
 
 ![Timor Leste](/images/timor-leste-1.JPG) *Bild von einer Schule in Timor Leste mit Cboard*
 

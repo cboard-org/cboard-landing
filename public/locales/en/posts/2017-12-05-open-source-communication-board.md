@@ -21,8 +21,7 @@ Commercial solutions can be expensive or have limited language support, this mak
 
 > According to the World Health Organization, in many low-income countries only 5-15 percent of the people who need assistive technology are able to obtain it
 
-Our goal was to make Cboard a solution that works for everyone, _everywhere_.
-To accomplish this we used the web as our platform, it enabled us to provide Cboard on desktops, tablets and mobile phones running a modern browser. There is no installation process, no purchase, just follow [a link](https://app.cboard.io) and you’re good to go.
+Our goal was to make Cboard a solution that works for everyone, *everywhere*. To accomplish this we used the web as our platform, it enabled us to provide Cboard on desktops, tablets and mobile phones running a modern browser. There is no installation process, no purchase, just follow [a link](https://app.cboard.io) and you’re good to go.
 
 ## Why open-source?
 
@@ -42,4 +41,4 @@ All of these people and [more](https://github.com/cboard-org/cboard/graphs/contr
 
 ## UNICEF FTW!
 
-At this stage we had all the essentials for a good project, but to accelerate development we needed funding. This is where [UNICEF Innovation Fund](https://unicefinnovationfund.org/) came to play, after some months of development, we came to know about UNICEF call to fund for open-source AAC applications, we filled the forms and submitted Cboard. A few months later and a demo in between we’ve been told [we have been selected](http://unicefstories.org/2017/12/08/unicef-announces-addition-of-six-start-up-companies-to-2018-investment-portfolio/) for funding. This is huge for the project! and will impact the pace of development and overall quality of our product. We plan on hiring freelancers who will help with proofreading translations, programmers who will help with missing features. The application will continue to be offered for free and continue to be open-source.
+At this stage we had all the essentials for a good project, but to accelerate development we needed funding. This is where [UNICEF Innovation Fund](https://unicefinnovationfund.org/) came to play, after some months of development, we came to know about UNICEF call to fund for open-source AAC applications, we filled the forms and submitted Cboard. A few months later and a demo in between we’ve been told [we have been selected](http://unicefstories.org/2017/12/08/unicef-announces-addition-of-six-start-up-companies-to-2018-investment-portfolio/) for funding. This is huge for the project! and will impact the pace of development and overall quality of our product. We plan on hiring freelancers who will help with proofreading translations and programmers who will help with missing features. The application will continue to be offered for free and continue to be open-source.
