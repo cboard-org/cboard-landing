@@ -1,9 +1,9 @@
 ---
-title: Resultados del piloto de Cboard - Timor Leste
+title: Resultados del piloto de Cboard - Timor Oriental
 date: 2024-01-20
 description: Los resultados finales del proyecto piloto en Timor Oriental están disponibles para su descarga
 categories:
-  - Tablero
+  - Cboard
   - Microsoft
   - UNICEF
   - Timor Oriental
@@ -11,7 +11,7 @@ image: /images/pilot-timor-01.jpg
 author_staff_member: Katrina
 ---
 
-Cboard concluyó recientemente un proyecto piloto de cuatro meses de duración en Timor Leste, en colaboración con el UNICEF Timor-Leste y Microsoft.
+Recientemente Cboard concluyó un piloto de cuatro meses en Timor Leste, en colaboración con UNICEF Timor Leste y Microsoft.
 
 El proyecto piloto, que abarcó de septiembre a diciembre de 2023, empleó la metodología de la Escala de Impacto Psicosocial de los Dispositivos de Asistencia (PIADS) para evaluar su impacto. Los participantes completaron los formularios PIADS en septiembre antes de usar Cboard y nuevamente después de 2-3 meses de participación activa. En octubre se llevó a cabo una evaluación presencial a mitad del programa piloto, con observaciones dentro de las escuelas participantes. En el proyecto piloto participaron tres escuelas, una en Dili y dos en el municipio de Baucau, y PicSeePal donó generosamente 60 dispositivos para apoyar a las escuelas de Baucau que carecen de tabletas y acceso a Internet.
 
