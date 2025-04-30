@@ -15,11 +15,11 @@ import useStyles from './blogFeaturedPost-style';
 export default function BlogFeaturedPost(props) {
   const { classes } = useStyles();
   const { post } = props;
-  const d = new Date(post.date);
-  const date = d.toDateString();
   const { t } = useTranslation('common');
   const { i18n } = useTranslation(); // Use i18next's useTranslation hook
   const locale = i18n.language; // Get the current locale
+  const d = new Date(post.date);
+  const date = d.toLocaleDateString(locale);
 
   return (
     <Grid item xs={12} md={6}>
