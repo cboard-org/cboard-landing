@@ -1,12 +1,11 @@
-# Exciting News: Partnership with Team Gleason!
+# Aufregende Neuigkeiten: Partnerschaft mit Team Gleason!
 
-#### April 27, 2025 by [Martin](https://www.linkedin.com/in/martinbedouret/)
+#### 27. April 2025 von [Martin](https://www.linkedin.com/in/martinbedouret/)
 
-TWe are thrilled to announce that Cboard has signed an agreement with the Team Gleason Foundation to launch user testing of the alpha version of **FluidMind**, our next-generation AI-powered communication tool.
+Wir freuen uns, Ihnen mitteilen zu können, dass Cboard eine Vereinbarung mit der Team Gleason Foundation unterzeichnet hat, um Benutzertests der Alpha-Version von **FluidMind**, unserem KI-gestützten Kommunikationstool der nächsten Generation, zu starten.
 
-This collaboration marks a major milestone in our mission to enhance real-time communication for individuals with speech and motor impairments. Through this partnership, patients supported by Team Gleason will be among the first to experience and help shape the future of FluidMind, providing invaluable feedback that will drive the development of a more intuitive, powerful AAC solution.
+Diese Zusammenarbeit ist ein wichtiger Meilenstein in unserer Mission, die Echtzeitkommunikation für Menschen mit sprachlichen und motorischen Beeinträchtigungen zu verbessern. Durch diese Partnerschaft werden Patienten, die vom Team Gleason unterstützt werden, zu den ersten gehören, die die Zukunft von FluidMind erleben und mitgestalten, und unschätzbares Feedback geben, das die Entwicklung einer intuitiveren, leistungsfähigeren AAC-Lösung vorantreiben wird.
 
-We are deeply honored to work alongside Team Gleason — *a leading voice in the ALS and disability communities* — and excited about the positive impact this initiative will create.
+Wir fühlen uns zutiefst geehrt, mit dem Team Gleason zusammenzuarbeiten – _einer führenden Stimme in der ALS- und Behindertengemeinschaft_ – und freuen uns über die positiven Auswirkungen, die diese Initiative haben wird.
 
-Stay tuned as we continue to build a more connected and inclusive world, one conversation at a time.
-
+Bleiben Sie dran, während wir weiterhin eine stärker vernetzte und integrative Welt aufbauen, ein Gespräch nach dem anderen.

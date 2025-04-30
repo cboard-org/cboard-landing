@@ -9,4 +9,3 @@ This partnership represents a key step in bringing FluidMind — our AI-driven c
 We are grateful to the Esteban Bullrich Foundation for joining us in this journey, and we look forward to learning from the participants' experiences as we continue building a more accessible and empowering future.
 
 Stay tuned for more updates as we move forward together!
-

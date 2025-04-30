@@ -1,12 +1,11 @@
-# New Collaboration: User Testing with the Esteban Bullrich Foundation!
+# Nova colaboração: teste de usuário com a Fundação Esteban Bullrich!
 
-#### April 23, 2025 by [Martin](https://www.linkedin.com/in/martinbedouret/)
+#### 23 de abril de 2025 por [Martin](https://www.linkedin.com/in/martinbedouret/)
 
-We are proud to announce that Cboard has signed a collaboration agreement with the Esteban Bullrich Foundation to conduct user testing of **FluidMind** during May and June 2025.
+Temos o orgulho de anunciar que a Cboard assinou um acordo de colaboração com a Fundação Esteban Bullrich para realizar testes de usuário do **FluidMind** durante maio e junho de 2025.
 
-This partnership represents a key step in bringing FluidMind — our AI-driven communication solution — closer to the people who need it most. Thanks to the collaboration with the Esteban Bullrich Foundation, individuals living with speech and motor impairments will have the opportunity to test the alpha version of FluidMind, helping us refine and enhance the tool based on real-world feedback.
+Essa parceria representa um passo fundamental para aproximar o FluidMind - nossa solução de comunicação orientada por IA - das pessoas que mais precisam. Graças à colaboração com a Fundação Esteban Bullrich, indivíduos que vivem com deficiências motoras e de fala terão a oportunidade de testar a versão alfa do FluidMind, ajudando-nos a refinar e aprimorar a ferramenta com base no feedback do mundo real.
 
-We are grateful to the Esteban Bullrich Foundation for joining us in this journey, and we look forward to learning from the participants' experiences as we continue building a more accessible and empowering future.
+Somos gratos à Fundação Esteban Bullrich por se juntar a nós nesta jornada e esperamos aprender com as experiências dos participantes à medida que continuamos construindo um futuro mais acessível e empoderador.
 
-Stay tuned for more updates as we move forward together!
-
+Fique ligado para mais atualizações à medida que avançamos juntos!

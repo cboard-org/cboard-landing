@@ -1,12 +1,11 @@
-# New Collaboration: User Testing with the Esteban Bullrich Foundation!
+# Nueva colaboración: ¡Pruebas de usuario con la Fundación Esteban Bullrich!
 
-#### April 23, 2025 by [Martin](https://www.linkedin.com/in/martinbedouret/)
+#### 23 de abril de 2025 por [Martin](https://www.linkedin.com/in/martinbedouret/)
 
-We are proud to announce that Cboard has signed a collaboration agreement with the Esteban Bullrich Foundation to conduct user testing of **FluidMind** during May and June 2025.
+Estamos orgullosos de anunciar que Cboard ha firmado un acuerdo de colaboración con la Fundación Esteban Bullrich para realizar pruebas de usuario de **FluidMind** durante mayo y junio de 2025.
 
-This partnership represents a key step in bringing FluidMind — our AI-driven communication solution — closer to the people who need it most. Thanks to the collaboration with the Esteban Bullrich Foundation, individuals living with speech and motor impairments will have the opportunity to test the alpha version of FluidMind, helping us refine and enhance the tool based on real-world feedback.
+Esta asociación representa un paso clave para acercar FluidMind, nuestra solución de comunicación impulsada por IA, a las personas que más lo necesitan. Gracias a la colaboración con la Fundación Esteban Bullrich, las personas que viven con discapacidades motoras y del habla tendrán la oportunidad de probar la versión alfa de FluidMind, lo que nos ayudará a refinar y mejorar la herramienta en función de los comentarios del mundo real.
 
-We are grateful to the Esteban Bullrich Foundation for joining us in this journey, and we look forward to learning from the participants' experiences as we continue building a more accessible and empowering future.
+Agradecemos a la Fundación Esteban Bullrich por unirse a nosotros en este viaje, y esperamos aprender de las experiencias de los participantes a medida que continuamos construyendo un futuro más accesible y empoderador.
 
-Stay tuned for more updates as we move forward together!
-
+¡Manténgase atento a más actualizaciones a medida que avanzamos juntos!

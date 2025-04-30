@@ -1,12 +1,11 @@
-# Exciting News: Partnership with Team Gleason!
+# Notícias emocionantes: Parceria com a Equipe Gleason!
 
-#### April 27, 2025 by [Martin](https://www.linkedin.com/in/martinbedouret/)
+#### 27 de abril de 2025 por [Martin](https://www.linkedin.com/in/martinbedouret/)
 
-TWe are thrilled to announce that Cboard has signed an agreement with the Team Gleason Foundation to launch user testing of the alpha version of **FluidMind**, our next-generation AI-powered communication tool.
+Temos o prazer de anunciar que a Cboard assinou um acordo com a Team Gleason Foundation para lançar testes de usuários da versão alfa do **FluidMind**, nossa ferramenta de comunicação de última geração alimentada por IA.
 
-This collaboration marks a major milestone in our mission to enhance real-time communication for individuals with speech and motor impairments. Through this partnership, patients supported by Team Gleason will be among the first to experience and help shape the future of FluidMind, providing invaluable feedback that will drive the development of a more intuitive, powerful AAC solution.
+Essa colaboração é um marco importante em nossa missão de aprimorar a comunicação em tempo real para indivíduos com deficiências motoras e de fala. Por meio dessa parceria, os pacientes apoiados pela Equipe Gleason estarão entre os primeiros a experimentar e ajudar a moldar o futuro da FluidMind, fornecendo feedback inestimável que impulsionará o desenvolvimento de uma solução de CCA mais intuitiva e poderosa.
 
-We are deeply honored to work alongside Team Gleason — *a leading voice in the ALS and disability communities* — and excited about the positive impact this initiative will create.
+Estamos profundamente honrados em trabalhar ao lado da Equipe Gleason - _uma voz de liderança nas comunidades de ELA e deficientes_ - e entusiasmados com o impacto positivo que esta iniciativa criará.
 
-Stay tuned as we continue to build a more connected and inclusive world, one conversation at a time.
-
+Fique ligado enquanto continuamos a construir um mundo mais conectado e inclusivo, uma conversa de cada vez.

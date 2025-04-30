@@ -1,12 +1,11 @@
-# New Collaboration: User Testing with the Esteban Bullrich Foundation!
+# Neue Kooperation: User Testing mit der Esteban Bullrich Foundation!
 
-#### April 23, 2025 by [Martin](https://www.linkedin.com/in/martinbedouret/)
+#### 23. April 2025 von [Martin](https://www.linkedin.com/in/martinbedouret/)
 
-We are proud to announce that Cboard has signed a collaboration agreement with the Esteban Bullrich Foundation to conduct user testing of **FluidMind** during May and June 2025.
+Wir sind stolz darauf, Ihnen mitteilen zu können, dass Cboard eine Kooperationsvereinbarung mit der Esteban Bullrich Foundation unterzeichnet hat, um im Mai und Juni 2025 Benutzertests von **FluidMind** durchzuführen.
 
-This partnership represents a key step in bringing FluidMind — our AI-driven communication solution — closer to the people who need it most. Thanks to the collaboration with the Esteban Bullrich Foundation, individuals living with speech and motor impairments will have the opportunity to test the alpha version of FluidMind, helping us refine and enhance the tool based on real-world feedback.
+Diese Partnerschaft ist ein wichtiger Schritt, um FluidMind – unsere KI-gesteuerte Kommunikationslösung – den Menschen näher zu bringen, die sie am dringendsten benötigen. Dank der Zusammenarbeit mit der Esteban Bullrich Foundation haben Menschen mit Sprach- und motorischen Beeinträchtigungen die Möglichkeit, die Alpha-Version von FluidMind zu testen, was uns hilft, das Tool auf der Grundlage von Feedback aus der Praxis zu verfeinern und zu verbessern.
 
-We are grateful to the Esteban Bullrich Foundation for joining us in this journey, and we look forward to learning from the participants' experiences as we continue building a more accessible and empowering future.
+Wir sind der Esteban Bullrich Foundation dankbar, dass sie uns auf diesem Weg begleitet hat, und wir freuen uns darauf, von den Erfahrungen der Teilnehmer zu lernen, während wir weiterhin eine zugänglichere und befähigendere Zukunft aufbauen.
 
-Stay tuned for more updates as we move forward together!
-
+Bleiben Sie dran für weitere Updates, während wir gemeinsam voranschreiten!

@@ -1,41 +1,40 @@
 ---
-title: Cboard at the Global Disability Summit in Berlin
+title: Cboard en la Cumbre Mundial sobre Discapacidad en Berlín
 date: 2025-04-10
-description: The Cboard team attends the Global Disability Summit in Berlin to connect with others in the field of disability inclusion and assistive technology.
+description: El equipo de Cboard asiste a la Cumbre Mundial de la Discapacidad en Berlín para conectarse con otros en el campo de la inclusión de la discapacidad y la tecnología de asistencia.
 categories:
-  - cboard
-  - assistive technology
-  - global disability summit
+  - Cboard
+  - Tecnología de asistencia
+  - Cumbre Mundial sobre la Discapacidad
 image: /images/gds-01.jpg
 author_staff_member: katrina
 ---
 
-The Cboard team had the pleasure of attending the Global Disability Summit in Berlin. It was an engaging event that provided a rare opportunity to connect with civil society organizations, policymakers, and thought leaders in the field of disability inclusion from around the world.
+El equipo de Cboard tuvo el placer de asistir a la Cumbre Mundial de la Discapacidad en Berlín. Fue un evento interesante que brindó una oportunidad única para conectarse con organizaciones de la sociedad civil, formuladores de políticas y líderes de opinión en el campo de la inclusión de la discapacidad de todo el mundo.
 
-![GDS Session](/images/gds-02.jpg) *One of the sessions we attended with the Cboard team*
+! [Sesión GDS](/images/gds-02.jpg) _Una de las sesiones a las que asistimos con el equipo de Cboard_
 
-The conference was incredibly **well-organized**, and it was refreshing to experience such an inclusive and accessible environment. It clearly demonstrated that large-scale events can be thoughtfully designed to ensure access for everyone. 
-We were especially motivated to attend to see how **assistive technology (AT), particularly communication-related AT**, is being centered in global conversations around disability inclusion and innovation. At **Cboard**, we strive to stay informed on policy-level discussions, because we believe that developing AT is about more than just technology. We prioritize active participation and input from the communities we aim to support. 
-This commitment echoes the powerful slogan, central to the conference discussions: **"Nothing About Us, Without Us."**
+La conferencia estuvo increíblemente **bien organizada**, y fue refrescante experimentar un entorno tan inclusivo y accesible. Ha demostrado claramente que los acontecimientos a gran escala pueden estar diseñados a pesar de todo para garantizar el acceso para todos.
+Estábamos especialmente motivados para ver cómo **la tecnología de asistencia (AT), particularmente la relacionada con la comunicación AT**, se centra en las conversaciones globales sobre la inclusión y la innovación en materia de discapacidad. En **Cboard**, nos esforzamos por mantenernos informados sobre las discusiones a nivel de políticas, porque creemos que el desarrollo de la TA es más que solo tecnología. Priorizamos la participación activa y los aportes de las comunidades a las que pretendemos apoyar.
+Este compromiso se hace eco del poderoso eslogan, central en las discusiones de la conferencia: **"Nada acerca de nosotros, sin nosotros"**
 
-![GDS Keynote](/images/gds-03.jpg) *Amazing keynotes and discussion panels running during the GDS 2025*
+! [Discurso de apertura de GDS](/images/gds-03.jpg) _Increíbles conferencias magistrales y paneles de debate durante el GDS 2025_
 
-## Stands and Presentations 
+## Stands y Presentaciones
 
-One of our favorite parts of the summit was exploring the stands and exhibitions hosted by civil society organizations — especially the Assistive Technology section.
-We also attended several insightful presentations. Some standout sessions included:
+Una de nuestras partes favoritas de la cumbre fue explorar los stands y exposiciones organizados por organizaciones de la sociedad civil, especialmente la sección de Tecnología de Asistencia.
+También asistimos a varias presentaciones perspicaces. Algunas de las sesiones más destacadas fueron:
 
--	**AI for Development:** Bridging the Barrier Between Non-Standard Speech and the Use of Automatic Speech Recognition.
- **Hosted by:** Google, Global Disability Innovation Hub, Centre for Digital Language Inclusion
- This session explored cutting-edge approaches to making speech recognition technology more inclusive for individuals with non-standard speech patterns.
+- **IA para el desarrollo:** Cerrando la barrera entre el habla no estándar y el uso del reconocimiento automático de voz.
+ **Organizado por:** Google, Centro Global de Innovación en Discapacidad, Centro para la Inclusión del Lenguaje Digital
+ Esta sesión exploró enfoques de vanguardia para hacer que la tecnología de reconocimiento de voz sea más inclusiva para las personas con patrones de habla no estándar.
 
--	**Technology, Innovation, and Entrepreneurship:** Supporting Independent Living for Persons with Disabilities
- **Hosted by:** League of Arab States, International Disability Alliance (IDA), Arab Organization for Persons with Disabilities (AOPD), Executive Bureau – Council of Ministers of Labour and Social Affairs in GCC (GCCLSA)
- A powerful discussion on how innovation and entrepreneurship can promote autonomy and independent living for people with disabilities across diverse regions.
+- **Tecnología, Innovación y Emprendimiento:** Apoyo a la Vida Independiente para Personas con Discapacidades
+ **Organizado por:** Liga de los Estados Árabes, Alianza Internacional de la Discapacidad (AIF), Organización Árabe para las Personas con Discapacidad (AOPD), Buró Ejecutivo – Consejo de Ministros de Trabajo y Asuntos Sociales del CCG (GCCLSA)
+ Un poderoso debate sobre cómo la innovación y el emprendimiento pueden promover la autonomía y la vida independiente de las personas con discapacidad en diversas regiones.
 
-- **Ensuring Disability Inclusion at Leading Global AI Conference**
- **Hosted by:** Zero Project & Microsoft
-This session focused on how AI is being used to support people with disabilities, featuring real-world examples of ongoing projects. It was especially relevant to us, as we're currently working with Microsoft through the AI for Accessibility Grant.
+- **Garantizar la inclusión de la discapacidad en la principal conferencia mundial sobre IA**
+ **Organizado por:** Zero Project y Microsoft
+ Esta sesión se centró en cómo se está utilizando la IA para apoyar a las personas con discapacidad, presentando ejemplos del mundo real de proyectos en curso. Fue especialmente relevante para nosotros, ya que actualmente estamos trabajando con Microsoft a través de la subvención AI for Accessibility.
 
-
-We left the summit inspired, informed, and even more committed to contributing to a more inclusive digital future.
+Salimos de la cumbre inspirados, informados e incluso más comprometidos a contribuir a un futuro digital más inclusivo.
