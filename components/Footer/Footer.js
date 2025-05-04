@@ -52,7 +52,7 @@ function Footer(props) {
       link: ['/privacy', '/terms-of-use'],
     },
   ];
-  
+
   return (
     <Container
       maxWidth="lg"
@@ -155,6 +155,13 @@ function Footer(props) {
               className={classes.margin}
               size="small">
               <i className="ion-logo-youtube" />
+            </IconButton>
+            <IconButton
+              component={Link} href="https://x.com/cboard_io"
+              aria-label="x"
+              className={classes.margin}
+              size="small">
+              <i className="ion-logo-twitter" />
             </IconButton>
           </div>
           <SelectLang toggleDir={toggleDir} />

@@ -34,7 +34,7 @@ function CompanyLogo() {
       >
         <div className={classes.root}>
           {logos.map((logo, index) => (
-            <img src={logo} alt={'logo' + index.toString()} key={index.toString()} />
+            <img src={logo} alt={'cboard logo' + index.toString()} key={index.toString()} />
           ))}
         </div>
       </ScrollAnimation>
