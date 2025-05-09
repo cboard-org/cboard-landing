@@ -29,6 +29,3 @@ ATIA 2025 left us feeling inspired, energized, and more committed than ever to a
 ![Cboard Booth](/images/atia-2025-booth.jpg) _The Cboard booth at ATIA 2025_
 
 We are grateful for the opportunity to be part of such a transformative event and look forward to continuing our mission of making communication accessible to all.
-
-
-
