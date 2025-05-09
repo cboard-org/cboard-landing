@@ -1,6 +1,6 @@
-TERMS OF SERVICE 
+TERMS OF SERVICE
 
-Last updated April 19, 2023 
+Last updated April 19, 2023
 
 ### AGREEMENT TO OUR LEGAL TERMS
 
