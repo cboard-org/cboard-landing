@@ -4,6 +4,9 @@ export async function getServerSideProps({ res }) {
 Allow: /
 Disallow: /admin/
 Disallow: *.qa.cboard.io/
+Disallow: app.cboard.io/
+Disallow: cbuilder.cboard.io/
+Disallow: fluidmind.cboard.io/
 Sitemap: https://www.cboard.io/sitemap.xml`);
     res.end();
 
