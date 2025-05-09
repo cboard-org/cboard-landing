@@ -83,9 +83,13 @@ function Post(props) {
     return (
         <Fragment>
             <Head>
-                <title>
-                    {post.title + ' | Cboard Blog'}
-                </title>
+                <title>{post.title + ' | Cboard Blog'}</title>
+                <meta name="description" content={post.description || 'Cboard Blog Post'} />
+                {/* Open Graph Meta Tags */}
+                <meta property="og:title" content={post.title + ' | Cboard Blog'} />
+                <meta property="og:description" content={post.description} />
+                <meta property="og:image" content={post.image} />
+
             </Head>
             <CssBaseline />
             <MainContainer
