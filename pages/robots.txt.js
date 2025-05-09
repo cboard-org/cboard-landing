@@ -3,6 +3,7 @@ export async function getServerSideProps({ res }) {
     res.write(`User-agent: *
 Allow: /
 Disallow: /admin/
+Disallow: *.qa.cboard.io/
 Sitemap: https://www.cboard.io/sitemap.xml`);
     res.end();
 
