@@ -9,9 +9,6 @@ const HeadComponent = () => (
     {/* Use minimum-scale=1 to enable GPU rasterization */}
     {/* Web Site Meta Tags */}
     <meta property="og:url" content={brand.cboard.url} />
-    <meta property="og:title" content={brand.cboard.name} />
-    <meta property="og:description" content={brand.cboard.desc} />
-    <meta property="og:image" content={brand.cboard.img} />
     <meta property="author" content="cboard" />
     <meta property="og:site_name" content={brand.cboard.name} />
     <meta property="og:locale" content="en_US" />

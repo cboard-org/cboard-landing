@@ -89,7 +89,6 @@ function Post(props) {
                 <meta property="og:title" content={post.title + ' | Cboard Blog'} />
                 <meta property="og:description" content={post.description} />
                 <meta property="og:image" content={post.image} />
-
             </Head>
             <CssBaseline />
             <MainContainer
