@@ -88,7 +88,7 @@ function Post(props) {
                 {/* Open Graph Meta Tags */}
                 <meta property="og:title" content={post.title + ' | Cboard Blog'} />
                 <meta property="og:description" content={post.description} />
-                <meta property="og:image" content={post.image} />
+                <meta property="og:image" content={'https://www.cboard.io' + post.image} />
             </Head>
             <CssBaseline />
             <MainContainer
