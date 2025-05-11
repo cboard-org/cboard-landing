@@ -6,21 +6,20 @@ import brand from '../public/text/brand';
 const HeadComponent = () => (
   <Head>
     <meta charSet="utf-8" />
-    {/* Use minimum-scale=1 to enable GPU rasterization */}
-    {/* Web Site Meta Tags */}
-    <meta property="og:url" content={brand.cboard.url} />
-    <meta property="author" content="cboard" />
-    <meta property="og:site_name" content={brand.cboard.name} />
-    <meta property="og:locale" content="en_US" />
-    <meta property="og:type" content="website" />
 
-    <meta name="description" content={brand.cboard.desc} />
-    <meta name="title" content={brand.cboard.name} />
+    {/*SEO Meta Tags */}
     <meta name="dc.title" content={brand.cboard.name} />
-    <meta name="robots" content="max-image-preview:large" />
     <meta name="robots" content="index,follow,noodp" />
-    <link rel="canonical" href={brand.cboard.fullUrl} />
-    <link rel="next" href={brand.cboard.fullUrl} />
+    <meta name="googlebot" content="index, follow" />
+    <meta name="robots" content="max-image-preview:large" />
+    <meta name="distribution" content="global" />
+    <meta name="rating" content="general" />
+
+    {/* Open Graph Meta Tags */}
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:creator" content="@cboard" />
+    <meta name="twitter:site" content="@cboard" />
+    <meta name="twitter:domain" content="www.cboard.io" />
 
     {/* Favicon */}
     <link rel="icon" href="/favicons/favicon.ico" />
