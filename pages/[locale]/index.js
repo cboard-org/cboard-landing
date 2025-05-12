@@ -76,7 +76,7 @@ function HomePage(props) {
       <HTMLHead
         title={brand.cboard.name + ' | ' + t("title_home")}
         locale={locale}
-        page={t("title_home")}
+        page='/'
       />
       <CssBaseline />
       <MainContainer
