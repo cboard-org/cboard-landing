@@ -37,7 +37,7 @@ const HTMLHead = ({ title, locale, post = '', page = '' }) => (
     </Head>
 );
 
-MetaTags.propTypes = {
+HTMLHead.propTypes = {
     title: PropTypes.string.isRequired,
     locale: PropTypes.string.isRequired,
     post: PropTypes.object,

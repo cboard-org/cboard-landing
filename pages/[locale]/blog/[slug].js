@@ -1,6 +1,5 @@
 import React, { Fragment } from 'react';
 import PropTypes from 'prop-types';
-import Head from 'next/head';
 import { notFound } from "next/navigation";
 import { makeStyles } from 'tss-react/mui';
 import { lighten, darken } from '@mui/material/styles';
