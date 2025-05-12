@@ -1,7 +1,6 @@
 import React, { Fragment } from 'react';
 import PropTypes from 'prop-types';
 import Head from 'next/head';
-import brand from '../../../public/text/brand';
 import { notFound } from "next/navigation";
 import { makeStyles } from 'tss-react/mui';
 import { lighten, darken } from '@mui/material/styles';
@@ -14,6 +13,7 @@ import i18nextConfig from '../../../next-i18next.config';
 import BlogPostBody from 'components/BlogPostBody';
 import BlogPostHero from 'components/BlogPostHero';
 import BlogPostFooter from 'components/BlogPostFooter/BlogPostFooter';
+import HTMLHead from 'components/HTMLHead/HTMLHead';
 
 const useStyles = makeStyles({ uniqId: 'home' })(theme => ({
     containerWrap: {
@@ -83,37 +83,10 @@ function Post(props) {
     }
     return (
         <Fragment>
-            <Head>
-                {/* Meta Tags */}
-                <title>{post.title + ' | Cboard Blog'}</title>
-                <meta name="title" content={post.title + ' | Cboard Blog'} />
-                <meta name="description" content={post.description || brand.cboard.desc} />
-                <meta name="keywords" content={post.categories} />
-                <meta name="author" content={post.author_staff_member || 'Cboard Team'} />
-                {/* SEO Meta Tags */}
-                <meta name="language" content={locale || 'en_EN'} />
-                <link rel="canonical" href={'https://www.cboard.io/blog/' + post.slug} />
-                <link rel="next" href={'https://www.cboard.io/blog/' + post.slug} />
-                {/* Open Graph Meta Tags */}
-                <meta name="twitter:title" content={post.title + ' | Cboard Blog'} />
-                <meta name="twitter:description" content={post.description || brand.cboard.desc} />
-                <meta name="twitter:image" content={'https://cboard.io' + post.image} />
-                <meta name="twitter:url" content={'https://www.cboard.io' + post.slug} />
-                <meta name="twitter:image:alt" content={post.title + ' | Cboard Blog'} />
-
-                <meta property="og:title" content={post.title + ' | Cboard Blog'} />
-                <meta property="og:description" content={post.description || brand.cboard.desc} />
-                <meta property="og:image" itemProp='image' content={'https://cboard.io' + post.image} />
-                <meta property="og:image:width" content="1200" />
-                <meta property="og:image:height" content="630" />
-                <meta property="og:image:alt" content={post.title + ' | Cboard Blog'} />
-                <meta property="og:url" content={'https://cboard.io' + post.slug} />
-                <meta property="og:type" content="article" />
-                <meta property="og:site_name" content="Cboard Blog" />
-                <meta property="og:locale" content={locale || i18nextConfig.i18n.defaultLocale} />
-                <meta property="article:published_time" content={post.date} />
-
-            </Head>
+            <HTMLHead
+                title=''
+                locale={locale}
+                post={post} />
             <CssBaseline />
             <MainContainer
                 onToggleDark={onToggleDark}

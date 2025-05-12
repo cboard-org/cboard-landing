@@ -1,6 +1,5 @@
 import React, { Fragment } from 'react';
 import PropTypes from 'prop-types';
-import Head from 'next/head';
 import useMediaQuery from '@mui/material/useMediaQuery';
 import { makeStyles } from 'tss-react/mui';
 import { useTranslation } from 'next-i18next';
@@ -18,6 +17,7 @@ import CompanyLogo from 'components/CompanyLogo';
 import NewsEvent from 'components/NewsEvent';
 import PageNav from 'components/PageNav';
 import Notification from 'components/Notification';
+import HTMLHead from 'components/HTMLHead';
 
 const sectionMargin = margin => (margin * 20);
 const useStyles = makeStyles({ uniqId: 'home' })(theme => ({
@@ -67,17 +67,17 @@ const useStyles = makeStyles({ uniqId: 'home' })(theme => ({
 
 function HomePage(props) {
   const { classes } = useStyles();
-  const { onToggleDark, onToggleDir, posts } = props;
+  const { onToggleDark, onToggleDir, posts, locale } = props;
   const isTablet = useMediaQuery(theme => theme.breakpoints.down('lg'));
   const { t } = useTranslation('common');
 
   return (
     <Fragment>
-      <Head>
-        <title>
-          { brand.cboard.name + ' | ' + t("title_home") }
-        </title>
-      </Head>
+      <HTMLHead
+        title={brand.cboard.name + ' | ' + t("title_home")}
+        locale={locale}
+        page={t("title_home")}
+      />
       <CssBaseline />
       <MainContainer
         onToggleDark={onToggleDark}
@@ -108,7 +108,7 @@ function HomePage(props) {
               <CompanyLogo />
             </section>
             <section id="news" className={classes.spaceTopShort}>
-              <NewsEvent posts={posts}/>
+              <NewsEvent posts={posts} />
             </section>
           </main>
           {!isTablet && (
