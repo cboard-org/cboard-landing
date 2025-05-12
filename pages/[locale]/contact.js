@@ -1,5 +1,4 @@
 import React, { Fragment } from 'react';
-import Head from 'next/head';
 import { makeStyles } from 'tss-react/mui';
 import { useTranslation } from 'next-i18next';
 import { getStaticPaths, makeStaticProps } from 'lib/getStatic';
@@ -9,6 +8,7 @@ import { CssBaseline, useMediaQuery } from '@mui/material';
 import MainContainer from 'components/MainContainer';
 import PropTypes from 'prop-types';
 import PageNav from 'components/PageNav';
+import HTMLHead from 'components/HTMLHead';
 
 const useStyles = makeStyles({ uniqId: 'contactpage' })(theme => ({
   mainWrap: {
@@ -25,17 +25,17 @@ const useStyles = makeStyles({ uniqId: 'contactpage' })(theme => ({
 
 function ContactPage(props) {
   const { classes } = useStyles();
-  const { onToggleDark, onToggleDir } = props;
+  const { onToggleDark, onToggleDir, locale } = props;
   const isTablet = useMediaQuery(theme => theme.breakpoints.down('lg'));
-    const { t } = useTranslation('common');
+  const { t } = useTranslation('common');
 
   return (
     <Fragment>
-      <Head>
-        <title>
-          {brand.cboard.name + ' | ' + t('title_contact')}
-        </title>
-      </Head>
+      <HTMLHead
+        title={brand.cboard.name + ' | ' + t("title_contact")}
+        locale={locale}
+        page='contact'
+      />
       <CssBaseline />
       <MainContainer
         onToggleDark={onToggleDark}

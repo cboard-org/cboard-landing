@@ -1,6 +1,5 @@
 import React, { Fragment } from 'react';
 import PropTypes from 'prop-types';
-import Head from 'next/head';
 import useMediaQuery from '@mui/material/useMediaQuery';
 import { makeStyles } from 'tss-react/mui';
 import { lighten, darken } from '@mui/material/styles';
@@ -13,6 +12,7 @@ import BlogPostsPreview from 'components/BlogPostsPreview';
 import BlogPostsPagination from 'components/BlogPostsPagination';
 import PageNav from 'components/PageNav';
 import Notification from 'components/Notification';
+import HTMLHead from 'components/HTMLHead';
 
 const sectionMargin = margin => (margin * 20);
 const useStyles = makeStyles({ uniqId: 'home' })(theme => ({
@@ -57,17 +57,17 @@ const useStyles = makeStyles({ uniqId: 'home' })(theme => ({
 
 function BlogPage(props) {
     const { classes } = useStyles();
-    const { onToggleDark, onToggleDir, posts, announcements } = props;
+    const { onToggleDark, onToggleDir, posts, announcements, locale } = props;
     const isTablet = useMediaQuery(theme => theme.breakpoints.down('lg'));
     const { t } = useTranslation('common');
 
     return (
         <Fragment>
-            <Head>
-                <title>
-                    {brand.cboard.name + ' | ' + t("title_blog")}
-                </title>
-            </Head>
+            <HTMLHead
+                title={brand.cboard.name + ' | ' + t("title_blog")}
+                locale={locale}
+                page='blog'
+            />
             <CssBaseline />
             <MainContainer
                 onToggleDark={onToggleDark}
