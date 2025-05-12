@@ -8,7 +8,8 @@ module.exports = {
     projectName: 'Cboard',
     url: 'www.cboard.io',
     fullUrl: 'https://www.cboard.io',
-    img: 'https://www.cboard.io/images/cboard-buble.png',
+    img: 'https://www.cboard.io/images/serbia01.jpg',
+    logo: 'https://www.cboard.io/images/cboard-buble.png',
     notifMsg: 'Cboard is an AAC web app for children and adults with speech and language impairments, aiding communication with symbols and text-to-speech.'
   }
 };
