@@ -1,6 +1,5 @@
 import React, { Fragment } from 'react';
 import PropTypes from 'prop-types';
-import Head from 'next/head';
 import useMediaQuery from '@mui/material/useMediaQuery';
 import { makeStyles } from 'tss-react/mui';
 import { useTranslation } from 'next-i18next';
@@ -11,6 +10,7 @@ import MainContainer from 'components/MainContainer';
 import PageNav from 'components/PageNav';
 import Notification from 'components/Notification';
 import Pricing from 'components/Pricing';
+import HTMLHead from 'components/HTMLHead';
 
 const sectionMargin = margin => (margin * 20);
 const useStyles = makeStyles({ uniqId: 'home' })(theme => ({
@@ -60,17 +60,17 @@ const useStyles = makeStyles({ uniqId: 'home' })(theme => ({
 
 function PricingPage(props) {
   const { classes } = useStyles();
-  const { onToggleDark, onToggleDir } = props;
+  const { onToggleDark, onToggleDir, locale } = props;
   const isTablet = useMediaQuery(theme => theme.breakpoints.down('lg'));
-    const { t } = useTranslation('common');
+  const { t } = useTranslation('common');
 
   return (
     <Fragment>
-      <Head>
-        <title>
-          { brand.cboard.name + ' | ' + t("title_pricing") }
-        </title>
-      </Head>
+      <HTMLHead
+        title={brand.cboard.name + ' | ' + t("title_pricing")}
+        locale={locale}
+        page='pricing'
+      />
       <CssBaseline />
       <MainContainer
         onToggleDark={onToggleDark}
