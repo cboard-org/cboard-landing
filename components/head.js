@@ -44,19 +44,6 @@ const HeadComponent = () => (
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600,700" rel="stylesheet" />
     <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons" />
     <link href="https://unpkg.com/ionicons@3.0.0/dist/css/ionicons.min.css" rel="stylesheet" />
-    {/*  Twitter */}
-    <meta property="twitter:site" content="www.cboard.io" />
-    <meta property="twitter:domain" content="www.cboard.io" />
-    <meta property="twitter:creator" content="cboard" />
-    <meta property="twitter:card" content="summary" />
-    <meta property="twitter:image:src" content="/images/cboard-logo.svg" />
-    <meta name="twitter:title" content={brand.cboard.name} />
-    <meta name="twitter:description" content={brand.cboard.desc} />
-    <meta name="twitter:site" content={brand.cboard.url} />
-    <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:image" content={brand.cboard.img} />
-    <meta name="twitter:url" content={brand.cboard.fullUrl} />
-
   </Head>
 );
 
