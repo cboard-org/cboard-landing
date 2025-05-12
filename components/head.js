@@ -20,6 +20,8 @@ const HeadComponent = () => (
     <meta name="twitter:creator" content="@cboard" />
     <meta name="twitter:site" content="@cboard" />
     <meta name="twitter:domain" content="www.cboard.io" />
+    <meta property="og:logo" content={brand.cboard.img} />
+
 
     {/* Favicon */}
     <link rel="icon" href="/favicons/favicon.ico" />
