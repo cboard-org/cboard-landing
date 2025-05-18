@@ -64,7 +64,7 @@ function BlogPage(props) {
     return (
         <Fragment>
             <HTMLHead
-                title={brand.cboard.name + ' | ' + t("title_blog")}
+                title={brand.cboard.name + ' | ' + t("title_blog") + ' - ' + t("title_slogan")}
                 locale={locale}
                 page='blog'
             />

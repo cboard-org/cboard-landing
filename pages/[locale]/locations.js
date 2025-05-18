@@ -67,7 +67,7 @@ function LocationsPage(props) {
   return (
     <Fragment>
       <HTMLHead
-        title={brand.cboard.name + ' | ' + t("title_locations")}
+        title={brand.cboard.name + ' | ' + t("title_locations") + ' - ' + t("title_slogan")}
         locale={locale}
         page='locations'
       />

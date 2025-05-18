@@ -68,7 +68,7 @@ function PrivacyPage(props) {
     <Fragment>
       <Head>
         <title>
-          { brand.cboard.name + ' | ' + t("title_privacy") }
+          { brand.cboard.name + ' | ' + t("title_privacy") + ' - ' + t("title_slogan")}
         </title>
       </Head>
       <CssBaseline />

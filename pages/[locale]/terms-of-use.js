@@ -68,7 +68,7 @@ function TermsPage(props) {
     <Fragment>
       <Head>
         <title>
-          { brand.cboard.name + ' | ' + t('title_terms') }
+          { brand.cboard.name + ' | ' + t('title_terms') + ' - ' + t("title_slogan")}
         </title>
       </Head>
       <CssBaseline />

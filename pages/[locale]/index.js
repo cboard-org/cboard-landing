@@ -74,7 +74,7 @@ function HomePage(props) {
   return (
     <Fragment>
       <HTMLHead
-        title={brand.cboard.name + ' | ' + t("title_home")}
+        title={brand.cboard.name + ' | ' + t("title_home") + ' - ' + t("title_slogan")}
         locale={locale}
         page=''
       />

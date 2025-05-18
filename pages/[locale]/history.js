@@ -67,7 +67,7 @@ function HistoryPage(props) {
   return (
     <Fragment>
       <HTMLHead
-        title={brand.cboard.name + ' | ' + t("title_history")}
+        title={brand.cboard.name + ' | ' + t("title_history") + ' - ' + t("title_slogan")}
         locale={locale}
         page='history'
       />

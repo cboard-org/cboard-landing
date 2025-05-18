@@ -32,7 +32,7 @@ function ContactPage(props) {
   return (
     <Fragment>
       <HTMLHead
-        title={brand.cboard.name + ' | ' + t("title_contact")}
+        title={brand.cboard.name + ' | ' + t("title_contact") + ' - ' + t("title_slogan")}
         locale={locale}
         page='contact'
       />

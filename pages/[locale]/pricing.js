@@ -67,7 +67,7 @@ function PricingPage(props) {
   return (
     <Fragment>
       <HTMLHead
-        title={brand.cboard.name + ' | ' + t("title_pricing")}
+        title={brand.cboard.name + ' | ' + t("title_pricing") + ' - ' + t("title_slogan")}
         locale={locale}
         page='pricing'
       />

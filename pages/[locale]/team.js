@@ -67,7 +67,7 @@ function TeamPage(props) {
   return (
     <Fragment>
       <HTMLHead
-        title={brand.cboard.name + ' | ' + t("title_team")}
+        title={brand.cboard.name + ' | ' + t("title_team") + ' - ' + t("title_slogan")}
         locale={locale}
         page='team'
       />
