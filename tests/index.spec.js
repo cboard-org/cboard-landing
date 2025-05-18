@@ -45,7 +45,7 @@ test('open cboard Microsoft store link', async ({ page }) => {
   await page.getByLabel('microsoft store').click();
 
   // Expects page to have a heading with the name of Installation.
-  await expect(page.getByRole('heading', {name: 'Cboard AAC app'})).toBeVisible();
+  await expect(page.locator('.title')).toContainText('Cboard AAC app');
 });
 
 test('open cboard amazon store link', async ({ page }) => {
