@@ -13,7 +13,7 @@ jobs:
         with:
           ref: ${{ github.event.client_payload.git.sha }}
       - name: Install dependencies
-        run: yarn add ci && yarn create playwright
+        run: yarn add ci && yarn playwright install
       - name: Run tests
         run: yarn playwright test
         env:
