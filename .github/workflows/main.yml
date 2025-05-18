@@ -13,8 +13,8 @@ jobs:
         with:
           ref: ${{ github.event.client_payload.git.sha }}
       - name: Install dependencies
-        run: npm ci && npx playwright install --with-deps
+        run: yarn add ci && yarn create playwright
       - name: Run tests
-        run: npx playwright test
+        run: yarn playwright test
         env:
           BASE_URL: ${{ github.event.client_payload.url }}
