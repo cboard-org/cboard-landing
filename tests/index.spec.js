@@ -17,3 +17,14 @@ test('open cboard link', async ({ page }) => {
   // Expects page to have a heading with the name of Installation.
   await expect(page.locator('.WelcomeScreen__container')).toBeVisible();
 });
+
+
+test('open cboard play store link', async ({ page }) => {
+  await page.goto('https://www.cboard.io/');
+
+  // Click the get started link.
+  await page.getByLabel('google play store').click();
+
+  // Expects page to have a heading with the name of Installation.
+  await expect(page.getByRole('heading', {name: 'Cboard AAC'})).toBeVisible();
+});

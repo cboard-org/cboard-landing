@@ -76,7 +76,7 @@ function Banner() {
                   <Link
                     href="https://play.google.com/store/apps/details?id=com.unicef.cboard"
                     onClick={() => sendGAEvent('event', 'open_android_store', 'banner')}>
-                    <img src="/images/mobile/play-store.png" alt="play store" />
+                    <img src="/images/mobile/play-store.png" alt="play store" aria-label='google play store'/>
                   </Link>
                   <Link
                     href="https://apps.microsoft.com/store/detail/XP9M5KQV699FLR"
