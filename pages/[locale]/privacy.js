@@ -11,6 +11,7 @@ import MainContainer from 'components/MainContainer';
 import BodyText from 'components/BodyText';
 import PageNav from 'components/PageNav';
 import Notification from 'components/Notification';
+import Title from 'components/Title';
 
 const sectionMargin = margin => (margin * 20);
 const useStyles = makeStyles({ uniqId: 'home' })(theme => ({
@@ -62,13 +63,13 @@ function PrivacyPage(props) {
   const { classes } = useStyles();
   const { onToggleDark, onToggleDir } = props;
   const isTablet = useMediaQuery(theme => theme.breakpoints.down('lg'));
-    const { t } = useTranslation('common');
+  const { t } = useTranslation('common');
 
   return (
     <Fragment>
       <Head>
         <title>
-          { brand.cboard.name + ' | ' + t("title_privacy") + ' - ' + t("title_slogan")}
+          {brand.cboard.name + ' | ' + t("title_privacy") + ' - ' + t("title_slogan")}
         </title>
       </Head>
       <CssBaseline />
@@ -78,6 +79,11 @@ function PrivacyPage(props) {
         footerDeco
       >
         <Fragment>
+          <div>
+            <Title align="center">
+              {t('title_privacy')}
+            </Title>
+          </div>
           <main className={classes.containerWrap}>
             <section id="bodytext">
               <BodyText filePath={'/locales/en/privacy.md'} />
