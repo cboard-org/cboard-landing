@@ -55,7 +55,7 @@ test('open cboard amazon store link', async ({ page }) => {
   await page.getByLabel('amazon store').click();
 
   // Expects page to have a heading with the name of Installation.
-  await expect(page.getByRole('heading', {name: 'Cboard AAC'})).toBeVisible();
+  await expect(page.getByTitle('Cboard AAC')).toBeVisible();
 });
 
 test('index page has no loading or error indicators', async ({ page }) => {
