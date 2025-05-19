@@ -1,6 +1,5 @@
 import React, { Fragment } from 'react';
 import PropTypes from 'prop-types';
-import Head from 'next/head';
 import useMediaQuery from '@mui/material/useMediaQuery';
 import { makeStyles } from 'tss-react/mui';
 import { useTranslation } from 'next-i18next';
@@ -11,6 +10,7 @@ import MainContainer from 'components/MainContainer';
 import BodyText from 'components/BodyText';
 import PageNav from 'components/PageNav';
 import Title from 'components/Title';
+import HTMLHead from 'components/HTMLHead';
 
 const sectionMargin = margin => (margin * 20);
 const useStyles = makeStyles({ uniqId: 'home' })(theme => ({
@@ -48,11 +48,11 @@ function TermsPage(props) {
 
   return (
     <Fragment>
-      <Head>
-        <title>
-          {brand.cboard.name + ' | ' + t('title_terms') + ' - ' + t("title_slogan")}
-        </title>
-      </Head>
+      <HTMLHead
+        title={brand.cboard.name + ' | ' + t('title_terms') + ' - ' + t("title_slogan")}
+        locale={props.locale}
+        page='terms-of-use'
+      />
       <CssBaseline />
       <MainContainer
         onToggleDark={onToggleDark}

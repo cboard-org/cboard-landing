@@ -1,6 +1,5 @@
 import React, { Fragment } from 'react';
 import PropTypes from 'prop-types';
-import Head from 'next/head';
 import useMediaQuery from '@mui/material/useMediaQuery';
 import { makeStyles } from 'tss-react/mui';
 import { useTranslation } from 'next-i18next';
@@ -10,8 +9,8 @@ import brand from 'public/text/brand';
 import MainContainer from 'components/MainContainer';
 import BodyText from 'components/BodyText';
 import PageNav from 'components/PageNav';
-import Notification from 'components/Notification';
 import Title from 'components/Title';
+import HTMLHead from 'components/HTMLHead';
 
 const sectionMargin = margin => (margin * 20);
 const useStyles = makeStyles({ uniqId: 'home' })(theme => ({
@@ -49,11 +48,11 @@ function PrivacyPage(props) {
 
   return (
     <Fragment>
-      <Head>
-        <title>
-          {brand.cboard.name + ' | ' + t("title_privacy") + ' - ' + t("title_slogan")}
-        </title>
-      </Head>
+      <HTMLHead
+        title={brand.cboard.name + ' | ' + t("title_privacy") + ' - ' + t("title_slogan")}
+        locale={props.locale}
+        page='privacy'
+      />
       <CssBaseline />
       <MainContainer
         onToggleDark={onToggleDark}
