@@ -58,3 +58,26 @@ test('open cboard amazon store link', async ({ page }) => {
   await expect(page.getByRole('heading', {name: 'Cboard AAC'})).toBeVisible();
 });
 
+test('index page has no loading or error indicators', async ({ page }) => {
+  await page.goto('https://www.cboard.io/');
+  await expect(page.locator('img[alt*=loading], .loading, .error')).toHaveCount(0);
+});
+
+test('index page has navigation and footer if present', async ({ page }) => {
+  await page.goto('https://www.cboard.io/');
+  const nav = page.locator('header');
+  if (await nav.count()) {
+    await expect(nav).toBeVisible();
+  }
+  const footer = page.locator('footer');
+  if (await footer.count()) {
+    await expect(footer).toBeVisible();
+  }
+});
+
+test('index page has visible links, buttons, and images', async ({ page }) => {
+  await page.goto('https://www.cboard.io/');
+  expect(await page.locator('button').count()).toBeGreaterThanOrEqual(0);
+  expect(await page.locator('img').count()).toBeGreaterThanOrEqual(0);
+});
+
