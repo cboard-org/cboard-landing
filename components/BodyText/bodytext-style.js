@@ -1,8 +1,4 @@
 import { makeStyles } from 'tss-react/mui';
-import { alpha, darken } from '@mui/material/styles';
-import decoLightTop from 'public/images/mobile/deco-light-top.svg';
-import decoDarkTop from 'public/images/mobile/deco-dark-top.svg';
-import { color } from 'framer-motion';
 
 const decoStyle = {
   width: 450,
@@ -30,12 +26,12 @@ const bodytextStyles = makeStyles({ uniqId: 'feature' })((theme, _params, classe
   },
   text: {
     [theme.breakpoints.up('md')]: {
-      paddingTop: theme.spacing(14),
+      paddingTop: 0,
       paddingBottom: theme.spacing(44),
       margin: theme.spacing(4)
     },
     [theme.breakpoints.down('md')]: {
-      paddingTop: theme.spacing(12),
+      paddingTop: 0,
       paddingBottom: theme.spacing(43),
       margin: theme.spacing(1),
       width: "100%"

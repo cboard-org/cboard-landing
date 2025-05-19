@@ -21,40 +21,22 @@ const useStyles = makeStyles({ uniqId: 'home' })(theme => ({
     overflow: 'hidden',
     background: theme.palette.background.paper,
   },
-  spaceBottom: {
-    marginBottom: theme.spacing(20),
-    [theme.breakpoints.down('lg')]: {
-      marginBottom: sectionMargin(6),
-    },
-    [theme.breakpoints.down('md')]: {
-      marginBottom: theme.spacing(10),
-    }
-  },
-  spaceTop: {
-    marginTop: theme.spacing(20),
-    [theme.breakpoints.down('lg')]: {
-      marginTop: sectionMargin(6),
-    },
-    [theme.breakpoints.down('md')]: {
-      marginTop: theme.spacing(10),
-    }
-  },
-  spaceBottomShort: {
-    marginBottom: theme.spacing(10),
-    [theme.breakpoints.down('md')]: {
-      marginBottom: sectionMargin(2),
-    }
-  },
-  spaceTopShort: {
-    marginTop: theme.spacing(10),
-    [theme.breakpoints.down('md')]: {
-      marginTop: sectionMargin(2),
-    }
-  },
   containerWrap: {
     marginTop: -40,
     '& > section': {
       position: 'relative'
+    }
+  },
+  title: {
+    marginTop: theme.spacing(12),
+    marginBottom: theme.spacing(8),
+    [theme.breakpoints.down('lg')]: {
+      marginTop: sectionMargin(6),
+      marginBottom: sectionMargin(4),
+    },
+    [theme.breakpoints.down('md')]: {
+      marginTop: theme.spacing(10),
+      marginBottom: theme.spacing(8),
     }
   }
 }));
@@ -79,7 +61,7 @@ function PrivacyPage(props) {
         footerDeco
       >
         <Fragment>
-          <div>
+          <div className={classes.title}>
             <Title align="center">
               {t('title_privacy')}
             </Title>
@@ -92,7 +74,6 @@ function PrivacyPage(props) {
           {!isTablet && (
             <Fragment>
               <PageNav />
-              <Notification />
             </Fragment>
           )}
         </Fragment>
