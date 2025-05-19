@@ -50,7 +50,7 @@ function FluidMindTermsPage(props) {
             <HTMLHead
                 title={'FluidMind AI | ' + t('title_terms')}
                 locale={props.locale}
-                page='fluid-mind-terms-of-use'
+                page='fluid-mind-terms'
             />
             <CssBaseline />
             <MainContainer
