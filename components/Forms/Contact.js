@@ -19,6 +19,7 @@ import Link from '../Link';
 import Checkbox from './Checkbox';
 import ParallaxDeco from '../Parallax/Large';
 import useStyles from './form-style';
+import Title from 'components/Title';
 
 function Contact() {
   const { classes, cx } = useStyles();
@@ -121,14 +122,11 @@ function Contact() {
         </IconButton>
         <Paper className={cx(classes.formBox, 'fragment-fadeUp')}>
           <div className={classes.fullFromWrap}>
-            <Typography
-              variant="h3"
-              align="center"
-              className={classes.title}
-              gutterBottom
-            >
-              {t('contact_title')}
-            </Typography>
+            <div>
+              <Title align="center">
+                {t('contact_title')}
+              </Title>
+            </div>
             <Typography className={classes.desc}>
               {t('contact_subtitle')}
             </Typography>
