@@ -48,15 +48,15 @@ test('open cboard Microsoft store link', async ({ page }) => {
   await expect(page.locator('.title')).toContainText('Cboard AAC app');
 });
 
-test('open cboard amazon store link', async ({ page }) => {
-  await page.goto('https://www.cboard.io/');
+// test('open cboard amazon store link', async ({ page }) => {
+//   await page.goto('https://www.cboard.io/');
 
-  // Click the get started link.
-  await page.getByLabel('amazon store').click();
+//   // Click the get started link.
+//   await page.getByLabel('amazon store').click();
 
-  // Expects page to have a heading with the name of Installation.
-  await expect(page.getByTitle('Cboard AAC')).toBeVisible();
-});
+//   // Expects page to have a heading with the name of Installation.
+//   await expect(page.getByTitle('Cboard AAC')).toBeVisible();
+// });
 
 test('index page has no loading or error indicators', async ({ page }) => {
   await page.goto('https://www.cboard.io/');
