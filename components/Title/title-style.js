@@ -18,7 +18,7 @@ const titleStyles = makeStyles({ uniqId: 'title' })((theme, _params, classes) =>
     [theme.breakpoints.down('sm')]: {
       padding: theme.spacing(0, 3)
     },
-    '& h3': {
+    '& h1': {
       color: theme.palette.text.primary,
       fontWeight: theme.typography.fontWeightBold,
       fontSize: 46,

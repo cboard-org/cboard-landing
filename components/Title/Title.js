@@ -20,7 +20,7 @@ export default function Title(props) {
   };
   return (
     <div className={cx(classes.title, setAlign(align), dark && classes.dark)}>
-      <Typography variant="h3">
+      <Typography variant="h1">
         {children}
       </Typography>
     </div>
