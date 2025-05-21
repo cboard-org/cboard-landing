@@ -1,31 +1,31 @@
 ---
-title: Cboard at ATIA 2025 in Orlando, Florida
+title: Cboard na ATIA 2025 em Orlando, Flórida
 date: 2025-04-30
-description: The Cboard team attends ATIA 2025 in Orlando, Florida, to showcase their assistive technology solutions and connect with industry leaders.
+description: A equipe da Cboard participa da ATIA 2025 em Orlando, Flórida, para mostrar suas soluções de tecnologia assistiva e se conectar com líderes do setor.
 categories:
   - cboard
-  - assistive technology
+  - Tecnologia Assistiva
   - ATIA
-image: /images/atia-2025.jpg
-author_staff_member: katrina
+image: /imagens/atia-2025.jpg
+author_staff_member: Katrina
 ---
 
-The Cboard team had the pleasure of attending ATIA 2025 this year in Orlando, Florida — one of the largest and most influential events for assistive technology professionals, developers, and users. It was an incredible opportunity to connect with fellow AAC developers, educators, and individuals who use AAC every day.
+A equipe do Cboard teve o prazer de participar da ATIA 2025 este ano em Orlando, Flórida - um dos maiores e mais influentes eventos para profissionais, desenvolvedores e usuários de tecnologia assistiva. Foi uma oportunidade incrível de se conectar com outros desenvolvedores, educadores e indivíduos de AAC que usam AAC todos os dias.
 
-![ATIA Conference](/images/atia-2025-session.jpg) _A glimpse of the vibrant sessions at ATIA 2025_
+! [Conferência ATIA](/images/atia-2025-session.jpg) _A vislumbre das sessões vibrantes na ATIA 2025_
 
-ATIA 2025 provided an incredible platform for us to showcase our latest advancements in assistive technology. We had the opportunity to engage with industry leaders, educators, and end-users, gaining valuable feedback and insights to further enhance our solutions.
-We were proud to present our session **"Cboard AAC Artificial Intelligence Innovation: CBuilder and Fluid Mind Products."** In this talk, we shared our latest work exploring the role of AI in enhancing AAC tools, with a focus on our two new apps, CBuilder and Fluid Mind, which are currently in testing. The response was overwhelmingly positive — it was thrilling to be surrounded by people who were not only interested in our work but genuinely eager to share it with those who could benefit from it.
+A ATIA 2025 forneceu uma plataforma incrível para mostrarmos nossos mais recentes avanços em tecnologia assistiva. Tivemos a oportunidade de interagir com líderes do setor, educadores e usuários finais, obtendo feedback e insights valiosos para aprimorar ainda mais nossas soluções.
+Tivemos o orgulho de apresentar nossa sessão \*\*"Inovação em Inteligência Artificial Cboard AAC: CBuilder e Fluid Mind Products". \*\* Nesta palestra, compartilhamos nosso trabalho mais recente explorando o papel da IA no aprimoramento das ferramentas de AAC, com foco em nossos dois novos aplicativos, CBuilder e Fluid Mind, que estão atualmente em teste. A resposta foi extremamente positiva - foi emocionante estar cercado por pessoas que não estavam apenas interessadas em nosso trabalho, mas genuinamente ansiosas para compartilhá-lo com aqueles que poderiam se beneficiar dele.
 
-## Key Highlights from ATIA 2025
+## Principais destaques da ATIA 2025
 
-We were especially excited to have our co-founder travel all the way from Argentina to join us at the conference. It was a meaningful moment for our team, and a wonderful chance to finally meet in person with many collaborators and community members we had previously only connected with virtually.
+Ficamos especialmente entusiasmados por ter nosso cofundador viajando da Argentina para se juntar a nós na conferência. Foi um momento significativo para nossa equipe e uma chance maravilhosa de finalmente conhecer pessoalmente muitos colaboradores e membros da comunidade com os quais nos conectávamos apenas virtualmente.
 
-![Cboard Talk](/images/atia-2025-conference.jpg) _Cboard talk at ATIA 2025_
+! [Conversa de Cboard](/images/atia-2025-conference.jpg) _Cboard palestra na ATIA 2025_
 
-In addition to our presentation, we had a booth in the exhibit hall where we showcased everything we’ve been working on. It was a fantastic space to share live demos, engage in conversations, and get feedback directly from AAC users, families, and practitioners. Walking around the exhibit hall, we were inspired by the variety of innovation on display — especially the increasing integration of AI in AAC technology.
-ATIA 2025 left us feeling inspired, energized, and more committed than ever to advancing accessible communication through inclusive, community-driven innovation.
+Além de nossa apresentação, tivemos um estande no salão de exposições onde mostramos tudo em que estamos trabalhando. Foi um espaço fantástico para compartilhar demonstrações ao vivo, participar de conversas e obter feedback diretamente de usuários, famílias e profissionais de AAC. Andando pelo salão de exposições, fomos inspirados pela variedade de inovações em exibição - especialmente a crescente integração da IA na tecnologia AAC.
+A ATIA 2025 nos deixou inspirados, energizados e mais comprometidos do que nunca com o avanço da comunicação acessível por meio de inovação inclusiva e voltada para a comunidade.
 
-![Cboard Booth](/images/atia-2025-booth.jpg) _The Cboard booth at ATIA 2025_
+! [Cabine do Conselho](/images/atia-2025-booth.jpg) _The Estande da Cboard na ATIA 2025_
 
-We are grateful for the opportunity to be part of such a transformative event and look forward to continuing our mission of making communication accessible to all.
+Somos gratos pela oportunidade de fazer parte de um evento tão transformador e esperamos continuar nossa missão de tornar a comunicação acessível a todos.

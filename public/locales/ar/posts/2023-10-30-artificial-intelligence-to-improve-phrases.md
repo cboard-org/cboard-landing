@@ -26,7 +26,7 @@ author_staff_member: مارتن
 
 !\[تحسين ميزة الاستراحة\](/images/app/phrase improvement.png) *ميزة تحسين الاستراحة*
 
-**3. Greater Speed and Efficiency:** With AI assistance, users can construct sentences more quickly and efficiently, reducing the time it takes to convey their thoughts and feelings.
+**3. سرعة وكفاءة أكبر:** بمساعدة الذكاء الاصطناعي ، يمكن للمستخدمين إنشاء الجمل بسرعة وكفاءة أكبر ، مما يقلل من الوقت المستغرق لنقل أفكارهم ومشاعرهم.
 
 **4. توسيع اللغة:** خاصية الذكاء الاصطناعي مصممة لنمو جنبا إلى جنب مع تطوير لغة المستخدم. ويمكنها أن تستحدث مفردات وهياكل جديدة للجملة، مما ييسر نمو اللغات ويضمن للأفراد التعبير عن أنفسهم بطرق متزايدة التعقيد.
 
@@ -36,7 +36,7 @@ author_staff_member: مارتن
 
 إن إدخال الذكاء الاصطناعي في منصة اللعبة هو تغيير للعبة بالنسبة لمختلف أصحاب المصلحة:
 
-**- Individuals with Communication Disabilities:** This feature empowers individuals with communication disabilities by providing them with a more efficient and supportive tool for constructing sentences, enabling them to express themselves more clearly and meaningfully.
+**- الأفراد الذين يعانون من إعاقات في التواصل:** تعمل هذه الميزة على تمكين الأفراد ذوي الإعاقات في التواصل من خلال تزويدهم بأداة أكثر كفاءة ودعما لبناء الجمل ، وتمكينهم من التعبير عن أنفسهم بشكل أكثر وضوحا وذات مغزى.
 
 ![طفل يستخدم الحافظة](/images/kindergaten02.png)
 
@@ -44,6 +44,6 @@ author_staff_member: مارتن
 
 **- الآباء ومقدمو الرعاية:** يمكن للأسر ومقدمو الرعاية الآن أن يستخدموا اللوحات بشكل أكثر فعالية مع أحبائهم، وأن يعملوا على تحسين الاتصال والتفاهم والاتصال.
 
-**- AAC Technology Advancement:** Cboard's introduction of AI to assist in sentence creation is a significant step forward in the evolution of AAC technology. وهو يبين إمكانات منظمة العفو الدولية في تمكين الأشخاص ذوي الإعاقة.
+**- تقدم تكنولوجيا AAC:** يعد إدخال Cboard لنظام الذكاء الاصطناعي للمساعدة في إنشاء الجملة خطوة مهمة إلى الأمام في تطور تقنية AAC. وهو يبين إمكانات منظمة العفو الدولية في تمكين الأشخاص ذوي الإعاقة.
 
 وخلاصة القول، إن العنصر المبتكر في إنشاء الجملة الذي تستخدمه هيئة الرقابة الداخلية هو تطور رائد يحسّن إلى حد كبير تجربة هيئة الرقابة الإدارية. عن طريق جعل من الأسهل بناء عبارات ذات مغزى من الرسوم التخطيرية، ولا تزال الهيئة رائدة في إيجاد أدوات اتصال فعالة وميسورة للأفراد ذوي الإعاقة في مجال الاتصال. ولا تؤدي هذه الميزة إلى تمكين المستعملين فحسب، بل تجسّد أيضا الإمكانات الهائلة التي تتيحها الذاكرة في تعزيز الاتصال والتواصل للجميع.

@@ -1,23 +1,23 @@
 ---
-title: Cboard added to the Digital Public Goods Alliance!
+title: Cboard in die Digital Public Goods Alliance aufgenommen!
 date: 2022-01-14
-description: The goal of the DPGA and it’s registry is to promote digital public goods in order to create a more equitable world.
+description: Das Ziel der DPGA und ihres Registers ist es, digitale öffentliche Güter zu fördern, um eine gerechtere Welt zu schaffen.
 categories:
-  - cboard
+  - Brett
   - DPGA
-  - United nations
-image: /images/dpga-cboard.png
-author_staff_member: katrina
+  - Vereinte Nationen
+image: /bilder/dpga-cboard.png
+author_staff_member: Katrina
 ---
 
-On January 14, 2021, Cboard was added to the [Digital Public Goods Alliance](https://digitalpublicgoods.net/) [DPG Registry](https://digitalpublicgoods.net/registry/). The goal of the DPGA and it’s registry is to promote digital public goods in order to create a more equitable world. Being recognized as a DPG increases the visibility, support for, and prominence of open projects that have the potential to tackle global challenges. To become a digital public good, all projects are required to meet the [DPG Standard](https://digitalpublicgoods.net/standard/) to ensure that projects truly encapsulate open source principles.
+Am 14. Januar 2021 wurde Cboard in die [Digital Public Goods Alliance](https://digitalpublicgoods.net/) [DPG-Register](https://digitalpublicgoods.net/registry/). Das Ziel der DPGA und ihres Registers ist es, digitale öffentliche Güter zu fördern, um eine gerechtere Welt zu schaffen. Die Anerkennung als DPG erhöht die Sichtbarkeit, Unterstützung und Bekanntheit offener Projekte, die das Potenzial haben, globale Herausforderungen anzugehen. Um ein digitales öffentliches Gut zu werden, müssen alle Projekte den [DPG-Standard](https://digitalpublicgoods.net/standard/), um sicherzustellen, dass Projekte die Open-Source-Prinzipien wirklich verkörpern.
 
-Cboard seeks to provide an accessible open-source Augmentative and Alternative Communication (AAC) app for everyone. Cboard strives to be an inclusive platform, works in over 40 languages, and has collaborators worldwide contributing to this project. Cboard is more than an app, it is a community.
+Cboard möchte eine zugängliche Open-Source-App für Augmentative and Alternative Communication (AAC) für jedermann bereitstellen. Cboard ist bestrebt, eine integrative Plattform zu sein, arbeitet in über 40 Sprachen und hat Mitarbeiter auf der ganzen Welt, die zu diesem Projekt beitragen. Cboard ist mehr als eine App, es ist eine Community.
 
-For us, being recognized as a digital public good - defined as open source software, open data, open AI models, open standards and open content that adhere to privacy and other applicable laws and best practices, do no harm, and help attain the SDGs - means we are achieving our mission of adhering to the highest standards of inclusivity and sustainability.
+Für uns bedeutet die Anerkennung als digitales öffentliches Gut - definiert als Open-Source-Software, offene Daten, offene KI-Modelle, offene Standards und offene Inhalte, die sich an den Datenschutz und andere geltende Gesetze und Best Practices halten, keinen Schaden anrichten und zur Erreichung der SDGs beitragen - dass wir unsere Mission erfüllen, die höchsten Standards der Inklusivität und Nachhaltigkeit einzuhalten.
 
-For any inquiries on Cboard please reach out to Katrina Cohen Cosentino at [support@cboard.io](mailto:support@cboard.io). For more information on the Digital Public Goods Alliance please reach out to [hello@digitalpublicgoods.net](mailto:hello@digitalpublicgoods.net).
+Für Fragen zu Cboard wenden Sie sich bitte an Katrina Cohen Cosentino unter [support@cboard.io](mailto:support@cboard.io). Weitere Informationen zur Digital Public Goods Alliance finden Sie unter [hello@digitalpublicgoods.net](mailto:hello@digitalpublicgoods.net).
 
-The Digital Public Goods Alliance is a multi-stakeholder initiative endorsed by the United Nations Secretary-General, working to accelerate the attainment of the Sustainable Development Goals in low- and middle-income countries by facilitating the discovery, development, use of, and investment in digital public goods.
+Die Digital Public Goods Alliance ist eine vom Generalsekretär der Vereinten Nationen unterstützte Multi-Stakeholder-Initiative, die darauf abzielt, die Erreichung der Ziele für nachhaltige Entwicklung in Ländern mit niedrigem und mittlerem Einkommen zu beschleunigen, indem sie die Entdeckung, Entwicklung, Nutzung und Investition in digitale öffentliche Güter erleichtert.
 
-**Our most sincere thank you from the Cboard team to everyone who has made this possible.**
+**Unser herzlichster Dank vom Cboard-Team an alle, die dies möglich gemacht haben.**

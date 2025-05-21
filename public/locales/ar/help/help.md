@@ -324,7 +324,7 @@ Cboard خالية تماما من أي رسوم.
 من أجل الاستيراد والتصدير لديك خيارين:
 
 * استخدم لوحات الملفات الأصلية Cboard.
-* Use OpenBoard formatted files. [Learn more about Open Board Format](https://www.openboardformat.org/)
+* استخدم الملفات المنسقة OpenBoard. [تعرف على المزيد حول تنسيق اللوحة المفتوحة](https://www.openboardformat.org/)
 
 ## <a name='Displaycapabilities-1'></a>قدرات العرض
 
@@ -340,7 +340,7 @@ Cboard خالية تماما من أي رسوم.
 
 ### <a name='BigScrollButtons'></a>تمرير الشاشة من خلال أزرار كبيرة
 
-It is also possible to scroll up and down a board using a couple of big buttons that can be added from the settings section. This is especially useful for eye-tracker device users, as the buttons allow to scroll the board without needing to slide the screen. To enable this feature, go to the settings section and look for the "enable big scroll buttons " switch. Toggle the switch and save the settings. See figure below:
+من الممكن أيضا التمرير لأعلى ولأسفل على اللوحة باستخدام زرين كبيرين يمكن إضافتهما من قسم الإعدادات. هذا مفيد بشكل خاص لمستخدمي أجهزة تعقب العين ، حيث تسمح الأزرار بالتمرير على اللوحة دون الحاجة إلى تحريك الشاشة. لتمكين هذه الميزة ، انتقل إلى قسم الإعدادات وابحث عن مفتاح "تمكين أزرار التمرير الكبيرة". قم بتبديل المفتاح واحفظ الإعدادات. انظر الشكل أدناه:
 
 ![تمكين أزرار التمرير الكبيرة](/images/help/bigScrollSettings.png "Big scroll buttons settings")
 

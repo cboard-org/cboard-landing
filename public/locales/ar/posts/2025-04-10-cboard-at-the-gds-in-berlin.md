@@ -1,40 +1,40 @@
 ---
-title: Cboard at the Global Disability Summit in Berlin
+title: Cboard في القمة العالمية للإعاقة في برلين
 date: 2025-04-10
-description: The Cboard team attends the Global Disability Summit in Berlin to connect with others in the field of disability inclusion and assistive technology.
+description: يحضر فريق Cboard القمة العالمية للإعاقة في برلين للتواصل مع الآخرين في مجال إدماج الإعاقة والتكنولوجيا المساعدة.
 categories:
-  - cboard
-  - assistive technology
-  - global disability summit
-image: /images/gds-01.jpg
-author_staff_member: katrina
+  - السبورة
+  - التكنولوجيا المساعدة
+  - القمة العالمية للإعاقة
+image: /صور/gds-01.jpg
+author_staff_member: كاترينا
 ---
 
-The Cboard team had the pleasure of attending the Global Disability Summit in Berlin. It was an engaging event that provided a rare opportunity to connect with civil society organizations, policymakers, and thought leaders in the field of disability inclusion from around the world.
+كان من دواعي سرور فريق Cboard حضور القمة العالمية للإعاقة في برلين. لقد كان حدثا جذابا أتاح فرصة نادرة للتواصل مع منظمات المجتمع المدني وصانعي السياسات وقادة الفكر في مجال إدماج الإعاقة من جميع أنحاء العالم.
 
-![GDS Session](/images/gds-02.jpg) _One of the sessions we attended with the Cboard team_
+! [جلسة GDS](/images/gds-02.jpg) _إحدى الجلسات التي حضرناها مع فريق Cboard_
 
-The conference was incredibly **well-organized**, and it was refreshing to experience such an inclusive and accessible environment. It clearly demonstrated that large-scale events can be thoughtfully designed to ensure access for everyone.
-We were especially motivated to attend to see how **assistive technology (AT), particularly communication-related AT**, is being centered in global conversations around disability inclusion and innovation. At **Cboard**, we strive to stay informed on policy-level discussions, because we believe that developing AT is about more than just technology. We prioritize active participation and input from the communities we aim to support.
-This commitment echoes the powerful slogan, central to the conference discussions: **"Nothing About Us, Without Us."**
+كان المؤتمر منظما بشكل لا يصدق \*\* ، وكان من المنعش تجربة مثل هذه البيئة الشاملة التي يمكن الوصول إليها. لقد أظهر بوضوح أنه يمكن تصميم الأحداث واسعة النطاق بعناية لضمان وصول الجميع إليها.
+كنا متحمسين بشكل خاص للحضور لنرى كيف يتم تركيز \*\* التكنولوجيا المساعدة (AT) ، وخاصة AT المرتبط بالاتصال \*\* ، في المحادثات العالمية حول إدماج الإعاقة والابتكار. في \*\* Cboard \*\* ، نسعى جاهدين للبقاء على اطلاع بالمناقشات على مستوى السياسة ، لأننا نعتقد أن تطوير التكنولوجيا المساعدة يتعلق بأكثر من مجرد تقنية. نعطي الأولوية للمشاركة النشطة والمدخلات من المجتمعات التي نهدف إلى دعمها.
+يعكس هذا الالتزام الشعار القوي ، المحوري لمناقشات المؤتمر: \*\* "لا شيء عنا ، بدوننا". \*\*
 
-![GDS Keynote](/images/gds-03.jpg) _Amazing keynotes and discussion panels running during the GDS 2025_
+! [الكلمة الرئيسية ل GDS](/images/gds-03.jpg) \* الكلمات الرئيسية ولوحات المناقشة المذهلة التي يتم تشغيلها خلال GDS 2025 \*
 
-## Stands and Presentations
+## المدرجات والعروض التقديمية
 
-One of our favorite parts of the summit was exploring the stands and exhibitions hosted by civil society organizations — especially the Assistive Technology section.
-We also attended several insightful presentations. Some standout sessions included:
+كان أحد الأجزاء المفضلة لدينا في القمة هو استكشاف الأجنحة والمعارض التي تستضيفها منظمات المجتمع المدني - وخاصة قسم التكنولوجيا المساعدة.
+كما حضرنا العديد من العروض التقديمية الثاقبة. تضمنت بعض الجلسات البارزة ما يلي:
 
-- **AI for Development:** Bridging the Barrier Between Non-Standard Speech and the Use of Automatic Speech Recognition.
- **Hosted by:** Google, Global Disability Innovation Hub, Centre for Digital Language Inclusion
- This session explored cutting-edge approaches to making speech recognition technology more inclusive for individuals with non-standard speech patterns.
+- \*\* الذكاء الاصطناعي للتطوير: \*\* سد الحاجز بين الكلام غير القياسي واستخدام التعرف التلقائي على الكلام.
+ **استضافة:** جوجل، المركز العالمي للابتكار لذوي الإعاقة، مركز إدماج اللغة الرقمية
+ استكشفت هذه الجلسة الأساليب المتطورة لجعل تقنية التعرف على الكلام أكثر شمولا للأفراد ذوي أنماط الكلام غير القياسية.
 
-- **Technology, Innovation, and Entrepreneurship:** Supporting Independent Living for Persons with Disabilities
- **Hosted by:** League of Arab States, International Disability Alliance (IDA), Arab Organization for Persons with Disabilities (AOPD), Executive Bureau – Council of Ministers of Labour and Social Affairs in GCC (GCCLSA)
- A powerful discussion on how innovation and entrepreneurship can promote autonomy and independent living for people with disabilities across diverse regions.
+- \*\* التكنولوجيا والابتكار وريادة الأعمال:\*\* دعم الحياة المستقلة للأشخاص ذوي الإعاقة
+ **استضافة:** جامعة الدول العربية، والتحالف الدولي للإعاقة، والمنظمة العربية للأشخاص ذوي الإعاقة، والمكتب التنفيذي – مجلس وزراء العمل والشؤون الاجتماعية في دول مجلس التعاون الخليجي
+ مناقشة قوية حول كيف يمكن للابتكار وريادة الأعمال تعزيز الاستقلالية والعيش المستقل للأشخاص ذوي الإعاقة في مناطق متنوعة.
 
-- **Ensuring Disability Inclusion at Leading Global AI Conference**
- **Hosted by:** Zero Project & Microsoft
- This session focused on how AI is being used to support people with disabilities, featuring real-world examples of ongoing projects. It was especially relevant to us, as we're currently working with Microsoft through the AI for Accessibility Grant.
+- **ضمان إدماج الأشخاص ذوي الإعاقة في المؤتمر العالمي الرائد لمجال الذكاء الاصطناعي**
+ \*\* استضافته بواسطة:\*\* Zero Project و Microsoft
+ ركزت هذه الجلسة على كيفية استخدام الذكاء الاصطناعي لدعم الأشخاص ذوي الإعاقة ، وعرضت أمثلة من العالم الحقيقي للمشاريع الجارية. كان ذلك وثيق الصلة بالنسبة لنا بشكل خاص ، حيث نعمل حاليا مع Microsoft من خلال منحة الذكاء الاصطناعي لإمكانية الوصول.
 
-We left the summit inspired, informed, and even more committed to contributing to a more inclusive digital future.
+غادرنا القمة ملهمين ومطلعين وأكثر التزاما بالمساهمة في مستقبل رقمي أكثر شمولا.

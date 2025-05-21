@@ -1,23 +1,23 @@
 ---
-title: Cboard added to the Digital Public Goods Alliance!
+title: تمت إضافة Cboard إلى تحالف السلع العامة الرقمية!
 date: 2022-01-14
-description: The goal of the DPGA and it’s registry is to promote digital public goods in order to create a more equitable world.
+description: الهدف من DPGA وسجلها هو تعزيز المنافع العامة الرقمية من أجل خلق عالم أكثر إنصافا.
 categories:
-  - cboard
+  - السبورة
   - DPGA
-  - United nations
-image: /images/dpga-cboard.png
-author_staff_member: katrina
+  - الأمم المتحدة
+image: /صور/dpga-cboard.png
+author_staff_member: كاترينا
 ---
 
-On January 14, 2021, Cboard was added to the [Digital Public Goods Alliance](https://digitalpublicgoods.net/) [DPG Registry](https://digitalpublicgoods.net/registry/). The goal of the DPGA and it’s registry is to promote digital public goods in order to create a more equitable world. Being recognized as a DPG increases the visibility, support for, and prominence of open projects that have the potential to tackle global challenges. To become a digital public good, all projects are required to meet the [DPG Standard](https://digitalpublicgoods.net/standard/) to ensure that projects truly encapsulate open source principles.
+في 14 يناير 2021 ، تمت إضافة Cboard إلى [تحالف السلع العامة الرقمية](https://digitalpublicgoods.net/) [سجل DPG](https://digitalpublicgoods.net/registry/). الهدف من DPGA وسجلها هو تعزيز المنافع العامة الرقمية من أجل خلق عالم أكثر إنصافا. إن الاعتراف بها كمجموعة DPG يزيد من وضوح ودعم وبروز المشاريع المفتوحة التي لديها القدرة على مواجهة التحديات العالمية. لكي تصبح منفعة عامة رقمية ، يجب أن تفي جميع المشاريع ب [معيار DPG] (https://digitalpublicgoods.net/standard/) لضمان أن تجسد المشاريع مبادئ المصدر المفتوح حقا.
 
-Cboard seeks to provide an accessible open-source Augmentative and Alternative Communication (AAC) app for everyone. Cboard strives to be an inclusive platform, works in over 40 languages, and has collaborators worldwide contributing to this project. Cboard is more than an app, it is a community.
+يسعى Cboard إلى توفير تطبيق اتصال معزز وبديل (AAC) مفتوح المصدر يمكن الوصول إليه للجميع. تسعى Cboard جاهدة لتكون منصة شاملة ، وتعمل بأكثر من 40 لغة ، ولديها متعاونون في جميع أنحاء العالم يساهمون في هذا المشروع. Cboard هو أكثر من مجرد تطبيق ، إنه مجتمع.
 
-For us, being recognized as a digital public good - defined as open source software, open data, open AI models, open standards and open content that adhere to privacy and other applicable laws and best practices, do no harm, and help attain the SDGs - means we are achieving our mission of adhering to the highest standards of inclusivity and sustainability.
+بالنسبة لنا ، فإن الاعتراف بنا كمنفعة عامة رقمية - تعرف بأنها برامج مفتوحة المصدر وبيانات مفتوحة ونماذج الذكاء الاصطناعي المفتوح والمعايير المفتوحة والمحتوى المفتوح الذي يلتزم بالخصوصية والقوانين الأخرى المعمول بها وأفضل الممارسات ، ولا يضر ، ويساعد في تحقيق أهداف التنمية المستدامة - يعني أننا نحقق مهمتنا المتمثلة في الالتزام بأعلى معايير الشمولية والاستدامة.
 
-For any inquiries on Cboard please reach out to Katrina Cohen Cosentino at [support@cboard.io](mailto:support@cboard.io). For more information on the Digital Public Goods Alliance please reach out to [hello@digitalpublicgoods.net](mailto:hello@digitalpublicgoods.net).
+لأية استفسارات حول Cboard ، يرجى التواصل مع كاترينا كوهين كوسينتينو على [support@cboard.io] (mailto:support@cboard.io). لمزيد من المعلومات حول تحالف المنافع العامة الرقمية، يرجى التواصل مع [hello@digitalpublicgoods.net](mailto:hello@digitalpublicgoods.net).
 
-The Digital Public Goods Alliance is a multi-stakeholder initiative endorsed by the United Nations Secretary-General, working to accelerate the attainment of the Sustainable Development Goals in low- and middle-income countries by facilitating the discovery, development, use of, and investment in digital public goods.
+تحالف المنافع العامة الرقمية هو مبادرة متعددة أصحاب المصلحة أقرها الأمين العام للأمم المتحدة، وتعمل على تسريع تحقيق أهداف التنمية المستدامة في البلدان المنخفضة والمتوسطة الدخل من خلال تسهيل اكتشاف السلع العامة الرقمية وتطويرها واستخدامها والاستثمار فيها.
 
-**Our most sincere thank you from the Cboard team to everyone who has made this possible.**
+\*\* خالص شكرنا من فريق Cboard لكل من جعل هذا ممكنا.

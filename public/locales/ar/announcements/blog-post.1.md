@@ -1,11 +1,11 @@
-# Exciting News: Partnership with Team Gleason!
+# أخبار مثيرة: شراكة مع فريق جليسون!
 
-#### April 27, 2025 by [Martin](https://www.linkedin.com/in/martinbedouret/)
+#### 27 أبريل 2025 بواسطة [مارتن](https://www.linkedin.com/in/martinbedouret/)
 
-TWe are thrilled to announce that Cboard has signed an agreement with the Team Gleason Foundation to launch user testing of the alpha version of **FluidMind**, our next-generation AI-powered communication tool.
+يسر TWe أن تعلن أن Cboard قد وقعت اتفاقية مع مؤسسة Team Gleason لإطلاق اختبار المستخدم لإصدار ألفا من \*\* FluidMind \*\* ، أداة الاتصال التي تعمل بنظام الذكاء الاصطناعي من الجيل التالي.
 
-This collaboration marks a major milestone in our mission to enhance real-time communication for individuals with speech and motor impairments. Through this partnership, patients supported by Team Gleason will be among the first to experience and help shape the future of FluidMind, providing invaluable feedback that will drive the development of a more intuitive, powerful AAC solution.
+يمثل هذا التعاون علامة فارقة في مهمتنا لتعزيز التواصل في الوقت الفعلي للأفراد الذين يعانون من إعاقات النطق والحركة. من خلال هذه الشراكة ، سيكون المرضى الذين يدعمهم فريق Gleason من بين أول من اختبر وساعد في تشكيل مستقبل FluidMind ، مما يوفر ملاحظات لا تقدر بثمن من شأنها أن تقود تطوير حل AAC أكثر سهولة وقوة.
 
-We are deeply honored to work alongside Team Gleason — _a leading voice in the ALS and disability communities_ — and excited about the positive impact this initiative will create.
+يشرفنا بشدة العمل جنبا إلى جنب مع Team Gleason - \* صوت رائد في مجتمعات ALS والإعاقة \* - ومتحمسون للتأثير الإيجابي الذي ستحدثه هذه المبادرة.
 
-Stay tuned as we continue to build a more connected and inclusive world, one conversation at a time.
+ترقبوا بينما نواصل بناء عالم أكثر اتصالا وشمولية ، محادثة واحدة في كل مرة.

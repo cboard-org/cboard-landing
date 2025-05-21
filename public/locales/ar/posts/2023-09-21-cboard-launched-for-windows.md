@@ -20,7 +20,7 @@ author_staff_member: مارتن
 
 يعد إدخال تطبيق اللوحة في متجر مايكروسوفت لأجهزة ويندوز خطوة هامة إلى الأمام في توفير إمكانية وصول أفضل للمستخدمين وملاءمتهم. إليك ما يعنيه هذا الإطلاق لمجتمع AAC:
 
-**1. Seamless Access:** With Cboard now available in the Microsoft Store, Windows users can easily download and install the application directly onto their devices. وهذا يزيل الحاجة إلى الوصول إلى الحافظة من خلال متصفح ويب وتبسيط تجربة المستعملين وضمان الوصول السريع والسهل.
+**1. الوصول السلس:** مع توفر Cboard الآن في متجر Microsoft ، يمكن لمستخدمي Windows تنزيل التطبيق وتثبيته بسهولة مباشرة على أجهزتهم. وهذا يزيل الحاجة إلى الوصول إلى الحافظة من خلال متصفح ويب وتبسيط تجربة المستعملين وضمان الوصول السريع والسهل.
 
 **2. وضع عدم الاتصال بالإنترنت:** واحدة من ميزات الاستعداد لتطبيق Windows على لوحة التشغيل هي وظيفته دون اتصال. المستخدمين لم يعودوا بحاجة إلى اتصال إنترنت مستمر لاستخدام التطبيق. وهذا أمر مفيد بوجه خاص للأفراد الذين قد لا تتاح لهم دائماً إمكانية الوصول إلى الإنترنت، مما يكفل استمرار إمكانية الوصول إلى الاتصالات في جميع الأوقات.
 
@@ -34,11 +34,11 @@ author_staff_member: مارتن
 
 ولإطلاق تطبيق لوحة التشغيل ويندوز فوائد بعيدة المدى لمجموعة متنوعة من أصحاب المصلحة:
 
-**- Individuals with Communication Disabilities:** This development empowers individuals with communication disabilities by providing them with a more accessible, offline-ready communication tool.
+**- الأفراد الذين يعانون من إعاقات في التواصل:** يمكن هذا التطور الأفراد الذين يعانون من صعوبات في التواصل من خلال تزويدهم بأداة اتصال يسهل الوصول إليها وجاهزة في وضع عدم الاتصال.
 
-**- Educators and Therapists:** Teachers, therapists, and caregivers will find it easier to integrate Cboard into their teaching and therapy sessions, allowing for more efficient communication support.
+**- المعلمون والمعالجون:** سيجد المعلمون والمعالجون ومقدمي الرعاية أنه من الأسهل دمج Cboard في جلسات التدريس والعلاج الخاصة بهم ، مما يسمح بدعم اتصال أكثر كفاءة.
 
-**- Parents and Caregivers:** Families and caregivers can now use Cboard with their loved ones more conveniently, both online and offline, fostering better communication and understanding.
+**- أولياء الأمور ومقدمي الرعاية:** يمكن للعائلات ومقدمي الرعاية الآن استخدام Cboard مع أحبائهم بشكل أكثر ملاءمة ، سواء عبر الإنترنت أو في وضع عدم الاتصال ، مما يعزز التواصل والتفاهم بشكل أفضل.
 
 **- المدافعون عن إمكانية الوصول:** يمثل إدخال تطبيق لوحة التشغيل Windows خطوة هامة نحو زيادة إمكانية الوصول في المناظر الطبيعية لبرمجيات AAC.
 

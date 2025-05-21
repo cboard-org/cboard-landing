@@ -35,6 +35,10 @@ const languages = [
     dest: 'es'
   },
   {
+    source: 'hr-HR',
+    dest: 'hr'
+  },
+  {
     source: 'id-ID',
     dest: 'id'
   },
