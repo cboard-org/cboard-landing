@@ -60,7 +60,7 @@ function Banner() {
                 </Typography>
                 <Button
                   component={Link} href="https://app.cboard.io/"
-                  onNavigate={() => sendGAEvent('event', 'open_web_app', 'banner')}
+                  onClick={() => sendGAEvent('event', 'open_web_app', {'value': 'banner'})}
                   aria-label="cboard-app"
                   variant="contained"
                   className={classes.openCboard}
@@ -70,22 +70,22 @@ function Banner() {
                 <div className={classes.btnArea}>
                   <Link
                     href="https://apps.apple.com/gb/app/aac-cboard-app/id6453683048"
-                    onNavigate={() => sendGAEvent('event', 'open_ios_store', 'banner')}>
+                    onClick={() => sendGAEvent('event', 'open_ios_store', {'value': 'banner'})}>
                     <img src="/images/mobile/app-store.png" alt="app store" aria-label='apple app store' />
                   </Link>
                   <Link
                     href="https://play.google.com/store/apps/details?id=com.unicef.cboard"
-                    onNavigate={() => sendGAEvent('event', 'open_android_store', 'banner')}>
+                    onClick={() => sendGAEvent('event', 'open_android_store', {'value': 'banner'})}>
                     <img src="/images/mobile/play-store.png" alt="play store" aria-label='google play store' />
                   </Link>
                   <Link
                     href="https://apps.microsoft.com/store/detail/XP9M5KQV699FLR"
-                    onNavigate={() => sendGAEvent('event', 'open_microsoft_store', 'banner')}>
+                    onClick={() => sendGAEvent('event', 'open_microsoft_store', {'value': 'banner'})}>
                     <img src="/images/mobile/ms-store.png" alt="microsoft store" aria-label='microsoft store' />
                   </Link>
                   <Link
                     href="https://www.amazon.com/-/en/dp/B0BWGZBQ7V/ref=sr_1_2?crid=3KHHTU961DJKE&keywords=cboard&qid=1684203554&s=mobile-apps&sprefix=%2Cmobile-apps%2C245&sr=1-2"
-                    onNavigate={() => sendGAEvent('event', 'open_amazon_store', 'banner')}>
+                    onClick={() => sendGAEvent('event', 'open_amazon_store', {'value': 'banner'})}>
                     <img src="/images/mobile/amazon-store.png" alt="amazon store" aria-label='amazon store' />
                   </Link>
                 </div>
