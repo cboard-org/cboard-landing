@@ -44,6 +44,8 @@ function FluidMindTermsPage(props) {
     const { onToggleDark, onToggleDir } = props;
     const isTablet = useMediaQuery(theme => theme.breakpoints.down('lg'));
     const { t } = useTranslation('common');
+    const { i18n } = useTranslation(); // Use i18next's useTranslation hook
+    const locale = i18n.language; // Get the current locale
 
     return (
         <Fragment>
@@ -66,7 +68,7 @@ function FluidMindTermsPage(props) {
                     </div>
                     <main className={classes.containerWrap}>
                         <section id="bodytext">
-                            <BodyText filePath={'/locales/en/fluid-mind-terms-of-use.md'} />
+                            <BodyText filePath={'/locales/' + locale + '/fluid-mind-terms-of-use.md'} />
                         </section>
                     </main>
                     {!isTablet && (
