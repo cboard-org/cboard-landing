@@ -8,6 +8,7 @@ test('has title', async ({ page }) => {
   await expect(page).toHaveTitle(/Cboard AAC | Home - Communication Boards for All/);
 });
 
+
 test('open cboard link', async ({ page }) => {
   await page.goto('https://www.cboard.io/');
 
