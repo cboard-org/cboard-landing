@@ -1,7 +1,7 @@
 ---
-title: Cboard pilot results - Timor Leste
+title: 'Cboard pilot results - Timor Leste'
 date: 2024-01-20
-description: Final outcomes of the pilot in Timor Leste are available to download
+description: 'Final outcomes of the pilot in Timor Leste are available to download'
 categories:
   - cboard
   - Microsoft

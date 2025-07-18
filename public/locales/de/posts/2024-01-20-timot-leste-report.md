@@ -1,7 +1,7 @@
 ---
-title: Ergebnisse des Cboard-Pilotprojekts - Timor-Leste
+title: 'Ergebnisse des Cboard-Pilotprojekts - Timor-Leste'
 date: 2024-01-20
-description: Die endgültigen Ergebnisse des Pilotprojekts in Timor-Leste stehen zum Download zur Verfügung
+description: 'Die endgültigen Ergebnisse des Pilotprojekts in Timor-Leste stehen zum Download zur Verfügung'
 categories:
   - Karton
   - Microsoft

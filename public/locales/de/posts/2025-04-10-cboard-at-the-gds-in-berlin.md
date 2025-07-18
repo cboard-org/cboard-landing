@@ -26,15 +26,15 @@ Einer unserer Lieblingsteile des Gipfels war die Erkundung der Stände und Ausst
 Wir nahmen auch an mehreren aufschlussreichen Vorträgen teil. Zu den herausragenden Sitzungen gehörten:
 
 - **KI für die Entwicklung:** Überbrückung der Barriere zwischen nicht standardmäßiger Sprache und dem Einsatz automatischer Spracherkennung.
- **Gehostet von:** Google, Global Disability Innovation Hub, Zentrum für digitale Sprachintegration
- In dieser Sitzung wurden innovative Ansätze untersucht, um die Spracherkennungstechnologie für Personen mit nicht standardmäßigen Sprachmustern inklusiver zu gestalten.
+  **Gehostet von:** Google, Global Disability Innovation Hub, Zentrum für digitale Sprachintegration
+  In dieser Sitzung wurden innovative Ansätze untersucht, um die Spracherkennungstechnologie für Personen mit nicht standardmäßigen Sprachmustern inklusiver zu gestalten.
 
 - **Technologie, Innovation und Unternehmertum:** Unterstützung eines unabhängigen Lebens für Menschen mit Behinderungen
- **Veranstaltet von:** Liga der Arabischen Staaten, International Disability Alliance (IDA), Arabische Organisation für Menschen mit Behinderungen (AOPD), Exekutivbüro – Ministerrat für Arbeit und Soziales in GCC (GCCLSA)
- Eine kraftvolle Diskussion darüber, wie Innovation und Unternehmertum die Autonomie und das unabhängige Leben von Menschen mit Behinderungen in verschiedenen Regionen fördern können.
+  **Veranstaltet von:** Liga der Arabischen Staaten, International Disability Alliance (IDA), Arabische Organisation für Menschen mit Behinderungen (AOPD), Exekutivbüro – Ministerrat für Arbeit und Soziales in GCC (GCCLSA)
+  Eine kraftvolle Diskussion darüber, wie Innovation und Unternehmertum die Autonomie und das unabhängige Leben von Menschen mit Behinderungen in verschiedenen Regionen fördern können.
 
 - **Sicherstellung der Inklusion von Menschen mit Behinderungen auf der führenden globalen KI-Konferenz**
- **Gehostet von:** Zero Project & Microsoft
- Diese Sitzung konzentrierte sich darauf, wie KI zur Unterstützung von Menschen mit Behinderungen eingesetzt wird, und zeigte Beispiele aus der Praxis für laufende Projekte. Es war für uns besonders relevant, da wir derzeit mit Microsoft im Rahmen des AI for Accessibility Grant zusammenarbeiten.
+  **Gehostet von:** Zero Project & Microsoft
+  Diese Sitzung konzentrierte sich darauf, wie KI zur Unterstützung von Menschen mit Behinderungen eingesetzt wird, und zeigte Beispiele aus der Praxis für laufende Projekte. Es war für uns besonders relevant, da wir derzeit mit Microsoft im Rahmen des AI for Accessibility Grant zusammenarbeiten.
 
 Wir haben den Gipfel inspiriert, informiert und noch engagierter verlassen, um zu einer inklusiveren digitalen Zukunft beizutragen.

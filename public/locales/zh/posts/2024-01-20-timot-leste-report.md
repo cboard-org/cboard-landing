@@ -1,7 +1,7 @@
 ---
-title: Cboard 试点结果 - 东帝汶
+title: 'Cboard 试点结果 - 东帝汶'
 date: 2024-01-20
-description: 东帝汶试点的最终成果可供下载
+description: '东帝汶试点的最终成果可供下载'
 categories:
   - cboard（纸板）
   - Microsoft

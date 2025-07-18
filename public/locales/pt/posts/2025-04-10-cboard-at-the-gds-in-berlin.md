@@ -26,15 +26,15 @@ Uma das nossas partes favoritas da cúpula foi explorar os estandes e exposiçõ
 Também assistimos a várias apresentações perspicazes. Algumas sessões de destaque incluíram:
 
 - **IA para desenvolvimento:** Preenchendo a barreira entre a fala fora do padrão e o uso do reconhecimento automático de fala.
- **Hospedado por:** Google, Centro Global de Inovação em Deficiência, Centro de Inclusão de Linguagem Digital
- Esta sessão explorou abordagens de ponta para tornar a tecnologia de reconhecimento de fala mais inclusiva para indivíduos com padrões de fala fora do padrão.
+  **Hospedado por:** Google, Centro Global de Inovação em Deficiência, Centro de Inclusão de Linguagem Digital
+  Esta sessão explorou abordagens de ponta para tornar a tecnologia de reconhecimento de fala mais inclusiva para indivíduos com padrões de fala fora do padrão.
 
 - **Tecnologia, Inovação e Empreendedorismo:** Apoio à Vida Independente para Pessoas com Deficiência
- **Organizado por:** Liga dos Estados Árabes, Aliança Internacional para Pessoas com Deficiência (IDA), Organização Árabe para Pessoas com Deficiência (AOPD), Escritório Executivo – Conselho de Ministros do Trabalho e Assuntos Sociais do GCC (GCCLSA)
- Uma discussão poderosa sobre como a inovação e o empreendedorismo podem promover a autonomia e a vida independente para pessoas com deficiência em diversas regiões.
+  **Organizado por:** Liga dos Estados Árabes, Aliança Internacional para Pessoas com Deficiência (IDA), Organização Árabe para Pessoas com Deficiência (AOPD), Escritório Executivo – Conselho de Ministros do Trabalho e Assuntos Sociais do GCC (GCCLSA)
+  Uma discussão poderosa sobre como a inovação e o empreendedorismo podem promover a autonomia e a vida independente para pessoas com deficiência em diversas regiões.
 
 - **Garantindo a inclusão de pessoas com deficiência na principal conferência global de IA**
- **Hospedado por:** Zero Project & Microsoft
- Esta sessão se concentrou em como a IA está sendo usada para apoiar pessoas com deficiência, apresentando exemplos do mundo real de projetos em andamento. Foi especialmente relevante para nós, pois atualmente estamos trabalhando com a Microsoft por meio do AI for Accessibility Grant.
+  **Hospedado por:** Zero Project & Microsoft
+  Esta sessão se concentrou em como a IA está sendo usada para apoiar pessoas com deficiência, apresentando exemplos do mundo real de projetos em andamento. Foi especialmente relevante para nós, pois atualmente estamos trabalhando com a Microsoft por meio do AI for Accessibility Grant.
 
 Saímos da cúpula inspirados, informados e ainda mais comprometidos em contribuir para um futuro digital mais inclusivo.

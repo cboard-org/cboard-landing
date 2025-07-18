@@ -1,65 +1,67 @@
-# 白板帮助
-
 ## 目录
 
-* [什么是棋盘？](#WhatisCboard)
-* [注册和登录](#Registrationandlogin) 
-    * [如何注册棋盘？](#HowdoIregisterforCboard)
-    * [我可以使用我的社交媒体帐户注册吗？](#CanIregistermyselfusingmysocialmediaaccounts)
-    * [一旦我是注册用户，我如何登录到棋盘？](#HowdoIlogintoCboardonceIamaregistereduser)
-    * [如何注销？](#HowdoIlogout)
-    * [注册用户和未注册用户之间有什么区别？](#Whatisthedifferencebetweenaregisteredandanon-registereduser)
-    * [如何更新我的用户信息？](#HowdoIupdatemyuserinformation)
-    * [如何重置我的密码？](#HowdoIresetmypassword)
-* [价格](#Price) 
-    * [棋盘花费多少？](#HowmuchdoesCboardcost)
-* [功能](#Features) 
-    * [支持哪些设备和操作系统？](#WhatdevicesandOSaresupported)
-    * [板支持哪种语言？](#WhichlanguagesaresupportedbyCboard)
-    * [板是否可以朗读我的消息？](#CanCboardreadmymessageoutaloud)
-    * [语音能力](#Speechcapabilities)
-    * [出口和进口](#Exportandimport)
-    * [显示能力](#Displaycapabilities)
-    * [我可以更改任何导航设置吗？](#CanIchangeanynavigationsettings)
-    * [通过接口导航](#Navigationthroughtheinterface)
-* [设置](#Settings) 
-    * [如何访问板上的设置？](#HowdoIaccesssettingsinCboard)
-    * [如何打印板设定的棋盘？](#HowdoIprintmyboardsetinCboard)
-    * [如何在全屏中看到棋盘？](#HowdoIseeCboardinfullscreen)
-    * [如何共享板？](#HowdoIshareaboard)
-    * [如何分享一个短语？](#HowdoIshareaphrase)
-* [说话中](#Talking) 
-    * [如何在板上添加个人录音的声音？](#HowdoIaddapersonallyrecordedvoicetosymbolsonCboard)
-    * [如何切换到不同的声音？](#HowdoIswitchtoadifferentvoice)
-    * [如何改变声音？](#HowdoIchangehowavoicesounds)
-* [编辑看板](#BoardEditing) 
-    * [如何创建一个空看板？](#HowdoIcreateanemptyboard)
-    * [我如何将现有的板块个性化？](#HowdoIpersonalizeanexistingboardinCboard)
-    * [编辑板时能使用我自己的图片吗？](#CanIusemyownpictureswheneditingaboard)
-    * [我可以更改板上元素的顺序吗？](#CanIchangetheorderingoftheelementsinaboard)
-    * [如何选择要编辑的多个元素？](#HowdoIselectmultipleelementstoedit)
-    * [当我编辑一层时，我如何找到新的符号？](#FindSymbols)
-    * [我能把板块放在固定位置吗？](#FixedBoards)
-    * [我如何在我的板上设置特定的行数和列数？](#FixedRows)
-* [出口和进口](#Exportandimport) 
-    * [如何导出棋盘？](#HowdoIexportmyboardinCboard)
-    * [如何导入棋盘？](#HowdoIimportaboardintoCboard)
-    * [Cboard 用于导入/导出的文件格式是什么？](#WhatfileformatdoesCboarduseforimportexport)
-* [显示能力](#Displaycapabilities) 
-    * [我可以在显示时更改什么？](#WhatcanIchangeonthedisplay)
-    * [我可以调整板上的按钮大小吗？](#CanIresizebuttonsonCboard)
-    * [屏幕滚动到大按钮](#BigScrollButtons)
-* [正在扫描](#Scanning) 
-    * [我可以使用扫描技术访问标志吗？](#CanIusescanningtechniquestoaccesssymbols)
-* [通信生成器](#CommunicatorBuilder) 
-    * [通信构建器是什么？](#Whatiscommbuilder)
-    * [通讯板](#CommunicatorBoards)
-    * [公共板](#PublicBoards)
-    * [我的所有看板](#Allmyboards)
+- [什么是棋盘？](#WhatisCboard)
+- [注册和登录](#Registrationandlogin) 
+  - [如何注册棋盘？](#HowdoIregisterforCboard)
+  - [我可以使用我的社交媒体帐户注册吗？](#CanIregistermyselfusingmysocialmediaaccounts)
+  - [一旦我是注册用户，我如何登录到棋盘？](#HowdoIlogintoCboardonceIamaregistereduser)
+  - [配置板的不同选项是什么？](#WhataredifferentoptionstoconfigureCboard)
+  - [如何注销？](#HowdoIlogout)
+  - [注册用户和未注册用户之间有什么区别？](#Whatisthedifferencebetweenaregisteredandanon-registereduser)
+  - [如何更新我的用户信息？](#HowdoIupdatemyuserinformation)
+  - [如何重置我的密码？](#HowdoIresetmypassword)
+- [价格](#Price) 
+  - [棋盘花费多少？](#HowmuchdoesCboardcost)
+- [功能](#Features) 
+  - [支持哪些设备和操作系统？](#WhatdevicesandOSaresupported)
+  - [板支持哪种语言？](#WhichlanguagesaresupportedbyCboard)
+  - [板是否可以朗读我的消息？](#CanCboardreadmymessageoutaloud)
+  - [语音能力](#Speechcapabilities)
+  - [通信如何在板上发挥作用？](#CommunicationWorkflow)
+  - [我可以更改任何导航设置吗？](#CanIchangeanynavigationsettings)
+  - [通过接口导航](#Navigationthroughtheinterface)
+- [设置](#Settings) 
+  - [如何访问板上的设置？](#HowdoIaccesssettingsinCboard)
+  - [如何打印板设定的棋盘？](#HowdoIprintmyboardsetinCboard)
+  - [如何在全屏中看到棋盘？](#HowdoIseeCboardinfullscreen)
+  - [如何共享板？](#HowdoIshareaboard)
+  - [如何分享一个短语？](#HowdoIshareaphrase)
+- [说话中](#Talking) 
+  - [如何在板上添加个人录音的声音？](#HowdoIaddapersonallyrecordedvoicetosymbolsonCboard)
+  - [如何切换到不同的声音？](#HowdoIswitchtoadifferentvoice)
+  - [如何改变声音？](#HowdoIchangehowavoicesounds)
+- [编辑看板](#BoardEditing) 
+  - [如何创建一个空看板？](#HowdoIcreateanemptyboard)
+  - [我如何将现有的板块个性化？](#HowdoIpersonalizeanexistingboardinCboard)
+  - [编辑板时能使用我自己的图片吗？](#CanIusemyownpictureswheneditingaboard)
+  - [我可以更改板上元素的顺序吗？](#CanIchangetheorderingoftheelementsinaboard)
+  - [如何选择要编辑的多个元素？](#HowdoIselectmultipleelementstoedit)
+  - [当我编辑一层时，我如何找到新的符号？](#FindSymbols)
+  - [我能把板块放在固定位置吗？](#FixedBoards)
+  - [我如何在我的板上设置特定的行数和列数？](#FixedRows)
+- [出口和进口](#Exportandimport) 
+  - [如何导出棋盘？](#HowdoIexportmyboardinCboard)
+  - [如何导入棋盘？](#HowdoIimportaboardintoCboard)
+  - [Cboard 用于导入/导出的文件格式是什么？](#WhatfileformatdoesCboarduseforimportexport)
+- [显示能力](#Displaycapabilities) 
+  - [我可以在显示时更改什么？](#WhatcanIchangeonthedisplay)
+  - [我可以调整板上的按钮大小吗？](#CanIresizebuttonsonCboard)
+  - [屏幕滚动到大按钮](#BigScrollButtons)
+- [正在扫描](#Scanning) 
+  - [我可以使用扫描技术访问标志吗？](#CanIusescanningtechniquestoaccesssymbols)
+- [通信生成器](#CommunicatorBuilder) 
+  - [通信构建器是什么？](#Whatiscommbuilder)
+  - [通讯板](#CommunicatorBoards)
+  - [公共板](#PublicBoards)
+  - [我的所有看板](#Allmyboards)
 
 ## <a name='WhatisCboard'></a>什么是Cboard？
 
 Cboard是面向有语言和语言障碍的儿童和成人的免费Web应用程序，可促进图片和文本到语音的通信。
+
+![棋盘主接口](/images/help/cboard-main-interface.png 'Cboard Main Interface')
+
+主板接口是一个清洁、便于使用的设计，配有按类别组织的符号瓷块。 用户可以点击符号在屏幕顶部的通信输出栏中生成句子。 接口支持通过类别进行分级导航和直接符号选择以进行有效交流。
 
 <div><iframe width="420" height="315" src="https://www.youtube.com/embed/pjoLEtiFf2A" frameborder="0" allowfullscreen></iframe></div>
 
@@ -69,17 +71,19 @@ Cboard是面向有语言和语言障碍的儿童和成人的免费Web应用程�
 
 注册板，请先跟随欢迎页面上的步骤，您可以在这里找到登录选择。
 
-![棋盘网站](/images/help/website.png "Cboard website")
+![棋盘网站](/images/help/website.png 'Cboard website')
 
-![欢迎页面](/images/help/welcome-page.png "Welcome page")
+![欢迎页面](/images/help/welcome-page.png 'Welcome page')
+
+现代板欢迎屏提供多个登录选项，包括传统的电子邮件/密码注册，以及通过 Google、Facebook和Apple 进行社交媒体认证。 用户也可以跳过注册并立即尝试应用。
 
 如果您是新用户，请按 SIGN UP 一个简短的表单将弹出要求获取基本信息以创建您的帐户。
 
-![板块注册](/images/help/signup.png "Cboard signup")
+![板块注册](/images/help/signup.png 'Cboard signup')
 
 一旦您填写了此信息，您将在收到一封电子邮件之后不久收到一个链接以便确认您的帐户。
 
-![Email signup](/images/help/signupemail.png "Email signup")
+![Email signup](/images/help/signupemail.png 'Email signup')
 
 这种信息只能由公司掌握，以支持使用板块，并在必要时提供帮助。 未与其他组织共享(见 [隐私详情](https://www.cboard.io/privacy/))。
 
@@ -93,19 +97,29 @@ Cboard是面向有语言和语言障碍的儿童和成人的免费Web应用程�
 
 若要登录到板，请按照注册的第一步登录 但不在欢迎屏幕上选择SIGN UP，请选择 LOGIN。 然后您将被要求提供您最初注册的电子邮件和您设置的密码。
 
-![棋盘登录](/images/help/login.png "Cboard login")
+![棋盘登录](/images/help/login.png 'Cboard login')
 
-### 配置板的不同选项是什么？
+### <a name='WhataredifferentoptionstoconfigureCboard'></a>配置板的不同选项是什么？
 
 一旦您登录到板，您可以访问不同的选项来配置和开发当板处于解锁模式时提供的通信板。 查看下面所有关键选项列表：
 
-![棋盘设置](/images/help/settings.png "Cboard settings")
+![棋盘设置](/images/help/settings.png 'Cboard settings')
+
+**正在解锁接口：** 要访问高级功能，请点击锁定图标三次。这会显示额外的控件，包括：
+
+- **打印棋盘**: 导出当前棋盘为 PDF
+- **完整屏幕**: 进入全屏模式进行无干扰通信
+- **设置**: 访问全面配置选项
+- **共享**: 通过电子邮件、社交媒体或直接链接共享看板
+- **Build**: Access the communicator builder for managing boards
+- **编辑**: 修改现有的看板并添加新的符号
+- **Boards**: 在不同的通讯面板之间导航
 
 ### <a name='HowdoIlogout'></a>如何注销？
 
 您可以通过选择设置图标注销，此选项将出现在红色中。 您也可以在右角选择锁定符号，点击三次，一旦您解锁屏幕和红色栏出现， 选择锁屏左侧的图标 (如果您加载了一张图片)，注销选项将以红色显示。
 
-![棋盘注销](/images/help/logout.png "Cboard logout")
+![棋盘注销](/images/help/logout.png 'Cboard logout')
 
 ### <a name='Whatisthedifferencebetweenaregisteredandanon-registereduser'></a>注册用户和未注册用户之间有什么区别？
 
@@ -123,7 +137,37 @@ Cboard是面向有语言和语言障碍的儿童和成人的免费Web应用程�
 
 ### <a name='HowmuchdoesCboardcost'></a>棋盘花费多少？
 
-棋盘完全免费。
+棋盘提供多种定价选项以适应不同的用户需要：
+
+**免费计划 (\0/Forever)**
+
+- 基本通信功能
+- 访问符号库
+- 棋盘创建和编辑
+- 有限特性集
+
+**Pro Monthly Plan (\$8/Month)**
+
+- 所有免费功能加载：
+- 在线神经声音
+- 复制公共看板
+- 发布看板
+- 复制瓷块
+- 强大的使用分析
+- 共享看板
+- 无广告体验
+- 导出到打开看板格式 (OBF)
+- 分享短语
+- 私人支持频道
+- 瓷块的语音录音
+
+**专业年度计划 (\79/年份)**
+
+- 所有专业每月功能
+- 与月计费相比节省了大量资金
+- 普通用户的最佳价值
+
+免费版本提供了基本的 AAC 功能，而Pro 订阅可以解锁高级功能以增强通信、分享和定制能力。 登录到 Cboard 帐户时，用户可以通过设置菜单升级到 Pro 计划。
 
 ## <a name='Features'></a>特征
 
@@ -131,7 +175,7 @@ Cboard是面向有语言和语言障碍的儿童和成人的免费Web应用程�
 
 板电脑可以使用多种设备在线使用，包括桌面、平板和移动电话，使用Mac、Windows和安卓操作系统。 最好在浏览器中查看，如Chrome、 Firefox、 Edge 和 Safari 等浏览器中。Google Play 可以使用安卓应用程序。
 
-![浏览器支持](/images/help/browsers.png "Browser support")
+![浏览器支持](/images/help/browsers.png 'Browser support')
 
 因为板是一个基于 Web 的应用，它将响应单个浏览器提供的设置。 这可能意味着您对板提供的设置有不同的结果。例如，您可能会找到不同的语音选项。
 
@@ -153,19 +197,91 @@ Cboard是面向有语言和语言障碍的儿童和成人的免费Web应用程�
 
 为了调整语音能力，进入设置，在LANGUAGE 类别下是SPEECH 类别。 当您选择SPEECH时，您将能够编辑板上的音调和语音速度。
 
-![语音能力](/images/help/speech.png "Speech capabilities")
+![语音能力](/images/help/speech.png 'Speech capabilities')
 
-### <a name='Exportandimport'></a>出口和进口
+### <a name='CommunicationWorkflow'></a>通信如何在板上发挥作用？
 
-要导出的两个选项都在系统分类中的设置中，语言和语音下方。 ExPORT 类别将赋予您上传OpenBoard 或 PDF 的选项。 一旦您选择重置，IMPORT 类别将打开您保存的文件。
+棋盘使用基于分级符号的通信系统。用户导航类别以寻找适当的符号并在输出栏中生成句子。
 
-![导出能力](/images/help/export.png "Export capabilities")
+**基本通信步骤：**
+
+1. 点击符号添加到顶部的输出栏
+2. 浏览类别(如"食物", "情绪", "动作") 以寻找特定的符号
+3. 通过按顺序选择多个符号来构建完整的句子
+4. 使用后空按钮来移除最后一个符号或清除按钮来开始
+5. 点击已完成的句子让它用文字转语音大声朗读
+
+**导航功能：**
+
+- **类别棋盘**: 主要类别如食品、活动、感情都包含相关的符号
+- **Back Navigation**: Easy return to previous boards or the main home screen
+- **输出栏**: 显示选中的符号并提供播放控制
+- **快速访问**: 在主屏幕上有诸如"是", "否"和"快速聊天"等常见符号
 
 ### <a name='Displaycapabilities'></a>显示能力
 
-显示设置可以在系统分类中编辑。显示选项在导出和导入下方是正确的。 您只需选择DISPLAY，您就可以通过选择您想要的大小来更改界面大小和应用字体大小。 红色点应该低于您想要选择的大小。
+显示设置可以在SYSTEM类别中进行编辑。 显示选项位于系统部分的导出和导入下面。要访问显示设置：
 
-![显示能力](/images/help/display.png "Display capabilities")
+1. 点击锁定图标三次解锁界面
+2. 在顶部导航栏中点击设置 (齿轮图标)
+3. 从系统部分选择“显示”
+
+![显示能力](/images/help/cboard-display-settings.png 'Display capabilities')
+
+**可用的显示选项：**
+
+- **UI 大小**: 控制接口元素的总大小
+  
+  - 标准 (默认)
+  - 大的
+  - 超大
+- **字体系列**: 更改整个应用程序中使用的文本字体
+  
+  - Default: Montserrat
+  - 影响应用程序接口中的所有文本
+- **字体大小**: 调整应用程序字体大小
+  
+  - 标准 (默认)
+  - 大的
+  - 超大
+- **隐藏输出栏**: 切换以隐藏生成句子的顶部的白色通信栏
+  
+  - 复选框选项
+  - 启用时，从视图中移除句子构造区域
+- **增加动作按钮大小**: 放大输出栏上的动作按钮
+  
+  - 复选框选项
+  - 设置后台空间，清除并放大播放按钮以便更容易访问
+- **标签位置**: 控制符号瓷块上文本标签的位置
+  
+  - 低于(默认) - 标签出现在符号下
+  - 高于- 标签出现在符号上
+  - 隐藏-标签不显示在瓷块上
+- **启用暗色主题**: 切换到暗色模式颜色方案
+  
+  - 复选框选项
+  - 改变组件颜色、表面黑暗、阴影级别和墨水元素不透明度
+  - 在低光条件下改善无障碍环境
+
+在进行更改以应用您的显示首选项后，请记住点击"保存"。
+
+### <a name='WhatcanIchangeonthedisplay'></a>我可以在显示时更改什么？
+
+如以上详述，您可以更改界面大小、字体大小、输出条可见性和按钮大小。 通过设置中的显示部分标签定位和主题设置。
+
+### <a name='CanIresizebuttonsonCboard'></a>我可以调整板上的按钮大小吗？
+
+是的！您可以在设置中调整瓷块或按钮。 在SYSTEM类别中，选择DISPLAY，然后你将获得3个选项的UI大小：标准、 大型、 额外大型。 您也可以通过相同的三个选项调整字体大小.
+
+### <a name='BigScrollButtons'></a>屏幕滚动到大按钮
+
+还可以使用几个可以从设置部分添加的大按钮向上滚动或向下滚动棋盘。 这对眼镜跟踪器设备用户特别有用，因为按钮允许滚动板而不需要滑动屏幕。 若要启用此功能，请前往设置部分并寻找“启用大滚动按钮”开关。切换开关并保存设置。
+
+![启用大滚动按钮](/images/help/bigScrollSettings.png 'Big scroll buttons settings')
+
+然后，你应该看到一些大按钮在棋盘的顶部和底部，如果它足够大。 显示在下面的图像中：
+
+![大滚动按钮](/images/help/bigScrollButtons.png 'Big scroll buttons')
 
 ### <a name='CanIchangeanynavigationsettings'></a>我可以更改任何导航设置吗？
 
@@ -175,7 +291,7 @@ Cboard是面向有语言和语言障碍的儿童和成人的免费Web应用程�
 
 为了编辑和便利导航板，选择NAVIGATION, SYSTEM中的最后一个菜单项(所有在设置中)允许您添加某些详细信息以便于使用棋盘。 导航中的第一个选项允许一个较大的“回退”按钮，因为这个按钮的大小较容易选择。 第二个添加‘x’按钮，更容易删除符号， 第三个只需要一次点击即可解锁设置，就更容易解锁。
 
-![导航能力](/images/help/navigation.png "Navigation capabilities")
+![导航能力](/images/help/navigation.png 'Navigation capabilities')
 
 ## <a name='Settings'></a>设置
 
@@ -193,7 +309,7 @@ Cboard是面向有语言和语言障碍的儿童和成人的免费Web应用程�
 
 为了在全屏幕上看到棋盘，请按右侧的锁定符号解锁屏幕。 然后在最高行上(黑条)，看起来像一个矩形的左边第二个符号会扩大屏幕。
 
-![全屏功能](/images/help/fullscreen.png "Fullscreen")
+![全屏功能](/images/help/fullscreen.png 'Fullscreen')
 
 ### <a name='HowdoIshareaboard'></a>如何共享板？
 
@@ -207,7 +323,7 @@ Cboard是面向有语言和语言障碍的儿童和成人的免费Web应用程�
 
 ![短语共享设置](https://user-images.githubusercontent.com/21298844/128038972-a2848d47-2675-4e2d-9a15-6f93186f29d6.png)
 
-使用短语。然后按输出短语右侧出现的共享图标。 选择您想分享短语的社交网络。一个对话框将在文本字段中打开短语。 按下提交按钮来共享。 如果您想要复制剪贴板上的短语，请按下共享按钮，然后再复制到剪贴板中。 一个通知将显示在您的屏幕上，并附有一条短信。
+使用短语。然后按输出短语右侧出现的共享图标。 选择您想分享短语的社交网络。一个对话框将在文本字段中打开短语。 按下提交按钮来共享。 如果您想复制剪贴板上的短语，请按下共享按钮，然后再复制到剪贴板中的选项。 一个通知将显示在您的屏幕上，并附有一条短信。
 
 ![短语共享按钮](https://user-images.githubusercontent.com/21298844/128044322-d61491c6-7168-4615-8117-244dc872091e.png)
 
@@ -230,7 +346,7 @@ Cboard是面向有语言和语言障碍的儿童和成人的免费Web应用程�
 7. 添加发声标签
 
 8. 最后选择麦克风符号并进行录制，您可以录制多次并可以播放，然后再将其保存到板上。
-    
+  
     如果选择了多个符号，请使用NEXT转到下一个符号并重复该过程。
 
 <div><iframe width="420" height="315" src="https://www.youtube.com/embed/KZwCP4PkM4I" frameborder="0" allowfullscreen></iframe></div>
@@ -263,7 +379,7 @@ Cboard是面向有语言和语言障碍的儿童和成人的免费Web应用程�
 
 为了个性化现有的棋盘， 在棋盘上方的右上角选择右上角的LOCK(带交叉箭头下方)。 一旦你做到这一点，另一条条将出现在黑色的 HOME 条下， 并且你会在左侧找到一个小块(EDIT)图标来添加一个小块或单元格。 一旦选择方块，灰色条将会转向蓝色， 在正确的手中，你会看到一个小的垃圾箱和一个铅笔。
 
-![个性化现有棋盘](/images/help/personalize.png "personalize an existing board")
+![个性化现有棋盘](/images/help/personalize.png 'personalize an existing board')
 
 为了个性化板，请选择铅笔，您将能够更改标签，上传图片并添加职业化。
 
@@ -293,13 +409,13 @@ Cboard是面向有语言和语言障碍的儿童和成人的免费Web应用程�
 
 By default, when a new board is created, Cboard will add a **fluent board**. Anyway, it is possible to transform the board into a **fixed board**. They have the following features:
 
-* 对于不同的屏幕尺寸或设备方向，网格不会改变。 
-* 行和列的数量是可配置的。 
-* 瓦片将在网格中具有固定位置。 
+- 对于不同的屏幕尺寸或设备方向，网格不会改变。
+- 行和列的数量是可配置的。
+- 瓦片将在网格中具有固定位置。
 
 要将板转换为固定板，只需编辑板，切换工具栏中的选项即可修复。 您的棋盘将改变外观，行数和列数将被显示。
 
-![固定棋盘](/images/help/fixedBoard.png "Fixed board")
+![固定棋盘](/images/help/fixedBoard.png 'Fixed board')
 
 ### <a name='FixedRows'></a>我如何在我的板上设置特定的行数和列数？
 
@@ -307,7 +423,7 @@ First, you have to transform the board into a **fixed board** (see previous topi
 
 <div><iframe width="420" height="315" src="https://www.youtube.com/embed/XEAz85zrZ70" frameborder="0" allowfullscreen></iframe></div>
 
-## <a name='Exportandimport-1'></a>进出口
+## <a name='Exportandimport'></a>出口和进口
 
 ### <a name='HowdoIexportmyboardinCboard'></a>如何导出棋盘？
 
@@ -323,8 +439,8 @@ First, you have to transform the board into a **fixed board** (see previous topi
 
 为了导入和导出板，您有两个选项：
 
-* 使用Cboard本机文件板。
-* Use OpenBoard formatted files. [Learn more about Open Board Format](https://www.openboardformat.org/)
+- 使用Cboard本机文件板。
+- Use OpenBoard formatted files. [Learn more about Open Board Format](https://www.openboardformat.org/)
 
 ## <a name='Displaycapabilities-1'></a>显示能力
 
@@ -336,17 +452,17 @@ First, you have to transform the board into a **fixed board** (see previous topi
 
 是的！您可以在设置中调整瓷块或按钮。 在SYSTEM类别中，选择 DISPLAY 并给您三个大小选项：标准、 大型、 额外大型。见下图：
 
-![显示能力](/images/help/display.png "Display capabilities")
+![显示能力](/images/help/display.png 'Display capabilities')
 
 ### <a name='BigScrollButtons'></a>屏幕滚动到大按钮
 
-还可以使用几个可以从设置部分添加的大按钮向上滚动或向下滚动棋盘。 这对眼镜跟踪器设备用户特别有用，因为按钮允许滚动板而不需要滑动屏幕。 要启用此功能，请转到设置部分并寻找"启用大滚动按钮"开关。 切换开关并保存设置。请参阅下图：
+还可以使用几个可以从设置部分添加的大按钮向上滚动或向下滚动棋盘。 这对眼镜跟踪器设备用户特别有用，因为按钮允许滚动板而不需要滑动屏幕。 若要启用此功能，请前往设置部分并寻找"启用大滚动按钮"开关。 切换开关并保存设置。请参阅下图：
 
-![启用大滚动按钮](/images/help/bigScrollSettings.png "Big scroll buttons settings")
+![启用大滚动按钮](/images/help/bigScrollSettings.png 'Big scroll buttons settings')
 
 然后，你应该看到一些大按钮在棋盘的顶部和底部，如果它足够大。 显示在下面的图像中：
 
-![大滚动按钮](/images/help/bigScrollButtons.png "Big scroll buttons")
+![大滚动按钮](/images/help/bigScrollButtons.png 'Big scroll buttons')
 
 ## <a name='Scanning'></a>扫描
 
@@ -360,36 +476,35 @@ First, you have to transform the board into a **fixed board** (see previous topi
 
 通信生成器是一个功能，允许您处理版面，以便复制、删除、发布、添加和移除。 为了访问功能，您需要解锁设置并点击“构建”按钮。 你将看到一个新的页面结构分为三个不同的标签：板、公共板、我的所有板块。请参阅下图：
 
-![通信生成器](/images/help/communicator.png "Communicator builder")
+![通信生成器](/images/help/communicator.png 'Communicator builder')
 
 ### <a name='CommunicatorBoards'></a>通讯板
 
 您将在通信器生成器中看到的默认标签是通信板标签，它将显示包含在您通信器中的所有板块。 您可以从以下动作按钮更改您的通信器：
 
-* 从通讯器中删除板：此按钮将退出通讯器中的板，但不会从数据库中删除该板，并且在“所有我的板”选项卡下仍然可用。
+- 从通讯器中删除板：此按钮将退出通讯器中的板，但不会从数据库中删除该板，并且在“所有我的板”选项卡下仍然可用。
 
-* 将板设置为根：此按钮会将板定义为每次登录Cboard时显示的第一个板。
+- 将板设置为根：此按钮会将板定义为每次登录Cboard时显示的第一个板。
 
-![通讯板](/images/help/communicatorBoards.png "Communicator boards")
+![通讯板](/images/help/communicatorBoards.png 'Communicator boards')
 
 ### <a name='PublicBoards'></a>公共板
 
-* 复制看板：此按钮将创建一个看板的副本，然后将它添加到你的联系人中。 因为这是公有板的副本，您可以按自己的要求编辑此板，而不影响原始公共板块。
+- 复制看板：此按钮将创建一个看板的副本，然后将它添加到你的联系人中。 因为这是公有板的副本，您可以按自己的要求编辑此板，而不影响原始公共板块。
 
-![公共板](/images/help/PublicBoards.png "Public boards")
+![公共板](/images/help/PublicBoards.png 'Public boards')
 
 ### <a name='Allmyboards'></a>我的所有看板
 
 请注意，JUST 注册用户可以访问此标签功能。
 
-* 从通讯器中删除板：此按钮将退出通讯器中的板，但不会从数据库中删除该板，并且该板仍然可用。
+- 从通讯器中删除板：此按钮将退出通讯器中的板，但不会从数据库中删除该板，并且该板仍然可用。
 
-* 将板添加到通信器：此按钮将包括板到通信器。
+- 将板添加到通信器：此按钮将包括板到通信器。
 
-* 发布板：这个动作将公开发布板，它将显示在公共板块下。每个人都可以看到您的板上。
-    
- * 取消发布板：此操作将使板块变为私有，它不会显示在公共板块下。没有人可以看到您的板块。
-    
- * 删除看板：此操作将删除看板，无法恢复。看板将从数据库中删除。
+- 发布板：这个动作将公开发布板，它将显示在公共板块下。每个人都可以看到您的板上。
 
-![我的所有看板](/images/help/AllmyBoards.png "All my boards")
+- 取消发布板：此操作将使板块变为私有，它不会显示在公共板块下。没有人可以看到您的板块。
+- 删除看板：此操作将删除看板，无法恢复。看板将从数据库中删除。
+
+![我的所有看板](/images/help/AllmyBoards.png 'All my boards')

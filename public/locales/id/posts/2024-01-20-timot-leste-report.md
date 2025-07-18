@@ -1,7 +1,7 @@
 ---
-title: Hasil uji coba Cboard - Timor Leste
+title: 'Hasil uji coba Cboard - Timor Leste'
 date: 2024-01-20
-description: Hasil akhir uji coba di Timor Leste tersedia untuk diunduh
+description: 'Hasil akhir uji coba di Timor Leste tersedia untuk diunduh'
 categories:
   - papan tulis
   - Microsoft

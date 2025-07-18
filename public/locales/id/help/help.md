@@ -1,65 +1,67 @@
-# Bantuan Cboard
-
 ## Daftar isi
 
-* [Apa itu Cboard?](#WhatisCboard)
-* [Registrasi dan login](#Registrationandlogin) 
-    * [Bagaimana cara saya mendaftar ke Cboard?](#HowdoIregisterforCboard)
-    * [Bisakah saya mendaftarkan diri menggunakan akun media sosial saya?](#CanIregistermyselfusingmysocialmediaaccounts)
-    * [Bagaimana cara saya login ke Cboard setelah saya menjadi pengguna terdaftar?](#HowdoIlogintoCboardonceIamaregistereduser)
-    * [Bagaimana cara saya logout?](#HowdoIlogout)
-    * [Apa perbedaan antara pengguna terdaftar dan tidak terdaftar?](#Whatisthedifferencebetweenaregisteredandanon-registereduser)
-    * [Bagaimana cara memperbarui informasi pengguna saya?](#HowdoIupdatemyuserinformation)
-    * [Bagaimana cara mereset kata sandi saya?](#HowdoIresetmypassword)
-* [Harga](#Price) 
-    * [Berapa biaya Cboard?](#HowmuchdoesCboardcost)
-* [Fitur](#Features) 
-    * [Perangkat dan Sistem Operasi apa yang didukung?](#WhatdevicesandOSaresupported)
-    * [Bahasa apa saja yang didukung oleh Cboard?](#WhichlanguagesaresupportedbyCboard)
-    * [Bisakah Cboard membacakan pesan saya dengan lantang?](#CanCboardreadmymessageoutaloud)
-    * [Kemampuan berbicara](#Speechcapabilities)
-    * [Ekspor dan impor](#Exportandimport)
-    * [Kemampuan tampilan](#Displaycapabilities)
-    * [Bisakah saya mengubah pengaturan navigasi?](#CanIchangeanynavigationsettings)
-    * [Navigasi melalui antarmuka](#Navigationthroughtheinterface)
-* [Pengaturan](#Settings) 
-    * [Bagaimana cara mengakses pengaturan di Cboard?](#HowdoIaccesssettingsinCboard)
-    * [Bagaimana cara mencetak set papan saya di Cboard?](#HowdoIprintmyboardsetinCboard)
-    * [Bagaimana cara melihat Cboard dalam layar penuh?](#HowdoIseeCboardinfullscreen)
-    * [Bagaimana cara membagikan papan?](#HowdoIshareaboard)
-    * [Bagaimana cara membagikan frasa?](#HowdoIshareaphrase)
-* [Berbicara](#Talking) 
-    * [Bagaimana cara menambahkan suara yang direkam secara pribadi ke simbol di Cboard?](#HowdoIaddapersonallyrecordedvoicetosymbolsonCboard)
-    * [Bagaimana cara beralih ke suara lain?](#HowdoIswitchtoadifferentvoice)
-    * [Bagaimana cara beralih ke suara lain?](#HowdoIchangehowavoicesounds)
-* [Pengeditan Papan](#BoardEditing) 
-    * [Bagaimana cara membuat papan kosong?](#HowdoIcreateanemptyboard)
-    * [Bagaimana cara mempersonalisasi papan yang ada di Cboard?](#HowdoIpersonalizeanexistingboardinCboard)
-    * [Bisakah saya menggunakan gambar saya sendiri saat mengedit papan?](#CanIusemyownpictureswheneditingaboard)
-    * [Bisakah saya mengubah urutan elemen di papan?](#CanIchangetheorderingoftheelementsinaboard)
-    * [Bagaimana cara memilih beberapa elemen sekaligus untuk diedit?](#HowdoIselectmultipleelementstoedit)
-    * [Bagaimana cara menemukan simbol baru saat saya mengedit ubin?](#FindSymbols)
-    * [Bisakah saya menempatkan ubin papan pada posisi tetap?](#FixedBoards)
-    * [Bagaimana cara menetapkan jumlah baris dan kolom tertentu di papan saya?](#FixedRows)
-* [Ekspor dan impor](#Exportandimport) 
-    * [Bagaimana cara mengekspor papan saya di Cboard?](#HowdoIexportmyboardinCboard)
-    * [Bagaimana cara mengimpor papan ke Cboard?](#HowdoIimportaboardintoCboard)
-    * [Format file apa yang digunakan Cboard untuk impor/ekspor?](#WhatfileformatdoesCboarduseforimportexport)
-* [Kemampuan tampilan](#Displaycapabilities) 
-    * [Apa yang dapat saya ubah pada tampilan?](#WhatcanIchangeonthedisplay)
-    * [Bisakah saya mengubah ukuran tombol di Cboard?](#CanIresizebuttonsonCboard)
-    * [Gulir layar melalui tombol besar](#BigScrollButtons)
-* [Pemindaian](#Scanning) 
-    * [Bisakah saya menggunakan teknik pemindaian untuk mengakses simbol?](#CanIusescanningtechniquestoaccesssymbols)
-* [Pembangun komunikator](#CommunicatorBuilder) 
-    * [Apa yang dimaksud dengan pembangun komunikator?](#Whatiscommbuilder)
-    * [Papan komunikator](#CommunicatorBoards)
-    * [Papan publik](#PublicBoards)
-    * [Semua papan saya](#Allmyboards)
+- [Apa itu Cboard?](#WhatisCboard)
+- [Registrasi dan login](#Registrationandlogin) 
+  - [Bagaimana cara saya mendaftar ke Cboard?](#HowdoIregisterforCboard)
+  - [Bisakah saya mendaftarkan diri menggunakan akun media sosial saya?](#CanIregistermyselfusingmysocialmediaaccounts)
+  - [Bagaimana cara saya login ke Cboard setelah saya menjadi pengguna terdaftar?](#HowdoIlogintoCboardonceIamaregistereduser)
+  - [Apa sajakah pilihan untuk mengkonfigurasi Cboard?](#WhataredifferentoptionstoconfigureCboard)
+  - [Bagaimana cara saya logout?](#HowdoIlogout)
+  - [Apa perbedaan antara pengguna terdaftar dan tidak terdaftar?](#Whatisthedifferencebetweenaregisteredandanon-registereduser)
+  - [Bagaimana cara memperbarui informasi pengguna saya?](#HowdoIupdatemyuserinformation)
+  - [Bagaimana cara mereset kata sandi saya?](#HowdoIresetmypassword)
+- [Harga](#Price) 
+  - [Berapa biaya Cboard?](#HowmuchdoesCboardcost)
+- [Fitur](#Features) 
+  - [Perangkat dan Sistem Operasi apa yang didukung?](#WhatdevicesandOSaresupported)
+  - [Bahasa apa saja yang didukung oleh Cboard?](#WhichlanguagesaresupportedbyCboard)
+  - [Bisakah Cboard membacakan pesan saya dengan lantang?](#CanCboardreadmymessageoutaloud)
+  - [Kemampuan berbicara](#Speechcapabilities)
+  - [Bagaimana cara kerja komunikasi di Cboard?](#CommunicationWorkflow)
+  - [Bisakah saya mengubah pengaturan navigasi?](#CanIchangeanynavigationsettings)
+  - [Navigasi melalui antarmuka](#Navigationthroughtheinterface)
+- [Pengaturan](#Settings) 
+  - [Bagaimana cara mengakses pengaturan di Cboard?](#HowdoIaccesssettingsinCboard)
+  - [Bagaimana cara mencetak set papan saya di Cboard?](#HowdoIprintmyboardsetinCboard)
+  - [Bagaimana cara melihat Cboard dalam layar penuh?](#HowdoIseeCboardinfullscreen)
+  - [Bagaimana cara membagikan papan?](#HowdoIshareaboard)
+  - [Bagaimana cara membagikan frasa?](#HowdoIshareaphrase)
+- [Berbicara](#Talking) 
+  - [Bagaimana cara menambahkan suara yang direkam secara pribadi ke simbol di Cboard?](#HowdoIaddapersonallyrecordedvoicetosymbolsonCboard)
+  - [Bagaimana cara beralih ke suara lain?](#HowdoIswitchtoadifferentvoice)
+  - [Bagaimana cara beralih ke suara lain?](#HowdoIchangehowavoicesounds)
+- [Pengeditan Papan](#BoardEditing) 
+  - [Bagaimana cara membuat papan kosong?](#HowdoIcreateanemptyboard)
+  - [Bagaimana cara mempersonalisasi papan yang ada di Cboard?](#HowdoIpersonalizeanexistingboardinCboard)
+  - [Bisakah saya menggunakan gambar saya sendiri saat mengedit papan?](#CanIusemyownpictureswheneditingaboard)
+  - [Bisakah saya mengubah urutan elemen di papan?](#CanIchangetheorderingoftheelementsinaboard)
+  - [Bagaimana cara memilih beberapa elemen sekaligus untuk diedit?](#HowdoIselectmultipleelementstoedit)
+  - [Bagaimana cara menemukan simbol baru saat saya mengedit ubin?](#FindSymbols)
+  - [Bisakah saya menempatkan ubin papan pada posisi tetap?](#FixedBoards)
+  - [Bagaimana cara menetapkan jumlah baris dan kolom tertentu di papan saya?](#FixedRows)
+- [Ekspor dan impor](#Exportandimport) 
+  - [Bagaimana cara mengekspor papan saya di Cboard?](#HowdoIexportmyboardinCboard)
+  - [Bagaimana cara mengimpor papan ke Cboard?](#HowdoIimportaboardintoCboard)
+  - [Format file apa yang digunakan Cboard untuk impor/ekspor?](#WhatfileformatdoesCboarduseforimportexport)
+- [Kemampuan tampilan](#Displaycapabilities) 
+  - [Apa yang dapat saya ubah pada tampilan?](#WhatcanIchangeonthedisplay)
+  - [Bisakah saya mengubah ukuran tombol di Cboard?](#CanIresizebuttonsonCboard)
+  - [Gulir layar melalui tombol besar](#BigScrollButtons)
+- [Pemindaian](#Scanning) 
+  - [Bisakah saya menggunakan teknik pemindaian untuk mengakses simbol?](#CanIusescanningtechniquestoaccesssymbols)
+- [Pembangun komunikator](#CommunicatorBuilder) 
+  - [Apa yang dimaksud dengan pembangun komunikator?](#Whatiscommbuilder)
+  - [Papan komunikator](#CommunicatorBoards)
+  - [Papan publik](#PublicBoards)
+  - [Semua papan saya](#Allmyboards)
 
 ## <a name='WhatisCboard'></a>Apa itu Cboard?
 
 Cboard adalah aplikasi web gratis untuk anak-anak dan orang dewasa dengan gangguan bicara dan bahasa, memfasilitasi komunikasi dengan gambar dan text-to-speech.
+
+![Antarmuka Utama Cboard](/images/help/cboard-main-interface.png 'Cboard Main Interface')
+
+Antarmuka Cboard utama menampilkan desain yang bersih dan dapat diakses dengan ubin simbol yang diatur dalam kategori. Pengguna dapat mengklik simbol untuk membuat kalimat di bilah output komunikasi di bagian atas layar. Antarmuka mendukung navigasi hierarkis melalui kategori dan pemilihan simbol langsung untuk komunikasi yang efisien.
 
 <div><iframe width="420" height="315" src="https://www.youtube.com/embed/pjoLEtiFf2A" frameborder="0" allowfullscreen></iframe></div>
 
@@ -69,17 +71,19 @@ Cboard adalah aplikasi web gratis untuk anak-anak dan orang dewasa dengan ganggu
 
 Untuk mendaftar Cboard, mulailah dengan mengikuti langkah-langkah yang tertera di halaman Selamat Datang di mana Anda akan menemukan pilihan login.
 
-![Situs web Cboard](/images/help/website.png "Cboard website")
+![Situs web Cboard](/images/help/website.png 'Cboard website')
 
-![Halaman selamat datang](/images/help/welcome-page.png "Welcome page")
+![Halaman selamat datang](/images/help/welcome-page.png 'Welcome page')
+
+Layar selamat datang Cboard modern menyediakan beberapa opsi login termasuk pendaftaran email/kata sandi tradisional, serta otentikasi media sosial melalui Google, Facebook, dan Apple. Pengguna juga dapat melewati pendaftaran dan segera mencoba aplikasi.
 
 Jika Anda adalah pengguna baru, tekan MENDAFTAR, dan formulir singkat akan muncul serta meminta informasi dasar untuk membuat akun Anda.
 
-![Pendaftaran Cboard](/images/help/signup.png "Cboard signup")
+![Pendaftaran Cboard](/images/help/signup.png 'Cboard signup')
 
 Setelah Anda mengisi informasi ini, Anda akan segera menerima email berisi tautan untuk diikuti guna mengonfirmasi akun Anda.
 
-![Pendaftaran email](/images/help/signupemail.png "Email signup")
+![Pendaftaran email](/images/help/signupemail.png 'Email signup')
 
 Informasi ini hanya disimpan oleh perusahaan untuk mendukung penggunaan Cboard dan menawarkan bantuan bila diperlukan. Data ini tidak dibagikan dengan organisasi lain, (Lihat [Detail privasi](https://www.cboard.io/privacy/)).
 
@@ -93,19 +97,29 @@ Ya! Di halaman login, Anda akan diberikan pilihan untuk mendaftar dengan akun Go
 
 Untuk masuk ke Cboard, Anda dapat mengikuti langkah pertama yang digunakan untuk mendaftar, namun jangan memilih DAFTAR di layar Selamat Datang, tapi pilihlah LOGIN. Anda kemudian akan diminta untuk memberikan email yang pertama kali Anda gunakan untuk mendaftar, dan kata sandi yang telah Anda buat.
 
-![Login Cboard](/images/help/login.png "Cboard login")
+![Login Cboard](/images/help/login.png 'Cboard login')
 
-### Apa sajakah pilihan untuk mengkonfigurasi Cboard?
+### <a name='WhataredifferentoptionstoconfigureCboard'></a>Apa saja opsi berbeda untuk mengkonfigurasi Cboard?
 
 Setelah Anda login ke Cboard, Anda dapat mengakses berbagai opsi untuk mengonfigurasi dan mengembangkan Papan Komunikasi yang disediakan saat Cboard berada dalam mode tidak terkunci. Lihatlah daftar semua opsi utama di bawah ini:
 
-![Pengaturan Cboard](/images/help/settings.png "Cboard settings")
+![Pengaturan Cboard](/images/help/settings.png 'Cboard settings')
+
+**Membuka Kunci Antarmuka:** Untuk mengakses fitur lanjutan, klik ikon gembok tiga kali. Ini mengungkapkan kontrol tambahan termasuk:
+
+- **Papan Cetak**: Ekspor papan saat ini sebagai PDF
+- **Layar Penuh**: Masuk ke mode layar penuh untuk komunikasi bebas gangguan
+- **Pengaturan**: Akses opsi konfigurasi yang komprehensif
+- **Bagi**: Bagikan papan melalui email, media sosial, atau tautan langsung
+- **Membangun**: Akses pembuat komunikator untuk mengelola papan
+- **Mengedit**: Ubah papan yang ada dan tambahkan simbol baru
+- **Papan**: Menavigasi di antara papan komunikasi yang berbeda
 
 ### <a name='HowdoIlogout'></a>Bagaimana cara saya logout atau keluar?
 
 Anda dapat logout dengan memilih ikon pengaturan, dan opsi akan muncul dengan warna merah. Anda juga dapat memilih simbol kunci di sudut kanan, klik tiga kali dan setelah Anda membuka kunci layar dan bilah merah muncul, pilih ikon di sebelah kiri kunci (gambar milik Anda jika telah Anda simpan) dan opsi untuk logout atau keluar akan muncul dengan warna merah.
 
-![Keluar dari Cboard](/images/help/logout.png "Cboard logout")
+![Keluar dari Cboard](/images/help/logout.png 'Cboard logout')
 
 ### <a name='Whatisthedifferencebetweenaregisteredandanon-registereduser'></a>Apa perbedaan antara pengguna terdaftar dan tidak terdaftar?
 
@@ -123,7 +137,37 @@ Untuk mengatur ulang kata sandi Anda, silakan kirim email ke support@cboard.io d
 
 ### <a name='HowmuchdoesCboardcost'></a>Berapa biaya Cboard?
 
-Cboard sepenuhnya bebas biaya.
+Cboard menawarkan beberapa opsi harga yang sesuai dengan kebutuhan pengguna yang berbeda:
+
+**Paket Gratis (\$0/Selamanya)**
+
+- Fitur komunikasi dasar
+- Akses ke pustaka simbol
+- Pembuatan dan pengeditan papan
+- Kumpulan fitur terbatas
+
+**Paket Bulanan Pro (\$8/Bulan)**
+
+- Semua fitur gratis plus:
+- Suara saraf online
+- Salin papan publik
+- Publikasikan papan
+- Salin ubin
+- Analitik penggunaan yang kuat
+- Berbagi papan
+- Pengalaman bebas iklan
+- Ekspor ke Open Board Format (OBF)
+- Bagikan frasa
+- Saluran dukungan pribadi
+- Perekaman suara untuk ubin
+
+**Paket Tahunan Pro (\$79/Tahun)**
+
+- Semua fitur Pro Bulanan
+- Penghematan yang signifikan dibandingkan dengan tagihan bulanan
+- Nilai terbaik untuk pengguna biasa
+
+Versi gratisnya menyediakan fungsionalitas AAC yang penting, sementara langganan Pro membuka fitur canggih untuk kemampuan komunikasi, berbagi, dan penyesuaian yang ditingkatkan. Pengguna dapat meningkatkan ke paket Pro melalui menu pengaturan saat masuk ke akun Cboard mereka.
 
 ## <a name='Features'></a>Fitur
 
@@ -131,7 +175,7 @@ Cboard sepenuhnya bebas biaya.
 
 Cboard tersedia secara daring menggunakan berbagai macam perangkat, termasuk desktop, tablet, dan ponsel yang menggunakan sistem operasi Mac, Windows, dan Android. Cboard paling baik dilihat di browser seperti Chrome, Firefox, Edge dan Safari serta sebuah aplikasi Android tersedia di Google Play.
 
-![Dukungan browser](/images/help/browsers.png "Browser support")
+![Dukungan browser](/images/help/browsers.png 'Browser support')
 
 Karena Cboard adalah aplikasi berbasis web, maka Cboard akan merespons pengaturan yang disediakan oleh masing-masing browser. Ini mungkin berarti Anda mendapatkan hasil yang berbeda dengan pengaturan yang disediakan oleh Cboard. Misalnya, Anda mungkin menemukan adanya opsi ucapan berbeda yang ditawarkan.
 
@@ -153,19 +197,91 @@ Ya, Cboard menggunakan keluaran ucapan sintetis yang tersedia di perangkat Anda 
 
 Untuk menyesuaikan kemampuan berbicara, masuk ke PENGATURAN, dan di bawah kategori BAHASA adalah kategori BERBICARA. Saat Anda memilih BERBICARA, Anda akan dapat mengedit nada dan kecepatan berbicara di Cboard.
 
-![Kemampuan berbicara](/images/help/speech.png "Speech capabilities")
+![Kemampuan berbicara](/images/help/speech.png 'Speech capabilities')
 
-### <a name='Exportandimport'></a>Ekspor dan impor
+### <a name='CommunicationWorkflow'></a>Bagaimana cara kerja komunikasi di Cboard?
 
-Kedua opsi untuk mengekspor berada dalam PENGATURAN di dalam kategori SISTEM, di bawah Bahasa dan Berbicara. Kategori EKSPOR akan memberi Anda opsi untuk mengunggah OpenBoard atau PDF. Kategori IMPOR akan membuka file simpanan Anda setelah Anda memilih MEMULIHKAN.
+Cboard menggunakan sistem komunikasi berbasis simbol hierarkis. Pengguna menavigasi melalui kategori untuk menemukan simbol yang sesuai dan membuat kalimat di bilah output.
 
-![Kemampuan ekspor](/images/help/export.png "Export capabilities")
+**Langkah-langkah Komunikasi Dasar:**
+
+1. Klik simbol untuk menambahkannya ke bilah keluaran di bagian atas
+2. Navigasi melalui kategori (seperti "makanan", "emosi", "tindakan") untuk menemukan simbol tertentu
+3. Buat kalimat lengkap dengan memilih beberapa simbol secara berurutan
+4. Gunakan tombol backspace untuk menghapus simbol terakhir atau tombol hapus untuk memulai dari awal
+5. Klik kalimat yang sudah selesai untuk membacakannya dengan lantang menggunakan text-to-speech
+
+**Fitur Navigasi:**
+
+- **Kategori Papan**: Kategori utama seperti makanan, aktivitas, emosi masing-masing berisi simbol terkait
+- **Navigasi Kembali**: Mudah kembali ke papan sebelumnya atau layar beranda utama
+- **Bilah keluaran**: Menampilkan simbol yang dipilih dan menyediakan kontrol pemutaran
+- **Akses Cepat**: Simbol umum seperti "ya", "tidak", dan "obrolan cepat" tersedia di layar utama
 
 ### <a name='Displaycapabilities'></a>Kemampuan tampilan
 
-Pengaturan tampilan dapat diedit di PENGATURAN, dalam kategori SISTEM. Opsi Tampilan berada tepat di bawah Ekspor dan Impor. Setelah Anda memilih TAMPILAN, Anda dapat mengubah ukuran UI (Antarmuka Pengguna) serta ukuran Font (jenis huruf) aplikasi dengan memilih ukuran yang Anda inginkan. Titik merah akan berada di bawah ukuran yang ingin Anda pilih.
+Pengaturan tampilan dapat diedit di PENGATURAN, dalam kategori SISTEM. Opsi Tampilan terletak di bawah Ekspor dan Impor di bawah bagian Sistem. Untuk mengakses pengaturan tampilan:
 
-![Kemampuan tampilan](/images/help/display.png "Display capabilities")
+1. Buka kunci antarmuka dengan mengklik ikon gembok tiga kali
+2. Klik Pengaturan (ikon roda gigi) di bilah navigasi atas
+3. Pilih "Tampilan" dari bagian Sistem
+
+![Kemampuan tampilan](/images/help/cboard-display-settings.png 'Display capabilities')
+
+**Opsi Tampilan yang Tersedia:**
+
+- **Ukuran UI**: Mengontrol ukuran keseluruhan elemen antarmuka
+  
+  - Standar (default)
+  - Besar
+  - Ekstra Besar
+- **Keluarga Font**: Ubah font teks yang digunakan di seluruh aplikasi
+  
+  - Default: Montserrat
+  - Memengaruhi semua teks dalam antarmuka aplikasi
+- **Ukuran Font**: Sesuaikan ukuran font aplikasi
+  
+  - Standar (default)
+  - Besar
+  - Ekstra Besar
+- **Sembunyikan bilah keluaran**: Beralih untuk menyembunyikan bilah komunikasi putih di bagian atas tempat kalimat dibuat
+  
+  - Opsi kotak centang
+  - Saat diaktifkan, menghapus area konstruksi kalimat dari tampilan
+- **Meningkatkan ukuran tombol tindakan**: Perbesar tombol tindakan pada bilah keluaran
+  
+  - Opsi kotak centang
+  - Membuat backspace, clear, dan tombol pemutaran lebih besar untuk akses yang lebih mudah
+- **Posisi Label**: Mengontrol posisi label teks pada ubin simbol
+  
+  - Di bawah (default) - Label muncul di bawah simbol
+  - Atas - Label muncul di atas simbol
+  - Tersembunyi - Label tidak ditampilkan pada ubin
+- **Aktifkan tema gelap**: Beralih ke skema warna mode gelap
+  
+  - Opsi kotak centang
+  - Mengubah warna komponen, kegelapan permukaan, tingkat bayangan, dan opasitas elemen tinta
+  - Meningkatkan aksesibilitas dalam kondisi cahaya redup
+
+Ingatlah untuk mengklik "Simpan" setelah membuat perubahan untuk menerapkan preferensi tampilan Anda.
+
+### <a name='WhatcanIchangeonthedisplay'></a>Apa yang dapat saya ubah pada tampilan?
+
+Seperti yang dijelaskan di atas, Anda dapat mengubah ukuran UI, keluarga dan ukuran font, visibilitas bilah output dan ukuran tombol, pemosisian label, dan pengaturan tema melalui bagian Tampilan di Pengaturan.
+
+### <a name='CanIresizebuttonsonCboard'></a>Bisakah saya mengubah ukuran tombol di Cboard?
+
+Ya! Anda dapat mengubah ukuran Ubin atau Tombol di PENGATURAN. Dalam kategori SISTEM, pilih DISPLAY dan Anda akan diberikan 3 opsi untuk ukuran UI: Standar, Besar, Ekstra Besar. Anda juga dapat menyesuaikan Ukuran Font dengan tiga opsi yang sama.
+
+### <a name='BigScrollButtons'></a>Gulir layar melalui tombol besar
+
+Dimungkinkan juga untuk menggulir ke atas dan ke bawah papan menggunakan beberapa tombol besar yang dapat ditambahkan dari bagian pengaturan. Ini sangat berguna untuk pengguna perangkat pelacak mata, karena tombolnya memungkinkan untuk menggulir papan tanpa perlu menggeser layar. Untuk mengaktifkan fitur ini, buka bagian pengaturan dan cari sakelar "aktifkan tombol gulir besar". Alihkan sakelar dan simpan pengaturan.
+
+![Aktifkan tombol gulir besar](/images/help/bigScrollSettings.png 'Big scroll buttons settings')
+
+Kemudian, Anda akan melihat beberapa tombol besar di bagian atas dan bawah papan jika cukup besar, seperti yang ditampilkan pada gambar di bawah ini:
+
+![Tombol gulir besar](/images/help/bigScrollButtons.png 'Big scroll buttons')
 
 ### <a name='CanIchangeanynavigationsettings'></a>Bisakah saya mengubah pengaturan navigasi?
 
@@ -175,7 +291,7 @@ Gunakan bagian NAVIGASI untuk mengedit dan memfasilitasi cara yang Anda gunakan 
 
 Untuk mengedit dan memfasilitasi navigasi melalui Cboard, pilih NAVIGASI, unsur menu terakhir dalam SISTEM (semua dalam Pengaturan) memungkinkan Anda menambahkan detail tertentu untuk mempermudah penggunaan papan. Opsi pertama dalam Navigasi memungkinkan tombol 'kembali' yang lebih besar sehingga lebih mudah untuk dipilih karena ukurannya. Yang kedua menambahkan tombol 'x' untuk memudahkan penghapusan simbol, dan yang ketiga memudahkan untuk membuka kunci dengan hanya memerlukan satu klik untuk membuka kunci pengaturan.
 
-![Kemampuan navigasi](/images/help/navigation.png "Navigation capabilities")
+![Kemampuan navigasi](/images/help/navigation.png 'Navigation capabilities')
 
 ## <a name='Settings'></a>Pengaturan
 
@@ -193,7 +309,7 @@ Untuk mencetak papan Anda, tekan logo printer di sisi kiri bilah BERANDA hitam, 
 
 Untuk melihat Cboard dalam layar penuh, buka kunci layar dengan menekan simbol kunci di sisi kanan, lalu di baris paling atas (bilah hitam), simbol kedua dari kiri yang terlihat seperti persegi panjang akan memperluas layar.
 
-![kemampuan layar penuh](/images/help/fullscreen.png "Fullscreen")
+![kemampuan layar penuh](/images/help/fullscreen.png 'Fullscreen')
 
 ### <a name='HowdoIshareaboard'></a>Bagaimana cara membagikan papan?
 
@@ -207,7 +323,7 @@ Untuk membagikan frasa, hanya untuk pertama kalinya, buka kunci layar, buka peng
 
 ![Pengaturan berbagi frasa](https://user-images.githubusercontent.com/21298844/128038972-a2848d47-2675-4e2d-9a15-6f93186f29d6.png)
 
-Susun sebuah frasa. Kemudian tekan ikon bagikan yang muncul di sebelah kanan bilah frasa keluaran. Pilih jejaring sosial tempat Anda ingin membagikan frasa tersebut. Satu dialog akan terbuka dengan frasa di bidang teks. Tekan tombol kirim untuk membagikannya. Jika Anda ingin menyalin frasa di clipboard Anda, tekan tombol bagikan dan kemudian opsi 'salin ke clipboard'. Satu Pemberitahuan akan ditampilkan di layar Anda dengan pesan berhasil.
+Kumpulkan frasa. Kemudian tekan ikon bagikan yang muncul di sebelah kanan bilah frasa keluaran. Pilih jejaring sosial tempat Anda ingin membagikan frasa tersebut. Satu dialog akan terbuka dengan frasa di bidang teks. Tekan tombol kirim untuk membagikannya. Jika Anda ingin menyalin frasa di clipboard Anda, tekan tombol bagikan dan kemudian opsi 'salin ke clipboard'. Satu Pemberitahuan akan ditampilkan di layar Anda dengan pesan berhasil.
 
 ![Tombol berbagi frasa](https://user-images.githubusercontent.com/21298844/128044322-d61491c6-7168-4615-8117-244dc872091e.png)
 
@@ -230,7 +346,7 @@ Susun sebuah frasa. Kemudian tekan ikon bagikan yang muncul di sebelah kanan bil
 7. Tambahkan label untuk vokalisasi
 
 8. Terakhir, pilih simbol mikrofon dan rekam, Anda dapat merekam beberapa kali dan memutarnya kembali sebelum menyimpannya ke papan.
-    
+  
     Jika Anda telah memilih banyak simbol, gunakan BERIKUTNYA untuk pergi ke simbol berikutnya dan ulangi prosesnya.
 
 <div><iframe width="420" height="315" src="https://www.youtube.com/embed/KZwCP4PkM4I" frameborder="0" allowfullscreen></iframe></div>
@@ -263,7 +379,7 @@ Setelah Anda memberi nama folder, Anda dapat mengunggah gambar dengan cara yang 
 
 Untuk mempersonalisasi papan yang ada, pilih KUNCI di sudut kanan atas bilah di atas papan, (di bawah tanda panah dengan tanda silang). Setelah Anda melakukan ini, bilah lain akan muncul di bawah bilah BERANDA hitam, dan Anda akan menemukan ikon blok kecil (EDIT) di sisi kiri untuk menambahkan ubin atau sel. Setelah blok dipilih, bilah abu-abu akan berubah menjadi biru, dan di sisi kanan Anda akan melihat tempat sampah kecil dan pensil.
 
-![mempersonalisasi papan yang ada](/images/help/personalize.png "personalize an existing board")
+![mempersonalisasi papan yang ada](/images/help/personalize.png 'personalize an existing board')
 
 Untuk mempersonalisasi papan, pilih pensil dan Anda akan dapat mengubah label, mengunggah gambar, dan menambahkan Vokalisasi.
 
@@ -293,13 +409,13 @@ Pilih ikon blok EDIT di sisi kiri bilah papan dan pilih piktogram/simbol yang in
 
 Secara default atau bawaan, saat papan baru dibuat, Cboard akan menambahkan **papan fasih**. Bagaimanapun, dimungkinkan untuk mengubah papan menjadi **papan tetap**. Mereka memiliki beberapa fitur berikut:
 
-* Kisi tidak akan berubah untuk ukuran layar atau orientasi perangkat yang berbeda. 
-* Jumlah baris dan kolom dapat dikonfigurasi. 
-* Ubin akan memiliki posisi tetap di kisi. 
+- Kisi tidak akan berubah untuk ukuran layar atau orientasi perangkat yang berbeda.
+- Jumlah baris dan kolom dapat dikonfigurasi.
+- Ubin akan memiliki posisi tetap di kisi.
 
 Untuk mengubah papan menjadi papan tetap, cukup edit papan dan alihkan opsi di toolbar untuk menjadikannya papan tetap. Papan Anda akan mengubah tampilannya dan indikator baris dan kolom akan ditampilkan.
 
-![Papan tetap](/images/help/fixedBoard.png "Fixed board")
+![Papan tetap](/images/help/fixedBoard.png 'Fixed board')
 
 ### <a name='FixedRows'></a>Bagaimana cara menetapkan jumlah baris dan kolom tertentu di papan saya?
 
@@ -307,7 +423,7 @@ Pertama, Anda harus mengubah papan menjadi **papan tetap** (lihat topik sebelumn
 
 <div><iframe width="420" height="315" src="https://www.youtube.com/embed/XEAz85zrZ70" frameborder="0" allowfullscreen></iframe></div>
 
-## <a name='Exportandimport-1'></a>Ekspor dan impor
+## <a name='Exportandimport'></a>Ekspor dan impor
 
 ### <a name='HowdoIexportmyboardinCboard'></a>Bagaimana cara mengekspor papan saya di Cboard?
 
@@ -323,12 +439,12 @@ Untuk mengimpor papan, ikuti langkah-langkah yang digunakan untuk Mengekspor. IM
 
 Untuk Mengimpor dan Mengekspor papan, Anda memiliki dua opsi:
 
-* Gunakan papan file asli Cboard.
-* Gunakan file berformat OpenBoard. [Pelajari lebih lanjut tentang Open Board Format](https://www.openboardformat.org/)
+- Gunakan papan file asli Cboard.
+- Gunakan file berformat OpenBoard. [Pelajari lebih lanjut tentang Open Board Format](https://www.openboardformat.org/)
 
 ## <a name='Displaycapabilities-1'></a>Kemampuan tampilan
 
-### <a name='WhatcanIchangeonthedisplay'></a>Apa yang dapat saya ubah pada tampilan?
+### <a name='WhatcanIchangeonthedisplay'></a>Apa yang dapat saya ubah di layar?
 
 Pengaturan tampilan dapat diedit di PENGATURAN, dalam kategori SISTEM. Opsi Tampilan berada di bawah Ekspor dan Impor. Setelah Anda memilih TAMPILAN, Anda dapat mengubah ukuran Antarmuka Pengguna (UI) serta ukuran Jenis Huruf (Font) aplikasi dengan memilih ukuran yang Anda inginkan. Titik merah akan berada di bawah ukuran yang ingin Anda pilih.
 
@@ -336,17 +452,17 @@ Pengaturan tampilan dapat diedit di PENGATURAN, dalam kategori SISTEM. Opsi Tamp
 
 Ya! Anda dapat mengubah ukuran Ubin atau Tombol di PENGATURAN. Pada kategori SISTEM, pilih TAMPILAN dan Anda akan diberikan 3 pilihan ukuran: Standar, Besar, Ekstra Besar. Lihat gambar di bawah ini:
 
-![Kemampuan tampilan](/images/help/display.png "Display capabilities")
+![Kemampuan tampilan](/images/help/display.png 'Display capabilities')
 
-### <a name='BigScrollButtons'></a>Gulir layar melalui tombol besar
+### <a name='BigScrollButtons'></a>Layar gulir melalui tombol besar
 
-Dimungkinkan juga untuk menggulir papan ke atas dan ke bawah menggunakan beberapa tombol besar yang dapat ditambahkan dari bagian pengaturan. Hal ini sangat berguna bagi pengguna perangkat pelacak mata, karena tombol-tombolnya memungkinkan untuk menggulir papan tanpa perlu menggeser layar. Untuk mengaktifkan fitur ini, buka bagian pengaturan dan cari tombol "aktifkan tombol gulir besar". Alihkan tombol dan simpan pengaturannya. Lihat gambar di bawah ini:
+Dimungkinkan juga untuk menggulir ke atas dan ke bawah papan menggunakan beberapa tombol besar yang dapat ditambahkan dari bagian pengaturan. Ini sangat berguna untuk pengguna perangkat pelacak mata, karena tombolnya memungkinkan untuk menggulir papan tanpa perlu menggeser layar. Untuk mengaktifkan fitur ini, buka bagian pengaturan dan cari sakelar "aktifkan tombol gulir besar". Alihkan sakelar dan simpan pengaturan. Lihat gambar di bawah ini:
 
-![Aktifkan tombol gulir besar](/images/help/bigScrollSettings.png "Big scroll buttons settings")
+![Aktifkan tombol gulir besar](/images/help/bigScrollSettings.png 'Big scroll buttons settings')
 
 Kemudian, Anda akan melihat beberapa tombol besar di bagian atas dan bawah papan jika cukup besar, seperti yang ditampilkan pada gambar di bawah ini:
 
-![Tombol gulir besar](/images/help/bigScrollButtons.png "Big scroll buttons")
+![Tombol gulir besar](/images/help/bigScrollButtons.png 'Big scroll buttons')
 
 ## <a name='Scanning'></a>Memindai
 
@@ -360,36 +476,35 @@ Pemindaian adalah saat unsur dalam kumpulan pilihan disajikan secara berurutan d
 
 Pembangun komunikator adalah fitur yang memungkinkan Anda menangani papan untuk menyalin, menghapus, menerbitkan, menambah, dan melepasnya. Untuk mengakses fungsionalitas tersebut, Anda perlu membuka kunci pengaturan dan mengklik tombol 'Membangun'. Anda akan melihat halaman baru tersusun pada tiga tab berbeda: papan, papan publik, semua papan saya. Lihat gambar di bawah ini:
 
-![Pembangun komunikator](/images/help/communicator.png "Communicator builder")
+![Pembangun komunikator](/images/help/communicator.png 'Communicator builder')
 
 ### <a name='CommunicatorBoards'></a>Papan komunikator
 
 Tab bawaan yang akan Anda lihat di pembangun komunikator adalah tab papan komunikator, yang akan menampilkan semua papan yang disertakan dalam komunikator Anda. Anda dapat membuat perubahan pada komunikator Anda dari tombol tindakan berikut:
 
-* Hapus papan dari komunikator: tombol ini akan mengeluarkan papan dari komunikator tetapi TIDAK AKAN menghapus papan dari database dan papan akan tetap tersedia di bawah tab 'Semua papan saya'.
+- Hapus papan dari komunikator: tombol ini akan mengeluarkan papan dari komunikator tetapi TIDAK AKAN menghapus papan dari database dan papan akan tetap tersedia di bawah tab 'Semua papan saya'.
 
-* Tetapkan papan sebagai akar: tombol ini akan menentukan papan sebagai papan pertama yang ditampilkan setiap kali Anda login atau masuk ke Cboard.
+- Tetapkan papan sebagai akar: tombol ini akan menentukan papan sebagai papan pertama yang ditampilkan setiap kali Anda login atau masuk ke Cboard.
 
-![Papan komunikator](/images/help/communicatorBoards.png "Communicator boards")
+![Papan komunikator](/images/help/communicatorBoards.png 'Communicator boards')
 
 ### <a name='PublicBoards'></a>Papan publik
 
-* Salin papan: tombol ini akan membuat salinan papan dan akan menambahkannya ke komunikator Anda. Karena ini adalah salinan papan publik, Anda dapat mengedit papan ini sesuai keinginan tanpa memengaruhi papan publik asli.
+- Salin papan: tombol ini akan membuat salinan papan dan akan menambahkannya ke komunikator Anda. Karena ini adalah salinan papan publik, Anda dapat mengedit papan ini sesuai keinginan tanpa memengaruhi papan publik asli.
 
-![Papan publik](/images/help/PublicBoards.png "Public boards")
+![Papan publik](/images/help/PublicBoards.png 'Public boards')
 
 ### <a name='Allmyboards'></a>Semua papan saya
 
 Harap dicatat bahwa HANYA pengguna terdaftar yang dapat mengakses fungsionalitas tab ini.
 
-* Hapus papan dari komunikator: tombol ini akan mengeluarkan papan dari komunikator tetapi TIDAK AKAN menghapus papan dari database dan papan akan tetap tersedia.
+- Hapus papan dari komunikator: tombol ini akan mengeluarkan papan dari komunikator tetapi TIDAK AKAN menghapus papan dari database dan papan akan tetap tersedia.
 
-* Tambahkan papan ke komunikator: tombol ini akan menyertakan papan ke komunikator.
+- Tambahkan papan ke komunikator: tombol ini akan menyertakan papan ke komunikator.
 
-* Publikasikan papan: Tindakan ini akan membuat papan menjadi publik dan akan ditampilkan di bawah tab papan publik. Semua orang dapat melihat papan Anda.
-    
- * Batalkan publikasi papan: Tindakan ini akan membuat papan menjadi privat dan tidak akan ditampilkan di tab papan publik. Tidak ada yang bisa melihat papan Anda.
-    
- * Hapus papan: Tindakan ini akan menghapus papan dan tidak dapat dipulihkan. Papan akan dihapus dari database.
+- Publikasikan papan: Tindakan ini akan membuat papan menjadi publik dan akan ditampilkan di bawah tab papan publik. Semua orang dapat melihat papan Anda.
 
-![Semua papan saya](/images/help/AllmyBoards.png "All my boards")
+- Batalkan publikasi papan: Tindakan ini akan membuat papan menjadi privat dan tidak akan ditampilkan di tab papan publik. Tidak ada yang bisa melihat papan Anda.
+- Hapus papan: Tindakan ini akan menghapus papan dan tidak dapat dipulihkan. Papan akan dihapus dari database.
+
+![Semua papan saya](/images/help/AllmyBoards.png 'All my boards')

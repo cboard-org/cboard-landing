@@ -1,7 +1,7 @@
 ## Table of contents
 
 - [What is Cboard?](#WhatisCboard)
-- [Registration and login](#Registrationandlogin)
+- [Registration and login](#Registrationandlogin) 
   - [How do I register for Cboard?](#HowdoIregisterforCboard)
   - [Can I register myself using my social media accounts?](#CanIregistermyselfusingmysocialmediaaccounts)
   - [How do I log in to Cboard once I am a registered user?](#HowdoIlogintoCboardonceIamaregistereduser)
@@ -10,9 +10,9 @@
   - [What is the difference between a registered and a non-registered user?](#Whatisthedifferencebetweenaregisteredandanon-registereduser)
   - [How do I update my user information?](#HowdoIupdatemyuserinformation)
   - [How do I reset my password?](#HowdoIresetmypassword)
-- [Price](#Price)
+- [Price](#Price) 
   - [How much does Cboard cost?](#HowmuchdoesCboardcost)
-- [Features](#Features)
+- [Features](#Features) 
   - [What devices and OS are supported?](#WhatdevicesandOSaresupported)
   - [Which languages are supported by Cboard?](#WhichlanguagesaresupportedbyCboard)
   - [Can Cboard read my message out aloud?](#CanCboardreadmymessageoutaloud)
@@ -20,17 +20,17 @@
   - [How does communication work in Cboard?](#CommunicationWorkflow)
   - [Can I change any navigation settings?](#CanIchangeanynavigationsettings)
   - [Navigation through the interface](#Navigationthroughtheinterface)
-- [Settings](#Settings)
+- [Settings](#Settings) 
   - [How do I access settings in Cboard?](#HowdoIaccesssettingsinCboard)
   - [How do I print my board set in Cboard?](#HowdoIprintmyboardsetinCboard)
   - [How do I see Cboard in fullscreen?](#HowdoIseeCboardinfullscreen)
   - [How do I share a board?](#HowdoIshareaboard)
   - [How do I share a phrase?](#HowdoIshareaphrase)
-- [Talking](#Talking)
+- [Talking](#Talking) 
   - [How do I add a personally recorded voice to symbols on Cboard?](#HowdoIaddapersonallyrecordedvoicetosymbolsonCboard)
   - [How do I switch to a different voice?](#HowdoIswitchtoadifferentvoice)
   - [How do I change how a voice sounds?](#HowdoIchangehowavoicesounds)
-- [Board Editing](#BoardEditing)
+- [Board Editing](#BoardEditing) 
   - [How do I create an empty board?](#HowdoIcreateanemptyboard)
   - [How do I personalize an existing board in Cboard?](#HowdoIpersonalizeanexistingboardinCboard)
   - [Can I use my own pictures when editing a board?](#CanIusemyownpictureswheneditingaboard)
@@ -39,17 +39,17 @@
   - [How can I find new symbols when I am editing a tile?](#FindSymbols)
   - [Can I place board tiles in fixed positions?](#FixedBoards)
   - [How do I set a specific number of rows and columns in my board?](#FixedRows)
-- [Export and import](#Exportandimport)
+- [Export and import](#Exportandimport) 
   - [How do I export my board in Cboard?](#HowdoIexportmyboardinCboard)
   - [How do I import a board into Cboard?](#HowdoIimportaboardintoCboard)
   - [What file format does Cboard use for import/export?](#WhatfileformatdoesCboarduseforimportexport)
-- [Display capabilities](#Displaycapabilities)
+- [Display capabilities](#Displaycapabilities) 
   - [What can I change on the display?](#WhatcanIchangeonthedisplay)
   - [Can I resize buttons on Cboard?](#CanIresizebuttonsonCboard)
   - [Screen scroll through big buttons](#BigScrollButtons)
-- [Scanning](#Scanning)
+- [Scanning](#Scanning) 
   - [Can I use scanning techniques to access symbols?](#CanIusescanningtechniquestoaccesssymbols)
-- [Communicator builder](#CommunicatorBuilder)
+- [Communicator builder](#CommunicatorBuilder) 
   - [What is the communicator builder?](#Whatiscommbuilder)
   - [Communicator boards](#CommunicatorBoards)
   - [Public boards](#PublicBoards)
@@ -105,8 +105,7 @@ Once you login to Cboard, you can access different options to configure and deve
 
 ![Cboard settings](/images/help/settings.png 'Cboard settings')
 
-**Unlocking the Interface:**
-To access advanced features, click the lock icon three times. This reveals additional controls including:
+**Unlocking the Interface:** To access advanced features, click the lock icon three times. This reveals additional controls including:
 
 - **Print Board**: Export the current board as a PDF
 - **Full Screen**: Enter fullscreen mode for distraction-free communication
@@ -232,39 +231,34 @@ Display settings can be edited in SETTINGS, within the SYSTEM category. The Disp
 **Available Display Options:**
 
 - **UI Size**: Controls the overall size of interface elements
-
+  
   - Standard (default)
   - Large
   - Extra Large
-
 - **Font Family**: Change the text font used throughout the application
-
+  
   - Default: Montserrat
   - Affects all text within the application interface
-
 - **Font Size**: Adjust the application font size
-
+  
   - Standard (default)
   - Large
   - Extra Large
-
 - **Hide the output bar**: Toggle to hide the white communication bar at the top where sentences are built
-
+  
   - Checkbox option
   - When enabled, removes the sentence construction area from view
-
 - **Increase action button size**: Enlarge the action buttons on the output bar
-
+  
   - Checkbox option
   - Makes backspace, clear, and playback buttons larger for easier access
-
 - **Label Position**: Control the position of text labels on symbol tiles
-
+  
   - Below (default) - Labels appear underneath symbols
   - Above - Labels appear above symbols
   - Hidden - Labels are not displayed on tiles
-
 - **Enable dark theme**: Switch to dark mode color scheme
+  
   - Checkbox option
   - Changes component colors, surface darkness, shadow levels, and ink element opacity
   - Improves accessibility in low-light conditions
@@ -352,8 +346,8 @@ Assemble a phrase. Then press the share icon that appears on the right of the ou
 7. Add the label for the vocalisation
 
 8. Finally select the microphone symbol and record, you can record multiple times and can play it back before saving it to the board.
-
-   If you have selected multiple symbols use NEXT to go to the next symbol and repeat the process.
+  
+    If you have selected multiple symbols use NEXT to go to the next symbol and repeat the process.
 
 <div><iframe width="420" height="315" src="https://www.youtube.com/embed/KZwCP4PkM4I" frameborder="0" allowfullscreen></iframe></div>
 
@@ -509,6 +503,7 @@ Please note that JUST registered users can access to this tab functionality.
 - Add board to the communicator: this buttton will include the board to the communicator.
 
 - Publish board: This action will make public the board and it will be displayed under the public boards tab. Everybody can see your board.
+
 - Unpublish board: This action will make the board private and it won't be displayed under the public boards tab. Nobody can see your board.
 - Delete board: This action will delete the board and it cannot be recovered. The board will be removed from the database.
 

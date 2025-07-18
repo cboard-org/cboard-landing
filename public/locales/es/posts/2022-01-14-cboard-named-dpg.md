@@ -1,5 +1,5 @@
 ---
-title: ¡Cboard se suma a la Alianza de Bienes Públicos Digitales!
+title: '¡Cboard se suma a la Alianza de Bienes Públicos Digitales!'
 date: 2022-01-14
 description: El objetivo de la DPGA y su registro es promover los bienes públicos digitales para crear un mundo más equitativo.
 categories:

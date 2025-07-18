@@ -1,65 +1,67 @@
-# Pomoć za korisnike
-
 ## Sadržaj
 
-* [Što je Cboard?](#WhatisCboard)
-* [Registracija i prijava](#Registrationandlogin) 
-    * [Kako se mogu registrirati u Cboard?](#HowdoIregisterforCboard)
-    * [Mogu li se registrirati koristeći svoje račune na društvenim mrežama?](#CanIregistermyselfusingmysocialmediaaccounts)
-    * [Kako se prijaviti u Cboard kao registrirani korisnik?](#HowdoIlogintoCboardonceIamaregistereduser)
-    * [Kako se odjaviti?](#HowdoIlogout)
-    * [Kakva je razlika između registriranog i neregistriranog korisnika?](#Whatisthedifferencebetweenaregisteredandanon-registereduser)
-    * [Kako ažurirati svoje korisničke podatke?](#HowdoIupdatemyuserinformation)
-    * [Kako mogu resetirati zaporku?](#HowdoIresetmypassword)
-* [Cijena](#Price) 
-    * [Koliko košta Cboard?](#HowmuchdoesCboardcost)
-* [Značajke](#Features) 
-    * [Koji su uređaji i operacijski sustavi podržani?](#WhatdevicesandOSaresupported)
-    * [Koje jezike podržava Cboard?](#WhichlanguagesaresupportedbyCboard)
-    * [Može li Cboard naglas pročitati moju poruku?](#CanCboardreadmymessageoutaloud)
-    * [Mogućnosti govora](#Speechcapabilities)
-    * [Izvoz i učitavanje](#Exportandimport)
-    * [Mogućnosti zaslona](#Displaycapabilities)
-    * [Mogu li promijeniti bilo koje postavke navigacije?](#CanIchangeanynavigationsettings)
-    * [Navigacija sučeljem](#Navigationthroughtheinterface)
-* [Postavke](#Settings) 
-    * [Kako pristupiti postavkama na Cboardu?](#HowdoIaccesssettingsinCboard)
-    * [Kako mogu ispisati svoju ploču iz Cboarda?](#HowdoIprintmyboardsetinCboard)
-    * [Kako prikazati Cboard u punom zaslonu?](#HowdoIseeCboardinfullscreen)
-    * [Kako podijeliti ploču?](#HowdoIshareaboard)
-    * [Kako mogu podijeliti frazu?](#HowdoIshareaphrase)
-* [Govor](#Talking) 
-    * [Kako mogu dodati osobno snimljeni glas simbolima u Cboardu?](#HowdoIaddapersonallyrecordedvoicetosymbolsonCboard)
-    * [Kako mogu odabrati drugi glas?](#HowdoIswitchtoadifferentvoice)
-    * [Kako mogu promijeniti način na koji zvuči glas?](#HowdoIchangehowavoicesounds)
-* [Uređivanje ploče](#BoardEditing) 
-    * [Kako mogu stvoriti praznu ploču?](#HowdoIcreateanemptyboard)
-    * [Kako personalizirati postojeću ploču u Cboardu?](#HowdoIpersonalizeanexistingboardinCboard)
-    * [Mogu li koristiti svoje slike pri uređivanju ploče?](#CanIusemyownpictureswheneditingaboard)
-    * [Mogu li promijeniti redoslijed elemenata na ploči?](#CanIchangetheorderingoftheelementsinaboard)
-    * [Kako mogu odabrati više elemenata za uređivanje?](#HowdoIselectmultipleelementstoedit)
-    * [Kako mogu pronaći nove simbole kada uređujem pločicu?](#FindSymbols)
-    * [Mogu li postaviti pločice ploče na fiksne položaje?](#FixedBoards)
-    * [Kako mogu postaviti određeni broj redaka i stupaca na svojoj ploči?](#FixedRows)
-* [Izvoz i učitavanje](#Exportandimport) 
-    * [Kako izvesti svoju ploču iz Cboarda?](#HowdoIexportmyboardinCboard)
-    * [Kako učitati ploču u Cboard?](#HowdoIimportaboardintoCboard)
-    * [Koji format datoteke Cboard koristi za učitavanje/izvoz?](#WhatfileformatdoesCboarduseforimportexport)
-* [Mogućnosti zaslona](#Displaycapabilities) 
-    * [Što mogu promijeniti na zaslonu?](#WhatcanIchangeonthedisplay)
-    * [Mogu li promijeniti veličinu tipki u Cboardu?](#CanIresizebuttonsonCboard)
-    * [Pomicanje zaslona pomoću velikih tipki](#BigScrollButtons)
-* [Skeniranje](#Scanning) 
-    * [Mogu li koristiti tehnike skeniranja za pristup simbolima?](#CanIusescanningtechniquestoaccesssymbols)
-* [Izrada Komunikatora](#CommunicatorBuilder) 
-    * [Što je opcija za izradu Komunikatora?](#Whatiscommbuilder)
-    * [Ploče komunikatora](#CommunicatorBoards)
-    * [Javne ploče](#PublicBoards)
-    * [Sve moje ploče](#Allmyboards)
+- [Što je Cboard?](#WhatisCboard)
+- [Registracija i prijava](#Registrationandlogin) 
+  - [Kako se mogu registrirati u Cboard?](#HowdoIregisterforCboard)
+  - [Mogu li se registrirati koristeći svoje račune na društvenim mrežama?](#CanIregistermyselfusingmysocialmediaaccounts)
+  - [Kako se prijaviti u Cboard kao registrirani korisnik?](#HowdoIlogintoCboardonceIamaregistereduser)
+  - [Koje su različite mogućnosti za konfiguraciju Cboarda?](#WhataredifferentoptionstoconfigureCboard)
+  - [Kako se odjaviti?](#HowdoIlogout)
+  - [Kakva je razlika između registriranog i neregistriranog korisnika?](#Whatisthedifferencebetweenaregisteredandanon-registereduser)
+  - [Kako ažurirati svoje korisničke podatke?](#HowdoIupdatemyuserinformation)
+  - [Kako mogu resetirati zaporku?](#HowdoIresetmypassword)
+- [Cijena](#Price) 
+  - [Koliko košta Cboard?](#HowmuchdoesCboardcost)
+- [Značajke](#Features) 
+  - [Koji su uređaji i operacijski sustavi podržani?](#WhatdevicesandOSaresupported)
+  - [Koje jezike podržava Cboard?](#WhichlanguagesaresupportedbyCboard)
+  - [Može li Cboard naglas pročitati moju poruku?](#CanCboardreadmymessageoutaloud)
+  - [Mogućnosti govora](#Speechcapabilities)
+  - [Kako funkcionira komunikacija u Cboardu?](#CommunicationWorkflow)
+  - [Mogu li promijeniti bilo koje postavke navigacije?](#CanIchangeanynavigationsettings)
+  - [Navigacija sučeljem](#Navigationthroughtheinterface)
+- [Postavke](#Settings) 
+  - [Kako pristupiti postavkama na Cboardu?](#HowdoIaccesssettingsinCboard)
+  - [Kako mogu ispisati svoju ploču iz Cboarda?](#HowdoIprintmyboardsetinCboard)
+  - [Kako prikazati Cboard u punom zaslonu?](#HowdoIseeCboardinfullscreen)
+  - [Kako podijeliti ploču?](#HowdoIshareaboard)
+  - [Kako mogu podijeliti frazu?](#HowdoIshareaphrase)
+- [Govor](#Talking) 
+  - [Kako mogu dodati osobno snimljeni glas simbolima u Cboardu?](#HowdoIaddapersonallyrecordedvoicetosymbolsonCboard)
+  - [Kako mogu odabrati drugi glas?](#HowdoIswitchtoadifferentvoice)
+  - [Kako mogu promijeniti način na koji zvuči glas?](#HowdoIchangehowavoicesounds)
+- [Uređivanje ploče](#BoardEditing) 
+  - [Kako mogu stvoriti praznu ploču?](#HowdoIcreateanemptyboard)
+  - [Kako personalizirati postojeću ploču u Cboardu?](#HowdoIpersonalizeanexistingboardinCboard)
+  - [Mogu li koristiti svoje slike pri uređivanju ploče?](#CanIusemyownpictureswheneditingaboard)
+  - [Mogu li promijeniti redoslijed elemenata na ploči?](#CanIchangetheorderingoftheelementsinaboard)
+  - [Kako mogu odabrati više elemenata za uređivanje?](#HowdoIselectmultipleelementstoedit)
+  - [Kako mogu pronaći nove simbole kada uređujem pločicu?](#FindSymbols)
+  - [Mogu li postaviti pločice ploče na fiksne položaje?](#FixedBoards)
+  - [Kako mogu postaviti određeni broj redaka i stupaca na svojoj ploči?](#FixedRows)
+- [Izvoz i učitavanje](#Exportandimport) 
+  - [Kako izvesti svoju ploču iz Cboarda?](#HowdoIexportmyboardinCboard)
+  - [Kako učitati ploču u Cboard?](#HowdoIimportaboardintoCboard)
+  - [Koji format datoteke Cboard koristi za učitavanje/izvoz?](#WhatfileformatdoesCboarduseforimportexport)
+- [Mogućnosti zaslona](#Displaycapabilities) 
+  - [Što mogu promijeniti na zaslonu?](#WhatcanIchangeonthedisplay)
+  - [Mogu li promijeniti veličinu tipki u Cboardu?](#CanIresizebuttonsonCboard)
+  - [Pomicanje zaslona pomoću velikih tipki](#BigScrollButtons)
+- [Skeniranje](#Scanning) 
+  - [Mogu li koristiti tehnike skeniranja za pristup simbolima?](#CanIusescanningtechniquestoaccesssymbols)
+- [Izrada Komunikatora](#CommunicatorBuilder) 
+  - [Što je opcija za izradu Komunikatora?](#Whatiscommbuilder)
+  - [Ploče komunikatora](#CommunicatorBoards)
+  - [Javne ploče](#PublicBoards)
+  - [Sve moje ploče](#Allmyboards)
 
 ## <a name='WhatisCboard'></a>Što je Cboard?
 
 Cboard je besplatna web i mobilna aplikacija za djecu i odrasle osobe s oštećenjem govora i jezika koja olakšava komunikaciju sa simbolima/slikama i pretvorbom teksta u govor.
+
+![Glavno sučelje kartona](/images/help/cboard-main-interface.png 'Cboard Main Interface')
+
+Glavno sučelje Cboarda ima čist, pristupačan dizajn s pločicama simbola organiziranim u kategorije. Korisnici mogu kliknuti na simbole za izradu rečenica na izlaznoj traci komunikacije na vrhu zaslona. Sučelje podržava hijerarhijsku navigaciju kroz kategorije i izravan odabir simbola za učinkovitu komunikaciju.
 
 <div><iframe width="420" height="315" src="https://www.youtube.com/embed/pjoLEtiFf2A" frameborder="0" allowfullscreen></iframe></div>
 
@@ -69,17 +71,19 @@ Cboard je besplatna web i mobilna aplikacija za djecu i odrasle osobe s ošteće
 
 Da biste se registrirali u Cboard, slijedite korake na stranici dobrodošlice gdje ćete pronaći opcije za prijavu ili registraciju.
 
-![Web stranica Cboarda](/images/help/website.png "Cboard website")
+![Web stranica Cboarda](/images/help/website.png 'Cboard website')
 
-![Stranica dobrodošlice](/images/help/welcome-page.png "Welcome page")
+![Stranica dobrodošlice](/images/help/welcome-page.png 'Welcome page')
+
+Moderni zaslon dobrodošlice Cboard nudi više opcija prijave, uključujući tradicionalnu registraciju e-pošte/lozinke, kao i autentifikaciju društvenih medija putem Googlea, Facebooka i Applea. Korisnici također mogu preskočiti registraciju i odmah isprobati aplikaciju.
 
 Ako ste novi korisnik, pritisnite REGISTRACIJA i pojavit će se kratki obrazac koji traži osnovne podatke za stvaranje svog računa.
 
-![Cboard registracija](/images/help/signup.png "Cboard signup")
+![Cboard registracija](/images/help/signup.png 'Cboard signup')
 
 Nakon što unesete svoje podatke, ubrzo nakon dobit ćete e-mail s poveznicom koju treba slijediti kako biste potvrdili svoj račun.
 
-![Registracija putem e-pošte](/images/help/signupemail.png "Email signup")
+![Registracija putem e-pošte](/images/help/signupemail.png 'Email signup')
 
 Tvrtka drži ove podatke samo radi podrške korištenju Cboarda i pružanja pomoći kada je to potrebno. Ne dijeli se s drugim organizacijama (pogledajte [Pojedinosti o privatnosti](https://www.cboard.io/privacy/)).
 
@@ -93,19 +97,29 @@ Da! Na stranici za prijavu dobit ćete opciju da se prijavite sa svojim Google i
 
 Da biste se prijavili na Cboard, slijedite prvi korak koji ste koristili za registraciju, ali umjesto odabira REGISTRIRAJ SE na zaslonu dobrodošlice, odaberite PRIJAVA. Zatim će se od vas tražiti da navedete e-mail s kojim ste se prvotno registrirali te lozinku koju ste postavili.
 
-![Cboard prijava](/images/help/login.png "Cboard login")
+![Cboard prijava](/images/help/login.png 'Cboard login')
 
-### Koje su različite mogućnosti za konfiguraciju Cboarda?
+### <a name='WhataredifferentoptionstoconfigureCboard'></a>What are the different options to configure Cboard?
 
 Nakon što se prijavite na Cboard, možete pristupiti različitim opcijama za konfiguriranje i razvoj komunikacijske ploče koja se nudi kada je Cboard u otključanom načinu rada. Pogledajte popis svih ključnih opcija u nastavku:
 
-![Cboard postavke](/images/help/settings.png "Cboard settings")
+![Cboard postavke](/images/help/settings.png 'Cboard settings')
+
+**Unlocking the Interface:** To access advanced features, click the lock icon three times. This reveals additional controls including:
+
+- **Print Board**: Export the current board as a PDF
+- **Full Screen**: Enter fullscreen mode for distraction-free communication
+- **Settings**: Access comprehensive configuration options
+- **Share**: Share boards via email, social media, or direct links
+- **Build**: Access the communicator builder for managing boards
+- **Edit**: Modify existing boards and add new symbols
+- **Boards**: Navigate between different communication boards
 
 ### <a name='HowdoIlogout'></a>Kako se odjaviti?
 
 Možete se odjaviti odabirom ikone postavki, a potom klikom na 'LOGOUT'. Također možete odabrati simbol lokota u desnom kutu, kliknuti ga tri puta i, nakon što otključate zaslon i pojavi se traka, odaberite ikonu lijevo od lokota (vaša slika ako je učitana) te opciju 'LOGOUT'.
 
-![Cboard odjava](/images/help/logout.png "Cboard logout")
+![Cboard odjava](/images/help/logout.png 'Cboard logout')
 
 ### <a name='Whatisthedifferencebetweenaregisteredandanon-registereduser'></a>Koja je razlika između registriranog i neregistriranog korisnika?
 
@@ -123,7 +137,37 @@ Da biste promijenili zaporku, pošaljite nam e-mail na adresu support@cboard.io 
 
 ### <a name='HowmuchdoesCboardcost'></a>Koliko košta Cboard?
 
-Cboard je potpuno besplatna aplikacija.
+Cboard offers multiple pricing options to suit different user needs:
+
+**Free Plan (\$0/Forever)**
+
+- Basic communication features
+- Access to symbol libraries
+- Board creation and editing
+- Limited feature set
+
+**Pro Monthly Plan (\$8/Month)**
+
+- All free features plus:
+- Online neural voices
+- Copy public boards
+- Publish boards
+- Copy tiles
+- Powerful usage analytics
+- Share boards
+- Ads free experience
+- Export to Open Board Format (OBF)
+- Share phrases
+- Private support channel
+- Voice recording for tiles
+
+**Pro Yearly Plan (\$79/Year)**
+
+- All Pro Monthly features
+- Significant savings compared to monthly billing
+- Best value for regular users
+
+The free version provides essential AAC functionality, while Pro subscriptions unlock advanced features for enhanced communication, sharing, and customization capabilities. Users can upgrade to Pro plans through the settings menu when logged into their Cboard account.
 
 ## <a name='Features'></a>Značajke
 
@@ -131,7 +175,7 @@ Cboard je potpuno besplatna aplikacija.
 
 Cboard je dostupan online na širokom spektru uređaja, uključujući stolna računala, tablete i mobilne telefone koji koriste operativne sustave Mac, Windows i Android. Najbolje ga je pregledavati u preglednicima kao što su Chrome, Firefox, Edge i Safari, a aplikacija za Android dostupna je na Google Playu.
 
-![Podrška preglednika](/images/help/browsers.png "Browser support")
+![Podrška preglednika](/images/help/browsers.png 'Browser support')
 
 Budući da je Cboard aplikacija temeljena na webu, odgovarat će postavkama pojedinačnih preglednika. To može značiti da imate različite rezultate od postavki koje nudi Cboard. Na primjer, možete pronaći različite mogućnosti govora koje se nude.
 
@@ -153,19 +197,91 @@ Da, Cboard koristi sintetički govorni izlaz dostupan na vašem uređaju kojim �
 
 Za podešavanje govornih mogućnosti idite u POSTAVKE, a pod kategorijom JEZIK nalazi se kategorija GOVOR. Kada odaberete GOVOR, moći ćete urediti visinu i tempo govora na Cboardu.
 
-![Mogućnosti govora](/images/help/speech.png "Speech capabilities")
+![Mogućnosti govora](/images/help/speech.png 'Speech capabilities')
 
-### <a name='Exportandimport'></a>Izvoz i učitavanje
+### <a name='CommunicationWorkflow'></a>How does communication work in Cboard?
 
-Obje opcije za izvoz nalaze se unutar POSTAVKI u kategoriji SUSTAV, ispod Jezika i Govora. Kategorija IZVEZI pružit će vam opciju učitavanja OpenBoarda ili PDF-a. Kategorija UČITAJ otvorit će vaše spremljene datoteke nakon što odaberete POVRATI.
+Cboard uses a hierarchical symbol-based communication system. Users navigate through categories to find appropriate symbols and build sentences in the output bar.
 
-![Mogućnosti izvoza](/images/help/export.png "Export capabilities")
+**Basic Communication Steps:**
+
+1. Click on symbols to add them to the output bar at the top
+2. Navigate through categories (like "food", "emotions", "actions") to find specific symbols
+3. Build complete sentences by selecting multiple symbols in sequence
+4. Use the backspace button to remove the last symbol or clear button to start over
+5. Click on the completed sentence to have it read aloud using text-to-speech
+
+**Navigation Features:**
+
+- **Category Boards**: Major categories like food, activities, emotions each contain related symbols
+- **Back Navigation**: Easy return to previous boards or the main home screen
+- **Output Bar**: Shows selected symbols and provides playback controls
+- **Quick Access**: Common symbols like "yes", "no", and "quick chat" available on the main screen
 
 ### <a name='Displaycapabilities'></a>Mogućnosti zaslona
 
-Postavke zaslona mogu se uređivati u POSTAVKAMA, unutar kategorije SUSTAV. Opcija Prikaz nalazi se odmah ispod Izvezi i Učitaj. Kad odaberete PRIKAZ, možete promijeniti veličinu korisničkog sučelja, kao i veličinu fonta aplikacije odabirom željene veličine. Crvena točka bi trebala biti ispod veličine koju želite odabrati.
+Display settings can be edited in SETTINGS, within the SYSTEM category. The Display option is located below Export and Import under the System section. To access display settings:
 
-![Mogućnosti prikaza](/images/help/display.png "Display capabilities")
+1. Unlock the interface by clicking the lock icon three times
+2. Click Settings (gear icon) in the top navigation bar
+3. Select "Display" from the System section
+
+![Mogućnosti zaslona](/images/help/cboard-display-settings.png 'Display capabilities')
+
+**Available Display Options:**
+
+- **UI Size**: Controls the overall size of interface elements
+  
+  - Standard (default)
+  - Large
+  - Extra Large
+- **Font Family**: Change the text font used throughout the application
+  
+  - Default: Montserrat
+  - Affects all text within the application interface
+- **Font Size**: Adjust the application font size
+  
+  - Standard (default)
+  - Large
+  - Extra Large
+- **Hide the output bar**: Toggle to hide the white communication bar at the top where sentences are built
+  
+  - Checkbox option
+  - When enabled, removes the sentence construction area from view
+- **Increase action button size**: Enlarge the action buttons on the output bar
+  
+  - Checkbox option
+  - Makes backspace, clear, and playback buttons larger for easier access
+- **Label Position**: Control the position of text labels on symbol tiles
+  
+  - Below (default) - Labels appear underneath symbols
+  - Above - Labels appear above symbols
+  - Hidden - Labels are not displayed on tiles
+- **Enable dark theme**: Switch to dark mode color scheme
+  
+  - Checkbox option
+  - Changes component colors, surface darkness, shadow levels, and ink element opacity
+  - Improves accessibility in low-light conditions
+
+Remember to click "Save" after making changes to apply your display preferences.
+
+### <a name='WhatcanIchangeonthedisplay'></a>Što mogu promijeniti na zaslonu?
+
+As detailed above, you can change UI size, font family and size, output bar visibility and button size, label positioning, and theme settings through the Display section in Settings.
+
+### <a name='CanIresizebuttonsonCboard'></a>Mogu li promijeniti veličinu gumba na ploči?
+
+Yes! You can resize Tiles or Buttons in SETTINGS. In the category SYSTEM, select DISPLAY and you will be given 3 options for UI size: Standard, Large, Extra Large. You can also adjust the Font Size with the same three options.
+
+### <a name='BigScrollButtons'></a>Pomicanje zaslona kroz velike gumbe
+
+It is also possible to scroll up and down a board using a couple of big buttons that can be added from the settings section. This is especially useful for eye-tracker device users, as the buttons allow to scroll the board without needing to slide the screen. To enable this feature, go to the settings section and look for the "enable big scroll buttons" switch. Toggle the switch and save the settings.
+
+![Omogući velike tipke za pomicanje](/images/help/bigScrollSettings.png 'Big scroll buttons settings')
+
+Zatim biste trebali vidjeti nekoliko velikih gumba na vrhu i dnu ploče ako je dovoljno velika, kao što je prikazano na slici ispod:
+
+![Veliki gumbi za pomicanje](/images/help/bigScrollButtons.png 'Big scroll buttons')
 
 ### <a name='CanIchangeanynavigationsettings'></a>Mogu li promijeniti bilo koje navigacijske postavke?
 
@@ -175,7 +291,7 @@ Koristite odjeljak NAVIGACIJA za uređivanje i olakšavanje načina koji koristi
 
 Kako biste uredili i olakšali navigaciju kroz Cboard, odaberite NAVIGACIJA, posljednja stavka izbornika unutar SUSTAVA (sve u Postavkama). To vam omogućuje dodavanje određenih detalja za lakše korištenje ploče. Prva opcija unutar navigacije omogućuje veću tipku 'natrag' koju je lakše odabrati zbog veličine. Drugi dodaje gumb 'x' za lakše brisanje simbola, a treći olakšava otključavanje zahtijevajući samo jedan klik za otključavanje postavki.
 
-![Mogućnosti navigacije](/images/help/navigation.png "Navigation capabilities")
+![Mogućnosti navigacije](/images/help/navigation.png 'Navigation capabilities')
 
 ## <a name='Settings'></a>Postavke
 
@@ -193,7 +309,7 @@ Da biste ispisali svoju ploču, pritisnite logotip pisača na desnoj strani crne
 
 Kako biste prikazali Cboard u punom zaslonu, otključajte zaslon pritiskom na simbol lokota s desne strane, a zatim na najvišem redu (crna traka), drugi simbol s lijeve strane, koji izgleda kao pravokutnik, proširuje zaslon.
 
-![Mogućnosti punog zaslona](/images/help/fullscreen.png "Fullscreen")
+![Mogućnosti punog zaslona](/images/help/fullscreen.png 'Fullscreen')
 
 ### <a name='HowdoIshareaboard'></a>Kako podijeliti ploču?
 
@@ -207,7 +323,7 @@ Za prvo dijeljenje fraze potrebno je otključati zaslon, a zatim otvoriti postav
 
 ![Postavke za dijeljenje izraza](https://user-images.githubusercontent.com/21298844/128038972-a2848d47-2675-4e2d-9a15-6f93186f29d6.png)
 
-Sastavite izraz. Zatim pritisnite ikonu dijeljenja koja se pojavljuje s desne strane trake izlaznih izraza. Odaberite društvenu mrežu na kojoj želite podijeliti izraz. Jedan bi se dijaloški okvir otvorio s izrazom u polju za tekst. Pritisnite gumb za slanje da biste ga podijelili. Ako želite kopirati izraz u međuspremnik, pritisnite gumb za dijeljenje, a zatim opciju 'kopiraj u međuspremnik'. Jedna obavijest bi se prikazala na vašem zaslonu s porukom o uspjehu.
+Assemble a phrase. Then press the share icon that appears on the right of the output phrase bar. Select the social network where you want to share the phrase. One dialog would be open with the phrase in a text field. Press the submit button to share it. If you want to copy the phrase on your clipboard, press the share button and then 'copy to clipboard' option. One Notification would be shown on your screen with a succes message.
 
 ![Gumb za dijeljenje izraza](https://user-images.githubusercontent.com/21298844/128044322-d61491c6-7168-4615-8117-244dc872091e.png)
 
@@ -230,7 +346,7 @@ Sastavite izraz. Zatim pritisnite ikonu dijeljenja koja se pojavljuje s desne st
 7. Dodajte riječ/frazu za izgovor
 
 8. Konačno, odaberite simbol mikrofona i snimite zvuk, možete snimati više puta i možete reproducirati zapis prije nego što ga spremite na ploču.
-    
+  
     Ako ste odabrali više simbola, pritiskom na SLJEDEĆI prijeđite na sljedeći simbol i ponovite postupak.
 
 <div><iframe width="420" height="315" src="https://www.youtube.com/embed/KZwCP4PkM4I" frameborder="0" allowfullscreen></iframe></div>
@@ -263,7 +379,7 @@ Nakon što ste imenovali mapu, možete prenijeti sliku na sličan način kao št
 
 Kako biste personalizirali postojeću ploču, odaberite LOKOT u gornjem desnom kutu trake iznad ploče, (ispod strelice s križićem). Nakon što to učinite, ispod crne POČETNE trake pojavit će se druga traka, a na lijevoj strani pronaći ćete malu ikonu bloka (UREDI) za dodavanje pločice ili ćelije. Nakon što je blok odabran, siva traka bi trebala postati plava, a na desnoj strani vidjet ćete malu kantu za smeće i olovku.
 
-![Personalizirajte postojeću ploču](/images/help/personalize.png "personalize an existing board")
+![Personalizirajte postojeću ploču](/images/help/personalize.png 'personalize an existing board')
 
 Da biste personalizirali ploču, odaberite olovku i moći ćete mijenjati tipku/pločicu/mapu, učitati sliku i dodati zvučni zapis.
 
@@ -293,13 +409,13 @@ Odaberite ikonu bloka UREDI na lijevoj strani trake ploče i odaberite piktogram
 
 Prema zadanim postavkama, kada se stvori nova ploča, Cboard će dodati **tečnu ploču**. U svakom slučaju, moguće je transformirati ploču u **fiksnu ploču**. Imaju sljedeće značajke:
 
-* Mreža se neće mijenjati za različite veličine zaslona ili orijentaciju uređaja. 
-* Broj redaka i stupaca je moguće konfigurirati. 
-* Pločice će imati fiksne položaje u mreži. 
+- Mreža se neće mijenjati za različite veličine zaslona ili orijentaciju uređaja.
+- Broj redaka i stupaca je moguće konfigurirati.
+- Pločice će imati fiksne položaje u mreži.
 
 Da biste ploču pretvorili u fiksnu ploču, jednostavno uredite ploču i prebacite opciju na alatnoj traci da bude fiksna. Vaša ploča će promijeniti svoj izgled i prikazat će se indikatori redaka i stupaca.
 
-![Fiksna ploča](/images/help/fixedBoard.png "Fixed board")
+![Fiksna ploča](/images/help/fixedBoard.png 'Fixed board')
 
 ### <a name='FixedRows'></a>Kako mogu postaviti određeni broj redaka i stupaca na svojoj ploči?
 
@@ -307,7 +423,7 @@ Prvo morate transformirati ploču u **fiksnu ploču** (pogledajte prethodnu temu
 
 <div><iframe width="420" height="315" src="https://www.youtube.com/embed/XEAz85zrZ70" frameborder="0" allowfullscreen></iframe></div>
 
-## <a name='Exportandimport-1'></a>Izvoz i učitavanje
+## <a name='Exportandimport'></a>Izvoz i učitavanje
 
 ### <a name='HowdoIexportmyboardinCboard'></a>Kako izvesti svoju ploču iz Cboarda?
 
@@ -323,30 +439,30 @@ Kako biste uvezli ploču, slijedite korake koji se koriste za izvoz. UČITAJ je 
 
 Za učitvanje i izvoz ploča imate dvije mogućnosti:
 
-* Koristite matične ploče datoteka Cboard.
-* Koristite OpenBoard formatirane datoteke. [Saznajte više o Open Board formatu](https://www.openboardformat.org/)
+- Koristite matične ploče datoteka Cboard.
+- Koristite OpenBoard formatirane datoteke. [Saznajte više o Open Board formatu](https://www.openboardformat.org/)
 
 ## <a name='Displaycapabilities-1'></a>Mogućnosti prikaza
 
-### <a name='WhatcanIchangeonthedisplay'></a>Što mogu promijeniti na zaslonu?
+### <a name='WhatcanIchangeonthedisplay'></a>What can I change on the display?
 
 Postavke zaslona mogu se uređivati u POSTAVKAMA, unutar kategorije SUSTAV. Opcija Prikaz nalazi se ispod Izvezi i Učitaj. Nakon što odaberete PRIKAZ, možete promijeniti veličinu korisničkog sučelja (UI) kao i veličinu fonta aplikacije odabirom veličine koju želite. Crvena točka bi trebala biti ispod veličine koju želite odabrati.
 
-### <a name='CanIresizebuttonsonCboard'></a>Mogu li promijeniti veličinu gumba na ploči?
+### <a name='CanIresizebuttonsonCboard'></a>Can I resize buttons on Cboard?
 
 Da! Možete promijeniti veličinu pločica ili gumba u POSTAVKAMA. U kategoriji SUSTAV odaberite PRIKAZ i dobit ćete 3 opcije za veličinu: Standardna, Velika, Ekstra velika. Pogledajte sliku u nastavku:
 
-![Mogućnosti prikaza](/images/help/display.png "Display capabilities")
+![Mogućnosti prikaza](/images/help/display.png 'Display capabilities')
 
-### <a name='BigScrollButtons'></a>Pomicanje zaslona kroz velike gumbe
+### <a name='BigScrollButtons'></a>Screen scroll through big buttons
 
-Također je moguće pomicati gore i dolje po ploči pomoću nekoliko velikih gumba koji se mogu dodati iz odjeljka postavki. Ovo je posebno korisno za korisnike uređaja za praćenje pogleda jer gumbi omogućuju pomicanje ploče bez potrebe za pomicanjem zaslona. Da biste omogućili ovu značajku, idite na odjeljak postavki i potražite prekidač "omogući velike gumbe za pomicanje". Uključite prekidač i spremite postavke. Pogledajte sliku u nastavku:
+It is also possible to scroll up and down a board using a couple of big buttons that can be added from the settings section. This is especially useful for eye-tracker device users, as the buttons allow to scroll the board without needing to slide the screen. To enable this feature, go to the settings section and look for the "enable big scroll buttons " switch. Toggle the switch and save the settings. See figure below:
 
-![Omogući velike tipke za pomicanje](/images/help/bigScrollSettings.png "Big scroll buttons settings")
+![Enable big scroll buttons](/images/help/bigScrollSettings.png 'Big scroll buttons settings')
 
-Zatim biste trebali vidjeti nekoliko velikih gumba na vrhu i dnu ploče ako je dovoljno velika, kao što je prikazano na slici ispod:
+Then, you should see a couple of big buttons at the top and the bottom of a board if it is large enough, as displayed in the below image:
 
-![Veliki gumbi za pomicanje](/images/help/bigScrollButtons.png "Big scroll buttons")
+![Big scroll buttons](/images/help/bigScrollButtons.png 'Big scroll buttons')
 
 ## <a name='Scanning'></a>Skeniranje
 
@@ -360,36 +476,35 @@ Skeniranje je mjesto gdje se stavke u skupu za odabir prikazuju sekvencijalno ti
 
 Izradi komunikator je značajka koja vam omogućuje rukovanje pločama kako biste ih kopirali, brisali, objavljivali, dodavali i uklanjali. Kako biste pristupili funkcionalnosti morate otključati postavke i kliknuti na gumb 'Izradi'. Vidjet ćete novu stranicu strukturiranu na tri različite kartice: ploče, javne ploče, sve moje ploče. Pogledajte sliku u nastavku:
 
-![Izrada Komunikatora](/images/help/communicator.png "Communicator builder")
+![Izrada Komunikatora](/images/help/communicator.png 'Communicator builder')
 
 ### <a name='CommunicatorBoards'></a>Ploče Komunikatora
 
 Zadana kartica koju ćete vidjeti u komunikatoru je kartica komunikatorskih ploča, koja će prikazati sve ploče uključene u vaš komunikator. Možete napraviti promjene u svom komunikatoru pomoću sljedećih akcijskih gumba:
 
-* Ukloni ploču iz komunikatora: ovaj će gumb napustiti ploču iz komunikatora, ali NEĆE izbrisati ploču iz baze podataka i ona je i dalje dostupna na kartici "Sve moje ploče".
+- Ukloni ploču iz komunikatora: ovaj će gumb napustiti ploču iz komunikatora, ali NEĆE izbrisati ploču iz baze podataka i ona je i dalje dostupna na kartici "Sve moje ploče".
 
-* Postavi ploču kao root: ovaj će gumb definirati ploču kao prvu ploču koja će se prikazati svaki put kad se prijavite na Cboard.
+- Postavi ploču kao root: ovaj će gumb definirati ploču kao prvu ploču koja će se prikazati svaki put kad se prijavite na Cboard.
 
-![Ploče Komunikatora](/images/help/communicatorBoards.png "Communicator boards")
+![Ploče Komunikatora](/images/help/communicatorBoards.png 'Communicator boards')
 
 ### <a name='PublicBoards'></a>Javne ploče
 
-* Kopiraj ploču: ovaj gumb će kreirati kopiju ploče i dodati ju u vaš komunikator. Budući da je ovo kopija javne ploče, možete urediti ovu ploču kako želite bez utjecaja na izvornu javnu ploču.
+- Kopiraj ploču: ovaj gumb će kreirati kopiju ploče i dodati ju u vaš komunikator. Budući da je ovo kopija javne ploče, možete urediti ovu ploču kako želite bez utjecaja na izvornu javnu ploču.
 
-![Javne ploče](/images/help/PublicBoards.png "Public boards")
+![Javne ploče](/images/help/PublicBoards.png 'Public boards')
 
 ### <a name='Allmyboards'></a>Sve moje ploče
 
 *Napomena: samo registrirani i prijavljeni korisnici imaju pristup ovoj kartici.
 
-* Ukloni ploču iz komunikatora: ovaj će gumb napustiti ploču iz komunikatora, ali NEĆE izbrisati ploču iz baze podataka i ona je i dalje dostupna.
+- Ukloni ploču iz komunikatora: ovaj će gumb napustiti ploču iz komunikatora, ali NEĆE izbrisati ploču iz baze podataka i ona je i dalje dostupna.
 
-* Dodajte ploču u komunikator: ovaj će gumb uključivati ploču u komunikator.
+- Dodajte ploču u komunikator: ovaj će gumb uključivati ploču u komunikator.
 
-* Objavi ploču: Ova radnja će učiniti ploču javnom i bit će prikazana pod karticom javnih ploča. Svatko može vidjeti vašu ploču.
-    
- * Poništavanje objave ploče: Ova će radnja učiniti ploču privatnom i neće biti prikazana pod karticom javnih ploča. Nitko ne može vidjeti vašu ploču.
-    
- * Izbriši ploču: Ova radnja će izbrisati ploču i ne može se vratiti. Ploča će biti uklonjena iz baze podataka.
+- Objavi ploču: Ova radnja će učiniti ploču javnom i bit će prikazana pod karticom javnih ploča. Svatko može vidjeti vašu ploču.
 
-![Sve moje ploče](/images/help/AllmyBoards.png "All my boards")
+- Poništavanje objave ploče: Ova će radnja učiniti ploču privatnom i neće biti prikazana pod karticom javnih ploča. Nitko ne može vidjeti vašu ploču.
+- Izbriši ploču: Ova radnja će izbrisati ploču i ne može se vratiti. Ploča će biti uklonjena iz baze podataka.
+
+![Sve moje ploče](/images/help/AllmyBoards.png 'All my boards')

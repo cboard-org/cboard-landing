@@ -1,7 +1,7 @@
 ---
-title: Rezultati cboard pilota - Timor Leste
+title: 'Rezultati cboard pilota - Timor Leste'
 date: 2024-01-20
-description: Konačni ishodi pilota u Timor Lesteu dostupni su za preuzimanje
+description: 'Konačni ishodi pilota u Timor Lesteu dostupni su za preuzimanje'
 categories:
   - ploča
   - Microsoft

@@ -26,15 +26,15 @@ One of our favorite parts of the summit was exploring the stands and exhibitions
 We also attended several insightful presentations. Some standout sessions included:
 
 - **AI for Development:** Bridging the Barrier Between Non-Standard Speech and the Use of Automatic Speech Recognition.
- **Hosted by:** Google, Global Disability Innovation Hub, Centre for Digital Language Inclusion
- This session explored cutting-edge approaches to making speech recognition technology more inclusive for individuals with non-standard speech patterns.
+  **Hosted by:** Google, Global Disability Innovation Hub, Centre for Digital Language Inclusion
+  This session explored cutting-edge approaches to making speech recognition technology more inclusive for individuals with non-standard speech patterns.
 
 - **Technology, Innovation, and Entrepreneurship:** Supporting Independent Living for Persons with Disabilities
- **Hosted by:** League of Arab States, International Disability Alliance (IDA), Arab Organization for Persons with Disabilities (AOPD), Executive Bureau – Council of Ministers of Labour and Social Affairs in GCC (GCCLSA)
- A powerful discussion on how innovation and entrepreneurship can promote autonomy and independent living for people with disabilities across diverse regions.
+  **Hosted by:** League of Arab States, International Disability Alliance (IDA), Arab Organization for Persons with Disabilities (AOPD), Executive Bureau – Council of Ministers of Labour and Social Affairs in GCC (GCCLSA)
+  A powerful discussion on how innovation and entrepreneurship can promote autonomy and independent living for people with disabilities across diverse regions.
 
 - **Ensuring Disability Inclusion at Leading Global AI Conference**
- **Hosted by:** Zero Project & Microsoft
- This session focused on how AI is being used to support people with disabilities, featuring real-world examples of ongoing projects. It was especially relevant to us, as we're currently working with Microsoft through the AI for Accessibility Grant.
+  **Hosted by:** Zero Project & Microsoft
+  This session focused on how AI is being used to support people with disabilities, featuring real-world examples of ongoing projects. It was especially relevant to us, as we're currently working with Microsoft through the AI for Accessibility Grant.
 
 We left the summit inspired, informed, and even more committed to contributing to a more inclusive digital future.

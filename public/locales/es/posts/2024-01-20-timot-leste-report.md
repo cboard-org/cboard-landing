@@ -1,7 +1,7 @@
 ---
-title: Resultados del piloto de Cboard - Timor Oriental
+title: 'Resultados del piloto de Cboard - Timor Oriental'
 date: 2024-01-20
-description: Los resultados finales del proyecto piloto en Timor Oriental están disponibles para su descarga
+description: 'Los resultados finales del proyecto piloto en Timor Oriental están disponibles para su descarga'
 categories:
   - Cboard
   - Microsoft

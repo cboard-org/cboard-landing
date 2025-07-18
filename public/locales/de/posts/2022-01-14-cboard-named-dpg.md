@@ -1,5 +1,5 @@
 ---
-title: Cboard in die Digital Public Goods Alliance aufgenommen!
+title: 'Cboard in die Digital Public Goods Alliance aufgenommen!'
 date: 2022-01-14
 description: Das Ziel der DPGA und ihres Registers ist es, digitale öffentliche Güter zu fördern, um eine gerechtere Welt zu schaffen.
 categories:

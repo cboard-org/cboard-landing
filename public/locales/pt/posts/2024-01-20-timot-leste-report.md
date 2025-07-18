@@ -1,7 +1,7 @@
 ---
-title: Resultados do piloto de cboard - Timor Leste
+title: 'Resultados do piloto de cboard - Timor Leste'
 date: 2024-01-20
-description: Resultados finais do piloto em Timor-Leste estão disponíveis para download
+description: 'Resultados finais do piloto em Timor-Leste estão disponíveis para download'
 categories:
   - Tábua
   - A Microsoft
