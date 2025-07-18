@@ -44,7 +44,7 @@ function Footer(props) {
     {
       title: t('footer_resources'),
       description: [t('title_help'), t('title_faq'), t('title_blog'), t('title_pricing')],
-      link: ['#resource', '#resource-name', '/blog', '/pricing'],
+      link: ['/help', '#resource-name', '/blog', '/pricing'],
     },
     {
       title: t('footer_legal'),
