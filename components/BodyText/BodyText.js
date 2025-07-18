@@ -5,8 +5,10 @@ import { useTheme } from '@mui/material/styles';
 import ReactMarkdown from 'react-markdown';
 import { motion } from 'framer-motion';
 import Grid from '@mui/material/Grid';
-import useStyles from './bodytext-style';
 import { useText } from 'theme/common';
+import useStyles from './bodytext-style';
+import rehypeRaw from 'rehype-raw'
+import PropTypes from 'prop-types';
 
 function BodyText(props) {
   const { classes, cx } = useStyles();
@@ -22,27 +24,28 @@ function BodyText(props) {
     const fetchContent = async () => {
       const data = await fetch(props.filePath).then(res => res.text());
       setContent(data);
-
-    }
+    };
     fetchContent().catch(console.error);
   }, []);
 
   return (
     <div className={classes.root} ref={elem}>
       <motion.div>
-        <Container>
+        <Container className={classes.containerWrap}>
           <Grid container>
             <div className={classes.text}>
-              {content &&
-                <ReactMarkdown skipHtml={true}>
+              {content
+                && (
+                <ReactMarkdown rehypePlugins={[rehypeRaw]}>
                   {content}
-                </ReactMarkdown>}
+                </ReactMarkdown>
+)}
             </div>
           </Grid>
         </Container>
       </motion.div>
     </div>
-  )
+  );
 }
 
 export default BodyText;

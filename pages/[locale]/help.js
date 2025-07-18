@@ -40,7 +40,7 @@ const useStyles = makeStyles({ uniqId: 'home' })(theme => ({
   }
 }));
 
-function PrivacyPage(props) {
+function HelpPage(props) {
   const { classes } = useStyles();
   const { onToggleDark, onToggleDir } = props;
   const isTablet = useMediaQuery(theme => theme.breakpoints.down('lg'));
@@ -49,9 +49,9 @@ function PrivacyPage(props) {
   return (
     <Fragment>
       <HTMLHead
-        title={brand.cboard.name + ' | ' + t('title_privacy') + ' - ' + t('title_slogan')}
+        title={brand.cboard.name + ' | ' + t('title_help') + ' - ' + t('title_slogan')}
         locale={props.locale}
-        page="privacy"
+        page="help"
       />
       <CssBaseline />
       <MainContainer
@@ -62,12 +62,12 @@ function PrivacyPage(props) {
         <Fragment>
           <div className={classes.title}>
             <Title align="center">
-              {t('title_privacy')}
+              {t('title_help')}
             </Title>
           </div>
           <main className={classes.containerWrap}>
             <section id="bodytext">
-              <BodyText filePath="/locales/en/privacy.md" />
+              <BodyText filePath="/locales/en/help/help.md" />
             </section>
           </main>
           {!isTablet && (
@@ -79,7 +79,7 @@ function PrivacyPage(props) {
   );
 }
 
-PrivacyPage.propTypes = {
+HelpPage.propTypes = {
   locale: PropTypes.string.isRequired,
   onToggleDark: PropTypes.func.isRequired,
   onToggleDir: PropTypes.func.isRequired,
@@ -92,4 +92,4 @@ PrivacyPage.propTypes = {
 const getStaticProps = makeStaticProps(['common']);
 export { getStaticPaths, getStaticProps };
 
-export default PrivacyPage;
+export default HelpPage;
