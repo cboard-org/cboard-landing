@@ -13,13 +13,13 @@ const imgAPI = {
     '/images/avatars/pp_boy5.svg'
   ],
   team: [
-    '/images/team/martinbedouret.jpg',
-    '/images/team/katrina.jpeg',
-    '/images/team/tomivm.jpeg',
-    '/images/team/rodrisanchez.jpeg',
-    '/images/team/hectorcosta.jpg',
+    '/images/team/martin.jpg',
+    '/images/team/katrina.jpg',
+    '/images/team/tomas.jpg',
+    '/images/team/rodrigo.jpg',
+    '/images/team/hector.jpg',
     '/images/team/julieta.png',
-    '/images/team/shaycojocaru.jpg'
+    '/images/team/shay.jpg'
   ],
   photo: [
     '/images/mobile/pilot-timor.jpg',
