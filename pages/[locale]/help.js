@@ -42,7 +42,7 @@ const useStyles = makeStyles({ uniqId: 'home' })(theme => ({
 
 function HelpPage(props) {
   const { classes } = useStyles();
-  const { onToggleDark, onToggleDir } = props;
+  const { onToggleDark, onToggleDir, locale } = props;
   const isTablet = useMediaQuery(theme => theme.breakpoints.down('lg'));
   const { t } = useTranslation('common');
 
@@ -50,7 +50,7 @@ function HelpPage(props) {
     <Fragment>
       <HTMLHead
         title={brand.cboard.name + ' | ' + t('title_help') + ' - ' + t('title_slogan')}
-        locale={props.locale}
+        locale={locale}
         page="help"
       />
       <CssBaseline />
@@ -67,7 +67,7 @@ function HelpPage(props) {
           </div>
           <main className={classes.containerWrap}>
             <section id="bodytext">
-              <BodyText filePath="/locales/en/help/help.md" />
+              <BodyText filePath={`/locales/${locale}/help/help.md`} />
             </section>
           </main>
           {!isTablet && (

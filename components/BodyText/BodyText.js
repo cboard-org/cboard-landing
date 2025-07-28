@@ -15,9 +15,6 @@ function BodyText(props) {
   const { classes: text } = useText();
   const [content, setContent] = useState('');
   const theme = useTheme();
-  const isDesktop = useMediaQuery(theme.breakpoints.up('lg'));
-  const isTablet = useMediaQuery(theme.breakpoints.down('lg'));
-  const isMobile = useMediaQuery(theme.breakpoints.down('md'));
   const elem = useRef(null);
 
   useEffect(() => {
