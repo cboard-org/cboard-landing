@@ -19,7 +19,8 @@ const imgAPI = {
     '/images/team/rodrigo.jpg',
     '/images/team/hector.jpg',
     '/images/team/julieta.png',
-    '/images/team/shay.jpg'
+    '/images/team/shay.jpg',
+    '/images/team/cosmo.jpg',
   ],
   photo: [
     '/images/mobile/pilot-timor.jpg',
