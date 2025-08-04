@@ -92,6 +92,12 @@ function Team() {
       avatar: imgAPI.team[6],
       name: 'Shay Cojocaru',
       title: t('team.title7'),
+    },
+    {
+      text: t('team.text8'),
+      avatar: imgAPI.team[7],
+      name: 'Cosmo',
+      title: t('team.title8'),
     }
   ];
 
