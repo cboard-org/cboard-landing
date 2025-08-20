@@ -82,32 +82,35 @@ function VoiceCloning() {
   };
 
   const sendApplicationEmail = async () => {
-    const body = {
-      firstName: values.firstName,
-      lastName: values.lastName,
-      email: values.email,
-      phone: values.phone,
-      dob: values.dob,
-      gender: values.gender,
-      address: values.address,
-      city: values.city,
-      county: values.county,
-      contactPersonName: values.contactPersonName,
-      contactEmail: values.contactEmail,
-      contactPhone: values.contactPhone,
-      primaryDiagnosis: values.primaryDiagnosis,
-      dateOfDiagnosis: values.dateOfDiagnosis,
-      hospital: values.hospital,
-      source: 'Voice Cloning Application',
-    };
+    // Create FormData to handle file uploads
+    const formData = new FormData();
+    formData.append('firstName', values.firstName);
+    formData.append('lastName', values.lastName);
+    formData.append('email', values.email);
+    formData.append('phone', values.phone);
+    formData.append('dob', values.dob);
+    formData.append('gender', values.gender);
+    formData.append('address', values.address);
+    formData.append('city', values.city);
+    formData.append('county', values.county);
+    formData.append('contactPersonName', values.contactPersonName);
+    formData.append('contactEmail', values.contactEmail);
+    formData.append('contactPhone', values.contactPhone);
+    formData.append('primaryDiagnosis', values.primaryDiagnosis);
+    formData.append('dateOfDiagnosis', values.dateOfDiagnosis);
+    formData.append('hospital', values.hospital);
+    formData.append('source', 'Voice Cloning Application');
+    
+    // Append file if it exists
+    if (values.certificate) {
+      formData.append('certificate', values.certificate);
+    }
 
     try {
       const res = await fetch('/api/voice-cloning-email', {
         method: 'POST',
-        headers: {
-          'Content-Type': 'application/json'
-        },
-        body: JSON.stringify(body),
+        // Remove Content-Type header to let the browser set it with boundary for FormData
+        body: formData,
       });
 
       if (res.status === 200) {
