@@ -173,7 +173,7 @@ export default async function handler(req, res) {
     if (error.response) {
       console.error('SendGrid Error Response:', error.response.body);
     }
-    
+
     // Clean up the uploaded file even on error
     if (certificateFile && certificateFile.filepath) {
       try {
@@ -182,7 +182,7 @@ export default async function handler(req, res) {
         console.warn('Warning: Could not delete temporary file:', unlinkError.message);
       }
     }
-    
+
     return res.status(500).json({
       message: 'Failed to send application emails: ' + error.message
     });

@@ -36,7 +36,11 @@ function Partnership() {
             className={classes.logo}
           />
           <span className={classes.plusSymbol}>+</span>
-          <div className={classes.logoPlaceholder}>ElevenLabs</div>
+          <img
+            src="/images/logos/elevenlabs.png"
+            alt="ElevenLabs Logo"
+            className={classes.logo}
+          />
         </div>
 
         <div className={classes.content}>

@@ -47,9 +47,7 @@ function VoiceCloning(props) {
             </section>
           </main>
           {!isTablet && (
-            <Fragment>
-              <PageNav />
-            </Fragment>
+            <PageNav />
           )}
         </Fragment>
       </MainContainer>

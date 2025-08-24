@@ -1,3 +1,4 @@
+/* eslint-disable react/prop-types */
 import React, { Fragment } from 'react';
 import PropTypes from 'prop-types';
 import useMediaQuery from '@mui/material/useMediaQuery';
@@ -67,9 +68,9 @@ function PricingPage(props) {
   return (
     <Fragment>
       <HTMLHead
-        title={brand.cboard.name + ' | ' + t("title_pricing") + ' - ' + t("title_slogan")}
+        title={brand.cboard.name + ' | ' + t('title_pricing') + ' - ' + t('title_slogan')}
         locale={locale}
-        page='pricing'
+        page="pricing"
       />
       <CssBaseline />
       <MainContainer

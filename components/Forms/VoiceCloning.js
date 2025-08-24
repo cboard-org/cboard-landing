@@ -1,4 +1,6 @@
-import React, { useState, useEffect, Fragment, useMemo } from 'react';
+import React, {
+ useState, useEffect, useMemo
+} from 'react';
 import Button from '@mui/material/Button';
 import useMediaQuery from '@mui/material/useMediaQuery';
 import IconButton from '@mui/material/IconButton';
@@ -59,14 +61,12 @@ function VoiceCloning() {
   const [check, setCheck] = useState(false);
 
   // Prepare sorted countries list from world-countries library
-  const sortedCountries = useMemo(() => {
-    return countries
+  const sortedCountries = useMemo(() => countries
       .map(country => ({
         value: country.cca2.toLowerCase(), // Use ISO country code as value
         label: country.name.common
       }))
-      .sort((a, b) => a.label.localeCompare(b.label));
-  }, []);
+      .sort((a, b) => a.label.localeCompare(b.label)), []);
 
   const handleChange = name => event => {
     if (name === 'certificate') {
@@ -100,7 +100,7 @@ function VoiceCloning() {
     formData.append('dateOfDiagnosis', values.dateOfDiagnosis);
     formData.append('hospital', values.hospital);
     formData.append('source', 'Voice Cloning Application');
-    
+
     // Append file if it exists
     if (values.certificate) {
       formData.append('certificate', values.certificate);
@@ -180,40 +180,37 @@ function VoiceCloning() {
             </Typography>
             <div className={classes.form}>
               {openNotif && (
-                <Fragment>
-                  <div className={classes.emailResponseMsg}>
-                    <CheckCircle
-                      className={classes.emailSuccessIcon}
-                      fontSize="large"
-                      color="green" />
-                    <Typography
-                      variant="h4"
-                      align="center"
-                      className={classes.emailSuccess}
-                      gutterBottom
-                    >
-                      {t('voice_cloning_success')}
-                    </Typography>
-                  </div>
-                </Fragment>
+                <div className={classes.emailResponseMsg}>
+                  <CheckCircle
+                    className={classes.emailSuccessIcon}
+                    fontSize="large"
+                    color="green"
+                  />
+                  <Typography
+                    variant="h4"
+                    align="center"
+                    className={classes.emailSuccess}
+                    gutterBottom
+                  >
+                    {t('voice_cloning_success')}
+                  </Typography>
+                </div>
               )}
               {openErrorNotif && (
-                <Fragment>
-                  <div className={classes.emailResponseMsg}>
-                    <ErrorIcon
-                      className={classes.emailErrorIcon}
-                      fontSize="large"
-                    />
-                    <Typography
-                      variant="h4"
-                      align="center"
-                      className={classes.emailError}
-                      gutterBottom
-                    >
-                      {t('voice_cloning_error')}
-                    </Typography>
-                  </div>
-                </Fragment>
+                <div className={classes.emailResponseMsg}>
+                  <ErrorIcon
+                    className={classes.emailErrorIcon}
+                    fontSize="large"
+                  />
+                  <Typography
+                    variant="h4"
+                    align="center"
+                    className={classes.emailError}
+                    gutterBottom
+                  >
+                    {t('voice_cloning_error')}
+                  </Typography>
+                </div>
               )}
 
               {!openNotif && !openErrorNotif && (
@@ -225,7 +222,7 @@ function VoiceCloning() {
                   <Typography variant="h5" gutterBottom sx={{ mt: 2, mb: 2, fontWeight: 'bold' }}>
                     {t('voice_cloning_personal_info')}
                   </Typography>
-                  
+
                   <Grid2 container spacing={4}>
                     <Grid2 size={{ xs: 12, md: 6 }}>
                       <TextValidator
@@ -372,7 +369,7 @@ function VoiceCloning() {
                   <Typography variant="body2" color="textSecondary" sx={{ mb: 2 }}>
                     {t('voice_cloning_alt_contact_desc')}
                   </Typography>
-                  
+
                   <Grid2 container spacing={4}>
                     <Grid2 size={{ xs: 12, md: 4 }}>
                       <TextValidator
@@ -412,7 +409,7 @@ function VoiceCloning() {
                   <Typography variant="h5" gutterBottom sx={{ mt: 4, mb: 2, fontWeight: 'bold' }}>
                     {t('voice_cloning_medical_info')}
                   </Typography>
-                  
+
                   <Grid2 container spacing={4}>
                     <Grid2 size={{ xs: 12, md: 6 }}>
                       <TextValidator
@@ -460,7 +457,7 @@ function VoiceCloning() {
                   <Typography variant="body2" color="textSecondary" sx={{ mb: 2 }}>
                     {t('voice_cloning_forms_desc')}
                   </Typography>
-                  
+
                   <Grid2 container spacing={4}>
                     <Grid2 size={{ xs: 12 }}>
                       <Button

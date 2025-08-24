@@ -7,7 +7,7 @@ export default async function handler(req, res) {
 
   sgMail.setApiKey(process.env.SENDGRID_API_KEY);
   const body = JSON.parse(req.body);
-  
+
   const {
     firstName,
     lastName,
@@ -77,37 +77,6 @@ export default async function handler(req, res) {
         <h2 style="color: #ff6b35;">New Voice Cloning Application</h2>
         <p><strong>Application ID:</strong> ${applicationId}</p>
         <p><strong>Submitted:</strong> ${submittedAt}</p>
-        
-        <h3 style="color: #2196F3;">Personal Information</h3>
-        <ul>
-          <li><strong>Name:</strong> ${displayName}</li>
-          <li><strong>Email:</strong> ${email}</li>
-          <li><strong>Phone:</strong> ${phone || 'Not provided'}</li>
-          <li><strong>Date of Birth:</strong> ${dob || 'Not provided'}</li>
-          <li><strong>Gender:</strong> ${gender || 'Not provided'}</li>
-          <li><strong>Address:</strong> ${address || 'Not provided'}</li>
-          <li><strong>City:</strong> ${city || 'Not provided'}</li>
-          <li><strong>County:</strong> ${county || 'Not provided'}</li>
-        </ul>
-        
-        <h3 style="color: #2196F3;">Alternative Contact Information</h3>
-        <ul>
-          <li><strong>Contact Person:</strong> ${contactPersonName || 'Not provided'}</li>
-          <li><strong>Contact Email:</strong> ${contactEmail || 'Not provided'}</li>
-          <li><strong>Contact Phone:</strong> ${contactPhone || 'Not provided'}</li>
-        </ul>
-        
-        <h3 style="color: #2196F3;">Medical Information</h3>
-        <ul>
-          <li><strong>Primary Diagnosis:</strong> ${primaryDiagnosis || 'Not provided'}</li>
-          <li><strong>Date of Diagnosis:</strong> ${dateOfDiagnosis || 'Not provided'}</li>
-          <li><strong>Hospital:</strong> ${hospital || 'Not provided'}</li>
-        </ul>
-        
-        <p><strong>Source:</strong> ${source || 'Voice Cloning Application'}</p>
-      </div>
-    `,
-  };
         
         <h3 style="color: #2196F3;">Personal Information</h3>
         <ul>

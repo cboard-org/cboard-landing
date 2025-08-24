@@ -10,23 +10,27 @@ const useStyles = makeStyles({ uniqId: 'partnership' })((theme) => ({
     minHeight: 1500,
     paddingTop: theme.spacing(20),
     [theme.breakpoints.down('sm')]: {
-      paddingBottom: theme.spacing(23),
+      paddingBottom: theme.spacing(45),
     },
     [theme.breakpoints.down('md')]: {
-      paddingBottom: theme.spacing(40),
+      paddingBottom: theme.spacing(50),
+    },
+    [theme.breakpoints.down('lg')]: {
+      paddingBottom: theme.spacing(60),
+    },
+    [theme.breakpoints.down('xl')]: {
+      paddingBottom: theme.spacing(60),
     },
   },
   container: {
     maxWidth: 1140,
     margin: '0 auto',
-    padding: theme.spacing(0, 2),
-    [theme.breakpoints.down('md')]: {
-      padding: theme.spacing(0, 1),
+    [theme.breakpoints.down('sm')]: {
+      marginBottom: 0,
     },
   },
   header: {
     textAlign: 'center',
-    marginBottom: theme.spacing(8),
     [theme.breakpoints.down('md')]: {
       marginBottom: theme.spacing(6),
     },
@@ -45,13 +49,15 @@ const useStyles = makeStyles({ uniqId: 'partnership' })((theme) => ({
     },
   },
   subtitle: {
-    fontSize: '1.25rem',
+    fontSize: '1.5rem',
+    textAlign: 'center',
+    padding: theme.spacing(1),
     color: theme.palette.text.secondary,
     fontWeight: 300,
     maxWidth: 600,
     margin: '0 auto',
     [theme.breakpoints.down('md')]: {
-      fontSize: '1.125rem',
+      fontSize: '1.25rem',
     },
   },
   content: {
@@ -103,18 +109,17 @@ const useStyles = makeStyles({ uniqId: 'partnership' })((theme) => ({
     justifyContent: 'center',
     alignItems: 'center',
     gap: theme.spacing(4),
-    margin: theme.spacing(6, 0),
+    margin: theme.spacing(4, 0),
     [theme.breakpoints.down('md')]: {
-      flexDirection: 'column',
       gap: theme.spacing(3),
-      margin: theme.spacing(4, 0),
+      margin: theme.spacing(2, 0),
     },
   },
   logo: {
-    maxHeight: 80,
+    maxHeight: 60,
     width: 'auto',
     [theme.breakpoints.down('md')]: {
-      maxHeight: 60,
+      maxHeight: 40,
     },
   },
   logoPlaceholder: {

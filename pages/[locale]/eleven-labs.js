@@ -1,3 +1,5 @@
+/* eslint-disable no-unused-vars */
+/* eslint-disable react/jsx-no-useless-fragment */
 import React, { Fragment } from 'react';
 import PropTypes from 'prop-types';
 import useMediaQuery from '@mui/material/useMediaQuery';
@@ -83,12 +85,6 @@ function ElevenLabsPage(props) {
               <Partnership />
             </section>
           </main>
-          {!isTablet && (
-            <Fragment>
-              <PageNav />
-              <Notification />
-            </Fragment>
-          )}
         </Fragment>
       </MainContainer>
     </Fragment>
