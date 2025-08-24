@@ -2,7 +2,6 @@ import { makeStyles } from 'tss-react/mui';
 import { lighten, darken } from '@mui/material/styles';
 import decoLightBottom from 'public/images/mobile/deco-light-top.svg';
 import decoDarkBottom from 'public/images/mobile/deco-dark-top.svg';
-import { t } from 'i18next';
 
 const pricingStyles = makeStyles({ uniqId: 'te22sti' })((theme, _params, classes) => ({
   root: {
