@@ -10,7 +10,6 @@ import AnchorLink from 'react-anchor-link-smooth-scroll';
 import { useTranslation } from 'next-i18next';
 import Scrollspy from 'react-scrollspy';
 import logo from 'public/images/cboard-logo.svg';
-import brand from 'public/text/brand';
 import linkRouter from 'public/text/link';
 import Link from '../Link';
 import Settings from './Settings';
@@ -102,7 +101,6 @@ function Header(props) {
                 {invert ? (
                   <Link href={linkRouter.mobile.home}>
                     <img src={logo} alt="logo" />
-                    {!isTablet && brand.cboard.projectName}
                   </Link>
                 ) : (
                   <Link href="/">
@@ -152,38 +150,48 @@ function Header(props) {
               {!invert && !isMobile && (
                 <Fragment>
                   <IconButton
-                    component={Link} href="https://www.facebook.com/cboardAAC"
+                    component={Link}
+                    href="https://www.facebook.com/cboardAAC"
                     aria-label="facebook"
                     className={classes.socialBtn}
-                    size="small">
+                    size="small"
+                  >
                     <i className="ion-logo-facebook" />
                   </IconButton>
                   <IconButton
-                    component={Link} href="https://www.instagram.com/cboardapp/"
+                    component={Link}
+                    href="https://www.instagram.com/cboardapp/"
                     aria-label="instagram"
                     className={classes.socialBtn}
-                    size="small">
+                    size="small"
+                  >
                     <i className="ion-logo-instagram" />
                   </IconButton>
                   <IconButton
-                    component={Link} href="https://www.linkedin.com/company/cboard/"
+                    component={Link}
+                    href="https://www.linkedin.com/company/cboard/"
                     aria-label="linkedin"
                     className={classes.socialBtn}
-                    size="small">
+                    size="small"
+                  >
                     <i className="ion-logo-linkedin" />
                   </IconButton>
                   <IconButton
-                    component={Link} href="https://www.youtube.com/channel/UCIdXJsQko7DVK-yApMQyV_Q"
+                    component={Link}
+                    href="https://www.youtube.com/channel/UCIdXJsQko7DVK-yApMQyV_Q"
                     aria-label="youtube"
                     className={classes.socialBtn}
-                    size="small">
+                    size="small"
+                  >
                     <i className="ion-logo-youtube" />
                   </IconButton>
                   <IconButton
-                    component={Link} href="https://x.com/cboard_io"
+                    component={Link}
+                    href="https://x.com/cboard_io"
                     aria-label="x"
                     className={classes.socialBtn}
-                    size="small">
+                    size="small"
+                  >
                     <i className="ion-logo-twitter" />
                   </IconButton>
                 </Fragment>
