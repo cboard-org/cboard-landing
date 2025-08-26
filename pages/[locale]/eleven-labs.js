@@ -1,16 +1,12 @@
-/* eslint-disable no-unused-vars */
 /* eslint-disable react/jsx-no-useless-fragment */
 import React, { Fragment } from 'react';
 import PropTypes from 'prop-types';
-import useMediaQuery from '@mui/material/useMediaQuery';
 import { makeStyles } from 'tss-react/mui';
 import { useTranslation } from 'next-i18next';
 import CssBaseline from '@mui/material/CssBaseline';
 import { getStaticPaths, makeStaticProps } from 'lib/getStatic';
 import brand from 'public/text/brand';
 import MainContainer from 'components/MainContainer';
-import PageNav from 'components/PageNav';
-import Notification from 'components/Notification';
 import Partnership from 'components/Partnership';
 import HTMLHead from 'components/HTMLHead';
 
@@ -63,7 +59,6 @@ const useStyles = makeStyles({ uniqId: 'eleven-labs' })(theme => ({
 function ElevenLabsPage(props) {
   const { classes } = useStyles();
   const { onToggleDark, onToggleDir, locale } = props;
-  const isTablet = useMediaQuery(theme => theme.breakpoints.down('lg'));
   const { t } = useTranslation('common');
 
   return (

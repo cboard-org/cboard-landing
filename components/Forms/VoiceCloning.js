@@ -1,4 +1,3 @@
-/* eslint-disable no-unused-vars */
 import React, {
  useState, useEffect, useMemo
 } from 'react';
@@ -17,8 +16,6 @@ import Typography from '@mui/material/Typography';
 import { ValidatorForm, TextValidator } from 'react-material-ui-form-validator';
 import { useTranslation } from 'next-i18next';
 import countries from 'world-countries';
-import brand from 'public/text/brand';
-import logo from 'public/images/cboard-logo.svg';
 import linkRouter from 'public/text/link';
 import Link from '../Link';
 import Checkbox from './Checkbox';
@@ -30,7 +27,6 @@ function VoiceCloning() {
   const { t } = useTranslation('common');
 
   const isTablet = useMediaQuery(theme => theme.breakpoints.down('md'));
-  const isDesktop = useMediaQuery(theme => theme.breakpoints.up('md'));
 
   const [values, setValues] = useState({
     firstName: '',
