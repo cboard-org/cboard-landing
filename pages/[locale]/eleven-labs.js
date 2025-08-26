@@ -1,4 +1,5 @@
-/* eslint-disable react/prop-types */
+/* eslint-disable no-unused-vars */
+/* eslint-disable react/jsx-no-useless-fragment */
 import React, { Fragment } from 'react';
 import PropTypes from 'prop-types';
 import useMediaQuery from '@mui/material/useMediaQuery';
@@ -10,11 +11,11 @@ import brand from 'public/text/brand';
 import MainContainer from 'components/MainContainer';
 import PageNav from 'components/PageNav';
 import Notification from 'components/Notification';
-import Pricing from 'components/Pricing';
+import Partnership from 'components/Partnership';
 import HTMLHead from 'components/HTMLHead';
 
 const sectionMargin = margin => (margin * 20);
-const useStyles = makeStyles({ uniqId: 'pricing' })(theme => ({
+const useStyles = makeStyles({ uniqId: 'eleven-labs' })(theme => ({
   mainWrap: {
     position: 'relative',
     width: '100%',
@@ -59,7 +60,7 @@ const useStyles = makeStyles({ uniqId: 'pricing' })(theme => ({
   }
 }));
 
-function PricingPage(props) {
+function ElevenLabsPage(props) {
   const { classes } = useStyles();
   const { onToggleDark, onToggleDir, locale } = props;
   const isTablet = useMediaQuery(theme => theme.breakpoints.down('lg'));
@@ -68,9 +69,9 @@ function PricingPage(props) {
   return (
     <Fragment>
       <HTMLHead
-        title={brand.cboard.name + ' | ' + t('title_pricing') + ' - ' + t('title_slogan')}
+        title={brand.cboard.name + ' | ' + t('partnership_page_title') + ' - ' + t('title_slogan')}
         locale={locale}
-        page="pricing"
+        page="eleven-labs"
       />
       <CssBaseline />
       <MainContainer
@@ -80,28 +81,23 @@ function PricingPage(props) {
       >
         <Fragment>
           <main className={classes.containerWrap}>
-            <section id="pricing">
-              <Pricing />
+            <section id="eleven-labs">
+              <Partnership />
             </section>
           </main>
-          {!isTablet && (
-            <Fragment>
-              <PageNav />
-              <Notification />
-            </Fragment>
-          )}
         </Fragment>
       </MainContainer>
     </Fragment>
   );
 }
 
-PricingPage.propTypes = {
+ElevenLabsPage.propTypes = {
   onToggleDark: PropTypes.func.isRequired,
   onToggleDir: PropTypes.func.isRequired,
+  locale: PropTypes.string.isRequired,
 };
 
 const getStaticProps = makeStaticProps(['common']);
 export { getStaticPaths, getStaticProps };
 
-export default PricingPage;
+export default ElevenLabsPage;
