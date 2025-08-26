@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 import React, {
  useState, useEffect, useMemo
 } from 'react';
@@ -148,16 +149,6 @@ function VoiceCloning() {
         <ParallaxDeco />
       </div>
 
-      {!isDesktop && (
-        <div className={cx(classes.logo, classes.logoHeader)}>
-          <Link href={linkRouter.mobile.home}>
-            <img src={logo} alt="logo" />
-            <Typography component="span">
-              {brand.cboard.projectName}
-            </Typography>
-          </Link>
-        </div>
-      )}
       <Container maxWidth="md" className={classes.innerWrap}>
         <IconButton component={Link} href={linkRouter.mobile.home} className={classes.backtohome} size="large">
           <span>

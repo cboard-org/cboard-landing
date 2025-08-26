@@ -1,12 +1,9 @@
 import { makeStyles } from 'tss-react/mui';
-import { alpha, lighten, darken } from '@mui/material/styles';
+import { alpha } from '@mui/material/styles';
 
 const useStyles = makeStyles({ uniqId: 'partnership' })((theme) => ({
   root: {
-    background:
-      theme.palette.mode === 'dark'
-        ? darken(theme.palette.primary.light, 0.6)
-        : lighten(theme.palette.primary.light, 0.8),
+    background: theme.palette.background.paper,
     minHeight: 1500,
     paddingTop: theme.spacing(20),
     [theme.breakpoints.down('sm')]: {
@@ -73,7 +70,10 @@ const useStyles = makeStyles({ uniqId: 'partnership' })((theme) => ({
   sectionTitle: {
     fontSize: '1.75rem',
     fontWeight: 600,
-    color: theme.palette.primary.main,
+    color:
+      theme.palette.mode === 'dark'
+        ? theme.palette.primary.light
+        : theme.palette.primary.dark,
     marginBottom: theme.spacing(3),
     [theme.breakpoints.down('md')]: {
       fontSize: '1.5rem',
@@ -92,7 +92,10 @@ const useStyles = makeStyles({ uniqId: 'partnership' })((theme) => ({
     },
   },
   highlight: {
-    background: alpha(theme.palette.primary.main, 0.1),
+    background:
+      theme.palette.mode === 'dark'
+        ? alpha(theme.palette.primary.main, 0.9)
+        : alpha(theme.palette.primary.main, 0.1),
     padding: theme.spacing(3),
     borderRadius: theme.spacing(1),
     borderLeft: `4px solid ${theme.palette.primary.main}`,
@@ -101,7 +104,10 @@ const useStyles = makeStyles({ uniqId: 'partnership' })((theme) => ({
   highlightText: {
     fontSize: '1.125rem',
     fontStyle: 'italic',
-    color: theme.palette.primary.dark,
+    color:
+      theme.palette.mode === 'dark'
+        ? theme.palette.primary.white
+        : theme.palette.primary.dark,
     margin: 0,
   },
   logoContainer: {
@@ -121,6 +127,14 @@ const useStyles = makeStyles({ uniqId: 'partnership' })((theme) => ({
     [theme.breakpoints.down('md')]: {
       maxHeight: 40,
     },
+    // Apply white filter for dark mode
+    ...(theme.palette.mode === 'dark' && {
+      filter: 'brightness(0) invert(1)',
+    }),
+    // Handle SVG fills
+    '& svg': {
+      fill: theme.palette.mode === 'dark' ? 'white' : 'currentColor',
+    },
   },
   logoPlaceholder: {
     display: 'flex',
@@ -128,7 +142,9 @@ const useStyles = makeStyles({ uniqId: 'partnership' })((theme) => ({
     justifyContent: 'center',
     height: 80,
     width: 200,
-    background: '#2563eb',
+    background: theme.palette.mode === 'dark'
+      ? theme.palette.primary.main
+      : '#2563eb',
     color: 'white',
     fontWeight: 'bold',
     fontSize: '1.5rem',
@@ -141,7 +157,9 @@ const useStyles = makeStyles({ uniqId: 'partnership' })((theme) => ({
   },
   plusSymbol: {
     fontSize: '3rem',
-    color: theme.palette.primary.main,
+    color: theme.palette.mode === 'dark'
+      ? theme.palette.primary.light
+      : theme.palette.primary.main,
     fontWeight: 300,
     [theme.breakpoints.down('md')]: {
       fontSize: '2rem',

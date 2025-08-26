@@ -95,7 +95,10 @@ const contactStyles = makeStyles({ uniqId: 'form' })((theme, _params, classes) =
   innerWrap: {
     position: 'relative',
     textAlign: 'left',
-    zIndex: 1
+    zIndex: 1,
+    [theme.breakpoints.down('sm')]: {
+      margin: theme.spacing(4, 0),
+    },
   },
   fullFromWrap: {
     zIndex: 1,
