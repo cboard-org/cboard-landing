@@ -1,7 +1,6 @@
 import { makeStyles } from 'tss-react/mui';
 import { alpha } from '@mui/material/styles';
 import flag from 'public/images/flag-logo.png';
-import { color } from 'framer-motion';
 
 const flagIcon = {
   width: 16,
@@ -30,6 +29,12 @@ const flagIcon = {
   },
   '&[class="pt"]': {
     backgroundPosition: '0 -79px'
+  },
+  '&[class="es"]': {
+    backgroundPosition: '0 -86px'
+  },
+  '&[class="hr"]': {
+    backgroundPosition: '0 -113px'
   },
 };
 

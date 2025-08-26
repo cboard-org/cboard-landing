@@ -11,9 +11,9 @@ import Switch from '@mui/material/Switch';
 import Divider from '@mui/material/Divider';
 import Grid from '@mui/material/Grid';
 import Typography from '@mui/material/Typography';
+import i18nextConfig from 'next-i18next.config';
 import LanguageSwitch from '../LangSwitch/Menu';
 import useStyles from './header-style';
-import i18nextConfig from 'next-i18next.config';
 
 let themeType = 'light';
 if (typeof Storage !== 'undefined') {
