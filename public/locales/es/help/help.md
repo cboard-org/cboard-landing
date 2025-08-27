@@ -17,7 +17,7 @@
   - [¿Qué idiomas son compatibles con Cboard?](#WhichlanguagesaresupportedbyCboard)
   - [¿Puede Cboard leer mi mensaje en voz alta?](#CanCboardreadmymessageoutaloud)
   - [Capacidades de habla](#Speechcapabilities)
-  - [¿Cómo funciona la comunicación en el Cboard?](#CommunicationWorkflow)
+  - [¿Cómo funciona la comunicación en Cboard?](#CommunicationWorkflow)
   - [¿Puedo cambiar la configuración de navegación?](#CanIchangeanynavigationsettings)
   - [Navegación a través de la interfaz.](#Navigationthroughtheinterface)
 - [Ajustes](#Settings) 
@@ -99,7 +99,7 @@ Para iniciar sesión en Cboard, sigue el primer paso utilizado para registrarse,
 
 ![Inicio de sesión de Cboard](/images/help/login.png 'Cboard login')
 
-### <a name='WhataredifferentoptionstoconfigureCboard'></a>¿Cuáles son las diferentes opciones para configurar la tarjeta?
+### <a name='WhataredifferentoptionstoconfigureCboard'></a>¿Cuáles son las diferentes opciones para configurar Cboard?
 
 Una vez que inicie sesión en Cboard, puede acceder a diferentes opciones para configurar y desarrollar el tablero de comunicación cuando Cboard está en modo desbloqueado.
 
@@ -110,8 +110,8 @@ Una vez que inicie sesión en Cboard, puede acceder a diferentes opciones para c
 - **Imprimir tablero**: Exportar el tablero actual como un PDF
 - **Pantalla completa**: Ingresa al modo de pantalla completa para una comunicación sin distracción
 - **Ajustes**: Acceda a las opciones de configuración completas
-- **Compartir**: Compartir foros a través de correo electrónico, redes sociales o enlaces directos
-- **Construir**: Acceda al constructor comunicador para administrar foros
+- **Compartir**: Compartir tableros por correo electrónico, redes sociales o enlaces directos
+- **Construir**: Acceda al creador de comunicadores para administrar tableros
 - **Editar**: Modifica los foros existentes y añade nuevos símbolos
 - **Tableros**: Navegar entre diferentes tableros de comunicación
 

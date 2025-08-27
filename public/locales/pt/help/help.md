@@ -110,7 +110,7 @@ Depois de entrar no Cboard, você pode acessar diferentes opções para configur
 - **Imprimir Board**: Exportar o board atual como um PDF
 - **Tela Cheia**: Entre no modo tela cheia para comunicações livres de distração
 - **Configurações**: Acessa opções de configuração abrangentes
-- **Share**: Share boards via email, social media, or direct links
+- **Compartilhar**: Compartilhe quadros por e-mail, mídia social ou links diretos
 - **Build**: Acesse o criador de comunicadores para gerenciar quadros
 - **Editar**: Modificar quadros existentes e adicionar novos símbolos
 - **Boards**: navegue entre diferentes quadros de comunicação
@@ -244,7 +244,7 @@ As configurações de exibição podem ser editadas em CONFIGURAÇÃO, dentro da
   - Padrão (padrão)
   - grande
   - Extra grande
-- **Hide the output bar**: Toggle to hide the white communication bar at the top where sentences are built
+- **Ocultar a barra de saída**: Alterne para ocultar a barra de comunicação branca na parte superior onde as frases são construídas
   
   - Caixa de seleção
   - Quando ativado, remove a área de construção da frase da visualização

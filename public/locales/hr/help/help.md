@@ -99,21 +99,21 @@ Da biste se prijavili na Cboard, slijedite prvi korak koji ste koristili za regi
 
 ![Cboard prijava](/images/help/login.png 'Cboard login')
 
-### <a name='WhataredifferentoptionstoconfigureCboard'></a>What are the different options to configure Cboard?
+### <a name='WhataredifferentoptionstoconfigureCboard'></a>Koje su različite opcije za konfiguriranje Cboarda?
 
 Nakon što se prijavite na Cboard, možete pristupiti različitim opcijama za konfiguriranje i razvoj komunikacijske ploče koja se nudi kada je Cboard u otključanom načinu rada. Pogledajte popis svih ključnih opcija u nastavku:
 
 ![Cboard postavke](/images/help/settings.png 'Cboard settings')
 
-**Unlocking the Interface:** To access advanced features, click the lock icon three times. This reveals additional controls including:
+**Otključavanje sučelja:** Za pristup naprednim značajkama kliknite ikonu lokota tri puta. To otkriva dodatne kontrole, uključujući:
 
-- **Print Board**: Export the current board as a PDF
-- **Full Screen**: Enter fullscreen mode for distraction-free communication
-- **Settings**: Access comprehensive configuration options
-- **Share**: Share boards via email, social media, or direct links
-- **Build**: Access the communicator builder for managing boards
-- **Edit**: Modify existing boards and add new symbols
-- **Boards**: Navigate between different communication boards
+- **Ploča za ispis**: Izvoz trenutne ploče kao PDF
+- **Cijeli zaslon**: Ulazak u način rada preko cijelog zaslona za komunikaciju bez ometanja
+- **Postavkama**: Pristup sveobuhvatnim mogućnostima konfiguracije
+- **Dijeliti**: Dijelite ploče putem e-pošte, društvenih medija ili izravnih veza
+- **Graditi**: Pristup sastavljaču komunikatora za upravljanje pločama
+- **Urediti**: Izmijenite postojeće ploče i dodajte nove simbole
+- **Daske**: Navigacija između različitih komunikacijskih ploča
 
 ### <a name='HowdoIlogout'></a>Kako se odjaviti?
 
@@ -137,37 +137,37 @@ Da biste promijenili zaporku, pošaljite nam e-mail na adresu support@cboard.io 
 
 ### <a name='HowmuchdoesCboardcost'></a>Koliko košta Cboard?
 
-Cboard offers multiple pricing options to suit different user needs:
+Cboard nudi više opcija cijena koje odgovaraju različitim potrebama korisnika:
 
-**Free Plan (\$0/Forever)**
+**Besplatni plan (\$0/zauvijek)**
 
-- Basic communication features
-- Access to symbol libraries
-- Board creation and editing
-- Limited feature set
+- Osnovne komunikacijske značajke
+- Pristup bibliotekama simbola
+- Izrada i uređivanje ploče
+- Ograničeni skup značajki
 
-**Pro Monthly Plan (\$8/Month)**
+**Pro mjesečni plan (\$8/mjesečno)**
 
-- All free features plus:
-- Online neural voices
-- Copy public boards
-- Publish boards
-- Copy tiles
-- Powerful usage analytics
-- Share boards
-- Ads free experience
-- Export to Open Board Format (OBF)
-- Share phrases
-- Private support channel
-- Voice recording for tiles
+- Sve besplatne značajke plus:
+- Internetski neuronski glasovi
+- Kopiranje javnih ploča
+- Objavite ploče
+- Kopiranje pločica
+- Moćna analitika korištenja
+- Dijeljenje ploča
+- Doživljaj bez oglasa
+- Izvoz u format otvorene ploče (OBF)
+- Dijeljenje fraza
+- Privatni kanal podrške
+- Snimanje glasa za pločice
 
-**Pro Yearly Plan (\$79/Year)**
+**Pro godišnji plan (\$79/godina)**
 
-- All Pro Monthly features
-- Significant savings compared to monthly billing
-- Best value for regular users
+- Sve značajke Pro Monthly
+- Značajne uštede u usporedbi s mjesečnom naplatom
+- Najbolja vrijednost za redovne korisnike
 
-The free version provides essential AAC functionality, while Pro subscriptions unlock advanced features for enhanced communication, sharing, and customization capabilities. Users can upgrade to Pro plans through the settings menu when logged into their Cboard account.
+Besplatna verzija pruža bitnu AAC funkcionalnost, dok Pro pretplate otključavaju napredne značajke za poboljšanu komunikaciju, dijeljenje i mogućnosti prilagodbe. Korisnici mogu nadograditi na Pro planove putem izbornika postavki kada su prijavljeni na svoj Cboard račun.
 
 ## <a name='Features'></a>Značajke
 
@@ -199,83 +199,83 @@ Za podešavanje govornih mogućnosti idite u POSTAVKE, a pod kategorijom JEZIK n
 
 ![Mogućnosti govora](/images/help/speech.png 'Speech capabilities')
 
-### <a name='CommunicationWorkflow'></a>How does communication work in Cboard?
+### <a name='CommunicationWorkflow'></a>Kako funkcionira komunikacija u Cboardu?
 
-Cboard uses a hierarchical symbol-based communication system. Users navigate through categories to find appropriate symbols and build sentences in the output bar.
+Cboard koristi hijerarhijski komunikacijski sustav temeljen na simbolima. Korisnici se kreću kroz kategorije kako bi pronašli odgovarajuće simbole i izgradili rečenice na izlaznoj traci.
 
-**Basic Communication Steps:**
+**Osnovni koraci komunikacije:**
 
-1. Click on symbols to add them to the output bar at the top
-2. Navigate through categories (like "food", "emotions", "actions") to find specific symbols
-3. Build complete sentences by selecting multiple symbols in sequence
-4. Use the backspace button to remove the last symbol or clear button to start over
-5. Click on the completed sentence to have it read aloud using text-to-speech
+1. Kliknite na simbole da biste ih dodali na izlaznu traku na vrhu
+2. Krećite se kroz kategorije (kao što su "hrana", "emocije", "radnje") kako biste pronašli određene simbole
+3. Izgradite cijele rečenice odabirom više simbola u nizu
+4. Upotrijebite gumb backspace za uklanjanje posljednjeg simbola ili gumb za brisanje da biste počeli ispočetka
+5. Kliknite na dovršenu rečenicu da biste je pročitali naglas pomoću pretvaranja teksta u govor
 
-**Navigation Features:**
+**Značajke navigacije:**
 
-- **Category Boards**: Major categories like food, activities, emotions each contain related symbols
-- **Back Navigation**: Easy return to previous boards or the main home screen
-- **Output Bar**: Shows selected symbols and provides playback controls
-- **Quick Access**: Common symbols like "yes", "no", and "quick chat" available on the main screen
+- **Kategorije Ploče**: Glavne kategorije poput hrane, aktivnosti, emocija sadrže povezane simbole
+- **Natrag Navigacija**: Jednostavan povratak na prethodne ploče ili glavni početni zaslon
+- **Izlazna traka**: Prikazuje odabrane simbole i pruža kontrole reprodukcije
+- **Brzi pristup**: Uobičajeni simboli kao što su "da", "ne" i "brzi chat" dostupni na glavnom zaslonu
 
 ### <a name='Displaycapabilities'></a>Mogućnosti zaslona
 
-Display settings can be edited in SETTINGS, within the SYSTEM category. The Display option is located below Export and Import under the System section. To access display settings:
+Postavke zaslona mogu se uređivati u POSTAVKAMA, unutar kategorije SUSTAV. Opcija Prikaz nalazi se ispod Izvoz i uvoz u odjeljku Sustav. Da biste pristupili postavkama zaslona:
 
-1. Unlock the interface by clicking the lock icon three times
-2. Click Settings (gear icon) in the top navigation bar
-3. Select "Display" from the System section
+1. Otključajte sučelje klikom na ikonu lokota tri puta
+2. Kliknite Postavke (ikona zupčanika) na gornjoj navigacijskoj traci
+3. Odaberite "Prikaz" u odjeljku Sustav
 
 ![Mogućnosti zaslona](/images/help/cboard-display-settings.png 'Display capabilities')
 
-**Available Display Options:**
+**Dostupne opcije prikaza:**
 
-- **UI Size**: Controls the overall size of interface elements
+- **Veličina korisničkog sučelja**: Kontrolira ukupnu veličinu elemenata sučelja
   
-  - Standard (default)
-  - Large
-  - Extra Large
-- **Font Family**: Change the text font used throughout the application
+  - Standardno (zadano)
+  - Veliki
+  - Iznimno velik
+- **Obitelj fontova**: Promijenite font teksta koji se koristi u cijeloj aplikaciji
   
-  - Default: Montserrat
-  - Affects all text within the application interface
-- **Font Size**: Adjust the application font size
+  - Zadano: Montserrat
+  - Utječe na sav tekst unutar sučelja aplikacije
+- **Veličina fonta**: Prilagodite veličinu fonta aplikacije
   
-  - Standard (default)
-  - Large
-  - Extra Large
-- **Hide the output bar**: Toggle to hide the white communication bar at the top where sentences are built
+  - Standardno (zadano)
+  - Veliki
+  - Iznimno velik
+- **Sakrijte izlaznu traku**: Uključite da biste sakrili bijelu komunikacijsku traku na vrhu gdje su sastavljene rečenice
   
-  - Checkbox option
-  - When enabled, removes the sentence construction area from view
-- **Increase action button size**: Enlarge the action buttons on the output bar
+  - Opcija potvrdnog okvira
+  - Kada je omogućeno, uklanja područje konstrukcije rečenice iz prikaza
+- **Povećajte veličinu akcijskog gumba**: Povećajte akcijske tipke na izlaznoj traci
   
-  - Checkbox option
-  - Makes backspace, clear, and playback buttons larger for easier access
-- **Label Position**: Control the position of text labels on symbol tiles
+  - Opcija potvrdnog okvira
+  - Povećava tipke za backspace, clear i reprodukciju radi lakšeg pristupa
+- **Položaj naljepnice**: Upravljanje položajem tekstualnih oznaka na pločicama simbola
   
-  - Below (default) - Labels appear underneath symbols
-  - Above - Labels appear above symbols
-  - Hidden - Labels are not displayed on tiles
-- **Enable dark theme**: Switch to dark mode color scheme
+  - Ispod (zadano) - Oznake se prikazuju ispod simbola
+  - Iznad – oznake se prikazuju iznad simbola
+  - Skriveno - Oznake se ne prikazuju na pločicama
+- **Omogući tamnu temu**: Prebacivanje na shemu boja tamnog načina rada
   
-  - Checkbox option
-  - Changes component colors, surface darkness, shadow levels, and ink element opacity
-  - Improves accessibility in low-light conditions
+  - Opcija potvrdnog okvira
+  - Mijenja boje komponenti, površinsku tamu, razine sjene i neprozirnost rukopisnih elemenata
+  - Poboljšava pristupačnost u uvjetima slabog osvjetljenja
 
-Remember to click "Save" after making changes to apply your display preferences.
+Ne zaboravite kliknuti "Spremi" nakon što unesete promjene kako biste primijenili svoje postavke prikaza.
 
 ### <a name='WhatcanIchangeonthedisplay'></a>Što mogu promijeniti na zaslonu?
 
-As detailed above, you can change UI size, font family and size, output bar visibility and button size, label positioning, and theme settings through the Display section in Settings.
+Kao što je gore navedeno, možete promijeniti veličinu korisničkog sučelja, obitelj i veličinu fonta, vidljivost izlazne trake i veličinu gumba, pozicioniranje oznaka i postavke teme putem odjeljka Prikaz u Postavkama.
 
 ### <a name='CanIresizebuttonsonCboard'></a>Mogu li promijeniti veličinu gumba na ploči?
 
-Yes! You can resize Tiles or Buttons in SETTINGS. In the category SYSTEM, select DISPLAY and you will be given 3 options for UI size: Standard, Large, Extra Large. You can also adjust the Font Size with the same three options.
+Da! Veličinu pločica ili gumba možete promijeniti u POSTAVKAMA. U kategoriji SUSTAV odaberite ZASLON i dobit ćete 3 opcije za veličinu korisničkog sučelja: Standard, Large, Extra Large. Također možete podesiti Veličina fonta s iste tri opcije.
 
 ### <a name='BigScrollButtons'></a>Pomicanje zaslona kroz velike gumbe
 
-It is also possible to scroll up and down a board using a couple of big buttons that can be added from the settings section. This is especially useful for eye-tracker device users, as the buttons allow to scroll the board without needing to slide the screen. To enable this feature, go to the settings section and look for the "enable big scroll buttons" switch. Toggle the switch and save the settings.
+Također je moguće pomicati se gore-dolje po ploči pomoću nekoliko velikih gumba koji se mogu dodati iz odjeljka postavki. Ovo je posebno korisno za korisnike uređaja za praćenje očiju, jer gumbi omogućuju pomicanje ploče bez potrebe za pomicanjem zaslona. Da biste omogućili ovu značajku, idite na odjeljak postavki i potražite prekidač "omogući velike gumbe za pomicanje". Uključite prekidač i spremite postavke.
 
 ![Omogući velike tipke za pomicanje](/images/help/bigScrollSettings.png 'Big scroll buttons settings')
 
@@ -323,7 +323,7 @@ Za prvo dijeljenje fraze potrebno je otključati zaslon, a zatim otvoriti postav
 
 ![Postavke za dijeljenje izraza](https://user-images.githubusercontent.com/21298844/128038972-a2848d47-2675-4e2d-9a15-6f93186f29d6.png)
 
-Assemble a phrase. Then press the share icon that appears on the right of the output phrase bar. Select the social network where you want to share the phrase. One dialog would be open with the phrase in a text field. Press the submit button to share it. If you want to copy the phrase on your clipboard, press the share button and then 'copy to clipboard' option. One Notification would be shown on your screen with a succes message.
+Sastavite frazu. Zatim pritisnite ikonu dijeljenja koja se pojavljuje s desne strane trake izlazne fraze. Odaberite društvenu mrežu na kojoj želite podijeliti frazu. Jedan dijaloški okvir bio bi otvoren s frazom u tekstnom polju. Pritisnite gumb za slanje da biste ga podijelili. Ako želite kopirati frazu u međuspremnik, pritisnite gumb za dijeljenje, a zatim opciju 'kopiraj u međuspremnik'. Jedna Obavijest će se prikazati na vašem zaslonu s porukom o uspjehu.
 
 ![Gumb za dijeljenje izraza](https://user-images.githubusercontent.com/21298844/128044322-d61491c6-7168-4615-8117-244dc872091e.png)
 
@@ -444,25 +444,25 @@ Za učitvanje i izvoz ploča imate dvije mogućnosti:
 
 ## <a name='Displaycapabilities-1'></a>Mogućnosti prikaza
 
-### <a name='WhatcanIchangeonthedisplay'></a>What can I change on the display?
+### <a name='WhatcanIchangeonthedisplay'></a>Što mogu promijeniti na zaslonu?
 
 Postavke zaslona mogu se uređivati u POSTAVKAMA, unutar kategorije SUSTAV. Opcija Prikaz nalazi se ispod Izvezi i Učitaj. Nakon što odaberete PRIKAZ, možete promijeniti veličinu korisničkog sučelja (UI) kao i veličinu fonta aplikacije odabirom veličine koju želite. Crvena točka bi trebala biti ispod veličine koju želite odabrati.
 
-### <a name='CanIresizebuttonsonCboard'></a>Can I resize buttons on Cboard?
+### <a name='CanIresizebuttonsonCboard'></a>Mogu li promijeniti veličinu gumba na ploči?
 
 Da! Možete promijeniti veličinu pločica ili gumba u POSTAVKAMA. U kategoriji SUSTAV odaberite PRIKAZ i dobit ćete 3 opcije za veličinu: Standardna, Velika, Ekstra velika. Pogledajte sliku u nastavku:
 
 ![Mogućnosti prikaza](/images/help/display.png 'Display capabilities')
 
-### <a name='BigScrollButtons'></a>Screen scroll through big buttons
+### <a name='BigScrollButtons'></a>Pomicanje zaslona kroz velike gumbe
 
-It is also possible to scroll up and down a board using a couple of big buttons that can be added from the settings section. This is especially useful for eye-tracker device users, as the buttons allow to scroll the board without needing to slide the screen. To enable this feature, go to the settings section and look for the "enable big scroll buttons " switch. Toggle the switch and save the settings. See figure below:
+Također je moguće pomicati se gore-dolje po ploči pomoću nekoliko velikih gumba koji se mogu dodati iz odjeljka postavki. Ovo je posebno korisno za korisnike uređaja za praćenje očiju, jer gumbi omogućuju pomicanje ploče bez potrebe za pomicanjem zaslona. Da biste omogućili ovu značajku, idite na odjeljak postavki i potražite prekidač "omogući velike gumbe za pomicanje". Uključite prekidač i spremite postavke. Pogledajte donju sliku:
 
-![Enable big scroll buttons](/images/help/bigScrollSettings.png 'Big scroll buttons settings')
+![Omogućite velike gumbe za pomicanje](/images/help/bigScrollSettings.png 'Big scroll buttons settings')
 
-Then, you should see a couple of big buttons at the top and the bottom of a board if it is large enough, as displayed in the below image:
+Zatim biste trebali vidjeti nekoliko velikih gumba na vrhu i dnu ploče ako je dovoljno velika, kao što je prikazano na donjoj slici:
 
-![Big scroll buttons](/images/help/bigScrollButtons.png 'Big scroll buttons')
+![Veliki gumbi za pomicanje](/images/help/bigScrollButtons.png 'Big scroll buttons')
 
 ## <a name='Scanning'></a>Skeniranje
 
