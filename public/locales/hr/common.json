@@ -241,5 +241,10 @@
   "partnership_cta_title": "Prijavite se za besplatno kloniranje glasa",
   "partnership_cta_desc": "Jeste li spremni za početak? Ispunite naš obrazac za prijavu kako biste bili uzeti u obzir za ovaj revolucionarni program.",
   "partnership_apply_btn": "Prijavite se odmah",
-  "partnership_page_title": "Partnerstvo s ElevenLabs"
+  "partnership_page_title": "Partnerstvo s ElevenLabs",
+  "voice_cloning_popup_title": "Unesite svoj glas u Cboard!",
+  "voice_cloning_popup_subtitle": "Pokreće ElevenLabs.",
+  "voice_cloning_popup_description": "Besplatno kloniranje glasa za korisnike koji ispunjavaju uvjete s oštećenjem govora. Prijavite se za nekoliko minuta i koristite svoj glas izravno u Cboardu.",
+  "voice_cloning_popup_apply": "Prijavite se odmah",
+  "voice_cloning_popup_dismiss": "Ne sad"
 }

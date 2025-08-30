@@ -241,5 +241,10 @@
   "partnership_cta_title": "تقدم بطلب للاستنساخ الصوتي المجاني",
   "partnership_cta_desc": "هل أنت مستعد للبدء؟ أكمل استمارة الطلب الخاصة بنا للنظر في هذا البرنامج الرائد.",
   "partnership_apply_btn": "تطبيق الآن",
-  "partnership_page_title": "الشراكة مع ElevenLabs"
+  "partnership_page_title": "الشراكة مع ElevenLabs",
+  "voice_cloning_popup_title": "أحضر صوتك الخاص إلى الحافظة!",
+  "voice_cloning_popup_subtitle": "مدعوم من ElevenLabs.",
+  "voice_cloning_popup_description": "الاستنساخ الصوتي المجاني للمستخدمين المؤهلين الذين يعانون من ضعف الكلام. قم بتقديم طلب في الدقائق واستخدام صوتك مباشرة على الحافظة.",
+  "voice_cloning_popup_apply": "تطبيق الآن",
+  "voice_cloning_popup_dismiss": "ليس الآن"
 }
