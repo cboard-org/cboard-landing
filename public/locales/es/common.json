@@ -241,5 +241,9 @@
   "partnership_cta_title": "Solicite la clonación de voz gratuita",
   "partnership_cta_desc": "¿Listo para empezar? Completa nuestro formulario de solicitud para ser considerado para este programa innovador.",
   "partnership_apply_btn": "Aplicar ahora",
-  "partnership_page_title": "Asociación con ElevenLabs"
+  "partnership_page_title": "Asociación con ElevenLabs",
+  "voice_cloning_popup_title": "Trae tu propia voz a Cboard — potenciado por ElevenLabs.",
+  "voice_cloning_popup_description": "Clonación de voz gratuita para usuarios elegibles con impedimentos del habla. Aplica en minutos y usa tu voz directamente en Cboard.",
+  "voice_cloning_popup_apply": "Aplicar ahora",
+  "voice_cloning_popup_dismiss": "Ahora no"
 }

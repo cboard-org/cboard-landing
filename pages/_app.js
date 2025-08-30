@@ -10,9 +10,10 @@ import { prefixer } from 'stylis';
 import CssBaseline from '@mui/material/CssBaseline';
 import LoadingBar from 'react-top-loading-bar';
 import { appWithTranslation } from 'next-i18next';
+import { GoogleAnalytics } from '@next/third-parties/google';
 import lngDetector from '../lib/languageDetector';
 import appTheme from '../theme/appTheme';
-import { GoogleAnalytics } from "@next/third-parties/google";
+import VoiceCloningPopup from '../components/VoiceCloningPopup';
 /* import css vendors */
 import 'dandelion-animated-slider/build/horizontal.css';
 import 'animate.css/animate.css';
@@ -130,6 +131,7 @@ function MyApp(props) {
       </Head>
       <ThemeProvider theme={muiTheme}>
         <CssBaseline />
+        <VoiceCloningPopup />
         <LoadingBar
           height={3}
           color={theme.palette.primary.main}
