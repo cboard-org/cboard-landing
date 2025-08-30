@@ -26,12 +26,22 @@ const useStyles = makeStyles({ uniqId: 'voice-cloning-popup' })((theme) => ({
     justifyContent: 'space-between',
   },
   title: {
+    textAlign: 'center',
     fontWeight: 600,
     lineHeight: 1.3,
     color: theme.palette.primary.main,
     paddingRight: theme.spacing(1),
     [theme.breakpoints.down('sm')]: {
       fontSize: '1.25rem',
+    },
+  },
+  subtitle: {
+    textAlign: 'center',
+    fontWeight: 400,
+    lineHeight: 1.3,
+    color: theme.palette.text.secondary,
+    [theme.breakpoints.down('sm')]: {
+      fontSize: '1rem',
     },
   },
   closeButton: {

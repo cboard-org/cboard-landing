@@ -242,7 +242,8 @@
   "partnership_cta_desc": "Ready to get started? Complete our application form to be considered for this groundbreaking program.",
   "partnership_apply_btn": "Apply Now",
   "partnership_page_title": "Partnership with ElevenLabs",
-  "voice_cloning_popup_title": "Bring your own voice to Cboard — powered by ElevenLabs.",
+  "voice_cloning_popup_title": "Bring your own voice to Cboard!",
+  "voice_cloning_popup_subtitle": "Powered by ElevenLabs.",
   "voice_cloning_popup_description": "Free voice cloning for eligible users with speech impairments. Apply in minutes and use your voice directly in Cboard.",
   "voice_cloning_popup_apply": "Apply Now",
   "voice_cloning_popup_dismiss": "Not now"
