@@ -164,7 +164,7 @@ function Feature() {
                       <Typography variant="h6">
                         {t('feature_watch')}
                       </Typography>
-                      <IconButton className={classes.button} onClick={handleClickOpen} size="large">
+                      <IconButton className={classes.button} onClick={handleClickOpen} size="large" aria-label="Play video">
                         <i className="ion-ios-play-outline" />
                       </IconButton>
                     </Paper>

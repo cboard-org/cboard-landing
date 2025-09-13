@@ -169,7 +169,13 @@ function Showcase() {
               key={index.toString()}
               className={index === activeSlide ? classes.active : ''}
             >
-              <button type="button" onClick={() => handleDotsNav(index)}>&nbsp;</button>
+              <button
+                type="button"
+                onClick={() => handleDotsNav(index)}
+                aria-label={`Go to slide ${index + 1}`}
+              >
+                &nbsp;
+              </button>
             </li>
           ))}
         </ul>

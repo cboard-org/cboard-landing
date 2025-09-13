@@ -91,6 +91,7 @@ function Header(props) {
                   onClick={handleOpenDrawer}
                   className={cx('hamburger hamburger--spin', classes.mobileMenu, openDrawer && 'is-active')}
                   size="large"
+                  aria-label={openDrawer ? 'Close navigation menu' : 'Open navigation menu'}
                 >
                   <span className="hamburger-box">
                     <span className={cx(classes.bar, 'hamburger-inner')} />
