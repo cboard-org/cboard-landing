@@ -241,5 +241,10 @@
   "partnership_cta_title": "申请免费语音复制",
   "partnership_cta_desc": "准备好开始？完成我们的应用程序表单以考虑这个开创性的程序。",
   "partnership_apply_btn": "立即应用",
-  "partnership_page_title": "与ElevenLabs的伙伴关系"
+  "partnership_page_title": "与ElevenLabs的伙伴关系",
+  "voice_cloning_popup_title": "把你自己的声音带到板上！",
+  "voice_cloning_popup_subtitle": "由 ElevenLabs 提供支持。",
+  "voice_cloning_popup_description": "为有语言障碍的合格用户免费使用语音克隆。在分钟内应用并直接在棋盘中使用您的声音。",
+  "voice_cloning_popup_apply": "立即应用",
+  "voice_cloning_popup_dismiss": "暂不"
 }

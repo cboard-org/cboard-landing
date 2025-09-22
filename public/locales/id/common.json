@@ -241,5 +241,10 @@
   "partnership_cta_title": "Ajukan Kloning Suara Gratis",
   "partnership_cta_desc": "Siap untuk memulai? Lengkapi formulir aplikasi kami untuk dipertimbangkan untuk program terobosan ini.",
   "partnership_apply_btn": "Daftar Sekarang",
-  "partnership_page_title": "Kemitraan dengan ElevenLabs"
+  "partnership_page_title": "Kemitraan dengan ElevenLabs",
+  "voice_cloning_popup_title": "Bawa suara Anda sendiri ke Cboard!",
+  "voice_cloning_popup_subtitle": "Didukung oleh ElevenLabs.",
+  "voice_cloning_popup_description": "Kloning suara gratis untuk pengguna yang memenuhi syarat dengan gangguan bicara. Terapkan dalam hitungan menit dan gunakan suara Anda langsung di Cboard.",
+  "voice_cloning_popup_apply": "Daftar Sekarang",
+  "voice_cloning_popup_dismiss": "Jangan sekarang"
 }

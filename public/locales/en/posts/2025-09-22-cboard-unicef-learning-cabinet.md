@@ -14,17 +14,17 @@ author_staff_member: katrina
 
 ## Cboard has been selected for the [Learning Cabinet](https://www.learningcabinet.org/tool/cboard-aac/)!
 
-The Learning Cabinet is a global platform where policymakers, donors, and education leaders discover and evaluate trusted EdTech solutions. To be included, each solution must pass a **rigorous expert assessment** based on the *EdTech for Good Framework.* The Learning Cabinet was developed by UNICEF, The Ministry of Foreign Affairs of Finland, The Asian Development Bank (ADB) and ARM (UK technology company).
+The Learning Cabinet is a global platform where policymakers, donors, and education leaders discover and evaluate trusted EdTech solutions. To be included, each solution must pass a **rigorous expert assessment** based on the _EdTech for Good Framework._ The Learning Cabinet was developed by UNICEF, The Ministry of Foreign Affairs of Finland, The Asian Development Bank (ADB) and ARM (UK technology company).
 
 ![Learning Cabinet Platform](/images/learning-cabinet03.png) _The  Learning Cabinet global platform_
 
 ## A prestigious recognition
 
-* Fewer than **5% of applicants** are accepted into the Learning Cabinet, making this a validation of Cboard AAC's impact and scalability globally.
+- Fewer than **5% of applicants** are accepted into the Learning Cabinet, making this a validation of Cboard AAC's impact and scalability globally.
 
-* Being featured positions Cboard to make the app more accessible to decision-makers globally looking for proven tools to improve learning.
+- Being featured positions Cboard to make the app more accessible to decision-makers globally looking for proven tools to improve learning.
 
-* It reaffirms our mission to empower learners with disabilities and communication challenges through accessible, inclusive technology.
+- It reaffirms our mission to empower learners with disabilities and communication challenges through accessible, inclusive technology.
 
 This milestone is not just a recognition of Cboard as a tool—it's a recognition of the community, educators, families, and users who inspire our work every day.
 
