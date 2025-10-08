@@ -21,6 +21,7 @@ const imgAPI = {
     '/images/team/julieta.png',
     '/images/team/shay.jpg',
     '/images/team/cosmo.jpg',
+    '/images/team/agus.png'
   ],
   photo: [
     '/images/mobile/pilot-timor.jpg',
