@@ -17,7 +17,7 @@ const imgAPI = {
     '/images/team/katrina.jpg',
     '/images/team/tomas.jpg',
     '/images/team/rodrigo.jpg',
-    '/images/team/hector.jpg',
+    '/images/team/hector.png',
     '/images/team/julieta.png',
     '/images/team/shay.jpg',
     '/images/team/cosmo.jpg',
