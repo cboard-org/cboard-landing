@@ -3,9 +3,9 @@ title: 'Cboard ayuda a Seid de Montenegro a comunicarse'
 date: 2021-12-20
 description: Un niño con deficiencia en el habla utiliza tecnología de asistencia que apoya su desarrollo
 categories:
-  - tablero
-  - unicef
-  - mono
+  - Cboard
+  - UNICEF
+  - Montenegro
 image: /images/montenegro-2021.jpg
 author_staff_member: martín
 ---
@@ -28,7 +28,7 @@ Su maestra de jardín, Snezana Scekic dice que las actividades en la guardería,
 
 ![Snezana Scekic](/images/montenegro-2021-3.jpg)
 
-*UNICEF Montenegro / Duško Miljanić / 2021 CONTEXTEDIT*
+*UNICEF Montenegro / Duško Miljanić / 2021*
 
 La docente Snezana Scekic cuenta cómo Seid está interesado en la aplicación, en Podgorica, en diciembre de 2021. “Observo que Seid está interesado en la aplicación y que está encantado de usarla. Cuando muestra exactamente lo que quiere, lo recompensamos".
 

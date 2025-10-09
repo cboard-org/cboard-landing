@@ -1,10 +1,10 @@
 ---
 title: 'Informe de UNICEF en Montenegro: "La aplicación Cboard facilita la comunicación para los niños con discapacidad"'
 date: 2020-08-10
-description: Más noticias asombrosas de Montenegro
+description: Más noticias increíbles de Montenegro
 categories:
-  - tablero
-  - unicef
+  - Cboard
+  - UNICEF
   - Europa
 image: /images/montenegro-post-01.jpg
 author_staff_member: katrina
@@ -24,7 +24,7 @@ Bojana y su madre Vjera usando la aplicación Cboard que facilita la comunicaci�
 
 Luego, Vjera explicó qué progreso concreto ha logrado Bojana al usar Cboard:
 
-> *Bojana ahora puede pronunciar palabras con mayor facilidad y hace sus peticiones con comprensión. Con la ayuda de la tableta, aprendió a pedir jabón, papel higiénico o una toalla cuando va al baño. La aplicación nos ayudó mucho porque facilita mucho mejor la comunicación. Al mismo tiempo, los vínculos entre los miembros de toda la familia parecen ser más fuertes.*
+> *Bojana ahora puede pronunciar palabras con mayor facilidad y hace sus peticiones con comprensión. Con la ayuda de la tableta, aprendió a pedir jabón, papel higiénico o una toalla cuando va al baño. La aplicación nos ayudó mucho porque facilita una comunicación mucho mejor. Al mismo tiempo, los vínculos entre los miembros de toda la familia parecen ser más fuertes.*
 
 ![Bojana y su hermana Marija](/images/montenegro-post-03.jpg) *Bojana y su hermana Marija usando la aplicación Cboard en Cetinje, en julio de 2020. UNICEF Montenegro / Duško Miljanić / 2020*
 
