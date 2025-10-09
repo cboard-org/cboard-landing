@@ -1,4 +1,4 @@
-import React, { Fragment } from 'react';
+import React, { Fragment, useState } from 'react';
 import PropTypes from 'prop-types';
 import useMediaQuery from '@mui/material/useMediaQuery';
 import { makeStyles } from 'tss-react/mui';
@@ -8,7 +8,6 @@ import { getStaticPaths, makeStaticPropsWithPosts } from 'lib/getStatic';
 import brand from 'public/text/brand';
 import MainContainer from 'components/MainContainer';
 import BlogPostsPreview from 'components/BlogPostsPreview';
-import BlogPostsPagination from 'components/BlogPostsPagination';
 import PageNav from 'components/PageNav';
 import Notification from 'components/Notification';
 import HTMLHead from 'components/HTMLHead';
@@ -62,6 +61,17 @@ function BlogPage(props) {
   const isTablet = useMediaQuery((theme) => theme.breakpoints.down('lg'));
   const { t } = useTranslation('common');
 
+  // Pagination state
+  const [currentPage, setCurrentPage] = useState(1);
+  const postsPerPage = 9; // Featured post + 8 grid posts
+  const totalPages = Math.ceil(posts.length / postsPerPage);
+
+  const handlePageChange = (event, page) => {
+    setCurrentPage(page);
+    // Scroll to top when page changes
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+  };
+
   return (
     <Fragment>
       <HTMLHead
@@ -84,8 +94,14 @@ function BlogPage(props) {
         <Fragment>
           <main className={classes.containerWrap}>
             <section id="blogPreview">
-              <BlogPostsPreview posts={posts} announcements={announcements} />
-              <BlogPostsPagination />
+              <BlogPostsPreview
+                posts={posts}
+                announcements={announcements}
+                currentPage={currentPage}
+                postsPerPage={postsPerPage}
+                totalPages={totalPages}
+                onPageChange={handlePageChange}
+              />
             </section>
           </main>
           {!isTablet && (
