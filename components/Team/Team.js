@@ -88,6 +88,12 @@ function Team() {
       title: t('team.title5'),
     },
     {
+      text: t('team.text6'),
+      avatar: imgAPI.team[8],
+      name: 'Agus Las Peñas',
+      title: t('team.title6'),
+    },
+    {
       text: t('team.text7'),
       avatar: imgAPI.team[6],
       name: 'Shay Cojocaru',
@@ -98,7 +104,7 @@ function Team() {
       avatar: imgAPI.team[7],
       name: 'Cosmo',
       title: t('team.title8'),
-    }
+    },
   ];
 
   return (
@@ -139,11 +145,11 @@ function Team() {
                 <Carousel ref={sliderText} asNavFor={slider.nav2} {...settingsText}>
                   {testiContent.map((item, index) => (
                     <div className={classes.item} key={index.toString()}>
-                    <Typography className={classes.name}>
-                      <strong>{item.name}</strong>
+                      <Typography className={classes.name}>
+                        <strong>{item.name}</strong>
                       &nbsp;-&nbsp;
-                      {item.title}
-                    </Typography>
+                        {item.title}
+                      </Typography>
                       <Typography className={classes.content}>
                         {item.text}
                       </Typography>

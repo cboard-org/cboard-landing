@@ -31,7 +31,7 @@ export default function News(props) {
           <Typography display="block" component="p">{text}</Typography>
         </div>
         <div className={classes.btn}>
-          <Link href={'/blog/' + slug} >Read more</Link>
+          <Link href={'/blog/' + slug} aria-label={`Read more about ${caption}`}>Read more</Link>
         </div>
       </Paper>
     </div>
