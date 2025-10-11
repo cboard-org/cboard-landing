@@ -9,17 +9,35 @@ const useStyles = makeStyles({ uniqId: 'logo' })(theme => ({
     },
   },
   root: {
-    display: 'flex',
     margin: theme.spacing(5, 0, 0),
-    justifyContent: 'center',
     position: 'relative',
-    overflow: 'auto',
     zIndex: 23,
-    [theme.breakpoints.down('sm')]: {
-      justifyContent: 'flex-start',
+  },
+  carousel: {
+    overflow: 'hidden',
+    width: '100%',
+    '&:hover $logoTrack': {
+      animationPlayState: 'paused',
     },
+  },
+  logoTrack: {
+    display: 'flex',
+    width: '300%', // Width for 3 sets of logos
+    animation: 'logoScroll 25s linear infinite',
+    '&:hover': {
+      animationPlayState: 'paused',
+    },
+  },
+  logoItem: {
+    flex: '0 0 auto',
+    minWidth: '200px', // Ensure consistent width for each logo
+    display: 'flex',
+    alignItems: 'center',
+    justifyContent: 'center',
     '& img': {
       height: 44,
+      maxWidth: '160px',
+      objectFit: 'contain',
       margin: theme.spacing(2),
       filter: 'grayscale(1) contrast(0.5) brightness(1.5)',
       opacity: theme.palette.mode === 'dark' ? 0.5 : 1,
@@ -28,7 +46,7 @@ const useStyles = makeStyles({ uniqId: 'logo' })(theme => ({
         filter: 'none'
       }
     }
-  }
+  },
 }));
 
 // TODO jss-to-tss-react codemod: usages of this hook outside of this file will not be converted.

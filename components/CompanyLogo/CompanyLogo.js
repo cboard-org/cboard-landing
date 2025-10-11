@@ -4,6 +4,7 @@ import Container from '@mui/material/Container';
 import Typography from '@mui/material/Typography';
 import { useTranslation } from 'next-i18next';
 import useStyles from './logo-style';
+import './animation.css';
 
 const logos = [
   '/images/logos/microsoft.png',
@@ -16,6 +17,9 @@ const logos = [
 function CompanyLogo() {
   const { classes } = useStyles();
   const { t } = useTranslation('common');
+
+  // Create multiple duplicates for smoother infinite scroll
+  const duplicatedLogos = [...logos, ...logos, ...logos];
 
   return (
     <Container fixed>
@@ -34,9 +38,22 @@ function CompanyLogo() {
         duration={0.5}
       >
         <div className={classes.root}>
-          {logos.map((logo, index) => (
-            <img src={logo} alt={'cboard logo' + index.toString()} key={index.toString()} />
-          ))}
+          <div className={classes.carousel}>
+            <div className={classes.logoTrack}>
+              {duplicatedLogos.map((logo, index) => {
+                const logoName = logo.split('/').pop().split('.')[0];
+                const setNumber = Math.floor(index / logos.length);
+                return (
+                  <div key={`${logoName}-set-${setNumber}`} className={classes.logoItem}>
+                    <img
+                      src={logo}
+                      alt={`cboard partner logo ${(index % logos.length) + 1}`}
+                    />
+                  </div>
+                );
+              })}
+            </div>
+          </div>
         </div>
       </ScrollAnimation>
     </Container>
