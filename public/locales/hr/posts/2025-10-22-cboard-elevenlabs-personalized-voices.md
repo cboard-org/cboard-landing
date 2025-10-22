@@ -8,14 +8,14 @@ categories:
   - Glasovna tehnologija
   - AI
 image: /slike/voice-clone.png
-author_staff_member: Katrina
+author_staff_member: katrina
 ---
 
 U Cboardu je naša misija oduvijek bila učiniti komunikaciju pristupačnijom, osobnijom i smislenijom za sve. Zato s oduševljenjem najavljujemo novu suradnju s ElevenLabsom — liderom u glasovnoj tehnologiji pokretanoj umjetnom inteligencijom.
 
 Ovo partnerstvo omogućuje korisnicima Cboarda da **stvore personalizirani sintetički glas iz starih snimaka**, donoseći novu razinu individualnosti i povezanosti u AAC komunikaciju.
 
-! [Partnerstvo s ElevenLabsom](/images/elevenlabs-cboard.png) _Creating personalizirane glasove uz ElevenLabs technology_
+![Partnerstvo s ElevenLabsom](/images/elevenlabs-cboard.png) _Creating personalizirane glasove uz ElevenLabs technology_
 
 ## Zašto je to važno
 
@@ -23,7 +23,7 @@ Za mnoge korisnike AAC-a, posebno ljude koji žive sa stanjima kao što je ALS, 
 
 S tehnologijom ElevenLabs, čak i kratka snimka može se pretvoriti u **potpuno funkcionalan digitalni glas** koji se može koristiti izravno unutar Cboarda. To znači da se korisnici više ne moraju oslanjati na generičke sintetizirane glasove – umjesto toga, mogu komunicirati glasom koji se uistinu osjeća kao njihov.
 
-! [Očuvanje glasa](/images/voice-preservation-process.jpg) _The postupak očuvanja glasa s pomoću technology_ umjetne inteligencije
+![Očuvanje glasa](/images/voice-preservation-process.jpg) _The postupak očuvanja glasa s pomoću technology_ umjetne inteligencije
 
 ## Kako započeti
 
@@ -33,7 +33,7 @@ Ako vi ili netko koga podržavate želite isprobati ovu značajku, postupak je j
 2. Prikupite sve dostupne snimke izvornog glasa (to mogu biti stari audio isječci, videozapisi ili pohranjene glasovne poruke).
 3. Naš tim će vas voditi kroz postavljanje i osigurati da vaš personalizirani glas bude dostupan unutar Cboarda.
 
-! [Početak](/images/voice-setup-process.jpg) _Simple korake za stvaranje personalizirane voice_
+![Početak](/images/voice-setup-process.jpg) _Simple korake za stvaranje personalizirane voice_
 
 ## Pogled unaprijed
 

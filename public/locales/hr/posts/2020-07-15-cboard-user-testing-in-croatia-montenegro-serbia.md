@@ -7,7 +7,7 @@ categories:
   - UNICEF
   - Europa
 image: /images/ecaro-pilot-3.png
-author_staff_member: Katrina
+author_staff_member: katrina
 ---
 Regionalni ured UNICEF-a *Europu i Srednju Aziju (ECARO)* provodi pilot testiranje korisnika kako bi promovirao pristupačnu pomoćnu tehnologiju za Augativnu i alternativnu komunikaciju (AAC) u Hrvatskoj, Crnoj Gori i Srbiji.
 

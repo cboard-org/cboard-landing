@@ -7,7 +7,7 @@ categories:
   - UNICEF
   - Europa
 image: /images/montenegro-post-01.jpg
-author_staff_member: Katrina
+author_staff_member: katrina
 ---
 Cboard se koristi kao dio inicijative pod nazivom „Za svako dijete jedan glas” provodi se kroz potporu *UNICEF Regionalnog ureda u Ženevi i ureda UNICEF-a u Crnoj Gori*, u suradnji s Ministarstvom prosvjete i Zavod za školstvo usluga , **Tamara Milić** iz Ministarstva obrazovanja u Crnoj Gori rekla je da su djeca vrlo dobro reagirala na Cboard, ističući aplikaciju kao sjajan alat za obitelji i roditelje, pružajući veliku podršku kako bi pomogli svojoj djeci da razviju svoj vokabular.
 

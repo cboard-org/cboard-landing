@@ -8,14 +8,14 @@ categories:
   - Teknologi Suara
   - AI
 image: /gambar/voice-clone.png
-author_staff_member: Katrina
+author_staff_member: katrina
 ---
 
 Di Cboard, misi kami selalu membuat komunikasi lebih mudah diakses, pribadi, dan bermakna bagi semua orang. Itulah sebabnya kami dengan senang hati mengumumkan kolaborasi baru dengan ElevenLabs — pemimpin dalam teknologi suara bertenaga AI.
 
 Kemitraan ini memungkinkan pengguna Cboard untuk **membuat suara sintetis yang dipersonalisasi dari rekaman lama**, menghadirkan tingkat individualitas dan koneksi baru ke komunikasi AAC.
 
-! [Kemitraan ElevenLabs](/images/elevenlabs-cboard.png) _Creating suara yang dipersonalisasi dengan ElevenLabs technology_
+![Kemitraan ElevenLabs](/images/elevenlabs-cboard.png) _Creating suara yang dipersonalisasi dengan ElevenLabs technology_
 
 ## Mengapa ini penting
 
@@ -23,7 +23,7 @@ Bagi banyak pengguna AAC, terutama orang yang hidup dengan kondisi seperti ALS, 
 
 Dengan teknologi ElevenLabs, bahkan rekaman pendek pun dapat diubah menjadi **suara digital yang berfungsi penuh** yang dapat digunakan langsung di dalam Cboard. Ini berarti bahwa pengguna tidak lagi harus mengandalkan suara yang disintesis generik — sebaliknya, mereka dapat berkomunikasi dengan suara yang benar-benar terasa seperti suara mereka sendiri.
 
-! [Pelestarian Suara](/images/voice-preservation-process.jpg) _The proses pelestarian suara menggunakan AI technology_
+![Pelestarian Suara](/images/voice-preservation-process.jpg) _The proses pelestarian suara menggunakan AI technology_
 
 ## Cara memulai
 
@@ -33,7 +33,7 @@ Jika Anda atau seseorang yang Anda dukung ingin mencoba fitur ini, prosesnya sed
 2. Kumpulkan rekaman suara asli yang tersedia (ini bisa berupa klip audio lama, video, atau pesan suara yang disimpan).
 3. Tim kami akan memandu Anda melalui pengaturan dan memastikan suara pribadi Anda tersedia di dalam Cboard.
 
-! [Memulai](/images/voice-setup-process.jpg) _Simple langkah-langkah untuk membuat voice_ yang dipersonalisasi
+![Memulai](/images/voice-setup-process.jpg) _Simple langkah-langkah untuk membuat voice_ yang dipersonalisasi
 
 ## Melihat ke depan
 

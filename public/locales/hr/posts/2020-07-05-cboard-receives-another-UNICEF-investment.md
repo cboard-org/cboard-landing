@@ -6,7 +6,7 @@ categories:
   - cboard
   - UNICEF
 image: /images/ethereum.jpg
-author_staff_member: Katrina
+author_staff_member: katrina
 ---
 Cboard želi da najavi još jedno ulaganje UNICEF-a za nastavak razvoja aplikacije. Cboard je besplatna internetska aplikacija koja pomaže komunikaciju putem teksta u govor, stvorena kroz rehabilitacijski centar Cireha u Córdobi, Argentina. Uz podršku UNICEF-a, uspjeli smo provesti početno testiranje korisnika u Buenos Airesu u Argentini, prije službenog predstavljanja u rujnu 2018. godine. Tijekom ovog testiranja bili su u mogućnosti dobiti povratne informacije od korisnika i profesionalnog logopeda kako bi uredili aplikaciju i učinili je dostupnijom korisnicima.
 
