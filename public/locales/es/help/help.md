@@ -6,7 +6,7 @@
   - [¿Puedo registrarme usando mis cuentas de redes sociales?](#CanIregistermyselfusingmysocialmediaaccounts)
   - [¿Cómo inicio sesión en Cboard una vez que soy un usuario registrado?](#HowdoIlogintoCboardonceIamaregistereduser)
   - [¿Cuáles son las diferentes opciones para configurar Cboard?](#WhataredifferentoptionstoconfigureCboard)
-  - [¿Cómo me desconecto?](#HowdoIlogout)
+  - [¿Cómo cierro sesión?](#HowdoIlogout)
   - [¿Cuál es la diferencia entre un usuario registrado y un usuario no registrado?](#Whatisthedifferencebetweenaregisteredandanon-registereduser)
   - [¿Cómo actualizo mi información de usuario?](#HowdoIupdatemyuserinformation)
   - [¿Cómo puedo restablecer mi contraseña?](#HowdoIresetmypassword)
@@ -137,35 +137,35 @@ Para restablecer su contraseña, envíe un correo electrónico a support@cboard.
 
 ### <a name='HowmuchdoesCboardcost'></a>¿Cuánto cuesta Cboard?
 
-El tablero ofrece múltiples opciones de precios para satisfacer las necesidades de los distintos usuarios:
+Cboard ofrece múltiples opciones de precios para adaptarse a las diferentes necesidades de los usuarios:
 
-**Plan gratis (\$0/para siempre)**
+**Plan gratuito (\$0/para siempre)**
 
-- Características básicas de comunicación
+- Funciones básicas de comunicación
 - Acceso a las librerías de símbolos
 - Creación y edición de tableros
-- Conjunto de características limitadas
+- Conjunto de funciones limitadas
 
-**Pro Monthly Plan (\$8/Month)**
+**Plan mensual Pro (\$8/mes)**
 
-- Todas las características gratis además:
+- Todas las funciones gratuitas más:
 - Voces neurales en línea
-- Copiar foros públicos
+- Copiar tableros públicos
 - Publicar tableros
-- Copiar mosaicos
-- Análisis de uso potente
+- Copiar elementos
+- Potentes estadísticas de uso
 - Compartir tableros
-- Experiencia gratuita de anuncios
-- Exportar a Open Board Formato (OBF)
+- Experiencia libre de publicidad
+- Exportar a formato Open Board (OBF)
 - Compartir frases
 - Canal de soporte privado
-- Grabación de voz para baldosas
+- Grabación de voz para elementos
 
 **Plan anual Pro (\$79/año)**
 
 - Todas las características Pro Mensual
 - Ahorro significativo en comparación con la facturación mensual
-- Mejor valor para usuarios regulares
+- La mejor relación calidad-precio para usuarios habituales
 
 La versión gratuita proporciona una funcionalidad AAC esencial, mientras que las suscripciones Pro desbloquean funciones avanzadas para mejorar la comunicación, compartir y personalizar las capacidades. Los usuarios pueden actualizar a los planes Pro a través del menú de configuración cuando inicien sesión en su cuenta de Cboard.
 
@@ -175,17 +175,17 @@ La versión gratuita proporciona una funcionalidad AAC esencial, mientras que la
 
 Cboard está disponible en línea utilizando una amplia variedad de dispositivos, incluyendo escritorios, tabletas y teléfonos móviles usando sistemas operativos Mac, Windows y Android. Se puede ver mejor en navegadores como Chrome, Firefox, Edge y Safari y una aplicación Android está disponible en Google Play.
 
-![Soporte del navegador](/images/help/browsers.png 'Browser support')
+![Compatibilidad con navegadores](/images/help/browsers.png 'Browser support')
 
-Debido a que Cboard es una aplicación basada en la web, responderá a los ajustes proporcionados por los navegadores individuales. Esto puede significar que tiene resultados diferentes a los proporcionados por el tablero. Por ejemplo, puede encontrar diferentes opciones de voz que se ofrecen.
+Debido a que Cboard es una aplicación basada en la web, responderá a la configuración proporcionada por los navegadores individuales. Esto puede significar que tiene resultados diferentes a la configuración proporcionada por Cboard. Por ejemplo, puede encontrar diferentes opciones de voz que se ofrecen.
 
-No olvide que también puede usar la ampliación o el zoom del navegador hasta cierto punto, dependiendo del tamaño de la pantalla de la computadora, tableta o teléfono.
+No te olvides de que también puedes usar la ampliación del navegador o el zoom hasta cierto punto dependiendo del ordenador, la tableta o el tamaño de la pantalla del teléfono.
 
-Pregúntele a Cboard sobre el uso del modo de alto contraste para las personas con discapacidad visual, ya que las opciones basadas en el navegador no son útiles al usar este tipo de aplicación web.
+Pregúntele a Cboard sobre el uso del modo de alto contraste para personas con discapacidad visual, ya que las opciones basadas en el navegador no son útiles cuando se usa este tipo de aplicación web.
 
 ### <a name='WhichlanguagesaresupportedbyCboard'></a>¿Qué idiomas son compatibles con Cboard?
 
-El tablero viene con soporte para 33 idiomas. Para seleccionar un idioma diferente, vaya a SETTINGS – seleccione LANGUAGE y los disponibles aparecerán. Elegir y un "tick" aparecerá al lado del idioma.
+Cboard viene con soporte para 46 idiomas. Para seleccionar un idioma diferente, vaya a CONFIGURACIÓN: seleccione IDIOMA y aparecerán los disponibles. Haga una elección y aparecerá una 'marca' al lado del idioma.
 
 <div><iframe width="420" height="315" src="https://www.youtube.com/embed/HHq9b3dJ0zM" frameborder="0" allowfullscreen></iframe></div>
 
@@ -230,15 +230,15 @@ Los ajustes de visualización se pueden editar en SETTINGS, dentro de la categor
 
 **Opciones de visualización disponibles:**
 
-- **Tamaño de interfaz**: Controla el tamaño total de los elementos de la interfaz
+- **Tamaño de la interfaz de usuario**: Controla el tamaño total de los elementos de la interfaz
   
-  - Estándar (por defecto)
+  - Estándar (predeterminado)
   - Grande
   - Extra grande
-- **Familia de Fuentes**: Cambia la fuente de texto utilizada a lo largo de la aplicación
+- **Familia tipográfica**: Cambiar la fuente de texto utilizada en toda la aplicación
   
-  - Default: Montserrat
-  - Afecta todo el texto dentro de la interfaz de la aplicación
+  - Predeterminado: Montserrat
+  - Afecta a todo el texto dentro de la interfaz de la aplicación
 - **Tamaño de fuente**: Ajusta el tamaño de la fuente de la aplicación
   
   - Estándar (por defecto)
