@@ -3,8 +3,8 @@ title: Pruebas de usuario de Cboard en Croacia, Montenegro y Serbia
 date: 2020-07-15
 description: Pilotando para el éxito
 categories:
-  - tablero
-  - unicef
+  - Cboard
+  - UNICEF
   - Europa
 image: /images/ecaro-pilot-3.png
 author_staff_member: katrina
@@ -22,10 +22,10 @@ Las pruebas de usuario comenzaron en noviembre de 2019, involucrando a 125 niño
 
 Los profesionales desarrollaron un paquete de capacitación entregado como aprendizaje presencial y en línea que está disponible para que los profesionales de otros países continúen con las pruebas. Cboard se está probando como una herramienta de intervención para ayudar a los padres y profesionales a postularse como parte de una intervención basada en la rutina. Este tipo de intervención busca promover la comunicación en situaciones y actividades cotidianas, preparando al niño y a los padres para su inclusión en la sociedad.
 
-## Resultados iniciales de la prueba
-La respuesta inicial a la solicitud con padres y profesionales fue positiva. Para más de la mitad de los niños y las familias que participaron en las pruebas, Cboard fue el primer comunicador digital que utilizaron. Los mayores desafíos encontrados en las primeras etapas de las pruebas involucraron dificultades para adaptarse al uso de nuevas tecnologías y AAC. Algunos de los padres y profesionales fueron entrevistas sobre sus experiencias:
+## Resultados de las pruebas iniciales
+La respuesta inicial a la solicitud con padres y profesionales fue positiva. Para más de la mitad de los niños y las familias que participaron en las pruebas, Cboard fue el primer comunicador digital que utilizaron. Los mayores desafíos encontrados en las primeras etapas de las pruebas involucraron dificultades para adaptarse al uso de nuevas tecnologías y AAC. Algunos de los padres y profesionales fueron entrevistados sobre sus experiencias:
 
-> “Nuestro hijo lo aceptó mejor de lo que pensábamos. Ahora tiene la manera de preguntarnos y comunicarse. Antes, cuando quería algo, tomaba nuestras manos y señalaba el artículo que quería. Pocos días después de que comenzara a usar el tablero, diría "Mama daj" (en inglés: mamá dame). Y presione sobre la imagen del emparedado en la tableta. Su mayor motivación es la comida, así que comenzamos con la comida ".
+> “Nuestro hijo lo aceptó mejor de lo que pensábamos. Ahora tiene la manera de preguntarnos y comunicarse. Antes, cuando quería algo, tomaba nuestras manos y señalaba el artículo que quería. Unos días después de que comenzara a usar cboard, decía "Mama daj" (en inglés: Mamá dame). Y presione sobre la imagen de sándwich en la tableta. Su mayor motivación es la comida, así que comenzamos con la comida ".
 > 
 > *Nikolina Kuraica, madre de Nikola, 6 años, discapacidades múltiples de comunicación, Dubrovnik, Croacia.*
 
@@ -40,13 +40,13 @@ Los profesionales involucrados en las pruebas informaron que los niños parecía
 
 > “Nuestra niña pronunció una oración de tres palabras varias veces cuando solicitó un elemento deseado, hasta hace poco ella usaba la palabra aislada ocasionalmente”.
 
-![Piloto Unicef ECARO](/images/ecaro-pilot-2.png) *Capacitación AAC para profesionales, Zagreb, Croacia, octubre de 2019*
+![Piloto Unicef ECARO](/images/ecaro-pilot-2.png) *Formación en CAA para profesionales, Zagreb, Croacia, octubre de 2019*
 
-Natasa Sreckovic Milenkovic, terapeuta del habla de Srna, niña de 3 años en Belgrado, Serbia, observó lo siguiente:
+Natasa Sreckovic Milenkovic, terapeuta del habla de Srna, una niña de 3 años en Belgrado, Serbia, observó lo siguiente:
 
-> “Srna no fue verbal y comenzó a hablar después de usar la aplicación Cboard. Establecimos iconos para SÍ, BRAVO, MÁS, y después de usar el Tablero, Srna comenzó a usar esas palabras espontáneamente en la comunicación cuando quería algo. Ahora, cuando hace algo bien, se golpea y dice "BRAVO" verbalmente. En comunicación, ha aumentado la cantidad de palabras que pronuncia, algunas como sílabas iniciales, otras como palabras completas, por lo que ahora está trabajando para ampliar su vocabulario en una tableta ".
+> "Srna no hablaba y comenzó a hablar después de usar la aplicación Cboard. Establecimos iconos para SÍ, BRAVO, MÁS, y después de usar Cboard, Srna comenzó a usar esas palabras espontáneamente en la comunicación cuando quería algo. Ahora, cuando hace algo bien, se golpea y dice "BRAVO" verbalmente. En comunicación, ha aumentado la cantidad de palabras que pronuncia, algunas como sílabas iniciales, otras como palabras completas, por lo que ahora está trabajando para ampliar su vocabulario en una tableta ".
 
-## Medir el éxito de Cboard
+## Medición del éxito de Cboard
 Para medir el impacto de Cboard, se está utilizando la escala **PIADS** (Impacto psicosocial de dispositivos de asistencia) para medir el progreso en adaptabilidad, competencia y autoestima.
 
 Los resultados iniciales de los puntos de prueba de PIADS muestran una tendencia positiva, con progreso en los tres dominios. En la práctica, esto significa que 'las frustraciones ahora se expresan menos y ahora son un niño más tranquilo y feliz. Cboard hace que la vida sea más fácil y permite que el niño se comunique ", como observó un maestro de preescolar en CVIT Mediterana, Split, Croacia.

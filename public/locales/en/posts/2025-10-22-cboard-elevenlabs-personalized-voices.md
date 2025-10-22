@@ -1,6 +1,6 @@
 ---
 title: 'Cboard + ElevenLabs: Personalized Voices for Cboard Users'
-date: 2025-09-19
+date: 2025-10-22
 description: Cboard partners with ElevenLabs to bring personalized synthetic voices to AAC users, allowing them to create custom voices from old recordings.
 categories:
   - cboard
@@ -29,8 +29,8 @@ With ElevenLabs' technology, even a short recording can be transformed into a **
 
 If you or someone you support would like to try this feature, the process is simple:
 
-1. Complete this form to start the process: [https://www.cboard.io/eleven-labs/](https://www.cboard.io/eleven-labs/)  
-2. Gather any available recordings of the original voice (these can be old audio clips, videos, or stored voice messages).  
+1. Complete this form to start the process: [https://www.cboard.io/eleven-labs/](https://www.cboard.io/eleven-labs/)
+2. Gather any available recordings of the original voice (these can be old audio clips, videos, or stored voice messages).
 3. Our team will guide you through the setup and ensure your personalized voice is available inside Cboard.
 
 ![Getting Started](/images/voice-setup-process.jpg) _Simple steps to create your personalized voice_
