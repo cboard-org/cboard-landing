@@ -15,7 +15,7 @@ En Cboard, nuestra misión siempre ha sido hacer la comunicación más accesible
 
 Esta asociación hace posible que los usuarios de Cboard **creen una voz sintética personalizada a partir de grabaciones antiguas**, brindando un nuevo nivel de individualidad y conexión a la comunicación AAC.
 
-! [Asociación con ElevenLabs](/images/elevenlabs-cboard.png) _Creating voces personalizadas con ElevenLabs technology_
+![Asociación con ElevenLabs](/images/elevenlabs-cboard.png) _Creating voces personalizadas con ElevenLabs technology_
 
 ## Por qué esto es importante
 
@@ -23,7 +23,7 @@ Para muchos usuarios de CAA, especialmente las personas que viven con afecciones
 
 Con la tecnología de ElevenLabs, incluso una grabación corta se puede transformar en una **voz digital totalmente funcional** que se puede usar directamente dentro de Cboard. Esto significa que los usuarios ya no tienen que depender de voces sintetizadas genéricas, sino que pueden comunicarse con una voz que realmente se siente como propia.
 
-! [Preservación de la voz](/images/voice-preservation-process.jpg) _The proceso de preservación de la voz utilizando IA technology_
+![Preservación de la voz](/images/voice-preservation-process.jpg) _The proceso de preservación de la voz utilizando IA technology_
 
 ## Cómo empezar
 
