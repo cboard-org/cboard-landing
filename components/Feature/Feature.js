@@ -22,9 +22,9 @@ import TitleSecondary from '../Title/TitleSecondary';
 import Title from '../Title';
 import useStyles from './feature-style';
 
-const Transition = React.forwardRef(function Transition(props, ref) { // eslint-disable-line
-  return <Zoom ref={ref} {...props} />;
-});
+const Transition = React.forwardRef((props, ref) => (
+  <Zoom ref={ref} {...props} />
+));
 
 function Feature() {
   const { classes, cx } = useStyles();
@@ -49,7 +49,7 @@ function Feature() {
     player[0].pauseVideo();
   };
 
-  const _onReady = event => {
+  const _onReady = (event) => {
     player.push(event.target);
     setPlayer(player);
   };
@@ -57,14 +57,15 @@ function Feature() {
   const opts = {
     height: '360',
     width: '640',
-    playerVars: { // https://developers.google.com/youtube/player_parameters
+    playerVars: {
+      // https://developers.google.com/youtube/player_parameters
       autoplay: 0,
       controls: 1,
       rel: 0,
       showinfo: 1,
       mute: 0,
-      origin: 'http://localhost:3007'
-    }
+      origin: 'http://localhost:3007',
+    },
   };
 
   return (
@@ -78,23 +79,21 @@ function Feature() {
       >
         <DialogTitle id="alert-dialog-slide-title">
           {t('feature_video')}
-          <IconButton onClick={handleClose} className={classes.closeBtn} size="large">
+          <IconButton
+            onClick={handleClose}
+            className={classes.closeBtn}
+            size="large"
+          >
             <CloseIcon className={classes.icon} />
           </IconButton>
         </DialogTitle>
         <DialogContent>
           {yt.use && (
-            <YouTube
-              videoId="pW1hRkibfps"
-              onReady={_onReady}
-              opts={opts}
-            />
+            <YouTube videoId="pW1hRkibfps" onReady={_onReady} opts={opts} />
           )}
         </DialogContent>
       </Dialog>
-      <Title align="center">
-        {t('feature_title')}
-      </Title>
+      <Title align="center">{t('feature_title')}</Title>
       <Container fixed>
         <div className={cx(classes.item, classes.first)}>
           <Grid container direction={isMobile ? 'column-reverse' : 'row'}>
@@ -111,8 +110,15 @@ function Feature() {
             </Grid>
             <Grid item md={6} xs={12}>
               <div className={classes.text}>
-                <TitleSecondary align={isMobile ? 'center' : 'left'} text={t('feature_title1')} />
-                <Typography display="block" component="p" className={text.subtitle2}>
+                <TitleSecondary
+                  align={isMobile ? 'center' : 'left'}
+                  text={t('feature_title1')}
+                />
+                <Typography
+                  display="block"
+                  component="p"
+                  className={text.subtitle2}
+                >
                   {t('feature_desc1')}
                 </Typography>
               </div>
@@ -127,8 +133,15 @@ function Feature() {
             <Grid container>
               <Grid item md={6} xs={12}>
                 <div className={classes.text}>
-                  <TitleSecondary align={isMobile ? 'center' : 'left'} text={t('feature_title2')} />
-                  <Typography display="block" component="p" className={text.subtitle2}>
+                  <TitleSecondary
+                    align={isMobile ? 'center' : 'left'}
+                    text={t('feature_title2')}
+                  />
+                  <Typography
+                    display="block"
+                    component="p"
+                    className={text.subtitle2}
+                  >
                     {t('feature_desc2')}
                   </Typography>
                 </div>
@@ -161,10 +174,13 @@ function Feature() {
                     <ParallaxMedium />
                     <Paper className={classes.video}>
                       <img src={imgAPI.mobile[6]} alt="screen" />
-                      <Typography variant="h6">
-                        {t('feature_watch')}
-                      </Typography>
-                      <IconButton className={classes.button} onClick={handleClickOpen} size="large" aria-label="Play video">
+                      <Typography variant="h6">{t('feature_watch')}</Typography>
+                      <IconButton
+                        className={classes.button}
+                        onClick={handleClickOpen}
+                        size="large"
+                        aria-label="Play video"
+                      >
                         <i className="ion-ios-play-outline" />
                       </IconButton>
                     </Paper>

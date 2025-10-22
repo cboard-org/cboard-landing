@@ -1,9 +1,10 @@
+/* eslint-disable react/require-default-props */
 import React, { useRef } from 'react';
 import PropTypes from 'prop-types';
 import { motion } from 'framer-motion';
 import ReactMarkdown from 'react-markdown';
-import useStyles from './blogPostBody-style';
 import { Container, Grid } from '@mui/material';
+import useStyles from './blogPostBody-style';
 
 export default function BlogPostBody(props) {
   const { classes } = useStyles();
@@ -16,10 +17,12 @@ export default function BlogPostBody(props) {
         <Container>
           <Grid container>
             <div className={classes.markdown}>
-              {content &&
-                <ReactMarkdown skipHtml={true}>
+              {content
+                && (
+                <ReactMarkdown skipHtml>
                   {content}
-                </ReactMarkdown>}
+                </ReactMarkdown>
+)}
             </div>
           </Grid>
         </Container>
