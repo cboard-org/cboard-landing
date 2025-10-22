@@ -6,7 +6,7 @@ categories:
   - cboard
   - UNICEF
 image: /images/ethereum.jpg
-author_staff_member: Katrina
+author_staff_member: katrina
 ---
 Cboard freut sich sehr, eine weitere Investition von UNICEF bekannt zu geben, um die Anwendung weiterzuentwickeln. Cboard ist eine kostenlose Online-Web-App, die die Kommunikation über Text-to-Speech unterstützt und vom Cireha-Rehabilitationszentrum in Córdoba, Argentinien, erstellt wurde. Mit Unterstützung von UNICEF konnten wir vor dem offiziellen Start im September 2018 erste Benutzertests in Buenos Aires, Argentinien, durchführen. Während dieser Tests konnten Benutzer und professionelle Logopäden Feedback erhalten, um die App zu bearbeiten und für Benutzer zugänglicher zu machen.
 

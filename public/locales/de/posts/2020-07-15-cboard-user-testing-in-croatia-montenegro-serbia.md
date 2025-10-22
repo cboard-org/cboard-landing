@@ -7,7 +7,7 @@ categories:
   - UNICEF
   - Europa
 image: /images/ecaro-pilot-3.png
-author_staff_member: Katrina
+author_staff_member: katrina
 ---
 Das UNICEF *Regionalbüro für Europa und Zentralasien (ECARO)* hat Benutzertests durchgeführt, um erschwingliche unterstützende Technologien für die erweiterte und alternative Kommunikation (AAC) in Kroatien, Montenegro und Serbien zu fördern.
 

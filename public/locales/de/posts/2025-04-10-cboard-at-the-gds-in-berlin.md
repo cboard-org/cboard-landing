@@ -7,18 +7,18 @@ categories:
   - assistive Technologie
   - Globaler Behindertengipfel
 image: /bilder/gds-01.jpg
-author_staff_member: Katrina
+author_staff_member: katrina
 ---
 
 Das Cboard-Team hatte das Vergnügen, am Global Disability Summit in Berlin teilzunehmen. Es war eine spannende Veranstaltung, die eine seltene Gelegenheit bot, mit zivilgesellschaftlichen Organisationen, politischen Entscheidungsträgern und Vordenkern auf dem Gebiet der Inklusion von Menschen mit Behinderungen aus der ganzen Welt in Kontakt zu treten.
 
-! [GDS-Sitzung](/images/gds-02.jpg) _Eine der Sitzungen, an denen wir mit dem Cboard-Team teilgenommen haben_
+![GDS-Sitzung](/images/gds-02.jpg) _Eine der Sitzungen, an denen wir mit dem Cboard-Team teilgenommen haben_
 
 Die Konferenz war unglaublich **gut organisiert**, und es war erfrischend, eine so integrative und zugängliche Umgebung zu erleben. Es zeigte sich deutlich, dass Großveranstaltungen durchdacht gestaltet werden können, um den Zugang für alle zu gewährleisten.
 Wir waren besonders motiviert, daran teilzunehmen, um zu sehen, wie **assistive Technologien (AT), insbesondere kommunikationsbezogene AT**, in den Mittelpunkt globaler Gespräche über die Inklusion und Innovation von Menschen mit Behinderungen gestellt werden. Bei **Cboard** bemühen wir uns, über Diskussionen auf politischer Ebene auf dem Laufenden zu bleiben, weil wir glauben, dass es bei der Entwicklung von AT um mehr als nur Technologie geht. Wir legen Wert auf aktive Beteiligung und Beiträge der Gemeinschaften, die wir unterstützen wollen.
 Dieses Bekenntnis spiegelt den kraftvollen Slogan wider, der im Mittelpunkt der Konferenzdiskussionen steht: "Nichts über uns, ohne uns". \*\*
 
-! [GDS-Keynote](/images/gds-03.jpg) _Erstaunliche Keynotes und Diskussionsrunden, die während der GDS 2025 laufen_
+![GDS-Keynote](/images/gds-03.jpg) _Erstaunliche Keynotes und Diskussionsrunden, die während der GDS 2025 laufen_
 
 ## Stände und Präsentationen
 

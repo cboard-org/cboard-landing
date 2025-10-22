@@ -6,7 +6,7 @@ categories:
   - cboard
   - Usability-Tests
 image: /images/eipan.jpg
-author_staff_member: Katrina
+author_staff_member: katrina
 ---
 
 In den Wochen vor Beginn der Usability-Tests haben wir drei Sprachrehabilitationszentren im Zentrum von Buenos Aires kontaktiert, von denen zwei geantwortet haben, sie hätten geeignete Kandidaten und würden an den Tests teilnehmen. Das erste ist Ciren (Zentrum für Integrale Rehabilitation und Ausbildung in Neurologie) und das zweite Eipan (Interdisziplinäres Equipo für die Vernichtung mit Alteraciones del Desarrollo). Beide Zentren bieten unter anderem Sprachtherapien an und arbeiten mit Kindern mit einer Reihe unterschiedlicher Diagnosen, darunter eine große Anzahl mit [Zerebralparesen](https://en.wikipedia.org/wiki/Cerebral_palsy) und einer Verzögerung der neurologischen Entwicklung.

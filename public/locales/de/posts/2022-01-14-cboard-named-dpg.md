@@ -7,7 +7,7 @@ categories:
   - DPGA
   - Vereinte Nationen
 image: /bilder/dpga-cboard.png
-author_staff_member: Katrina
+author_staff_member: katrina
 ---
 
 Am 14. Januar 2021 wurde Cboard in die [Digital Public Goods Alliance](https://digitalpublicgoods.net/) [DPG-Register](https://digitalpublicgoods.net/registry/). Das Ziel der DPGA und ihres Registers ist es, digitale öffentliche Güter zu fördern, um eine gerechtere Welt zu schaffen. Die Anerkennung als DPG erhöht die Sichtbarkeit, Unterstützung und Bekanntheit offener Projekte, die das Potenzial haben, globale Herausforderungen anzugehen. Um ein digitales öffentliches Gut zu werden, müssen alle Projekte den [DPG-Standard](https://digitalpublicgoods.net/standard/), um sicherzustellen, dass Projekte die Open-Source-Prinzipien wirklich verkörpern.

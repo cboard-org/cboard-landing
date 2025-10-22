@@ -7,7 +7,7 @@ categories:
   - UNICEF
   - Europa
 image: /images/montenegro-post-01.jpg
-author_staff_member: Katrina
+author_staff_member: katrina
 ---
 Cboard wird im Rahmen einer Initiative mit dem Titel "Für jedes Kind eine Stimme" verwendet, die mit Unterstützung des UNICEF-Regionalbüros *in Genf und des UNICEF-Büros in Montenegro*in Zusammenarbeit mit dem Bildungsministerium und dem Büro für Bildungsdienste durchgeführt wird . **Tamara Milic** vom Bildungsministerium in Montenegro sagte, dass Kinder sehr gut auf Cboard reagiert haben. Sie hob die App als großartiges Tool für Familien und Eltern hervor und unterstützte ihre Kinder bei der Entwicklung ihres Wortschatzes.
 

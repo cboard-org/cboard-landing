@@ -6,7 +6,7 @@ categories:
   - cboard
   - Usability-Tests
 image: /images/eipam2.jpg
-author_staff_member: Katrina
+author_staff_member: katrina
 ---
 
 Während der letzten zwei Testwochen sahen wir weiterhin Patienten aus Ciren und Eipan, aber obwohl wir einige neue Patienten sahen, handelte es sich bei der Mehrzahl der Besuche um zweite Sitzungen mit zuvor gesehenen Patienten. Dies war hilfreich, da die Kinder nicht so überfordert von neuen Bildern waren und Cboard (zumindest) zum zweiten Mal sahen. Wir hatten Ordner mit wenigen Piktogrammen (also weniger visueller Stimulation) erstellt, um festzustellen, ob sich ihre Reaktionen und ihr Verständnis seit dem ersten Besuch geändert haben.

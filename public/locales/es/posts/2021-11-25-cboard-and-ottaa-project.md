@@ -7,7 +7,7 @@ categories:
   - UNICEF
   - Ottaa Project
 image: /images/ottaateam.jpg
-author_staff_member: Katrina
+author_staff_member: katrina
 ---
 [Cboard](https://www.cboard.io/) y [OTTAA project](https://www.ottaaproject.com/), ambas empresas de cartera del [Fondo de Innovación UNICEF](https://www.unicef.org/innovation/stories/giving-every-child-voice-aac-technology), han estado trabajando juntos durante los últimos meses para ampliar el impacto.
 

@@ -12,13 +12,13 @@ author_staff_member: katrina
 
 El equipo de Cboard tuvo el placer de asistir a la Cumbre Mundial de la Discapacidad en Berlín. Fue un evento interesante que brindó una oportunidad única para conectarse con organizaciones de la sociedad civil, formuladores de políticas y líderes de opinión en el campo de la inclusión de la discapacidad de todo el mundo.
 
-! [Sesión GDS](/images/gds-02.jpg) _Una de las sesiones a las que asistimos con el equipo de Cboard_
+![Sesión GDS](/images/gds-02.jpg) _Una de las sesiones a las que asistimos con el equipo de Cboard_
 
 La conferencia estuvo increíblemente **bien organizada**, y fue refrescante experimentar un entorno tan inclusivo y accesible. Ha demostrado claramente que los acontecimientos a gran escala pueden estar diseñados a pesar de todo para garantizar el acceso para todos.
 Estábamos especialmente motivados para ver cómo **la tecnología de asistencia (AT), particularmente la relacionada con la comunicación AT**, se centra en las conversaciones globales sobre la inclusión y la innovación en materia de discapacidad. En **Cboard**, nos esforzamos por mantenernos informados sobre las discusiones a nivel de políticas, porque creemos que el desarrollo de la TA es más que solo tecnología. Priorizamos la participación activa y los aportes de las comunidades a las que pretendemos apoyar.
 Este compromiso se hace eco del poderoso eslogan, central en las discusiones de la conferencia: **"Nada acerca de nosotros, sin nosotros"**
 
-! [Discurso de apertura de GDS](/images/gds-03.jpg) _Increíbles conferencias magistrales y paneles de debate durante el GDS 2025_
+![Discurso de apertura de GDS](/images/gds-03.jpg) _Increíbles conferencias magistrales y paneles de debate durante el GDS 2025_
 
 ## Stands y Presentaciones
 
