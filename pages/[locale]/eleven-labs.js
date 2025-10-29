@@ -67,6 +67,7 @@ function ElevenLabsPage(props) {
         title={brand.cboard.name + ' | ' + t('partnership_page_title') + ' - ' + t('title_slogan')}
         locale={locale}
         page="eleven-labs"
+        image="https://www.cboard.io/images/voice-clone.png"
       />
       <CssBaseline />
       <MainContainer
