@@ -1,3 +1,5 @@
+# Cboard Help
+
 ## Table of contents
 
 - [What is Cboard?](#WhatisCboard)
@@ -16,8 +18,10 @@
   - [What devices and OS are supported?](#WhatdevicesandOSaresupported)
   - [Which languages are supported by Cboard?](#WhichlanguagesaresupportedbyCboard)
   - [Can Cboard read my message out aloud?](#CanCboardreadmymessageoutaloud)
+  - [How does Live Mode work?](#HowdoesLiveModeWork)
   - [Speech capabilities](#Speechcapabilities)
-  - [How does communication work in Cboard?](#CommunicationWorkflow)
+  - [Export and import](#Exportandimport)
+  - [Display capabilities](#Displaycapabilities)
   - [Can I change any navigation settings?](#CanIchangeanynavigationsettings)
   - [Navigation through the interface](#Navigationthroughtheinterface)
 - [Settings](#Settings) 
@@ -59,10 +63,6 @@
 
 Cboard is a free web application for children and adults with speech and language impairments, facilitating communication with pictures and text-to-speech.
 
-![Cboard Main Interface](/images/help/cboard-main-interface.png 'Cboard Main Interface')
-
-The main Cboard interface features a clean, accessible design with symbol tiles organized in categories. Users can click on symbols to build sentences in the communication output bar at the top of the screen. The interface supports both hierarchical navigation through categories and direct symbol selection for efficient communication.
-
 <div><iframe width="420" height="315" src="https://www.youtube.com/embed/pjoLEtiFf2A" frameborder="0" allowfullscreen></iframe></div>
 
 ## <a name='Registrationandlogin'></a>Registration and login
@@ -71,19 +71,17 @@ The main Cboard interface features a clean, accessible design with symbol tiles 
 
 To register for Cboard, begin by following the steps on the Welcome page where you will find a choice of logins.
 
-![Cboard website](/images/help/website.png 'Cboard website')
+![Cboard website](/images/help/website.png "Cboard website")
 
-![Welcome page](/images/help/welcome-page.png 'Welcome page')
-
-The modern Cboard welcome screen provides multiple login options including traditional email/password registration, as well as social media authentication through Google, Facebook, and Apple. Users can also skip registration and try the application immediately.
+![Welcome page](/images/help/welcome-page.png "Welcome page")
 
 If you are a new user, press SIGN UP, and a short form will pop up asking for basic information in order to create your account.
 
-![Cboard signup](/images/help/signup.png 'Cboard signup')
+![Cboard signup](/images/help/signup.png "Cboard signup")
 
 Once you have filled out this information, you will receive an e-mail shortly after with a link to follow in order to confirm your account.
 
-![Email signup](/images/help/signupemail.png 'Email signup')
+![Email signup](/images/help/signupemail.png "Email signup")
 
 This information is only held by the company to support use of Cboard and offer help when necessary. It is not shared with other organizations, (See [Privacy details](https://www.cboard.io/privacy/)).
 
@@ -91,35 +89,43 @@ Once you have verified your account you will have access to Cboard, and will rec
 
 ### <a name='CanIregistermyselfusingmysocialmediaaccounts'></a>Can I register myself using my social media accounts?
 
-Yes! On the login page, you will be given the option to sign up with your Google or Facebook account if you wish to do so. You can also register with an e-mail address.
+Yes! On the login page, you will be given the option to sign up with your Google, Facebook, or Apple account if you wish to do so. You can also register with an e-mail address.
 
 ### <a name='HowdoIlogintoCboardonceIamaregistereduser'></a>How do I log in to Cboard once I am a registered user?
 
 To log in to Cboard, you follow the first step used to sign up, but instead of selecting SIGN UP on the Welcome screen, select LOGIN. You will then be asked to provide the e-mail you initially signed up with, and the password you set up.
 
-![Cboard login](/images/help/login.png 'Cboard login')
+![Cboard login](/images/help/login.png "Cboard login")
 
 ### <a name='WhataredifferentoptionstoconfigureCboard'></a>What are the different options to configure Cboard?
 
-Once you login to Cboard, you can access different options to configure and develop the Communication Board provided when Cboard is in unlocked mode. See the list of all the key options below:
+Once you login to Cboard, you can access different options to configure and develop the Communication Board provided when Cboard is in unlocked mode. To unlock the interface, click the lock icon three times. This reveals additional controls including:
 
-![Cboard settings](/images/help/settings.png 'Cboard settings')
+**Print Board** - Export the current board as a PDF for offline use or printing.
 
-**Unlocking the Interface:** To access advanced features, click the lock icon three times. This reveals additional controls including:
+**Full Screen** - Enter fullscreen mode for a distraction-free communication experience.
 
-- **Print Board**: Export the current board as a PDF
-- **Full Screen**: Enter fullscreen mode for distraction-free communication
-- **Settings**: Access comprehensive configuration options
-- **Share**: Share boards via email, social media, or direct links
-- **Build**: Access the communicator builder for managing boards
-- **Edit**: Modify existing boards and add new symbols
-- **Boards**: Navigate between different communication boards
+**Settings** - Access comprehensive configuration options for language, speech, display, navigation, and more.
+
+**Share** - Share boards via email, social media, or direct links with other users.
+
+**Build** - Access the communicator builder for managing, organizing, copying, and publishing boards.
+
+**Edit** - Modify existing boards, add new symbols, customize tiles, and create folders.
+
+**Boards** - Navigate between different communication boards in your collection.
+
+**Add Tile** - Quickly add new communication symbols or create folders directly from the main interface.
+
+See the list of all the key options below:
+
+![Cboard settings](/images/help/settings.png "Cboard settings")
 
 ### <a name='HowdoIlogout'></a>How do I logout?
 
 You can log out by selecting the settings icon, and the option will appear in red. You can also select the lock symbol on the right corner, click three times and once you unlocked the screen and the red bar appears, select the icon to the left of the lock (your picture if you have one loaded) and the option to log out will appear in red.
 
-![Cboard logout](/images/help/logout.png 'Cboard logout')
+![Cboard logout](/images/help/logout.png "Cboard logout")
 
 ### <a name='Whatisthedifferencebetweenaregisteredandanon-registereduser'></a>What is the difference between a registered and a non-registered user?
 
@@ -175,7 +181,7 @@ The free version provides essential AAC functionality, while Pro subscriptions u
 
 Cboard is available online using a wide variety of devices, including desktops, tablets and mobile phones using Mac, Windows and Android operating systems. It is best viewed in browsers such as Chrome, Firefox, Edge and Safari and an Android app is available from Google Play.
 
-![Browser support](/images/help/browsers.png 'Browser support')
+![Browser support](/images/help/browsers.png "Browser support")
 
 Because Cboard is a web based app it will respond to the settings provided by the individual browsers. This may mean you have different results to the settings provided by Cboard. For example you may find different speech options being offered.
 
@@ -191,107 +197,157 @@ Cboard comes with support for 33 languages. To select a different language go to
 
 ### <a name='CanCboardreadmymessageoutaloud'></a>Can Cboard read my message out aloud?
 
-Yes, Cboard uses the synthetic speech output available on your device to read out individual labels found below each symbol as they are added to the message output box. You can select a complete message and it will also be read aloud. If a personalised recording of a sound, word or phrase has been added to a symbol (instructions under Talking – Voice Recordings) you will hear that recording instead of the synthesised voice. This can be very helpful where a translation is not available in a language, a child’s voice is needed or an accent is unacceptable. Please ensure web access has been given to your microphone.
+Yes, Cboard uses the synthetic speech output available on your device to read out individual labels found below each symbol as they are added to the message output box. You can select a complete message and it will also be read aloud. If a personalised recording of a sound, word or phrase has been added to a symbol (instructions under Talking – Voice Recordings) you will hear that recording instead of the synthesised voice. This can be very helpful where a translation is not available in a language, a child's voice is needed or an accent is unacceptable. Please ensure web access has been given to your microphone.
+
+### <a name='HowdoesLiveModeWork'></a>How does Live Mode work?
+
+Live Mode is an advanced feature designed for users who can type, providing a more direct way to communicate through Cboard. When enabled, Live Mode transforms the communication experience by allowing direct text input.
+
+**What is Live Mode?** Live Mode allows users to type text directly into the output bar instead of selecting symbols from boards. This feature is particularly useful for literate users who want faster communication or need to express complex thoughts that might not be easily represented through symbols alone.
+
+**How to Enable Live Mode:**
+
+1. Unlock the Cboard interface by clicking the lock icon three times
+2. Go to Settings (gear icon)
+3. Navigate to "Navigation and Buttons" under the System section
+4. Toggle on "Use the Live Mode"
+5. Save your settings
+
+**How Live Mode Works:**
+
+- **Direct Text Input**: Simply click in the output bar and type your message using your keyboard
+- **Instant Playback**: After typing, click the play button or press Enter to hear your text spoken aloud using the selected voice
+- **Symbol Integration**: You can still use symbols alongside typed text - they work together seamlessly
+- **Quick Communication**: Perfect for urgent messages, proper nouns, or specific terms not available in symbol sets
+
+**When to Use Live Mode:**
+
+- **Literate Users**: Ideal for users who can read and write but benefit from AAC support
+- **Complex Messages**: When you need to express detailed or nuanced thoughts
+- **Proper Nouns**: For names, places, or specific terms not in symbol libraries
+- **Temporary Communication Needs**: When symbols might be slower than typing
+- **Educational Settings**: Helpful for students learning to transition between symbols and text
+
+**Tips for Using Live Mode:**
+
+- Live Mode works best with users who have basic typing skills
+- You can switch between Live Mode and symbol selection as needed
+- The feature respects all your voice and speech settings
+- Text entered in Live Mode can be shared using the phrase sharing feature
+
+Live Mode represents Cboard's commitment to supporting users across different literacy levels and communication preferences, ensuring that everyone can communicate effectively regardless of their preferred method.
 
 ### <a name='Speechcapabilities'></a>Speech capabilities
 
-In order to adjust speech capabilities, go into SETTINGS, and under the LANGUAGE category is the SPEECH category. When you select SPEECH, you will be able to edit the pitch and pace of speech on Cboard.
+In order to adjust speech capabilities, go into SETTINGS, and under the LANGUAGE category is the SPEECH category. When you select SPEECH, you will be able to configure several voice options:
 
-![Speech capabilities](/images/help/speech.png 'Speech capabilities')
+**Voice Selection** - Choose from available voices on your device. The interface will display the currently selected voice (e.g., "Microsoft David - English (United States)").
 
-### <a name='CommunicationWorkflow'></a>How does communication work in Cboard?
+**Pitch Control** - Use the pitch slider to make the voice use a higher or lower pitch. This can help personalize the voice to better match the user's preferences.
 
-Cboard uses a hierarchical symbol-based communication system. Users navigate through categories to find appropriate symbols and build sentences in the output bar.
+**Rate Control** - Use the rate slider to make the voice speak faster or slower. This is particularly helpful for users who need more time to process speech or prefer quicker communication.
 
-**Basic Communication Steps:**
+These settings allow you to customize the text-to-speech output to match individual user needs and preferences. Changes take effect immediately when you adjust the sliders.
 
-1. Click on symbols to add them to the output bar at the top
-2. Navigate through categories (like "food", "emotions", "actions") to find specific symbols
-3. Build complete sentences by selecting multiple symbols in sequence
-4. Use the backspace button to remove the last symbol or clear button to start over
-5. Click on the completed sentence to have it read aloud using text-to-speech
+![Speech capabilities](/images/help/speech.png "Speech capabilities")
 
-**Navigation Features:**
+### <a name='Exportandimport'></a>Export and import
 
-- **Category Boards**: Major categories like food, activities, emotions each contain related symbols
-- **Back Navigation**: Easy return to previous boards or the main home screen
-- **Output Bar**: Shows selected symbols and provides playback controls
-- **Quick Access**: Common symbols like "yes", "no", and "quick chat" available on the main screen
+Both export and import options are available within SETTINGS in the SYSTEM category, below Language and Speech. These features allow you to backup your boards and share them with others.
+
+**Export Options:**
+
+- **OpenBoard Format (OBF)** - An open standard format for communication boards that can be used with other AAC applications
+- **PDF Export** - Creates a printable version of your boards for offline reference
+- **Cboard Native Format** - Preserves all Cboard-specific features and settings
+
+**Import Options:**
+
+- **Restore** - Upload previously exported Cboard files to restore your boards
+- **OpenBoard Import** - Import boards from other AAC applications that support the OpenBoard format
+- **File Selection** - Browse and select board files from your device
+
+**Symbol Library Management:** The SYMBOLS section in settings allows you to manage and configure symbol libraries, providing access to different symbol sets and customization options for your communication boards.
+
+**Note for Pro Users:** Certain export/import features may require a Pro subscription, including some advanced export formats and cloud synchronization options.
+
+![Export capabilities](/images/help/export.png "Export capabilities")
 
 ### <a name='Displaycapabilities'></a>Display capabilities
 
-Display settings can be edited in SETTINGS, within the SYSTEM category. The Display option is located below Export and Import under the System section. To access display settings:
+Display settings can be edited in SETTINGS, within the SYSTEM category. The Display option is right below Export and Import. Once you select DISPLAY, you can configure several visual aspects of Cboard:
 
-1. Unlock the interface by clicking the lock icon three times
-2. Click Settings (gear icon) in the top navigation bar
-3. Select "Display" from the System section
+**UI Size** - Change the overall size of interface elements by selecting Standard, Large, or Extra Large.
 
-![Display capabilities](/images/help/cboard-display-settings.png 'Display capabilities')
+**Font Family** - Choose from different font families to change the text font used throughout the application.
 
-**Available Display Options:**
+**Font Size** - Adjust the application font size with Standard, Large, or Extra Large options.
 
-- **UI Size**: Controls the overall size of interface elements
-  
-  - Standard (default)
-  - Large
-  - Extra Large
-- **Font Family**: Change the text font used throughout the application
-  
-  - Default: Montserrat
-  - Affects all text within the application interface
-- **Font Size**: Adjust the application font size
-  
-  - Standard (default)
-  - Large
-  - Extra Large
-- **Hide the output bar**: Toggle to hide the white communication bar at the top where sentences are built
-  
-  - Checkbox option
-  - When enabled, removes the sentence construction area from view
-- **Increase action button size**: Enlarge the action buttons on the output bar
-  
-  - Checkbox option
-  - Makes backspace, clear, and playback buttons larger for easier access
-- **Label Position**: Control the position of text labels on symbol tiles
-  
-  - Below (default) - Labels appear underneath symbols
-  - Above - Labels appear above symbols
-  - Hidden - Labels are not displayed on tiles
-- **Enable dark theme**: Switch to dark mode color scheme
-  
-  - Checkbox option
-  - Changes component colors, surface darkness, shadow levels, and ink element opacity
-  - Improves accessibility in low-light conditions
+**Hide the output bar** - Option to hide the white communication bar at the top where sentences are built.
 
-Remember to click "Save" after making changes to apply your display preferences.
+**Increase action button size** - Make the action buttons on the output bar (backspace, clear, play) larger for easier access.
 
-### <a name='WhatcanIchangeonthedisplay'></a>What can I change on the display?
+**Label Position** - Control how text labels appear on symbol tiles:
 
-As detailed above, you can change UI size, font family and size, output bar visibility and button size, label positioning, and theme settings through the Display section in Settings.
+- Below - Labels appear below the symbol (default)
+- Above - Labels appear above the symbol
+- Hidden - Labels are not displayed on tiles
 
-### <a name='CanIresizebuttonsonCboard'></a>Can I resize buttons on Cboard?
+**Enable dark theme** - Switch to dark mode color scheme which improves accessibility in low-light conditions and may be easier on the eyes.
 
-Yes! You can resize Tiles or Buttons in SETTINGS. In the category SYSTEM, select DISPLAY and you will be given 3 options for UI size: Standard, Large, Extra Large. You can also adjust the Font Size with the same three options.
+All changes take effect immediately, and you should click "Save" to preserve your preferences.
 
-### <a name='BigScrollButtons'></a>Screen scroll through big buttons
-
-It is also possible to scroll up and down a board using a couple of big buttons that can be added from the settings section. This is especially useful for eye-tracker device users, as the buttons allow to scroll the board without needing to slide the screen. To enable this feature, go to the settings section and look for the "enable big scroll buttons" switch. Toggle the switch and save the settings.
-
-![Enable big scroll buttons](/images/help/bigScrollSettings.png 'Big scroll buttons settings')
-
-Then, you should see a couple of big buttons at the top and the bottom of a board if it is large enough, as displayed in the below image:
-
-![Big scroll buttons](/images/help/bigScrollButtons.png 'Big scroll buttons')
+![Display capabilities](/images/help/display.png "Display capabilities")
 
 ### <a name='CanIchangeanynavigationsettings'></a>Can I change any navigation settings?
 
-Use the NAVIGATION section to edit and facilitate the way you use to move around Cboard and delete symbols in the message box. Navigation at the end of the SYSTEM Category in SETTINGS allows you to have a larger ‘back’ button that is easier to select. It is also possible to allow a delete (‘x’) button to appear above each symbol as they are presented within the message box. This can make it easier to delete symbols within a sentence. But be aware of user needs as it can also confuse some individuals.
+Use the NAVIGATION AND BUTTONS section to edit and facilitate the way you use to move around Cboard and delete symbols in the message box. Navigation at the end of the SYSTEM Category in SETTINGS allows you to configure several helpful options:
+
+**Enable context aware back button** - Shows big back buttons. You can select the desired style in navigation buttons style section.
+
+**Enable big scroll buttons** - Shows big scroll buttons for easier navigation, especially useful for eye-tracker device users as the buttons allow scrolling without needing to slide the screen.
+
+**Navigation buttons style** - Select the style of the context-aware back and big scroll buttons. "On the sides" is recommended for eye trackers.
+
+**Show the share phrase button** - Show a share button (next to backspace button) that allows sharing the selected symbols.
+
+**Remove symbols from the output bar** - Shows an "x" button on each symbol to remove it. This can make it easier to delete symbols within a sentence, but be aware of user needs as it can also confuse some individuals.
+
+**Enable quick settings unlock** - Unlocks the settings with a single click instead of requiring three clicks.
+
+**Enable folder vocalization** - Reads folder names out loud when clicked.
+
+**Enable Quiet Builder mode** - Disables vocalization of tiles when they are clicked as you build a sentence. Click output bar to hear the constructed sentence.
+
+**Use the Live Mode** - Live mode allows you to write text directly into the output bar and quickly play the sound. It is intended for users that can write.
+
+**Use the Improve Phrase** - Improve Phrase allows you to grammatically improve the output phrase using Artificial Intelligence. It is intended for users of core boards.
 
 ### <a name='Navigationthroughtheinterface'></a>Navigation through the interface
 
-In order to edit and facilitate navigating through Cboard, select NAVIGATION, the last menu item within SYSTEM (all in Settings) allows you to add certain details to make using the board easier. The first option within Navigation allows a larger ‘back’ button that is easier to select because of the size. The second adds an ‘x’ button to make it easier to delete symbols, and the third makes it easier to unlock by requiring only one click to unlock settings.
+In order to edit and facilitate navigating through Cboard, select NAVIGATION AND BUTTONS, the last menu item within SYSTEM (all in Settings) allows you to add certain details to make using the board easier:
 
-![Navigation  capabilities](/images/help/navigation.png 'Navigation capabilities')
+**Context-aware back button** - Allows a larger 'back' button that is easier to select because of the size.
+
+**Big scroll buttons** - Adds scroll buttons at the top and bottom of boards for easier navigation, especially useful for eye-tracker users.
+
+**Navigation button styles** - Choose between different styles for navigation buttons, with "on the sides" recommended for eye-tracking devices.
+
+**Share phrase button** - Adds a share button next to the backspace button for sharing constructed phrases.
+
+**Symbol removal** - Adds an 'x' button to make it easier to delete symbols from the output bar.
+
+**Quick unlock** - Makes it easier to unlock settings by requiring only one click instead of three.
+
+**Folder vocalization** - Enables reading folder names aloud when selected.
+
+**Quiet Builder mode** - Disables individual tile vocalization while building sentences.
+
+**Live Mode** - Allows direct text input into the output bar for users who can type.
+
+**AI Phrase Improvement** - Uses artificial intelligence to grammatically improve constructed phrases.
+
+![Navigation  capabilities](/images/help/navigation.png "Navigation capabilities")
 
 ## <a name='Settings'></a>Settings
 
@@ -309,7 +365,7 @@ To print your board, press the printer logo on the left hand side of the black H
 
 In order to see Cboard in fullscreen, unlock the screen by pressing the lock symbol on the right hand side, and then on the highest row (the black bar), the second symbol from the left that looks like a rectangle expands the screen.
 
-![fullscreen capabilities](/images/help/fullscreen.png 'Fullscreen')
+![fullscreen capabilities](/images/help/fullscreen.png "Fullscreen")
 
 ### <a name='HowdoIshareaboard'></a>How do I share a board?
 
@@ -379,7 +435,7 @@ Once you have named the folder you can upload an image in a similar manner to ma
 
 In order to personalize an existing board, select the LOCK on the top right hand corner of the bar above the board, (below the arrow with a cross). Once you have done this, another bar will appear below the black HOME bar, and you will find a small block (EDIT) icon on the left hand side to add a tile or cell. Once the block is selected, the grey bar should turn blue, and on the right hand side you will see a small trash can and a pencil.
 
-![personalize an existing board](/images/help/personalize.png 'personalize an existing board')
+![personalize an existing board](/images/help/personalize.png "personalize an existing board")
 
 In order to personalize the board, select the pencil and you will be able to change the label, upload an image, and add Vocalization.
 
@@ -415,7 +471,7 @@ By default, when a new board is created, Cboard will add a **fluent board**. Any
 
 To convert a board into a fixed board, simply edit the board and switch the option in the toolbar to make it fixed. Your board will change its appearance and the rows and columns indicators will be displayed.
 
-![Fixed board](/images/help/fixedBoard.png 'Fixed board')
+![Fixed board](/images/help/fixedBoard.png "Fixed board")
 
 ### <a name='FixedRows'></a>How do I set a specific number of rows and columns in my board?
 
@@ -423,7 +479,7 @@ First, you have to transform the board into a **fixed board** (see previous topi
 
 <div><iframe width="420" height="315" src="https://www.youtube.com/embed/XEAz85zrZ70" frameborder="0" allowfullscreen></iframe></div>
 
-## <a name='Exportandimport'></a>Export and import
+## <a name='Exportandimport-1'></a>Export and import
 
 ### <a name='HowdoIexportmyboardinCboard'></a>How do I export my board in Cboard?
 
@@ -452,23 +508,40 @@ Display settings can be edited in SETTINGS, within the SYSTEM category. The Disp
 
 Yes! You can resize Tiles or Buttons in SETTINGS. In the category SYSTEM, select DISPLAY and you will be given 3 options for size: Standard, Large, Extra Large. See figure below:
 
-![Display capabilities](/images/help/display.png 'Display capabilities')
+![Display capabilities](/images/help/display.png "Display capabilities")
 
 ### <a name='BigScrollButtons'></a>Screen scroll through big buttons
 
 It is also possible to scroll up and down a board using a couple of big buttons that can be added from the settings section. This is especially useful for eye-tracker device users, as the buttons allow to scroll the board without needing to slide the screen. To enable this feature, go to the settings section and look for the "enable big scroll buttons " switch. Toggle the switch and save the settings. See figure below:
 
-![Enable big scroll buttons](/images/help/bigScrollSettings.png 'Big scroll buttons settings')
+![Enable big scroll buttons](/images/help/bigScrollSettings.png "Big scroll buttons settings")
 
 Then, you should see a couple of big buttons at the top and the bottom of a board if it is large enough, as displayed in the below image:
 
-![Big scroll buttons](/images/help/bigScrollButtons.png 'Big scroll buttons')
+![Big scroll buttons](/images/help/bigScrollButtons.png "Big scroll buttons")
 
 ## <a name='Scanning'></a>Scanning
 
 ### <a name='CanIusescanningtechniquestoaccesssymbols'></a>Can I use scanning techniques to access symbols?
 
-Scanning is where the items in the selection set are presented sequentially over time and the user makes a selection indirectly, usually by switch access. SCANNING on Cboard works within SETTINGS and the SYSTEM category. There are different settings for scanning. You should first enable the scanning setting by selecting ENABLE. You can then choose the time delay, as well as the method (either automatic or manual). Please be aware that when using a tablet or smartphone, it may also have its own built-in scanning option.
+Scanning is where the items in the selection set are presented sequentially over time and the user makes a selection indirectly, usually by switch access. SCANNING on Cboard works within SETTINGS and the SYSTEM category. There are several scanning options available:
+
+**Enable Scanning** - Toggle to start scanning boards immediately when enabled.
+
+**Time Delay** - Configure the time between two consecutive scanning highlights. The default is 2 seconds, but you can adjust this based on user needs.
+
+**Scan Method** - Choose between different scanning methods:
+
+- Automatic - The scanner automatically moves through elements
+- Manual - User controls when the scanner moves to the next element
+
+**Usage Instructions:**
+
+- Scanner will iterate over elements, press any key to select them
+- Press Escape 4 times to deactivate Scanner
+- The scanning system highlights elements in sequence, allowing users with limited mobility to make selections using a single switch or key press
+
+Please be aware that when using a tablet or smartphone, it may also have its own built-in scanning option that can be used alongside or instead of Cboard's scanning features.
 
 ## <a name='CommunicatorBuilder'></a>Communicator builder
 
@@ -476,7 +549,7 @@ Scanning is where the items in the selection set are presented sequentially over
 
 The communicator builder is a feature that allows you to handle boards in order to copy, delete, publish, add and remove them. In order to access to the functionality you need to unlock settings and click on 'Build' buttton. You will see a new page structured on three different tabs: boards, public boards, all my boards. See figure below:
 
-![Communicator builder](/images/help/communicator.png 'Communicator builder')
+![Communicator builder](/images/help/communicator.png "Communicator builder")
 
 ### <a name='CommunicatorBoards'></a>Communicator boards
 
@@ -486,13 +559,13 @@ The default tab you will see in communicator builder is the communicator boards 
 
 - Set board as root: this buttton will define the board as the first board to be displayed every time you login to Cboard.
 
-![Communicator boards](/images/help/communicatorBoards.png 'Communicator boards')
+![Communicator boards](/images/help/communicatorBoards.png "Communicator boards")
 
 ### <a name='PublicBoards'></a>Public boards
 
 - Copy board: this buttton will create a copy of the board and it will add it into your communicator. As this is a copy of the public board, you can edit this board as you want without affecting the original public board.
 
-![Public boards](/images/help/PublicBoards.png 'Public boards')
+![Public boards](/images/help/PublicBoards.png "Public boards")
 
 ### <a name='Allmyboards'></a>All my boards
 
@@ -507,4 +580,4 @@ Please note that JUST registered users can access to this tab functionality.
 - Unpublish board: This action will make the board private and it won't be displayed under the public boards tab. Nobody can see your board.
 - Delete board: This action will delete the board and it cannot be recovered. The board will be removed from the database.
 
-![All my boards](/images/help/AllmyBoards.png 'All my boards')
+![All my boards](/images/help/AllmyBoards.png "All my boards")
