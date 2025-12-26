@@ -248,5 +248,9 @@
   "voice_cloning_popup_subtitle": "由 ElevenLabs 提供支持。",
   "voice_cloning_popup_description": "为有语言障碍的合格用户免费使用语音克隆。在分钟内应用并直接在棋盘中使用您的声音。",
   "voice_cloning_popup_apply": "立即应用",
-  "voice_cloning_popup_dismiss": "暂不"
+  "voice_cloning_popup_dismiss": "暂不",
+  "cbuilder_popup_title": "使用 Cbuilder 构建看板！",
+  "cbuilder_popup_description": "Cbuilder 是一个 AI驱动的版面生成器，可以让您快速轻松地创建个性化版面。探索平台，立即开始构建！",
+  "cbuilder_popup_apply": "转到生成器",
+  "cbuilder_popup_dismiss": "暂不"
 }

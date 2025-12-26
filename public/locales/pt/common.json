@@ -248,5 +248,9 @@
   "voice_cloning_popup_subtitle": "Desenvolvido por OnvenLabs.",
   "voice_cloning_popup_description": "Clonagem de voz gratuita para usuários qualificados com deficiências de voz. Aplique em minutos e use sua voz diretamente no quadro.",
   "voice_cloning_popup_apply": "Inscreva-se Agora",
-  "voice_cloning_popup_dismiss": "Agora não"
+  "voice_cloning_popup_dismiss": "Agora não",
+  "cbuilder_popup_title": "Construa Quadros com Cbuilder!",
+  "cbuilder_popup_description": "O Cbuilder é um construtor de placas com IU que permite que você crie placas personalizadas de forma rápida e fácil. Explore a plataforma e comece a construir hoje!",
+  "cbuilder_popup_apply": "Ir para o Cbuilder",
+  "cbuilder_popup_dismiss": "Agora não"
 }

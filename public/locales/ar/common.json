@@ -185,10 +185,10 @@
     "feature10": "قناة الدعم الخاصة",
     "feature11": "التسجيل الصوتي للبلاطات"
   },
-  "voice_cloning_title": "تطبيق الاستنساخ الصوتي",
-  "voice_cloning_subtitle": "تطبيق الوصول إلى الاستنساخ الصوتي لـ ElevenLabs",
-  "voice_cloning_success": "تم إرسال التطبيق بنجاح!",
-  "voice_cloning_error": "فشل التطبيق. الرجاء المحاولة مرة أخرى.",
+  "voice_cloning_title": "تطبيق استنساخ الصوت",
+  "voice_cloning_subtitle": "تقدم بطلب للحصول على الوصول إلى استنساخ الصوت ElevenLabs",
+  "voice_cloning_success": "تم تقديم الطلب بنجاح!",
+  "voice_cloning_error": "فشل التطبيق. يرجى المحاولة مرة أخرى.",
   "voice_cloning_personal_info": "المعلومات الشخصية",
   "voice_cloning_first_name": "الاسم الأول *",
   "voice_cloning_last_name": "اسم العائلة *",
@@ -201,7 +201,7 @@
   "voice_cloning_county": "البلد *",
   "voice_cloning_country": "البلد *",
   "voice_cloning_alt_contact": "معلومات الاتصال البديلة",
-  "voice_cloning_alt_contact_desc": "إذا كنت ترغب في تقديم تفاصيل عن الكلام واللغة، عضو العائلة أو شخص الدعم",
+  "voice_cloning_alt_contact_desc": "إذا كنت ترغب في تقديم تفاصيل عن معالج النطق واللغة أو أحد أفراد الأسرة أو الشخص الداعم",
   "voice_cloning_contact_name": "اسم شخص الاتصال",
   "voice_cloning_contact_email": "الاتصال بالبريد الإلكتروني",
   "voice_cloning_contact_phone": "هاتف جهة الاتصال",
@@ -248,5 +248,9 @@
   "voice_cloning_popup_subtitle": "مدعوم من ElevenLabs.",
   "voice_cloning_popup_description": "الاستنساخ الصوتي المجاني للمستخدمين المؤهلين الذين يعانون من ضعف الكلام. قم بتقديم طلب في الدقائق واستخدام صوتك مباشرة على الحافظة.",
   "voice_cloning_popup_apply": "تطبيق الآن",
-  "voice_cloning_popup_dismiss": "ليس الآن"
+  "voice_cloning_popup_dismiss": "ليس الآن",
+  "cbuilder_popup_title": "قم ببناء لوحات مع البني!",
+  "cbuilder_popup_description": "الباني هو وحدة بناء لوحة تعمل بالطاقة AI، التي تسمح لك بإنشاء لوحات شخصية بسرعة وسهولة. استكشف المنصة وابدأ البناء اليوم!",
+  "cbuilder_popup_apply": "اذهب للمنشئ",
+  "cbuilder_popup_dismiss": "ليس الآن"
 }

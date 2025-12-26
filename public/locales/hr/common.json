@@ -248,5 +248,9 @@
   "voice_cloning_popup_subtitle": "Pokreće ElevenLabs.",
   "voice_cloning_popup_description": "Besplatno kloniranje glasa za korisnike koji ispunjavaju uvjete s oštećenjem govora. Prijavite se za nekoliko minuta i koristite svoj glas izravno u Cboardu.",
   "voice_cloning_popup_apply": "Prijavite se odmah",
-  "voice_cloning_popup_dismiss": "Ne sad"
+  "voice_cloning_popup_dismiss": "Ne sad",
+  "cbuilder_popup_title": "Gradite ploče s Cbuilderom!",
+  "cbuilder_popup_description": "Cbuilder je AI-pokretan alat za izradu ploča koji vam omogućuje brzo i jednostavno kreiranje personaliziranih ploča. Istražite platformu i počnite graditi već danas!",
+  "cbuilder_popup_apply": "Go Cbuilder",
+  "cbuilder_popup_dismiss": "Ne sad"
 }

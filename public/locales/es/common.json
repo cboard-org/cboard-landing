@@ -248,5 +248,9 @@
   "voice_cloning_popup_subtitle": "Desarrollado por ElevenLabs.",
   "voice_cloning_popup_description": "Clonación de voz gratuita para usuarios elegibles con discapacidades del habla. Aplica en minutos y usa tu voz directamente en Cboard.",
   "voice_cloning_popup_apply": "Aplicar ahora",
-  "voice_cloning_popup_dismiss": "Ahora no"
+  "voice_cloning_popup_dismiss": "Ahora no",
+  "cbuilder_popup_title": "¡Construye tableros con Cbuilder!",
+  "cbuilder_popup_description": "Cbuilder es un creador de tableros impulsado por IA que te permite crear tableros personalizados de forma rápida y sencilla. ¡Explora la plataforma y empieza a construir hoy mismo!",
+  "cbuilder_popup_apply": "Ir a Cbuilder",
+  "cbuilder_popup_dismiss": "No ahora"
 }

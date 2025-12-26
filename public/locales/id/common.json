@@ -248,5 +248,9 @@
   "voice_cloning_popup_subtitle": "Didukung oleh ElevenLabs.",
   "voice_cloning_popup_description": "Kloning suara gratis untuk pengguna yang memenuhi syarat dengan gangguan bicara. Terapkan dalam hitungan menit dan gunakan suara Anda langsung di Cboard.",
   "voice_cloning_popup_apply": "Daftar Sekarang",
-  "voice_cloning_popup_dismiss": "Jangan sekarang"
+  "voice_cloning_popup_dismiss": "Jangan sekarang",
+  "cbuilder_popup_title": "Bangun Papan dengan Cbuilder!",
+  "cbuilder_popup_description": "Cbuilder adalah pembuat papan bertenaga AI yang memungkinkan Anda membuat papan yang dipersonalisasi dengan cepat dan mudah. Jelajahi platform dan mulailah membangun hari ini!",
+  "cbuilder_popup_apply": "Pergi Cbuilder",
+  "cbuilder_popup_dismiss": "Jangan sekarang"
 }
