@@ -248,5 +248,9 @@
   "voice_cloning_popup_subtitle": "Powered by ElevenLabs.",
   "voice_cloning_popup_description": "Free voice cloning for eligible users with speech impairments. Apply in minutes and use your voice directly in Cboard.",
   "voice_cloning_popup_apply": "Apply Now",
-  "voice_cloning_popup_dismiss": "Not now"
+  "voice_cloning_popup_dismiss": "Not now",
+  "cbuilder_popup_title": "Build Boards with Cbuilder!",
+  "cbuilder_popup_description": "Cbuilder is an AI-powered board builder that allows you to create personalized boards quickly and easily. Explore the platform and start building today!",
+  "cbuilder_popup_apply": "Go Cbuilder",
+  "cbuilder_popup_dismiss": "Not now"
 }

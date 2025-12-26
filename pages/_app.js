@@ -13,7 +13,7 @@ import { appWithTranslation } from 'next-i18next';
 import { GoogleAnalytics } from '@next/third-parties/google';
 import lngDetector from '../lib/languageDetector';
 import appTheme from '../theme/appTheme';
-import VoiceCloningPopup from '../components/VoiceCloningPopup';
+import CbuilderPopup from '../components/CbuilderPopup';
 /* import css vendors */
 import 'dandelion-animated-slider/build/horizontal.css';
 import 'animate.css/animate.css';
@@ -131,7 +131,7 @@ function MyApp(props) {
       </Head>
       <ThemeProvider theme={muiTheme}>
         <CssBaseline />
-        <VoiceCloningPopup />
+        <CbuilderPopup />
         <LoadingBar
           height={3}
           color={theme.palette.primary.main}
