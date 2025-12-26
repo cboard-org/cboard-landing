@@ -8,11 +8,11 @@ import Typography from '@mui/material/Typography';
 import { useTranslation } from 'next-i18next';
 import imgAPI from 'public/images/imgAPI';
 import { useText } from 'theme/common';
-import particleSpray from './particle-spray';
-import useStyles from './banner-style';
 import { motion } from 'framer-motion';
 import { Button } from '@mui/material';
 import { sendGAEvent } from '@next/third-parties/google';
+import useStyles from './banner-style';
+import particleSpray from './particle-spray';
 
 function Banner() {
   const { classes, cx } = useStyles();
@@ -59,34 +59,40 @@ function Banner() {
                   {t('banner_desc')}
                 </Typography>
                 <Button
-                  component={Link} href="https://app.cboard.io/"
-                  onClick={() => sendGAEvent('event', 'open_web_app', {'value': 'banner'})}
+                  component={Link}
+                  href="https://app.cboard.io/"
+                  onClick={() => sendGAEvent('event', 'open_web_app', { value: 'banner' })}
                   aria-label="cboard-app"
                   variant="contained"
                   className={classes.openCboard}
-                  size="large">
+                  size="large"
+                >
                   {t('cta_btn')}
                 </Button>
                 <div className={classes.btnArea}>
                   <Link
                     href="https://apps.apple.com/gb/app/aac-cboard-app/id6453683048"
-                    onClick={() => sendGAEvent('event', 'open_ios_store', {'value': 'banner'})}>
-                    <img src="/images/mobile/app-store.png" alt="app store" aria-label='apple app store' />
+                    onClick={() => sendGAEvent('event', 'open_ios_store', { value: 'banner' })}
+                  >
+                    <img src="/images/mobile/app-store.png" alt="app store" aria-label="apple app store" />
                   </Link>
                   <Link
                     href="https://play.google.com/store/apps/details?id=com.unicef.cboard"
-                    onClick={() => sendGAEvent('event', 'open_android_store', {'value': 'banner'})}>
-                    <img src="/images/mobile/play-store.png" alt="play store" aria-label='google play store' />
+                    onClick={() => sendGAEvent('event', 'open_android_store', { value: 'banner' })}
+                  >
+                    <img src="/images/mobile/play-store.png" alt="play store" aria-label="google play store" />
                   </Link>
                   <Link
                     href="https://apps.microsoft.com/store/detail/XP9M5KQV699FLR"
-                    onClick={() => sendGAEvent('event', 'open_microsoft_store', {'value': 'banner'})}>
-                    <img src="/images/mobile/ms-store.png" alt="microsoft store" aria-label='microsoft store' />
+                    onClick={() => sendGAEvent('event', 'open_microsoft_store', { value: 'banner' })}
+                  >
+                    <img src="/images/mobile/ms-store.png" alt="microsoft store" aria-label="microsoft store" />
                   </Link>
                   <Link
                     href="https://www.amazon.com/-/en/dp/B0BWGZBQ7V/ref=sr_1_2?crid=3KHHTU961DJKE&keywords=cboard&qid=1684203554&s=mobile-apps&sprefix=%2Cmobile-apps%2C245&sr=1-2"
-                    onClick={() => sendGAEvent('event', 'open_amazon_store', {'value': 'banner'})}>
-                    <img src="/images/mobile/amazon-store.png" alt="amazon store" aria-label='amazon store' />
+                    onClick={() => sendGAEvent('event', 'open_amazon_store', { value: 'banner' })}
+                  >
+                    <img src="/images/mobile/amazon-store.png" alt="amazon store" aria-label="amazon store" />
                   </Link>
                 </div>
               </div>
@@ -102,19 +108,22 @@ function Banner() {
                         className={cx(classes.widgetTop, 'fragment-fadeUp')}
                         alt="illustration"
                         animate={{ scale: 1.2 }}
-                        transition={{ duration: 2 }} />
+                        transition={{ duration: 2 }}
+                      />
                       <motion.img
                         src={imgAPI.mobile[2]}
                         className={cx(classes.widgetLeft, 'fragment-fadeUp')}
                         alt="illustration"
                         animate={{ scale: 1.2 }}
-                        transition={{ duration: 2 }} />
+                        transition={{ duration: 2 }}
+                      />
                       <motion.img
                         src={imgAPI.mobile[3]}
                         className={cx(classes.widgetRight, 'fragment-fadeUp')}
                         alt="illustration"
                         animate={{ scale: 1.2 }}
-                        transition={{ duration: 2 }} />
+                        transition={{ duration: 2 }}
+                      />
                     </Fragment>
                   )}
                 </div>
