@@ -64,7 +64,7 @@ function cbuilderPage(props) {
   return (
     <Fragment>
       <HTMLHead
-        title={brand.cboard.name + ' | ' + t('cbuilder_page_title') + ' - ' + t('title_slogan')}
+        title={brand.cboard.name + ' | Cbuilder - ' + t('cbuilder_subtitle')}
         locale={locale}
         page="cbuilder"
         image="https://www.cboard.io/images/cbuilder/core-board.png"
