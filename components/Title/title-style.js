@@ -14,7 +14,7 @@ const titleStyles = makeStyles({ uniqId: 'title' })((theme, _params, classes) =>
   title: {
     display: 'block',
     position: 'relative',
-    marginBottom: theme.spacing(10),
+    marginBottom: theme.spacing(8),
     [theme.breakpoints.down('sm')]: {
       padding: theme.spacing(0, 3)
     },
