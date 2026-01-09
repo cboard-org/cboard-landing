@@ -17,7 +17,6 @@ import logo from 'public/images/cboard-logo.svg';
 import useStyles from './footer-style';
 import SelectLang from '../LangSwitch/Select';
 
-
 function Copyright() {
   return (
     <Typography variant="body2" display="block" align="center" color="textSecondary">
@@ -43,8 +42,8 @@ function Footer(props) {
     },
     {
       title: t('footer_resources'),
-      description: [t('title_help'), t('title_faq'), t('title_blog'), t('title_pricing')],
-      link: ['/help', '#resource-name', '/blog', '/pricing'],
+      description: ['Cbuilder', t('title_help'), t('title_faq'), t('title_blog'), t('title_pricing')],
+      link: ['/cbuilder', '/help', '#resource-name', '/blog', '/pricing'],
     },
     {
       title: t('footer_legal'),
@@ -129,45 +128,55 @@ function Footer(props) {
         <Grid item xs={12} md={3}>
           <div className={classes.socmed}>
             <IconButton
-              component={Link} href="https://www.facebook.com/cboardAAC"
+              component={Link}
+              href="https://www.facebook.com/cboardAAC"
               aria-label="facebook"
               className={classes.margin}
-              size="small">
+              size="small"
+            >
               <i className="ion-logo-facebook" />
             </IconButton>
             <IconButton
-              component={Link} href="https://www.instagram.com/cboardapp/"
+              component={Link}
+              href="https://www.instagram.com/cboardapp/"
               aria-label="instagram"
               className={classes.margin}
-              size="small">
+              size="small"
+            >
               <i className="ion-logo-instagram" />
             </IconButton>
             <IconButton
-              component={Link} href="https://www.linkedin.com/company/cboard/"
+              component={Link}
+              href="https://www.linkedin.com/company/cboard/"
               aria-label="linkedin"
               className={classes.margin}
-              size="small">
+              size="small"
+            >
               <i className="ion-logo-linkedin" />
             </IconButton>
             <IconButton
-              component={Link} href="https://www.youtube.com/channel/UCIdXJsQko7DVK-yApMQyV_Q"
+              component={Link}
+              href="https://www.youtube.com/channel/UCIdXJsQko7DVK-yApMQyV_Q"
               aria-label="youtube"
               className={classes.margin}
-              size="small">
+              size="small"
+            >
               <i className="ion-logo-youtube" />
             </IconButton>
             <IconButton
-              component={Link} href="https://x.com/cboard_io"
+              component={Link}
+              href="https://x.com/cboard_io"
               aria-label="x"
               className={classes.margin}
-              size="small">
+              size="small"
+            >
               <i className="ion-logo-twitter" />
             </IconButton>
           </div>
           <SelectLang toggleDir={toggleDir} />
         </Grid>
       </Grid>
-    </Container >
+    </Container>
   );
 }
 
