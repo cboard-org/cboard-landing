@@ -4,8 +4,8 @@ import Typography from '@mui/material/Typography';
 import Grid from '@mui/material/Grid2';
 import { Avatar } from '@mui/material';
 
-import useStyles from './blogPostFooter-style';
 import { useTranslation } from 'react-i18next';
+import useStyles from './blogPostFooter-style';
 
 export default function BlogPostFooter(props) {
   const { classes } = useStyles();
@@ -18,17 +18,24 @@ export default function BlogPostFooter(props) {
         container
         direction="row"
         sx={{
-          justifyContent: "center",
-          alignItems: "top",
+          justifyContent: 'center',
+          alignItems: 'top',
         }}
-        spacing={8}>
+        spacing={8}
+      >
         <Grid item>
-          <Typography variant="h6">{t('author')}:</Typography>
+          <Typography variant="h6">
+            {t('author')}
+            :
+          </Typography>
         </Grid>
-        <Grid item container
-          direction={"column"}
+        <Grid
+          item
+          container
+          direction="column"
           spacing={0}
-          alignItems={"center"}>
+          alignItems="center"
+        >
           <Grid item>
             <Avatar
               alt={post.author_staff_member}

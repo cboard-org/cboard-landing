@@ -1,3 +1,4 @@
+/* eslint-disable react/jsx-no-useless-fragment */
 import React, { Fragment } from 'react';
 import PropTypes from 'prop-types';
 import { notFound } from 'next/navigation';
@@ -122,8 +123,14 @@ function Post(props) {
 
 Post.propTypes = {
   post: PropTypes.object.isRequired,
+  locale: PropTypes.string.isRequired,
   onToggleDark: PropTypes.func,
   onToggleDir: PropTypes.func,
+};
+
+Post.defaultProps = {
+  onToggleDark: undefined,
+  onToggleDir: undefined,
 };
 
 export const getStaticPaths = () => {
