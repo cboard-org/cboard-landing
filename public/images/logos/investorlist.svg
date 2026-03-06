@@ -1,0 +1,5 @@
+<svg width="400" height="200" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="200" fill="#ffffff"/>
+  <text x="200" y="90" font-family="Arial, sans-serif" font-size="42" font-weight="bold" fill="#0a66c2" text-anchor="middle" dominant-baseline="middle">Investorlist</text>
+  <text x="200" y="130" font-family="Arial, sans-serif" font-size="32" fill="#0a66c2" text-anchor="middle" dominant-baseline="middle">.com</text>
+</svg>

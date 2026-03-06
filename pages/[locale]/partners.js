@@ -9,11 +9,11 @@ import brand from 'public/text/brand';
 import MainContainer from 'components/MainContainer';
 import PageNav from 'components/PageNav';
 import Notification from 'components/Notification';
-import Locations from 'components/Locations';
+import Partners from 'components/Partners';
 import HTMLHead from 'components/HTMLHead';
 
 const sectionMargin = margin => (margin * 20);
-const useStyles = makeStyles({ uniqId: 'home' })(theme => ({
+const useStyles = makeStyles({ uniqId: 'partners' })(theme => ({
   mainWrap: {
     position: 'relative',
     width: '100%',
@@ -58,7 +58,7 @@ const useStyles = makeStyles({ uniqId: 'home' })(theme => ({
   }
 }));
 
-function LocationsPage(props) {
+function PartnersPage(props) {
   const { classes } = useStyles();
   const { onToggleDark, onToggleDir, locale } = props;
   const isTablet = useMediaQuery(theme => theme.breakpoints.down('lg'));
@@ -67,9 +67,9 @@ function LocationsPage(props) {
   return (
     <Fragment>
       <HTMLHead
-        title={brand.cboard.name + ' | ' + t('title_locations') + ' - ' + t('title_slogan')}
+        title={brand.cboard.name + ' | ' + t('title_partners') + ' - ' + t('title_slogan')}
         locale={locale}
-        page="locations"
+        page="partners"
       />
       <CssBaseline />
       <MainContainer
@@ -79,8 +79,8 @@ function LocationsPage(props) {
       >
         <Fragment>
           <main className={classes.containerWrap}>
-            <section id="locations">
-              <Locations />
+            <section id="partners">
+              <Partners />
             </section>
           </main>
           {!isTablet && (
@@ -95,12 +95,13 @@ function LocationsPage(props) {
   );
 }
 
-LocationsPage.propTypes = {
+PartnersPage.propTypes = {
   onToggleDark: PropTypes.func.isRequired,
   onToggleDir: PropTypes.func.isRequired,
+  locale: PropTypes.string.isRequired,
 };
 
 const getStaticProps = makeStaticProps(['common']);
 export { getStaticPaths, getStaticProps };
 
-export default LocationsPage;
+export default PartnersPage;
