@@ -34,7 +34,7 @@ const partners = [
   {
     name: 'Learning Cabinet',
     url: 'https://www.learningcabinet.com',
-    logo: '/images/logos/learning-cabinet-logo.png',
+    logo: '/images/logos/Learning-cabinet-logo.png',
   },
   {
     name: 'GES Awards',
