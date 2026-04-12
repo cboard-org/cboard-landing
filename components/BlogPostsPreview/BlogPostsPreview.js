@@ -61,10 +61,11 @@ export default function BlogPostsPreview(props) {
                           onPageChange={onPageChange}
                         />
                     )}
-
+                    <section id="announcements">
                     <Grid container spacing={5} className={classes.mainGrid}>
                         <BlogMain title="Announcements" announcements={announcements} />
                     </Grid>
+                    </section>
                 </div>
             </Container>
         </React.Fragment>
