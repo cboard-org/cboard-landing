@@ -9,7 +9,7 @@ import { useTheme } from '@mui/material/styles';
 import AnchorLink from 'react-anchor-link-smooth-scroll';
 import { useTranslation } from 'next-i18next';
 import Scrollspy from 'react-scrollspy';
-import logo from 'public/images/cboard-logo.svg';
+import logo from 'public/images/cboard-logo-belgrano.png';
 import linkRouter from 'public/text/link';
 import Link from '../Link';
 import Settings from './Settings';
